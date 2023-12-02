@@ -1,6 +1,6 @@
 # sapiensshaon.github.io
 
-<!DOCTYPE html>
+
 <html class='ltr' dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
 <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' name='viewport'/>
@@ -3885,9 +3885,6 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
               var disqusShortname = "soratemplates";
             
 
-              var commentsSystem = "blogger";
-            
-
               var fixedSidebar = true;
             
 
@@ -4186,7 +4183,7 @@ There was an error processing the markup.
 <svg class='svg-icon-24'>
 <use xlink:href='/responsive/sprite_v1_6.css.svg#ic_post_blogger_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
 </svg>
-Powered by Blogger
+Pow 
 </a>
 </div>
 </div>
