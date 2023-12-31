@@ -1,4510 +1,807 @@
 
-
-
-<html class='ltr' dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' name='viewport'/>
-<title>Sapiens Shaon</title>
-<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
-<!-- Chrome, Firefox OS and Opera -->
-<meta content='#f8f8f8' name='theme-color'/>
-<!-- Windows Phone -->
-<meta content='#f8f8f8' name='msapplication-navbutton-color'/>
-<meta content='blogger' name='generator'/>
-<link href='https://sapiensshaon.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
-<link href='https://sapiensshaon.blogspot.com/' rel='canonical'/>
-<link rel="alternate" type="application/atom+xml" title="Sapiens Shaon - Atom" href="https://sapiensshaon.blogspot.com/feeds/posts/default" />
-<link rel="alternate" type="application/rss+xml" title="Sapiens Shaon - RSS" href="https://sapiensshaon.blogspot.com/feeds/posts/default?alt=rss" />
-<link rel="service.post" type="application/atom+xml" title="Sapiens Shaon - Atom" href="https://www.blogger.com/feeds/3184045490204690839/posts/default" />
-<link rel="me" href="https://www.blogger.com/profile/18052574788818552359" />
-<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
-<meta content='sapiensshaon, sapiens, science, technology, IT, Biology, evolution, evolutionary biology, theory, thesis, research, writings, blog, documentary, AI' name='description'/>
-<meta content='https://sapiensshaon.blogspot.com/' property='og:url'/>
-<meta content='Sapiens Shaon' property='og:title'/>
-<meta content='sapiensshaon, sapiens, science, technology, IT, Biology, evolution, evolutionary biology, theory, thesis, research, writings, blog, documentary, AI' property='og:description'/>
-<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc7VAV2MC-x8mlxZAF8pZFNlED610Y4fwEvoSgvysLy0sUjdla38kfLbxl252_sTbS7Ii8EWx_17883N8WjAI5T6OoFJGQeP-a6uKTsJ0bmLAETaHlXwoXADAtvVMA6gB4V76u63xVGL0-I76ZZApwKJDo5x_XUD8TeIVn32CoEsCf_iWRW-UW6CO26rM/w1200-h630-p-k-no-nu/Humanity,%20Humanity%20above%20everything.jpg' property='og:image'/>
-<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjntkehTugmq0knfjTI0f-pUKY3chhqtGZE46NKWZgMhKnwHpcogYBufsmbnKr-cMjBD9xjvMayNv0cte7Ga-QulllMQmM8zVj9uGwM21j06arxvP4oDgFEc52ML-B8pmVEbGlMEbh_Me-sYzhhi1xBO9f2er-uQhsZsSjJGdkYBkwWkUlCi3X4YJou64s/w1200-h630-p-k-no-nu/20231130_210905.jpg' property='og:image'/>
-<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7z3b0q0fVXqidWo8_MgkY95KQ5Xjw-L6gKx6e6oRvvjouWzvHNkOAnQwJxBmIitzM98TrbRUbKXLVEy8Q8_Xdgq7UhlIgMJeOMDrO_a-skBVA1upCngnAW2FnHO428C0hp4MGGnsAJhRyY8smdBGeTm5V1V3Byjf5cGTZkRceQ-cqQuUSw_c80FZeo/w1200-h630-p-k-no-nu/Resources.jpg' property='og:image'/>
-<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLiNnrX_XwmWMLVgArhjdBMRy1cPd9iJHsqhfwtxiyZCWwvELQGgG1qOIi0luqSxEhBfC42OGZK4q2RvzJmLviVWDrhKXK1X3kuqI6EOoBdwojxjza2X7qr47lkN8KWN5xXKuEFiScduEIYpfGiPTEdOw0QRcdrb86dzKrxjyWgLAFmEV-SDN51nnVnr0/w1200-h630-p-k-no-nu/Incest,%20a%20Curse.jpg' property='og:image'/>
-<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7JaU3cDaaTOStOJpBtflY26FCtI2zpicSxi48OzlZyTrPf6YC8Xgp8w_V7ajppWt97OT6aWRPGoIlr8nohqxccX5UviSw4KsQ1CKVUrXeC005IKmXN_XjZnYZ6S-HvcnSTqQSuEGpfBSUaiAJp1Rz_4AVtivdEvg4mM0kRqsmcFQglbs5PI_qJQbd6p0/w1200-h630-p-k-no-nu/20231126_222214.jpg' property='og:image'/>
-<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWGCHh9hy7A3w9nprJpI9hyL93UYcpd7mW84_DGtnxQTSHKMGOXMbs-ElBzTnNzhghSt6k7PynyEo9eGGHdUpO8J3-6lSMEC_hUmlhyphenhyphenkw2dOVMQNjawjGod_C6vMtvmXAD7M0HagIHSkI7_-bHKsQnHD41eILhohRnE4IWbyqSqkzheYuhuOSDdGxyikA/w1200-h630-p-k-no-nu/Thoughts.jpg' property='og:image'/>
-<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjKTgGjGbWPS5bEoL7DJHsRaPvmRGyag8bFlxmqn3c7xfnNZhxeLzZQi3MDdXamEq0bQdUqmF6NXQKk-jCLDZD5NUG67qXmz5jymlUzDCtFQy6FDnQ1uP1AHmRBh7LmU-jpQ1ubQ8DeKkCPLw5cYnpq_d52Zdc7hXx12xfK1OUgzt3671jbRKww2QSHw/w1200-h630-p-k-no-nu/AI,%20Artificial%20Intelligence.jpg' property='og:image'/>
-<script type='application/ld+json'>{"@context":"http://schema.org","@type":"WebSite","name":"Sapiens Shaon","url":"https://sapiensshaon.blogspot.com/","potentialAction":{"@type":"SearchAction","target":"https://sapiensshaon.blogspot.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<!-- Google Fonts -->
-<link href='https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@400;500;600;700&display=swap' rel='stylesheet'/>
-<link href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
-<!-- Template Style CSS -->
-<style id='page-skin-1' type='text/css'><!--
-/*
------------------------------------------------
-Blogger Template Style
-Name:        Sunshine
-License:     Free Version
-Version:     1.0
-Author:      Way2Themes
-Author Url:  https://www.way2themes.com/
------------------------------------------------ */
-/*-- Reset CSS --*/
-a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,object,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,u,ul,var{
-padding:0;
-border:0;
-outline:0;
-vertical-align:baseline;
-background:0 0;
-text-decoration:none
-}
-#google_translate_element { clear: both; }.thread-expanded .thread-count a { display: none; }.comments .continue { display: none!important; }
-form,textarea,input,button{
--webkit-appearance:none;
--moz-appearance:none;
-appearance:none;
-border-radius:0
-}
-dl,ul{
-list-style-position:inside;
-font-weight:400;
-list-style:none
-}
-ul li{
-list-style:none
-}
-caption,th{
-text-align:center
-}
-img{
-border:none;
-position:relative
-}
-a,a:visited{
-text-decoration:none
-}
-.clearfix{
-clear:both
-}
-.section,.widget,.widget ul{
-margin:0;
-padding:0
-}
-a{
-color:#D52C1F
-}
-.post-body a:visited {
-color:blue;
-}
-a img{
-border:0
-}
-abbr{
-text-decoration:none
-}
-.CSS_LIGHTBOX{
-z-index:999999!important
-}
-.CSS_LIGHTBOX{z-index:999999!important}.CSS_LIGHTBOX_ATTRIBUTION_INDEX_CONTAINER .CSS_HCONT_CHILDREN_HOLDER > .CSS_LAYOUT_COMPONENT.CSS_HCONT_CHILD:first-child > .CSS_LAYOUT_COMPONENT{opacity:0}
-.separator a{
-clear:none!important;
-float:none!important;
-margin-left:0!important;
-margin-right:0!important
-}
-#navbar-iframe,.widget-item-control,a.quickedit,.home-link,.feed-links{
-display:none!important
-}
-.center{
-display:table;
-margin:0 auto;
-position:relative
-}
-.widget > h2,.widget > h3{
-display:none
-}
-/*-- Body Content CSS --*/
-body{
-background:#f8f8f8 url() repeat fixed top left;
-background-color:#f8f8f8;
-font-family:'Karla',sans-serif;
-font-size:14px;
-font-weight:400;
-color:#333333;
-word-wrap:break-word;
-margin:0;
-padding:0
-}
-#outer-wrapper{
-margin:0 auto;
-background-color:#fff;
-box-shadow:0 0 5px rgba(0,0,0,.1)
-}
-.row{
-width:1270px
-}
-#content-wrapper{
-margin:30px auto 0;
-overflow:hidden
-}
-#content-wrapper > .container{
-margin:0 -15px
-}
-#main-wrapper{
-float:left;
-overflow:hidden;
-width:66.66666667%;
-box-sizing:border-box;
-word-wrap:break-word;
-padding:0 15px;
-margin:0
-}
-#sidebar-wrapper{
-float:right;
-overflow:hidden;
-width:33.33333333%;
-box-sizing:border-box;
-word-wrap:break-word;
-padding:0 15px
-}
-.head-ads {
-display: block;
-background: #edcbaf;
-}
-.heade-ads h2 {
-display: none;
-}
-.head-ads .widget {
-width: 100%;
-height: auto;
-padding: 0px 0 0px;
-margin: 0 auto;
-text-align: center;
-line-height: 0px;
-}
-.post-image-wrap{
-position:relative;
-display:block
-}
-.post-image-link,.about-author .avatar-container,.comments .avatar-image-container{
-background-color:rgba(155,155,155,0.07);
-color:transparent!important
-}
-.post-thumb{
-display:block;
-position:relative;
-width:100%;
-height:100%;
-object-fit:cover;
-object-position: center;
-z-index:1;
-opacity: 0;
-transition:opacity .17s ease,transform .17s ease
-}
-.post-thumb.lazy-yard {
-opacity: 1;
-}
-.post-image-link:hover .post-thumb,.post-image-wrap:hover .post-image-link .post-thumb,.hot-item-inner:hover .post-image-link .post-thumb{
-opacity:.9
-}
-.post-title, #grid-wrapper .widget-title > h3{
-font-family: 'Playfair Display', serif;
-}
-.post-title a{
-display:block
-}
-#top-bar{
-width:100%;
-height:34px;
-background-color:#131313;
-overflow:hidden;
-margin:0;
-position:relative;
-}
-#top-bar .container{
-margin:0 auto;
-position: relative;
-}
-.top-bar-nav{
-position:relative;
-float:left;
-display:block;
-z-index:1;
-}
-.top-bar-nav .widget > .widget-title{
-display:none
-}
-.top-bar-nav ul li{
-float:left
-}
-.top-bar-nav ul li > a{
-height:34px;
-display:block;
-color:#ffffff;
-font-size:12px;
-font-weight:400;
-line-height:34px;
-margin:0 10px 0 0;
-padding:0 5px;
-transition:color .17s
-}
-.top-bar-nav ul li:first-child > a{
-padding:0 5px 0 0
-}
-.top-bar-nav ul > li:hover > a{
-color:#D52C1F
-}
-.top-bar-social{
-position:relative;
-float:right;
-display:block
-}
-.top-bar-social .widget > .widget-title{
-display:none
-}
-.top-bar-social ul > li{
-float:left;
-display:inline-block
-}
-.top-bar-social ul > li > a{
-width: 25px;
-display: block;
-color: #ffffff;
-text-decoration: none;
-font-size: 14px;
-text-align: center;
-line-height: 25px;
-padding: 0;
-border-radius: 25px;
-margin: 4px 0 0 10px;
-transition: color .17s;
-}
-.top-bar-social ul > li:last-child > a{
-}
-.top-bar-social ul > li:hover > a{
-color:#D52C1F
-}
-.social a:before{
-display:inline-block;
-font-family:FontAwesome;
-font-style:normal;
-font-weight:400
-}
-.social .blogger a:before{
-content:"\f37d"
-}
-.social .facebook a:before{
-content:"\f09a"
-}
-.social .twitter a:before{
-content:"\f099"
-}
-.social .gplus a:before{
-content:"\f0d5"
-}
-.social .rss a:before{
-content:"\f09e"
-}
-.social .youtube a:before{
-content:"\f167"
-}
-.social .skype a:before{
-content:"\f17e"
-}
-.social .stumbleupon a:before{
-content:"\f1a4"
-}
-.social .tumblr a:before{
-content:"\f173"
-}
-.social .vk a:before{
-content:"\f189"
-}
-.social .stack-overflow a:before{
-content:"\f16c"
-}
-.social .github a:before{
-content:"\f09b"
-}
-.social .linkedin a:before{
-content:"\f0e1"
-}
-.social .dribbble a:before{
-content:"\f17d"
-}
-.social .soundcloud a:before{
-content:"\f1be"
-}
-.social .behance a:before{
-content:"\f1b4"
-}
-.social .digg a:before{
-content:"\f1a6"
-}
-.social .instagram a:before{
-content:"\f16d"
-}
-.social .pinterest a:before{
-content:"\f0d2"
-}
-.social .twitch a:before{
-content:"\f1e8"
-}
-.social .delicious a:before{
-content:"\f1a5"
-}
-.social .codepen a:before{
-content:"\f1cb"
-}
-.social .reddit a:before{
-content:"\f1a1"
-}
-.social .whatsapp a:before{
-content:"\f232"
-}
-.social .snapchat a:before{
-content:"\f2ac"
-}
-.social .email a:before{
-content:"\f0e0"
-}
-.social .external-link a:before{
-content:"\f35d"
-}
-.social-color .blogger a{
-background-color:#ff5722
-}
-.social-color .facebook a{
-background-color:#3b5999
-}
-.social-color .twitter a{
-background-color:#00acee
-}
-.social-color .gplus a{
-background-color:#db4a39
-}
-.social-color .youtube a{
-background-color:#f50000
-}
-.social-color .instagram a{
-background:linear-gradient(15deg,#ffb13d,#dd277b,#4d5ed4)
-}
-.social-color .pinterest a{
-background-color:#ca2127
-}
-.social-color .dribbble a{
-background-color:#ea4c89
-}
-.social-color .linkedin a{
-background-color:#0077b5
-}
-.social-color .tumblr a{
-background-color:#365069
-}
-.social-color .twitch a{
-background-color:#6441a5
-}
-.social-color .rss a{
-background-color:#ffc200
-}
-.social-color .skype a{
-background-color:#00aff0
-}
-.social-color .stumbleupon a{
-background-color:#eb4823
-}
-.social-color .vk a{
-background-color:#4a76a8
-}
-.social-color .stack-overflow a{
-background-color:#f48024
-}
-.social-color .github a{
-background-color:#24292e
-}
-.social-color .soundcloud a{
-background:linear-gradient(#ff7400,#ff3400)
-}
-.social-color .behance a{
-background-color:#191919
-}
-.social-color .digg a{
-background-color:#1b1a19
-}
-.social-color .delicious a{
-background-color:#0076e8
-}
-.social-color .codepen a{
-background-color:#000
-}
-.social-color .reddit a{
-background-color:#ff4500
-}
-.social-color .whatsapp a{
-background-color:#3fbb50
-}
-.social-color .snapchat a{
-background-color:#ffe700
-}
-.social-color .email a{
-background-color:#888
-}
-.social-color .external-link a{
-background-color:#202020
-}
-#header-wrap{
-position:relative;
-margin:0
-}
-.header-header{
-background-color:#fff;
-width:100%;
-position:relative;
-overflow:hidden;
-padding:25px 0;
-text-align:center;
-}
-.header-header .container{
-position:relative;
-margin:0 auto;
-padding:0
-}
-.header-logo{
-position:relative;
-width:auto;
-text-align:center;
-display: inline-block;
-max-height:150px;
-margin:0;
-padding:15px 0
-}
-.header-logo .header-image-wrapper{
-display:block
-}
-.header-logo img{
-max-width:100%;
-max-height:150px;
-margin:0
-}
-.header-logo h1{
-color:#5100ff;
-font-size:20px;
-line-height:1.4em;
-margin:0
-}
-.header-logo p{
-font-size:12px;
-margin:5px 0 0
-}
-.header-menu{
-position:relative;
-width:100%;
-height:60px;
-z-index:10;
-font-size:13px;
-margin:0
-}
-.header-menu .container{
-background-color:#00b7ff;
-border-style: solid;
-border-width: 2px 0 2px 0;
-border-color: #202020;
-box-sizing: border-box;
-position:relative;
-margin:0 auto;
-padding:0
-}
-#main-menu .widget,#main-menu .widget > .widget-title{
-display:none
-}
-#main-menu .show-menu{
-display:block
-}
-#main-menu{
-position:relative;
-height:60px;
-z-index:15
-}
-#main-menu ul > li{
-float:left;
-position:relative;
-margin:0;
-padding:0;
-transition:background .17s
-}
-#main-menu ul > li > a{
-position:relative;
-color:#ffffff;
-font-size:16px;
-font-weight:700;
-line-height:60px;
-display:inline-block;
-margin:0;
-padding:0 13px;
-transition:color .17s ease
-}
-#main-menu ul#main-menu-nav > li:first-child > a{
-}
-#main-menu ul#main-menu-nav > li > a{
-text-transform:capitalize
-}
-#main-menu ul > li:hover > a{
-color:#D52C1F
-}
-#main-menu ul > li > ul{
-position:absolute;
-float:left;
-left:0;
-top:60px;
-width:180px;
-background-color:#202020;
-z-index:99999;
-margin-top:0;
-padding:0;
-border-bottom:2px solid #00b7ff;
-box-shadow:0 3px 5px rgba(0,0,0,0.2);
-visibility:hidden;
-opacity:0
-}
-#main-menu ul > li > ul > li > ul{
-position:absolute;
-float:left;
-top:0;
-left:100%;
-margin:0
-}
-#main-menu ul > li > ul > li{
-display:block;
-float:none;
-position:relative;
-transition:all .17s ease
-}
-#main-menu ul > li > ul > li a{
-display:block;
-height:36px;
-font-size:13px;
-color:#ffffff;
-font-weight:400;
-line-height:36px;
-box-sizing:border-box;
-margin:0;
-padding:0 15px;
-border-bottom:1px dashed rgba(255,255,255,0.15);
-transition:all .17s ease
-}
-#main-menu ul > li > ul > li:hover{
-background-color:rgba(0,0,0,0.2)
-}
-#main-menu ul > li > ul > li:hover > a{
-color:#D52C1F
-}
-#main-menu ul > li > ul > li:last-child a{
-border-bottom:0
-}
-#main-menu ul > li.has-sub > a:after{
-content:'\f107';
-float:right;
-font-family:FontAwesome;
-font-size:14px;
-font-weight:400;
-margin:0 0 0 3px
-}
-#main-menu ul > li > ul > li.has-sub > a:after{
-content:'\f105';
-float:right;
-margin:0
-}
-#main-menu .mega-menu{
-position:static!important
-}
-#main-menu .mega-menu > ul{
-width:100%;
-box-sizing:border-box;
-padding:20px 10px
-}
-#main-menu .mega-menu > ul.mega-menu-inner{
-overflow:hidden
-}
-#main-menu ul > li:hover > ul,#main-menu ul > li > ul > li:hover > ul{
-visibility:visible;
-opacity:1
-}
-#main-menu ul ul{
-transition:all .17s ease
-}
-.mega-menu-inner .mega-item{
-float:left;
-width:25%;
-box-sizing:border-box;
-padding:0 10px
-}
-.mega-menu-inner .mega-content{
-position:relative;
-width:100%;
-overflow:hidden;
-padding:0
-}
-.mega-content .post-image-wrap{
-width:100%;
-height:140px;
-overflow:hidden;
-border-radius:4px
-}
-.mega-content .post-image-link{
-width:100%;
-height:100%;
-z-index:1;
-display:block;
-position:relative;
-overflow:hidden
-}
-.mega-content .post-title{
-position:relative;
-font-size:13px;
-font-weight:400;
-line-height:1.5em;
-margin:7px 0 5px
-}
-.mega-content .post-title a{
-display:block;
-color:#ffffff;
-transition:color .17s
-}
-.mega-content:hover .post-title a{
-color:#5100ff
-}
-.no-posts{
-float:left;
-width:100%;
-height:100px;
-line-height:100px;
-text-align:center
-}
-.mega-menu .no-posts{
-line-height:60px;
-color:#5100ff
-}
-.show-search,.hide-search{
-position:absolute;
-right:0;
-top:0;
-display:block;
-width:60px;
-height:60px;
-line-height:60px;
-z-index:20;
-color:#ffffff;
-font-size:15px;
-text-align:center;
-cursor:pointer;
-transition:color .17s ease
-}
-.show-search:before{
-content:"\f002";
-font-family:FontAwesome;
-font-weight:400
-}
-.hide-search:before{
-content:"\f00d";
-font-family:FontAwesome;
-font-weight:400
-}
-.show-search:hover,.hide-search:hover{
-color:#fff
-}
-#nav-search{
-display:none;
-position:absolute;
-left:0;
-top:0;
-width:100%;
-height:60px;
-z-index:99;
-background-color:#D52C1F;
-box-sizing:border-box;
-padding:0
-}
-#nav-search .search-form{
-width:100%;
-height:60px;
-background-color:rgba(0,0,0,0);
-line-height:60px;
-overflow:hidden;
-padding:0
-}
-#nav-search .search-input{
-width:100%;
-height:60px;
-font-family:inherit;
-color:#ffffff;
-margin:0;
-padding:0 70px 0 15px;
-background-color:rgba(0,0,0,0);
-font-size:14px;
-font-weight:400;
-box-sizing:border-box;
-border:0
-}
-#nav-search .search-input:focus{
-color:#ffffff;
-outline:none
-}
-.slide-menu-toggle{
-display:none;
-position:absolute;
-line-height:60px;
-height:60px;
-width:60px;
-top:0;
-left:0;
-font-family:FontAwesome;
-color:#fff;
-font-size:17px;
-font-weight:400;
-text-align:left;
-cursor:pointer;
-z-index:4;
-padding:0
-}
-.slide-menu-toggle:before{
-content:"\f0c9"
-}
-.nav-active .slide-menu-toggle:before{
-content:"\f00d"
-}
-.mobile-menu{
-display:none;
-position:absolute;
-top:58px;
-left:0;
-width:100%;
-background-color:#202020;
-box-sizing:border-box;
-padding:20px;
-border-top:1px solid rgba(255,255,255,0.08);
-visibility:hidden;
-opacity:0;
-transform-origin:0 0;
-transform:scaleY(0);
-transition:all .17s ease
-}
-.nav-active .mobile-menu{
-visibility:visible;
-opacity:1;
-transform:scaleY(1)
-}
-.mobile-menu > ul{
-margin:0
-}
-.mobile-menu .m-sub{
-display:none;
-padding:0
-}
-.mobile-menu ul li{
-position:relative;
-display:block;
-overflow:hidden;
-float:left;
-width:100%;
-font-size:13px;
-font-weight:700;
-text-transform:uppercase;
-line-height:38px;
-margin:0;
-padding:0;
-border-top:1px dashed rgba(255,255,255,0.15)
-}
-.mobile-menu > ul li ul{
-overflow:hidden
-}
-.mobile-menu > ul > li:first-child{
-border-top:0
-}
-.mobile-menu ul li a{
-color:#fff;
-padding:0;
-display:block;
-transition:all .17s ease
-}
-.mobile-menu ul li.has-sub .submenu-toggle{
-position:absolute;
-top:0;
-right:0;
-color:#fff;
-cursor:pointer
-}
-.mobile-menu ul li.has-sub .submenu-toggle:after{
-content:'\f105';
-font-family:FontAwesome;
-font-weight:400;
-float:right;
-width:34px;
-font-size:16px;
-text-align:center;
-transition:all .17s ease
-}
-.mobile-menu ul li.has-sub.show > .submenu-toggle:after{
-transform:rotate(90deg)
-}
-.mobile-menu > ul > li > ul > li{
-border-color:rgba(255,255,255,0.05)
-}
-.mobile-menu > ul > li > ul > li a{
-font-size:13px;
-text-transform:initial;
-font-weight:400
-}
-.mobile-menu > ul > li > ul > li > a{
-color:#fff;
-opacity:.7;
-padding:0 0 0 15px
-}
-.mobile-menu > ul > li > ul > li > ul > li{
-border-color:rgba(255,255,255,0.02)
-}
-.mobile-menu > ul > li > ul > li > ul > li > a{
-color:#fff;
-opacity:.7;
-padding:0 0 0 30px
-}
-.mobile-menu ul li a:hover,.mobile-menu ul > li > .submenu-toggle:hover{
-color:#D52C1F
-}
-.owl-carousel{
-display:none;
-width:100%;
--webkit-tap-highlight-color:transparent;
-position:relative;
-z-index:1
-}
-.owl-carousel .owl-stage{
-position:relative;
--ms-touch-action:pan-Y
-}
-.owl-carousel .owl-stage:after{
-content:".";
-display:block;
-clear:both;
-visibility:hidden;
-line-height:0;
-height:0
-}
-.owl-carousel .owl-stage-outer{
-position:relative;
-overflow:hidden;
--webkit-transform:translate3d(0px,0px,0px)
-}
-.owl-carousel .owl-controls .owl-nav .owl-prev,.owl-carousel .owl-controls .owl-nav .owl-next,.owl-carousel .owl-controls .owl-dot{
-cursor:pointer;
-cursor:hand;
--webkit-user-select:none;
--khtml-user-select:none;
--moz-user-select:none;
--ms-user-select:none;
-user-select:none
-}
-.owl-carousel.owl-loaded{
-display:block
-}
-.owl-carousel.owl-loading{
-opacity:0;
-display:block
-}
-.owl-carousel.owl-hidden{
-opacity:0
-}
-.owl-carousel .owl-refresh .owl-item{
-display:none
-}
-.owl-carousel .owl-item{
-position:relative;
-min-height:1px;
-float:left;
--webkit-backface-visibility:visible;
--webkit-tap-highlight-color:transparent;
--webkit-touch-callout:none;
--webkit-user-select:none;
--moz-user-select:none;
--ms-user-select:none;
-user-select:none
-}
-.owl-carousel .owl-item img{
-display:block;
-width:100%;
--webkit-transform-style:preserve-3d;
-transform-style:preserve-3d
-}
-.owl-carousel.owl-text-select-on .owl-item{
--webkit-user-select:auto;
--moz-user-select:auto;
--ms-user-select:auto;
-user-select:auto
-}
-.owl-carousel .owl-grab{
-cursor:move;
-cursor:-webkit-grab;
-cursor:-o-grab;
-cursor:-ms-grab;
-cursor:grab
-}
-.owl-carousel.owl-rtl{
-direction:rtl
-}
-.owl-carousel.owl-rtl .owl-item{
-float:right
-}
-.no-js .owl-carousel{
-display:block
-}
-.owl-carousel .animated{
--webkit-animation-duration:1000ms;
-animation-duration:1000ms;
--webkit-animation-fill-mode:both;
-animation-fill-mode:both
-}
-.owl-carousel .owl-animated-in{
-z-index:1
-}
-.owl-carousel .owl-animated-out{
-z-index:0
-}
-.owl-height{
--webkit-transition:height 500ms ease-in-out;
--moz-transition:height 500ms ease-in-out;
--ms-transition:height 500ms ease-in-out;
--o-transition:height 500ms ease-in-out;
-transition:height 500ms ease-in-out
-}
-.owl-prev,.owl-next{
-position:relative;
-float:left;
-width:24px;
-height:24px;
-background-color:#fff;
-font-family: FontAwesome;
-text-rendering: auto;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
-font-size:11px;
-line-height:23px;
-font-weight:900;
-color:#bdbdbd;
-text-align:center;
-cursor:pointer;
-border:1px solid rgba(0,0,0,0.08);
-box-sizing:border-box;
-transition:all .25s ease
-}
-.owl-prev:before{
-content:"\f053"
-}
-.owl-next:before{
-content:"\f054"
-}
-.owl-prev:hover,.owl-next:hover{
-background-color:#D52C1F;
-color:#fff;
-border-color:#D52C1F
-}
-@keyframes fadeInLeft {
-from{
-opacity:0;
-transform:translate3d(-30px,0,0)
-}
-to{
-opacity:1;
-transform:none
-}
-}
-@keyframes fadeOutLeft {
-from{
-opacity:1
-}
-to{
-opacity:0;
-transform:translate3d(-30px,0,0)
-}
-}
-@keyframes fadeInRight {
-from{
-opacity:0;
-transform:translate3d(30px,0,0)
-}
-to{
-opacity:1;
-transform:none
-}
-}
-.fadeInRight{
-animation-name:fadeInRight
-}
-@keyframes fadeOutRight {
-from{
-opacity:1
-}
-to{
-opacity:0;
-transform:translate3d(30px,0,0)
-}
-}
-.fadeOutRight{
-animation-name:fadeOutRight
-}
-.loader{
-position:relative;
-height:100%;
-overflow:hidden;
-display:block;
-margin:0
-}
-.loader:after{
-content:'';
-position:absolute;
-top:50%;
-left:50%;
-width:28px;
-height:28px;
-margin:-16px 0 0 -16px;
-border:2px solid #D52C1F;
-border-right-color:rgba(155,155,155,0.2);
-border-radius:100%;
-animation:spinner 1.1s infinite linear;
-transform-origin:center
-}
-@-webkit-keyframes spinner {
-0%{
--webkit-transform:rotate(0deg);
-transform:rotate(0deg)
-}
-to{
--webkit-transform:rotate(1turn);
-transform:rotate(1turn)
-}
-}
-@keyframes spinner {
-0%{
--webkit-transform:rotate(0deg);
-transform:rotate(0deg)
-}
-to{
--webkit-transform:rotate(1turn);
-transform:rotate(1turn)
-}
-}
-#slider-wrapper .show-slider{
-display:block!important
-}
-#slider-wrapper .show-slider .widget-content{
-position:relative;
-height:500px;
-overflow:hidden;
-margin: 0 0 30px;
-}
-#slider-wrapper {
-margin: 0 auto;
-}
-#slider-section .widget, #slider-section .widget > .widget-title {
-display: none;
-}
-.main-slider{
-position:relative;
-overflow:hidden;
-height:500px
-}
-.main-slider .slider-item{
-position:relative;
-float:left;
-width:100%;
-height:500px;
-overflow:hidden;
-box-sizing:border-box
-}
-.slider-item-inner{
-position:relative;
-float:left;
-width:100%;
-height:100%;
-overflow:hidden;
-display:block;
-}
-.main-slider .post-image-link{
-width:100%;
-height:100%;
-position:relative;
-overflow:hidden;
-display:block
-}
-.main-slider .post-image-link:before {
-content: '';
-position: absolute;
-left: 0;
-right: 0;
-bottom: 0;
-height: 100%;
-background: #000;
-opacity: .5;
-z-index: 2;
-margin: 0;
-}
-.main-slider .post-info-wrap {
-position: absolute;
-top: 50%;
-left: 50%;
-max-width: 70%;
-text-align: center;
-overflow: hidden;
-z-index: 5;
-box-sizing: border-box;
-padding: 10px;
-opacity: 0;
-transform: translate(-50%,-40%);
-transition: transform .5s ease;
-}
-.main-slider .owl-item.active .post-info-wrap {
-opacity: 1;
-transform: translate(-50%,-50%);
-}
-.main-slider .post-info{
-position: relative;
-overflow: hidden;
-display: block;
-z-index: 10;
-}
-.main-slider .post-date{
-font-size:11px;
-color:#fff;
-margin:0
-}
-.main-slider .post-title{
-font-size: 38px;
-font-weight: 500;
-display: block;
-line-height: 1.5;
-margin: 0 0 5px;
-}
-.main-slider .post-title a{
-color:#fff;
-display:block
-}
-.main-slider .post-title a:hover{
-text-decoration:underline
-}
-.main-slider .post-snippet {
-color:#fff;
-}
-.show-slider .no-posts{
-position:absolute;
-top:calc(50% - 50px);
-left:0;
-width:100%;
-text-align:center;
-}
-.main-slider .post-info .post-tag{
-position:static;
-display: inline-block;
-height:20px;
-background-color:#D52C1F;
-color:#fff;
-font-size:12px;
-font-weight:400;
-text-transform:uppercase;
-line-height:20px;
-padding:0 8px;
-margin:0 0 10px;
-border:1px solid #D52C1F;
-transition:all .17s ease
-}
-.main-slider .post-info .post-tag:hover{
-background-color:#202020;
-color:#fff;
-border-color:#202020
-}
-.main-slider .post-meta {
-color: #aaaaaa;
-font-size: 12px;
-font-weight: 400;
-line-height: 18px;
-padding: 0 1px;
-}
-.main-slider .post-date {
-font-size: 11px;
-color: #fff;
-margin: 0;
-display: inline-block;
-float:none;
-}
-.main-slider .owl-nav{
-position:absolute;
-top:calc(50% - 15px);
-left:0;
-right:0;
-height:0
-}
-.main-slider .owl-prev,.main-slider .owl-next{
-height:30px;
-line-height:30px;
-z-index:10;
-border:0
-}
-.main-slider .owl-prev{
-float:left;
-left:0;
-border-radius: 0 20px 20px 0;
-}
-.main-slider:hover .owl-prev{
-left:0
-}
-.main-slider .owl-next{
-float:right;
-right:0;
-border-radius: 20px 0 0 20px;
-}
-.main-slider:hover .owl-next{
-right:0
-}
-#hot-wrapper{
-margin:0 auto
-}
-#hot-section .widget,#hot-wrapper .widget-title{
-display:none;
-margin:30px 0 0;
-}
-#hot-section .show-hot{
-display:block!important
-}
-#hot-section .show-hot .widget-content{
-position:relative;
-overflow:hidden;
-height:520px;
-margin:0;
-float: left;
-width: 100%;
-}
-.hot-loader{
-position:relative;
-height:100%;
-overflow:hidden;
-display:block
-}
-.hot-loader:after{
-content:'';
-position:absolute;
-top:50%;
-left:50%;
-width:28px;
-height:28px;
-margin:-17px 0 0 -17px;
-border:2px solid #D52C1F;
-border-right-color:#eaeaea;
-border-radius:100%;
-animation:spinner .8s infinite linear;
-transform-origin:center
-}
-@-webkit-keyframes spinner {
-0%{
--webkit-transform:rotate(0deg);
-transform:rotate(0deg)
-}
-to{
--webkit-transform:rotate(1turn);
-transform:rotate(1turn)
-}
-}
-@keyframes spinner {
-0%{
--webkit-transform:rotate(0deg);
-transform:rotate(0deg)
-}
-to{
--webkit-transform:rotate(1turn);
-transform:rotate(1turn)
-}
-}
-ul.hot-posts{
-position:relative;
-overflow:hidden;
-height:520px;
-margin:0 -1px
-}
-.hot-posts .hot-item{
-position:relative;
-float:left;
-width:calc(100% / 4);
-height:198px;
-overflow:hidden;
-box-sizing:border-box;
-padding:0 1px
-}
-.hot-posts .item-0,.hot-posts .item-1{
-width:50%;
-height:320px;
-margin:0 0 2px
-}
-.hot-posts .item-0  {
-height:100%;
-}
-.hot-item-inner{
-position:relative;
-float:left;
-width:100%;
-height:100%;
-overflow:hidden;
-display:block
-}
-.hot-posts .post-image-link{
-width:100%;
-height:100%;
-position:relative;
-overflow:hidden;
-display:block
-}
-.hot-posts .post-image-link:before {
-content: '';
-position: absolute;
-left: 0;
-right: 0;
-bottom: 0;
-height: 100%;
-background: #000;
-opacity: .3;
-z-index: 2;
-margin: 0;
-}
-.hot-posts .post-info{
-position:absolute;
-bottom:0;
-left:0;
-width:100%;
-background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7));
-overflow:hidden;
-z-index:5;
-box-sizing:border-box;
-padding:30px 20px 20px
-}
-.hot-posts .post-tag{
-position:relative;
-display:inline-block;
-top:0;
-left:0
-}
-.hot-posts .post-title{
-font-size:16px;
-font-weight:600;
-display:block;
-line-height:1.4em;
-margin:8px 0 7px
-}
-.hot-posts .item-0 .post-title{
-font-size:32px
-}
-.hot-posts .item-1 .post-title{
-font-size:26px
-}
-.hot-posts .post-title a{
-color:#fff;
-display:block
-}
-.hot-posts .post-meta{
-font-size:11px;
-color:#f0f0f0
-}
-.hot-posts .post-meta .post-author{
-color:#f0f0f0
-}
-.show-hot .no-posts{
-position:absolute;
-top:calc(50% - 50px);
-left:0;
-width:100%
-}
-.post-meta{
-overflow:hidden;
-color:#aaa;
-font-size:13px;
-font-weight:400;
-padding:0 1px
-}
-.post-meta .post-author,.post-meta .post-date, .post-meta .post-comments{
-display:inline-block;
-margin:0
-}
-.post-meta .post-author, .post-meta .post-date {
-}
-.post-meta .post-author:before{
-content:'by';
-margin:0 4px 0 0
-}
-.post-meta .post-comments:before {
-content: "\f075";
-font-family: FontAwesome;
-font-size: 11px;
-font-weight: 400;
-font-style: normal;
-vertical-align: middle;
-margin: 0 5px;
-color:#5100ff;
-}
-.post-author{
-font-weight:700
-}
-.post-meta a{
-color:#5100ff;
-transition:color .17s
-}
-.hot-posts .post-meta a {
-color:#ffffff;
-}
-.post-meta a:hover{
-color:#D52C1F
-}
-.queryMessage{
-overflow:hidden;
-background-color:#f2f2f2;
-color:#5100ff;
-font-size:13px;
-font-weight:400;
-padding:8px 10px;
-margin:0 0 25px
-}
-.queryMessage .query-info{
-margin:0 5px
-}
-.queryMessage .search-query,.queryMessage .search-label{
-font-weight:700;
-text-transform:uppercase
-}
-.queryMessage .search-query:before,.queryMessage .search-label:before{
-content:"\201c"
-}
-.queryMessage .search-query:after,.queryMessage .search-label:after{
-content:"\201d"
-}
-.queryMessage a.show-more{
-float:right;
-color:#D52C1F;
-text-decoration:underline;
-transition:opacity .17s
-}
-.queryMessage a.show-more:hover{
-opacity:.8
-}
-.queryEmpty{
-font-size:13px;
-font-weight:400;
-padding:10px 0;
-margin:0 0 25px;
-text-align:center
-}
-.title-wrap{
-position:relative;
-float:left;
-width:100%;
-height:28px;
-display:block;
-margin:0 0 20px;
-border-bottom:2px solid #D52C1F
-}
-.title-wrap > h3{
-position:relative;
-float:left;
-height:28px;
-background-color:#D52C1F;
-font-size:12px;
-color:#fff;
-font-weight:700;
-line-height:30px;
-text-transform:uppercase;
-padding:0 15px;
-margin:0;
-border-radius:2px 2px 0 0
-}
-.custom-widget li{
-overflow:hidden;
-margin:20px 0 0
-}
-.custom-widget li:first-child{
-padding:0;
-margin:0;
-border:0
-}
-.custom-widget .post-image-link{
-position:relative;
-width:80px;
-height:60px;
-float:left;
-overflow:hidden;
-display:block;
-vertical-align:middle;
-margin:0 12px 0 0;
-border-radius:4px
-}
-.custom-widget .post-info{
-overflow:hidden
-}
-.custom-widget .post-title{
-overflow:hidden;
-font-size:13px;
-font-weight:400;
-line-height:1.5em;
-margin:0 0 3px
-}
-.custom-widget .post-title a{
-display:block;
-color:#5100ff;
-transition:color .17s
-}
-.custom-widget li:hover .post-title a{
-color:#D52C1F
-}
-.home-ad .widget > .widget-title{
-display:none
-}
-.home-ad .widget{
-width:728px;
-max-width:100%;
-margin:0 auto
-}
-.home-ad .widget .widget-content{
-position:relative;
-width:100%;
-max-height:90px;
-overflow:hidden;
-line-height:1;
-margin:30px 0 0
-}
-.index-post-wrap{
-position:relative;
-float:left;
-width:100%;
-}
-.blog-post{
-display:block;
-overflow:hidden;
-word-wrap:break-word
-}
-.grid-posts {
-display: grid;
-grid-template-columns: repeat(2,1fr);
-grid-gap: 20px;
-}
-.index-post{
-display: flex;
-flex-direction: column;
-margin:0 0 30px;
-padding: 0;
-}
-.index-post .post-image-wrap{
-width:100%;
-height:320px;
-overflow:hidden;
-margin:0 0 20px 0;
-border-radius:4px
-}
-.index-post .post-image-wrap .post-image-link{
-width:100%;
-height:100%;
-position:relative;
-display:block;
-z-index:1;
-overflow:hidden
-}
-.post-tag{
-position:absolute;
-top:15px;
-left:15px;
-height:20px;
-z-index:5;
-background-color:#D52C1F;
-color:#fff;
-font-size:10px;
-line-height:20px;
-font-weight:700;
-text-transform:uppercase;
-padding:0 7px;
-border-radius:2px
-}
-.index-post .post-info{
-overflow:hidden;
-padding:0;
-box-sizing: border-box;
-}
-.index-post .post-info > h2{
-font-size:26px;
-font-weight:600;
-line-height:1.3;
-text-decoration:none;
-margin:0 0 10px;
-}
-.index-post .post-info > h2 > a{
-display:block;
-color:#5100ff;
-transition:color .17s
-}
-.index-post .post-info > h2:hover > a{
-color:#D52C1F
-}
-.widget iframe,.widget img{
-max-width:100%
-}
-.date-header{
-display:block;
-overflow:hidden;
-font-weight:400;
-margin:0!important;
-padding:0
-}
-.index-post .post-meta{
-margin:0 0 10px
-}
-.post-snippet{
-position:relative;
-display:block;
-overflow:hidden;
-font-size:16px;
-line-height:1.6em;
-font-weight:400;
-margin:7px 0 0
-}
-.index-post .post-snippet {
-margin: 0;
-}
-a.read-more{
-display:inline-block;
-background-color:#000000;
-color:#fff;
-height:28px;
-font-size:13px;
-font-weight:600;
-line-height:28px;
-padding:0 15px;
-margin:12px 0 0;
-border-radius:2px;
-transition:background .17s ease
-}
-a.read-more:hover{
-background-color:#D52C1F
-}
-#breadcrumb{
-font-size:12px;
-font-weight:400;
-color:#aaa;
-margin:0 0 10px
-}
-#breadcrumb a{
-color:#aaa;
-transition:color .17s
-}
-#breadcrumb a:hover{
-color:#D52C1F
-}
-#breadcrumb a,#breadcrumb em{
-display:inline-block
-}
-#breadcrumb .delimiter:after{
-content:'\f054';
-font-family:FontAwesome;
-font-size:8px;
-font-weight:400;
-font-style:normal;
-vertical-align:middle;
-margin:0 3px
-}
-.item-post h1.post-title{
-color:#5100ff;
-font-size:27px;
-line-height:1.5em;
-font-weight:700;
-position:relative;
-display:block;
-margin:10px 0;
-padding:0
-}
-.static_page .item-post h1.post-title{
-margin:0
-}
-.item-post .post-body{
-width:100%;
-font-size:15px;
-line-height:1.5em;
-overflow:hidden;
-padding:20px 0 0;
-margin:10px 0 0;
-border-top:1px dashed #ebebeb
-}
-.static_page .item-post .post-body{
-padding:20px 0
-}
-.item-post .post-outer{
-padding:0
-}
-.item-post .post-body img{
-max-width:100%
-}
-.main .widget{
-margin:0
-}
-.main .Blog{
-border-bottom-width:0
-}
-.post-footer{
-position:relative;
-float:left;
-width:100%;
-margin:20px 0 0
-}
-.inline-ad{
-position:relative;
-display:block;
-max-height:60px;
-margin:0 0 30px
-}
-.inline-ad > ins{
-display:block!important;
-margin:0 auto!important
-}
-.item .inline-ad{
-float:left;
-width:100%;
-margin:20px 0 0
-}
-.item-post-wrap > .inline-ad{
-margin:0 0 20px
-}
-.post-labels{
-overflow:hidden;
-height:auto;
-position:relative;
-margin:0 0 20px;
-padding:0
-}
-.post-labels span,.post-labels a{
-float:left;
-height:22px;
-background-color:#f2f2f2;
-color:#5100ff;
-font-size:12px;
-line-height:22px;
-font-weight:400;
-margin:0;
-padding:0 10px;
-border-radius:2px
-}
-.post-labels span{
-background-color:#D52C1F;
-color:#fff
-}
-.post-labels a{
-margin:0 0 0 5px;
-transition:all .17s ease
-}
-.post-labels a:hover{
-background-color:#D52C1F;
-color:#fff;
-border-color:#D52C1F
-}
-.post-reactions{
-height:28px;
-display:block;
-margin:0 0 15px
-}
-.post-reactions span{
-float:left;
-color:#5100ff;
-font-size:11px;
-line-height:25px;
-text-transform:uppercase;
-font-weight:700
-}
-.reactions-inner{
-float:left;
-margin:0;
-height:28px
-}
-.post-share{
-position:relative;
-overflow:hidden;
-line-height:0;
-margin:0 0 30px
-}
-ul.share-links{
-position:relative
-}
-.share-links li{
-width:32px;
-float:left;
-box-sizing:border-box;
-margin:0 5px 0 0
-}
-.share-links li.facebook,.share-links li.twitter{
-width:20%
-}
-.share-links li a{
-float:left;
-display:inline-block;
-cursor:pointer;
-width:100%;
-height:32px;
-line-height:32px;
-color:#fff;
-font-weight:400;
-font-size:13px;
-text-align:center;
-box-sizing:border-box;
-opacity:1;
-border-radius:2px;
-transition:all .17s ease
-}
-.share-links li.whatsapp-mobile{
-display:none
-}
-.is-mobile li.whatsapp-desktop{
-display:none
-}
-.is-mobile li.whatsapp-mobile{
-display:inline-block
-}
-.share-links li a:before{
-float:left;
-display:block;
-width:32px;
-background-color:rgba(0,0,0,0.05);
-text-align:center;
-line-height:32px
-}
-.share-links li a:hover{
-opacity:.8
-}
-ul.post-nav{
-position:relative;
-overflow:hidden;
-display:block;
-margin:0 0 30px
-}
-.post-nav li{
-display:inline-block;
-width:50%
-}
-.post-nav .post-prev{
-float:left;
-text-align:left;
-box-sizing:border-box;
-padding:0 10px
-}
-.post-nav .post-next{
-float:right;
-text-align:right;
-box-sizing:border-box;
-padding:0 10px
-}
-.post-nav li a{
-color:#5100ff;
-line-height:1.4em;
-display:block;
-overflow:hidden;
-transition:color .17s
-}
-.post-nav li:hover a{
-color:#D52C1F
-}
-.post-nav li span{
-display:block;
-font-size:11px;
-color:#aaa;
-font-weight:700;
-text-transform:uppercase;
-padding:0 0 2px
-}
-.post-nav .post-prev span:before{
-content:"\f053";
-float:left;
-font-family:FontAwesome;
-font-size:10px;
-font-weight:400;
-text-transform:none;
-margin:0 2px 0 0
-}
-.post-nav .post-next span:after{
-content:"\f054";
-float:right;
-font-family:FontAwesome;
-font-size:10px;
-font-weight:400;
-text-transform:none;
-margin:0 0 0 2px
-}
-.post-nav p{
-font-size:12px;
-font-weight:400;
-line-height:1.4em;
-margin:0
-}
-.post-nav .post-nav-active p{
-color:#aaa
-}
-.about-author{
-position:relative;
-display:block;
-overflow:hidden;
-background-color:#f9f9f9;
-padding:20px;
-margin:0 0 30px;
-border:1px solid #f0f0f0
-}
-.about-author .avatar-container{
-position:relative;
-float:left;
-width:80px;
-height:80px;
-background-color:rgba(255,255,255,0.05);
-overflow:hidden;
-margin:0 15px 0 0
-}
-.about-author .author-avatar{
-float:left;
-width:100%;
-height:100%
-}
-.author-name{
-overflow:hidden;
-display:inline-block;
-font-size:12px;
-font-weight:700;
-text-transform:uppercase;
-line-height:14px;
-margin:7px 0 3px
-}
-.author-name span{
-color:#5100ff
-}
-.author-name a{
-color:#D52C1F;
-transition:opacity .17s
-}
-.author-name a:hover{
-opacity:.8
-}
-.author-description{
-display:block;
-overflow:hidden;
-font-size:12px;
-font-weight:400;
-line-height:1.6em
-}
-.author-description a:hover{
-text-decoration:underline
-}
-#related-wrap{
-overflow:hidden;
-margin:0 0 30px
-}
-#related-wrap .related-tag{
-display:none
-}
-.related-ready{
-float:left;
-width:100%
-}
-.related-ready .loader{
-height:178px
-}
-ul.related-posts{
-position:relative;
-overflow:hidden;
-margin:0 -10px;
-padding:0
-}
-.related-posts .related-item{
-width:33.33333333%;
-position:relative;
-overflow:hidden;
-float:left;
-display:block;
-box-sizing:border-box;
-padding:0 10px;
-margin:0
-}
-.related-posts .post-image-link{
-width:100%;
-height:130px;
-position:relative;
-overflow:hidden;
-display:block;
-border-radius:4px
-}
-.related-posts .post-title{
-font-size:13px;
-font-weight:400;
-line-height:1.5em;
-display:block;
-margin:7px 0 5px
-}
-.related-posts .post-title a{
-color:#5100ff;
-transition:color .17s
-}
-.related-posts .related-item:hover .post-title a{
-color:#D52C1F
-}
-#blog-pager{
-float:left;
-width:100%;
-overflow:hidden;
-clear:both;
-margin:0 0 30px
-}
-.blog-pager a,.blog-pager span{
-float:left;
-display:block;
-min-width:30px;
-height:30px;
-background-color:#f2f2f2;
-color:#5100ff;
-font-size:13px;
-font-weight:700;
-line-height:30px;
-text-align:center;
-box-sizing:border-box;
-padding:0 10px;
-margin:0 5px 0 0;
-border-radius:2px;
-transition:all .17s ease
-}
-.blog-pager span.page-dots{
-min-width:20px;
-background-color:#fff;
-font-size:16px;
-color:#333333;
-font-weight:400;
-line-height:32px;
-padding:0
-}
-.blog-pager .page-of{
-display:none;
-width:auto;
-float:right;
-border-color:rgba(0,0,0,0);
-margin:0
-}
-.blog-pager .page-active,.blog-pager a:hover{
-background-color:#D52C1F;
-color:#fff;
-border-color:#D52C1F
-}
-.blog-pager .page-prev:before,.blog-pager .page-next:before{
-font-family:FontAwesome;
-font-size:11px;
-font-weight:400
-}
-.blog-pager .page-prev:before{
-content:'\f053'
-}
-.blog-pager .page-next:before{
-content:'\f054'
-}
-.blog-pager .blog-pager-newer-link,.blog-pager .blog-pager-older-link{
-float:left;
-display:inline-block;
-width:auto;
-padding:0 10px;
-margin:0
-}
-.blog-pager .blog-pager-older-link{
-float:right
-}
-.archive #blog-pager,.home .blog-pager .blog-pager-newer-link,.home .blog-pager .blog-pager-older-link{
-display:none
-}
-.blog-post-comments{
-display:none
-}
-.blog-post-comments .comments-title{
-margin:0 0 20px
-}
-.comments-system-disqus .comments-title,.comments-system-facebook .comments-title{
-margin:0
-}
-#comments{
-margin:0
-}
-#gpluscomments{
-float:left!important;
-width:100%!important;
-margin:0 0 25px!important
-}
-#gpluscomments iframe{
-float:left!important;
-width:100%
-}
-.comments{
-display:block;
-clear:both;
-margin:0;
-color:#5100ff
-}
-.comments .comment-thread > ol{
-padding:0
-}
-.comments > h3{
-font-size:13px;
-font-weight:400;
-font-style:italic;
-padding-top:1px
-}
-.comments .comments-content .comment{
-list-style:none;
-margin:0;
-padding:0 0 8px
-}
-.comments .comments-content .comment:first-child{
-padding-top:0
-}
-.facebook-tab,.fb_iframe_widget_fluid span,.fb_iframe_widget iframe{
-width:100%!important
-}
-.comments .item-control{
-position:static
-}
-.comments .avatar-image-container{
-float:left;
-overflow:hidden;
-position:absolute
-}
-.comments .avatar-image-container,.comments .avatar-image-container img{
-height:35px;
-max-height:35px;
-width:35px;
-max-width:35px;
-border-radius:100%
-}
-.comments .comment-block{
-overflow:hidden;
-padding:0 0 10px
-}
-.comments .comment-block,.comments .comments-content .comment-replies{
-margin:0 0 0 50px
-}
-.comments .comments-content .inline-thread{
-padding:0
-}
-.comments .comment-actions{
-float:left;
-width:100%;
-position:relative;
-margin:0
-}
-.comments .comments-content .comment-header{
-font-size:15px;
-display:block;
-overflow:hidden;
-clear:both;
-margin:0 0 3px;
-padding:0 0 5px;
-border-bottom:1px dashed #d6d6d6
-}
-.comments .comments-content .comment-header a{
-color:#5100ff;
-transition:color .17s
-}
-.comments .comments-content .comment-header a:hover{
-color:#D52C1F
-}
-.comments .comments-content .user{
-font-style:normal;
-font-weight:700;
-display:block
-}
-.comments .comments-content .icon.blog-author{
-display:none
-}
-.comments .comments-content .comment-content{
-float:left;
-font-size:13px;
-color:#5E5E5E;
-font-weight:400;
-text-align:left;
-line-height:1.4em;
-margin:5px 0 9px
-}
-.comments .comment .comment-actions a{
-margin-right:5px;
-padding:2px 5px;
-color:#5100ff;
-font-weight:400;
-background-color:#f2f2f2;
-font-size:10px;
-transition:all .17s ease
-}
-.comments .comment .comment-actions a:hover{
-color:#fff;
-background-color:#D52C1F;
-border-color:#D52C1F;
-text-decoration:none
-}
-.comments .comments-content .datetime{
-float:left;
-font-size:11px;
-font-weight:400;
-color:#aaa;
-position:relative;
-padding:0 1px;
-margin:4px 0 0;
-display:block
-}
-.comments .comments-content .datetime a,.comments .comments-content .datetime a:hover{
-color:#aaa
-}
-.comments .thread-toggle{
-margin-bottom:4px
-}
-.comments .thread-toggle .thread-arrow{
-height:7px;
-margin:0 3px 2px 0
-}
-.comments .thread-count a,.comments .continue a{
-transition:opacity .17s
-}
-.comments .thread-count a:hover,.comments .continue a:hover{
-opacity:.8
-}
-.comments .thread-expanded{
-padding:5px 0 0
-}
-.comments .thread-chrome.thread-collapsed{
-display:none
-}
-.thread-arrow:before{
-content:'';
-font-family:FontAwesome;
-color:#5100ff;
-font-weight:400;
-margin:0 2px 0 0
-}
-.comments .thread-expanded .thread-arrow:before{
-content:'\f0d7'
-}
-.comments .thread-collapsed .thread-arrow:before{
-content:'\f0da'
-}
-.comments .comments-content .comment-thread{
-margin:0
-}
-.comments .continue a{
-padding:0 0 0 60px;
-font-weight:400
-}
-.comments .comments-content .loadmore.loaded{
-margin:0;
-padding:0
-}
-.comments .comment-replybox-thread{
-margin:0
-}
-.comments .comments-content .loadmore,.comments .comments-content .loadmore.loaded{
-display:none
-}
-#comment-editor{
-margin:0 0 20px
-}
-.post-body h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6{
-color:#5100ff;
-font-weight:700;
-margin:0 0 15px
-}
-.post-body h1,.post-body h2{
-font-size:24px
-}
-.post-body h3{
-font-size:21px
-}
-.post-body h4{
-font-size:18px
-}
-.post-body h5{
-font-size:16px
-}
-.post-body h6{
-font-size:13px
-}
-blockquote{
-font-style:italic;
-padding:10px;
-margin:0;
-border-left:4px solid #D52C1F
-}
-blockquote:before,blockquote:after{
-display:inline-block;
-font-family:FontAwesome;
-font-style:normal;
-font-weight:400;
-color:#aaa;
-line-height:1
-}
-blockquote:before{
-content:'\f10d';
-margin:0 10px 0 0
-}
-blockquote:after{
-content:'\f10e';
-margin:0 0 0 10px
-}
-.widget .post-body ul,.widget .post-body ol{
-line-height:1.5;
-font-weight:400
-}
-.widget .post-body li{
-margin:5px 0;
-padding:0;
-line-height:1.5
-}
-.post-body ul{
-padding:0 0 0 20px
-}
-.post-body ul li:before{
-content:"\f105";
-font-family:FontAwesome;
-font-size:13px;
-font-weight:400;
-margin:0 5px 0 0
-}
-.post-body u{
-text-decoration:underline
-}
-.post-body a{
-transition:color .17s ease
-}
-.post-body strike{
-text-decoration:line-through
-}
-.contact-form{
-overflow:hidden
-}
-.contact-form .widget-title{
-display:none
-}
-.contact-form .contact-form-name{
-width:calc(50% - 5px)
-}
-.contact-form .contact-form-email{
-width:calc(50% - 5px);
-float:right
-}
-.sidebar {
-}
-.sidebar .widget{
-position:relative;
-overflow:hidden;
-background-color:#fff;
-box-sizing:border-box;
-padding:0;
-margin:0 0 30px
-}
-.sidebar .widget-title{
-position: relative;
-float: left;
-text-align:center;
-width: 100%;
-height: 40px;
-background-color:#ffffff;
-display: block;
-margin: 0 0 25px;
-}
-.sidebar .widget-title > h3{
-display: inline-block;
-height: 40px;
-font-size: 16px;
-color: #5100ff;
-background-color: #ffffff;
-font-weight: 700;
-line-height: 40px;
-text-transform: capitalize;
-text-align: center;
-padding: 0 15px;
-margin: 0;
-position: relative;
-}
-.sidebar .widget-title:before, .sidebar .widget-title:after {
-content: "";
-position: absolute;
-top: 50%;
-border-bottom: 1px solid;
-border-color: ##131313;
-width: 100%;
-margin: 0;
-left: 0;
-right:0;
-}
-.sidebar .widget-title:before {
-right: 100%;
-}
-.sidebar .widget-title:after {
-left:100%;
-}
-.sidebar .widget-content{
-float:left;
-width:100%;
-margin:0
-}
-ul.social-counter{
-margin:0 -5px
-}
-.social-counter li{
-float:left;
-width:25%;
-box-sizing:border-box;
-padding:0 5px;
-margin:10px 0 0
-}
-.social-counter li:nth-child(1),.social-counter li:nth-child(2),.social-counter li:nth-child(3),.social-counter li:nth-child(4){
-margin-top:0
-}
-.social-counter li a{
-display:block;
-height:40px;
-font-size:22px;
-color:#fff;
-text-align:center;
-line-height:40px;
-border-radius:2px;
-transition:opacity .17s
-}
-.social-counter li a:hover{
-opacity:.8
-}
-.list-label li{
-position:relative;
-display:block;
-padding:7px 0;
-border-top:1px dotted #ebebeb
-}
-.list-label li:first-child{
-padding-top:0;
-border-top:0
-}
-.list-label li:last-child{
-padding-bottom:0;
-border-bottom:0
-}
-.list-label li a{
-display:block;
-color:#5100ff;
-font-size:12px;
-font-weight:400;
-text-transform:capitalize;
-transition:color .17s
-}
-.list-label li a:before{
-content:"\f054";
-float:left;
-color:#5100ff;
-font-weight:400;
-font-family:FontAwesome;
-font-size:6px;
-margin:5px 3px 0 0;
-transition:color .17s
-}
-.list-label li a:hover{
-color:#D52C1F
-}
-.list-label .label-count{
-position:relative;
-float:right;
-width:16px;
-height:16px;
-background-color:#D52C1F;
-color:#fff;
-font-size:11px;
-font-weight:400;
-text-align:center;
-line-height:16px;
-border-radius:2px
-}
-.cloud-label li{
-position:relative;
-float:left;
-margin:0 5px 5px 0
-}
-.cloud-label li a{
-display:block;
-height:26px;
-background-color:#f2f2f2;
-color:#5100ff;
-font-size:12px;
-line-height:26px;
-font-weight:400;
-padding:0 10px;
-border-radius:2px;
-transition:all .17s ease
-}
-.cloud-label li a:hover{
-color:#fff;
-background-color:#D52C1F
-}
-.cloud-label .label-count{
-display:none
-}
-.sidebar .FollowByEmail > .widget-title > h3{
-margin:0
-}
-.FollowByEmail .widget-content{
-position:relative;
-overflow:hidden;
-background-color:#f9f9f9;
-text-align:center;
-font-weight:400;
-box-sizing:border-box;
-padding:20px;
-border-radius:2px;
-border:1px solid #f0f0f0
-}
-.FollowByEmail .widget-content > h3{
-font-size:18px;
-color:#5100ff;
-font-weight:700;
-text-transform:uppercase;
-margin:0 0 13px
-}
-.FollowByEmail .before-text{
-font-size:13px;
-line-height:1.5em;
-margin:0 0 15px;
-display:block;
-padding:0 10px;
-overflow:hidden
-}
-.FollowByEmail .widget-content:after{
-content:'\f0e0';
-position:absolute;
-right:-15px;
-top:-15px;
-font-family:FontAwesome;
-font-size:50px;
-color:#f0f0f0;
-transform:rotate(21deg)
-}
-.FollowByEmail .follow-by-email-inner{
-position:relative
-}
-.FollowByEmail .follow-by-email-inner .follow-by-email-address{
-width:100%;
-height:32px;
-color:#5100ff;
-font-size:11px;
-font-family:inherit;
-padding:0 10px;
-margin:0 0 10px;
-box-sizing:border-box;
-border:1px solid #f0f0f0;
-border-radius:2px;
-transition:ease .17s
-}
-.FollowByEmail .follow-by-email-inner .follow-by-email-submit{
-width:100%;
-height:32px;
-font-family:inherit;
-font-size:11px;
-color:#fff;
-background-color:#D52C1F;
-text-transform:uppercase;
-text-align:center;
-font-weight:700;
-cursor:pointer;
-margin:0;
-border:0;
-border-radius:2px;
-transition:opacity .17s ease
-}
-.FollowByEmail .follow-by-email-inner .follow-by-email-submit:hover{
-opacity:.85
-}
-#ArchiveList ul.flat li{
-color:#5100ff;
-font-size:13px;
-font-weight:400;
-padding:7px 0;
-border-bottom:1px dotted #eaeaea
-}
-#ArchiveList ul.flat li:first-child{
-padding-top:0
-}
-#ArchiveList ul.flat li:last-child{
-padding-bottom:0;
-border-bottom:0
-}
-#ArchiveList .flat li > a{
-display:block;
-color:#5100ff;
-transition:color .17s
-}
-#ArchiveList .flat li > a:hover{
-color:#D52C1F
-}
-#ArchiveList .flat li > a:before{
-content:"\f054";
-float:left;
-color:#161619;
-font-weight:400;
-font-family:FontAwesome;
-font-size:6px;
-margin:5px 4px 0 0;
-display:inline-block;
-transition:color .17s
-}
-#ArchiveList .flat li > a > span{
-position:relative;
-float:right;
-width:16px;
-height:16px;
-background-color:#D52C1F;
-color:#fff;
-font-size:11px;
-font-weight:400;
-text-align:center;
-line-height:16px;
-border-radius:2px
-}
-.PopularPosts .post{
-overflow:hidden;
-margin:20px 0 0
-}
-.PopularPosts .post:first-child{
-padding:0;
-margin:0;
-border:0
-}
-.PopularPosts .post-image-link{
-position:relative;
-width:80px;
-height:60px;
-float:left;
-overflow:hidden;
-display:block;
-vertical-align:middle;
-margin:0 12px 0 0;
-border-radius:4px
-}
-.PopularPosts .post-info{
-overflow:hidden
-}
-.PopularPosts .post-title{
-font-size:13px;
-font-weight:400;
-line-height:1.5em;
-margin:0 0 3px
-}
-.PopularPosts .post-title a{
-display:block;
-color:#5100ff;
-transition:color .17s
-}
-.PopularPosts .post:hover .post-title a{
-color:#D52C1F
-}
-.PopularPosts .post-date:before{
-font-size:10px
-}
-.FeaturedPost .post-image-link{
-display:block;
-position:relative;
-width:100%;
-height:180px;
-overflow:hidden;
-margin:0 0 10px;
-border-radius:4px
-}
-.FeaturedPost .post-title{
-font-size:16px;
-overflow:hidden;
-font-weight:400;
-line-height:1.5em;
-margin:0 0 5px
-}
-.FeaturedPost .post-title a{
-color:#5100ff;
-display:block;
-transition:color .17s ease
-}
-.FeaturedPost .post-title a:hover{
-color:#D52C1F
-}
-.Text{
-font-size:13px
-}
-.contact-form-widget form{
-font-weight:400
-}
-.contact-form-name{
-float:left;
-width:100%;
-height:30px;
-font-family:inherit;
-font-size:13px;
-line-height:30px;
-box-sizing:border-box;
-padding:5px 10px;
-margin:0 0 10px;
-border:1px solid #ebebeb;
-border-radius:2px
-}
-.contact-form-email{
-float:left;
-width:100%;
-height:30px;
-font-family:inherit;
-font-size:13px;
-line-height:30px;
-box-sizing:border-box;
-padding:5px 10px;
-margin:0 0 10px;
-border:1px solid #ebebeb;
-border-radius:2px
-}
-.contact-form-email-message{
-float:left;
-width:100%;
-font-family:inherit;
-font-size:13px;
-box-sizing:border-box;
-padding:5px 10px;
-margin:0 0 10px;
-border:1px solid #ebebeb;
-border-radius:2px
-}
-.contact-form-button-submit{
-float:left;
-width:100%;
-height:30px;
-background-color:#D52C1F;
-font-size:13px;
-color:#fff;
-line-height:30px;
-cursor:pointer;
-box-sizing:border-box;
-padding:0 10px;
-margin:0;
-border:0;
-border-radius:2px;
-transition:background .17s ease
-}
-.contact-form-button-submit:hover{
-background-color:#202020
-}
-.contact-form-error-message-with-border{
-float:left;
-width:100%;
-background-color:#fbe5e5;
-font-size:11px;
-text-align:center;
-line-height:11px;
-padding:3px 0;
-margin:10px 0;
-box-sizing:border-box;
-border:1px solid #fc6262
-}
-.contact-form-success-message-with-border{
-float:left;
-width:100%;
-background-color:#eaf6ff;
-font-size:11px;
-text-align:center;
-line-height:11px;
-padding:3px 0;
-margin:10px 0;
-box-sizing:border-box;
-border:1px solid #5ab6f9
-}
-.contact-form-cross{
-margin:0 0 0 3px
-}
-.contact-form-error-message,.contact-form-success-message{
-margin:0
-}
-.BlogSearch .search-input{
-float:left;
-width:75%;
-height:30px;
-background-color:#fff;
-font-weight:400;
-font-size:13px;
-line-height:30px;
-box-sizing:border-box;
-padding:5px 10px;
-border:1px solid #ebebeb;
-border-right-width:0;
-border-radius:2px 0 0 2px
-}
-.BlogSearch .search-action{
-float:right;
-width:25%;
-height:30px;
-font-family:inherit;
-font-size:13px;
-line-height:30px;
-cursor:pointer;
-box-sizing:border-box;
-background-color:#D52C1F;
-color:#fff;
-padding:0 5px;
-border:0;
-border-radius:0 2px 2px 0;
-transition:background .17s ease
-}
-.BlogSearch .search-action:hover{
-background-color:#202020
-}
-.Profile .profile-img{
-float:left;
-width:80px;
-height:80px;
-margin:0 15px 0 0;
-transition:all .17s ease
-}
-.Profile .profile-datablock{
-margin:0
-}
-.Profile .profile-data .g-profile{
-display:block;
-font-size:18px;
-color:#5100ff;
-font-weight:700;
-margin:0 0 5px;
-transition:color .17s ease
-}
-.Profile .profile-data .g-profile:hover{
-color:#D52C1F
-}
-.Profile .profile-info > .profile-link{
-color:#5100ff;
-font-size:11px;
-margin:5px 0 0;
-transition:color .17s ease
-}
-.Profile .profile-info > .profile-link:hover{
-color:#D52C1F
-}
-.Profile .profile-datablock .profile-textblock{
-display:none
-}
-.common-widget .LinkList ul li,.common-widget .PageList ul li{
-width:calc(50% - 5px);
-padding:7px 0 0
-}
-.common-widget .LinkList ul li:nth-child(odd),.common-widget .PageList ul li:nth-child(odd){
-float:left
-}
-.common-widget .LinkList ul li:nth-child(even),.common-widget .PageList ul li:nth-child(even){
-float:right
-}
-.common-widget .LinkList ul li a,.common-widget .PageList ul li a{
-display:block;
-color:#5100ff;
-font-size:13px;
-font-weight:400;
-transition:color .17s ease
-}
-.common-widget .LinkList ul li a:hover,.common-widget .PageList ul li a:hover{
-color:#D52C1F
-}
-.common-widget .LinkList ul li:first-child,.common-widget .LinkList ul li:nth-child(2),.common-widget .PageList ul li:first-child,.common-widget .PageList ul li:nth-child(2){
-padding:0
-}
-#grid-wrapper {
-overflow: hidden;
-margin: 30px 0;
-}
-#grid-wrapper .container {
-margin: 0 auto;
-}
-#grid-wrapper .widget-title {
-position: relative;
-overflow:hidden;
-float: left;
-text-align:center;
-width: 100%;
-height: 60px;
-background-color: #ffffff;
-display: block;
-margin: 0 0 25px;
-}
-#grid-wrapper .widget-title > h3 {
-display: inline-block;
-height: 60px;
-font-size: 26px;
-color: #5100ff;
-background-color: #ffffff;
-font-weight: 700;
-line-height: 60px;
-text-transform: capitalize;
-text-align: center;
-padding: 0 15px;
-margin: 0;
-position: relative;
-}
-#grid-wrapper .widget-title:before, #grid-wrapper .widget-title:after {
-content: "";
-position: absolute;
-top: 50%;
-border-bottom: 1px solid;
-border-color: #131313;
-width: 100%;
-margin: 0;
-left: 0;
-right:0;
-}
-#grid-wrapper .widget-title:before{
-right: 100%;
-}
-#grid-wrapper .widget-title:after{
-left:100%;
-}
-#grid-wrapper .widget {
-display:none;
-}
-#grid-wrapper .show-widget {
-display:block;
-}
-ul.grid-big{
-float:left;
-display:flex;
-flex-wrap:wrap;
-margin:0 -15px
-}
-.grid-big li{
-position:relative;
-float:left;
-width:33.333%;
-overflow:hidden;
-box-sizing:border-box;
-padding:0 15px;
-margin:30px 0 0
-}
-.grid-big li.item-0,.grid-big li.item-1,.grid-big li.item-2{
-margin:0
-}
-.grid-big .feat-inner{
-position:relative;
-float:left;
-width:100%;
-overflow:hidden
-}
-.grid-big .post-image-link{
-position:relative;
-float:left;
-width:100%;
-height:230px;
-display:block;
-overflow:hidden;
-margin:0 0 13px
-}
-.grid-big .post-title{
-overflow:hidden;
-font-size:18px;
-font-weight:500;
-line-height:1.4em;
-margin:0 0 10px
-}
-.grid-big .post-info{
-float:left;
-width:100%
-}
-.grid-big .post-title a{
-color:#5100ff;
-transition:color .17s ease
-}
-.grid-big .post-title a:hover{
-color:#D52C1F
-}
-#footer-wrapper{
-background-color:#111111
-}
-#footer-wrapper .container{
-position:relative;
-overflow:hidden;
-margin:0 auto;
-padding:25px 0
-}
-#sub-footer-wrapper{
-color:#ffffff;
-display:block;
-padding:0;
-width:100%;
-overflow:hidden;
-border-top:1px solid rgba(158, 158, 158, 0.23)
-}
-#sub-footer-wrapper .container{
-overflow:hidden;
-margin:0 auto;
-padding:10px 0
-}
-#menu-footer{
-float:right;
-position:relative;
-display:block
-}
-#menu-footer .widget > .widget-title{
-display:none
-}
-#menu-footer ul li{
-float:left;
-display:inline-block;
-height:34px;
-padding:0;
-margin:0
-}
-#menu-footer ul li a{
-font-size:12px;
-font-weight:400;
-display:block;
-color:#ffffff;
-line-height:34px;
-padding:0 10px;
-margin:0 0 0 5px;
-transition:color .17s ease
-}
-#menu-footer ul li:last-child a{
-padding:0 0 0 5px
-}
-#menu-footer ul li a:hover{
-color:#D52C1F
-}
-#sub-footer-wrapper .copyright-area{
-font-size:12px;
-float:left;
-height:34px;
-line-height:34px;
-font-weight:400
-}
-#sub-footer-wrapper .copyright-area a{
-color:#D52C1F;
-transition:color .17s
-}
-.hidden-widgets{
-display:none;
-visibility:hidden
-}
-.back-top{
-display:none;
-z-index:1010;
-width:32px;
-height:32px;
-position:fixed;
-bottom:25px;
-right:25px;
-cursor:pointer;
-overflow:hidden;
-font-size:13px;
-color:#fff;
-text-align:center;
-line-height:32px;
-border-radius:2px
-}
-.back-top:before{
-content:'';
-position:absolute;
-top:0;
-left:0;
-right:0;
-bottom:0;
-background-color:#D52C1F;
-opacity:.5;
-transition:opacity .17s ease
-}
-.back-top:after{
-content:'\f077';
-position:relative;
-font-family:FontAwesome;
-font-weight:400;
-opacity:.8;
-transition:opacity .17s ease
-}
-.back-top:hover:before,.back-top:hover:after,.nav-active .back-top:after,.nav-active .back-top:before{
-opacity:1
-}
-.error404 #main-wrapper{
-width:100%!important;
-margin:0!important
-}
-.error404 #sidebar-wrapper{
-display:none
-}
-.errorWrap{
-color:#5100ff;
-text-align:center;
-padding:80px 0 100px
-}
-.errorWrap h3{
-font-size:160px;
-line-height:1;
-margin:0 0 30px
-}
-.errorWrap h4{
-font-size:25px;
-margin:0 0 20px
-}
-.errorWrap p{
-margin:0 0 10px
-}
-.errorWrap a{
-display:block;
-color:#D52C1F;
-padding:10px 0 0
-}
-.errorWrap a i{
-font-size:20px
-}
-.errorWrap a:hover{
-text-decoration:underline
-}
-@media screen and (max-width: 1100px) {
-#outer-wrapper{
-max-width:100%
-}
-.row{
-width:100%
-}
-#top-bar .container{
-box-sizing:border-box;
-padding:0 20px
-}
-#header-wrap{
-height:auto
-}
-.header-header{
-height:auto;
-box-sizing:border-box;
-padding:25px 20px
-}
-.header-menu .container {
-border:none;
-}
-.header-menu{
-box-sizing:border-box;
-padding:0 20px
-}
-#hot-wrapper{
-box-sizing:border-box;
-padding:0 20px
-}
-#grid-wrapper .container{
-box-sizing:border-box;
-padding:0 20px
-}
-#content-wrapper{
-position:relative;
-box-sizing:border-box;
-padding:0 20px;
-margin:30px 0 0
-}
-#footer-wrapper .container{
-box-sizing:border-box;
-padding:25px 20px
-}
-#sub-footer-wrapper .container{
-box-sizing:border-box;
-padding:10px 20px
-}
-}
-@media screen and (max-width: 1024px) {
-}
-@media screen and (max-width: 980px) {
-#content-wrapper > .container{
-margin:0
-}
-.main-slider .post-title {
-font-size: 26px;
-}
-.hot-posts .item-0 .post-title, .hot-posts .item-1 .post-title {
-font-size: 24px;
-}
-.header-logo{
-max-width:100%;
-width:100%;
-text-align:center;
-padding:20px 0
-}
-.header-logo .header-image-wrapper{
-display:inline-block
-}
-.header-menu{
-background:#00b7ff;
-}
-#main-menu{
-display:none
-}
-.slide-menu-toggle,.mobile-menu{
-display:block
-}
-#header-wrap{
-padding:0
-}
-.header-header{
-background-color:#fff;
-padding:0
-}
-.header-header .container.row{
-width:98%
-}
-#header-inner a{
-display:inline-block!important
-}
-#main-wrapper,#sidebar-wrapper{
-width:100%;
-padding:0
-}
-.item #sidebar-wrapper{
-margin-top:20px
-}
-}
-@media screen and (max-width: 880px) {
-#hot-section .show-hot .widget-content,#hot-section .hot-posts{
-height:auto
-}
-#hot-section .loader{
-height:200px
-}
-.hot-posts .item-0{
-height: 320px;
-}
-.hot-posts .hot-item {
-width: calc(100% / 2);
-height: 220px;
-}
-.hot-posts .item-0, .hot-posts .item-1 {
-width: 100%;
-}
-#slider-section .show-slider .widget-content,.main-slider,.main-slider .slider-item{
-height:300px
-}
-.main-slider .post-info-wrap {
-padding: 30px;
-}
-.grid-big li {
-width: 50%;
-}
-.grid-big li.item-2 {
-margin: 30px 0 0;
-}
-.footer-widgets-wrap{
-display:block
-}
-#footer-wrapper .footer{
-width:100%;
-margin-right:0
-}
-#footer-sec2,#footer-sec3{
-margin-top:25px
-}
-}
-@media screen and (max-width: 680px) {
-#slider-section .show-slider .widget-content,.main-slider,.main-slider .slider-item{
-height:250px
-}
-#hot-section .show-hot .widget-content,#hot-section .hot-posts{
-height:auto
-}
-#hot-section .loader{
-height:200px
-}
-.hot-posts .hot-item{
-width:100%;
-height:180px;
-margin:2px 0 0
-}
-.hot-posts .item-0{
-margin:0
-}
-.grid-big li {
-width: 50%;
-}
-.grid-big li.item-2 {
-margin: 30px 0 0;
-}
-.post-read-link {
-display: none;
-}
-#grid-wrapper .widget-title {
-height: 45px;
-}
-#grid-wrapper .widget-title > h3 {
-font-size: 18px;
-line-height: 45px;
-}
-.index-post{
-width:100%
-}
-#menu-footer,#sub-footer-wrapper .copyright-area{
-width:100%;
-height:auto;
-line-height:inherit;
-text-align:center
-}
-#menu-footer{
-margin:10px 0 0
-}
-#sub-footer-wrapper .copyright-area{
-margin:10px 0
-}
-#menu-footer ul li{
-float:none;
-height:auto
-}
-#menu-footer ul li a{
-line-height:inherit;
-margin:0 3px 5px
-}
-}
-@media screen and (max-width: 560px) {
-#slider-section .show-slider .widget-content,.main-slider,.main-slider .slider-item{
-height:250px
-}
-.main-slider .post-info-wrap {
-top: 0;
-left: 0;
-right: 0;
-bottom: 0;
-max-width: 100%;
-padding: 15px;
-opacity: 1;
-transform: none;
-}
-.main-slider .owl-item.active .post-info-wrap {
-transform: none;
-}
-.main-slider .post-info {
-position: absolute;
-top: 50%;
-left: 50%;
-width: 80%;
-opacity: 0;
-transform: translate(-50%,-40%);
-transition: transform .5s ease;
-}
-.main-slider .owl-item.active .post-info {
-opacity: 1;
-transform: translate(-50%,-50%);
-}
-.main-slider .post-title {
-font-size: 18px;
-}
-.top-bar-nav{
-display:none
-}
-.top-bar-social {
-width: 100%;
-text-align: center;
-position: relative;
-top: auto;
-right: auto;
-clear: both;
-margin-top: 5px;
-}
-.top-bar-social ul > li{
-float:none
-}
-.top-bar-social ul > li > a{
-margin:0 5px
-}
-.top-bar-social ul > li:last-child > a{
-padding:0 5px
-}
-.hot-posts .hot-item {
-height:160px
-}
-.grid-posts {
-grid-template-columns: 1fr;
-grid-gap: 0;
-}
-.grid-big li {
-width: 100%;
-}
-.grid-big li.item-1, .grid-big li.item-2 {
-margin: 30px 0 0;
-}
-.index-post .post-image-wrap{
-width:100%;
-height:200px;
-margin:0 0 15px
-}
-.index-post .post-info > h2 {
-font-size: 28px;
-line-height: 1.3em;
-}
-.post-snippet {
-font-size: 14px;
-}
-.index-post .post-info{
-float:left;
-width:100%
-}
-.share-links li a span{
-display:none
-}
-.share-links li.facebook,.share-links li.twitter{
-width:32px
-}
-ul.related-posts{
-margin:0
-}
-.related-posts .related-item{
-width:100%;
-padding:0;
-margin:20px 0 0
-}
-.related-posts .item-0{
-margin:0
-}
-.related-posts .post-tag{
-display:none
-}
-.related-posts .post-image-link{
-width:80px;
-height:60px;
-float:left;
-margin:0 12px 0 0
-}
-.related-posts .post-title{
-font-size:13px;
-overflow:hidden;
-margin:0 0 5px
-}
-.post-reactions{
-display:none
-}
-}
-@media screen and (max-width: 440px) {
-.hot-posts .item-0 .post-title,.hot-posts .item-1 .post-title{
-font-size:16px
-}
-.queryMessage{
-text-align:center
-}
-.queryMessage a.show-more{
-width:100%;
-margin:10px 0 0
-}
-.item-post h1.post-title{
-font-size:24px
-}
-.about-author{
-text-align:center
-}
-.about-author .avatar-container{
-float:none;
-display:table;
-margin:0 auto 10px
-}
-#comments ol{
-padding:0
-}
-.errorWrap{
-padding:70px 0 100px
-}
-.errorWrap h3{
-font-size:120px
-}
-}
-@media screen and (max-width: 360px) {
-.about-author .avatar-container{
-width:60px;
-height:60px
-}
-}
-
---></style>
+<meta name="generator" content="Pixieset" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="csrf-token" content="7UEzmi9iddiUNr1ComRzSUwJEErobFmnHhyzpvGQ" />
+<title>Shaon Ahmed Ronok</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images-pw.pixieset.com/profile/928776/38204a852bab9af5adf799de7f3270b979a92f9a10537a70cae6d2607179ddcf.ico">
+<link rel="canonical" href="https://sapiensshaon.mypixieset.com/" />
+<meta property="og:site_name" content="Shaon Ahmed Ronok" />
+<meta property="og:title" content="Shaon Ahmed Ronok" />
+<meta property="og:url" content="https://sapiensshaon.mypixieset.com/" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://images-pw.pixieset.com/elementfield/569580673/Untitled_1-f59e5fef-1500.png" />
+<meta property="og:image:width" content="1080" />
+<meta property="og:image:height" content="1075" />
+<meta itemprop="name" content="Shaon Ahmed Ronok" />
+<meta itemprop="url" content="https://sapiensshaon.mypixieset.com/" />
+<meta itemprop="thumbnailUrl" content="https://images-pw.pixieset.com/elementfield/569580673/Untitled_1-f59e5fef-1500.png" />
+<meta name="twitter:title" content="Shaon Ahmed Ronok" />
+<meta name="twitter:image" content="https://images-pw.pixieset.com/elementfield/569580673/Untitled_1-f59e5fef-1500.png" />
+<meta name="twitter:url" content="https://sapiensshaon.mypixieset.com/" />
+<meta name="twitter:card" content="summary" />
+<meta name="description" content>
+<style class="js-dom-cleanup">
+		a,
+		.dropdown-menu {
+			-webkit-transition: none !important;
+			-moz-transition: none !important;
+			-ms-transition: none !important;
+			-o-transition: none !important;
+			transition: none !important;
+		}
+	</style>
 <style>
-  .firstcharacter{
-    float:left;
-    color:#27ae60;
-    font-size:75px;
-    line-height:60px;
-    padding-right:8px;
-}
- .post-body p{
-    margin-bottom:25px
-}
- .post-body h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6{
-    color:#000;
-    line-height:1.3em;
-    margin:0 0 20px
-}
- .post-body img{
-    height:auto!important
-}
- blockquote{
-    position:relative;
-    background-color:rgba(155,155,155,0.05);
-    color:#000000;
-    font-style:normal;
-    padding:20px 25px;
-    margin:0;
-    border-radius:3px
-}
- blockquote:before{
-    position:absolute;
-    left:10px;
-    top:10px;
-    content:'\f10e';
-    font-family:FontAwesome;
-    font-size:33px;
-    font-style:normal;
-    font-weight:900;
-    color:#000;
-    line-height:1;
-    opacity:.05;
-    margin:0
-}
- .post-body .responsive-video-wrap{
-    position:relative;
-    width:100%;
-    padding:0;
-    padding-top:56%
-}
- .post-body .responsive-video-wrap iframe{
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%
-}
- .post-body ul{
-    padding:0 0 0 15px;
-    margin:10px 0
-}
- .post-body li{
-    margin:5px 0;
-    padding:0
-}
- .post-body ul li,.post-body ol ul li{
-    list-style:none
-}
- .post-body ul li:before{
-    display:inline-block;
-    content:'\2022';
-    margin:0 5px 0 0
-}
- .post-body ol{
-    counter-reset:ify;
-    padding:0 0 0 15px;
-    margin:10px 0
-}
- .post-body ol > li{
-    counter-increment:ify;
-    list-style:none
-}
- .post-body ol > li:before{
-    display:inline-block;
-    content:counters(ify,'.')'.';
-    margin:0 5px 0 0
-}
- .post-body u{
-    text-decoration:underline
-}
- .post-body strike{
-    text-decoration:line-through
-}
- .post-body sup{
-    vertical-align:super
-}
- .post-body a{
-  
-}
- .post-body a:hover{
-}
- .post-body a.button{
-    display:inline-block;
-    height:34px;
-    background-color:#2c3e50;
-    font-size:14px;
-    color:#ffffff;
-    font-weight:400;
-    line-height:34px;
-    text-align:center;
-    text-decoration:none;
-    cursor:pointer;
-    padding:0 20px;
-    margin:0 6px 8px 0
-}
- .post-body a.colored-button{
-    color:#fff
-}
- .post-body a.button:hover{
-    background-color:#f47500;
-    color:#fff
-}
- .post-body a.colored-button:hover{
-    background-color:#f47500!important;
-    color:#fff!important
-}
- .button:before{
-    float:left;
-    font-family:FontAwesome;
-    font-weight:900;
-    display:inline-block;
-    margin:0 8px 0 0
-}
- .button.preview:before{
-    content:'\f06e'
-}
- .button.download:before{
-    content:'\f019'
-}
- .button.link:before{
-    content:'\f0c1'
-}
- .button.cart:before{
-    content:'\f07a'
-}
- .button.info:before{
-    content:'\f06a'
-}
- .button.share:before{
-    content:'\f1e0'
-}
- .button.contact:before{
-    content:'\f0e0';
-    font-weight:400
-}
- .alert-message{
-    position:relative;
-    display:block;
-    padding:15px;
-    border:1px solid rgba(155,155,155,0.1);
-    border-radius:3px
-}
- .alert-message.alert-success{
-    background-color:rgba(34,245,121,0.03);
-    border:1px solid rgba(34,245,121,0.5)
-}
- .alert-message.alert-info{
-    background-color:rgba(55,153,220,0.03);
-    border:1px solid rgba(55,153,220,0.5)
-}
- .alert-message.alert-warning{
-    background-color:rgba(185,139,61,0.03);
-    border:1px solid rgba(185,139,61,0.5)
-}
- .alert-message.alert-error{
-    background-color:rgba(231,76,60,0.03);
-    border:1px solid rgba(231,76,60,0.5)
-}
- .alert-message:before{
-    font-family:FontAwesome;
-    font-size:16px;
-    font-weight:900;
-    display:inline-block;
-    margin:0 5px 0 0
-}
- .alert-message.alert-success:before{
-    content:'\f058';
-    color:rgba(34,245,121,1)
-}
- .alert-message.alert-info:before{
-    content:'\f05a';
-    color:rgba(55,153,220,1)
-}
- .alert-message.alert-warning:before{
-    content:'\f06a';
-    color:rgba(185,139,61,1)
-}
- .alert-message.alert-error:before{
-    content:'\f057';
-    color:rgba(231,76,60,1)
-}
- .post-body table{
-    width:100%;
-    overflow-x:auto;
-    text-align:left;
-    margin:0;
-    border-collapse:collapse;
-    border:1px solid #161619
-}
- 
- .post-body table td,.post-body table th{
-    padding:7px 15px;
-    border:1px solid #161619
-}
- .post-body table thead th{
-    color:#000;
-    font-weight:700;
-    text-align:left;
-    vertical-align:bottom
-}
- table.tr-caption-container,table.tr-caption-container td,table.tr-caption-container th{
-    line-height:1;
-    padding:0;
-    border:0
-}
- table.tr-caption-container td.tr-caption{
-    font-size:13px;
-    color:#666666;
-    padding:6px 0 0
-}
- .tocify-wrap{
-    display:flex;
-    width:100%;
-    clear:both;
-    margin:0
-}
- .tocify-inner{
-    position:relative;
-    max-width:100%;
-    background-color:rgba(155,155,155,0.05);
-    display:flex;
-    flex-direction:column;
-    overflow:hidden;
-    font-size:14px;
-    color:#000000;
-    line-height:1.6em;
-    border:1px solid rgba(155,155,155,0.1);
-    border-radius:3px
-}
- a.tocify-title{
-    position:relative;
-    height:38px;
-    font-size:16px;
-    color:#000000;
-    font-weight:700;
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    padding:0 15px;
-    margin:0
-}
- .tocify-title-text{
-    display:flex
-}
- .tocify-title-text:before{
-    content:'\f0cb';
-    font-family:FontAwesome;
-    font-size:14px;
-    font-weight:900;
-    margin:0 6px 0 0
-}
- .tocify-title:after{
-    content:'\f078';
-    font-family:FontAwesome;
-    font-size:12px;
-    font-weight:900;
-    margin:0 0 0 25px
-}
- .tocify-title.is-expanded:after{
-    content:'\f077'
-}
- a.tocify-title:hover{
-    text-decoration:none
-}
- #tocify{
-    display:none;
-    padding:0 15px 10px;
-    margin:0
-}
- #tocify ol{
-    padding:0 0 0 15px
-}
- .rtl #tocify ol{
-    padding:0 15px 0 0
-}
- #tocify li{
-    font-size:14px;
-    margin:8px 0
-}
- #tocify li a{
-    color:#f47500
-}
- #tocify li a:hover{
-    color:#f47500;
-    text-decoration:underline
-}
- .post-body .contact-form{
-    display:table;
-}
- .contact-form .widget-title{
-    display:none
-}
- .contact-form .contact-form-name{
-    width:calc(50% - 5px)
-}
- .contact-form .contact-form-email{
-    float:right;
-    width:calc(50% - 5px)
-}
- .post-body pre,pre.code-box{
-    position:relative;
-    display:block;
-    background-color:rgba(155,155,155,0.05);
-    font-family:Monospace;
-    font-size:13px;
-    color:#47474a;
-    white-space:pre-wrap;
-    line-height:1.4em;
-    padding:15px;
-    margin:0;
-    border:1px solid rgba(155,155,155,0.1);
-    border-radius:3px
-}
- .post-body .google-auto-placed{
-    margin:25px 0
-}
-  #hidden-widgets-wrap,.hidden-widgets{
-    display:none;
-    visibility:hidden
-}
-  @media only screen and (max-width: 680px) {
-.post-body table {
-    display: block;
-}
-  }
+	 #block-container-gmWWQQ{}#block-container-gmWWQQ .fb-block-padding-wrap{background-color:var(--primary-background);--backgroundColor:var(--primary-background)}#block-container-gmWWQQ .fb-block{--columns:10;--rows_desktop:8;--rows_tablet:12;--rows_mobile:16;--correctionHeight:0vw;--correctionHeight_tablet:0vw;--correctionHeight_mobile:0vw}@media (min-width:992px){#block-container-gmWWQQ .fb-block-padding-wrap{--padding-top-scale:1;--padding-bottom-scale:1}{opacity:0}}@media (min-width:768px) and (max-width:991px){#block-container-gmWWQQ .fb-block-padding-wrap{--padding-top-scale:1;--padding-bottom-scale:1}{opacity:0}}@media (max-width:767px){#block-container-gmWWQQ .fb-block-padding-wrap{--padding-top-scale:1;--padding-bottom-scale:1}{opacity:0}}@media (min-width:375.1px) and (max-width:767px){.fb-block--gmWWQQ .fb-block__elements{grid-template-rows:repeat(3, minmax(var(--grid-row-height), auto)) repeat(13, minmax(var(--grid-row-height-text), auto))}}@media (min-width:992px){.fb-block--gmWWQQ .fb-element--1395179{--top:1;--left:9;--width:10;--height:3;--correctionTop:0;--correctionLeft:0;--correctionWidth:0;--correctionHeight:0;--zIndex:1;--rotation:0deg;--ratio:3.3333333333333;pointer-events:auto}}@media (min-width:768px) and (max-width:991px){.fb-block--gmWWQQ .fb-element--1395179{--top:1;--left:10;--width:7;--height:4;--correctionTop:0;--correctionLeft:0;--correctionWidth:0;--correctionHeight:0;--zIndex:1;--rotation:0deg;--ratio:1.75;pointer-events:auto}}@media (max-width:767px){.fb-block--gmWWQQ .fb-element--1395179{--top:1;--left:3;--width:6;--height:3;--correctionTop:0;--correctionLeft:0;--correctionWidth:0;--correctionHeight:0;--zIndex:1;--rotation:0deg;--ratio:2;pointer-events:auto}}@media (min-width:992px){.fb-block--gmWWQQ .fb-element--1395180{--top:5;--left:4;--width:20;--height:5;--correctionTop:0;--correctionLeft:0;--correctionWidth:0;--correctionHeight:0;--zIndex:2;--rotation:0deg;--ratio:6.6666666666667;pointer-events:auto}}@media (min-width:768px) and (max-width:991px){.fb-block--gmWWQQ .fb-element--1395180{--top:6;--left:3;--width:22;--height:7;--correctionTop:0;--correctionLeft:0;--correctionWidth:0;--correctionHeight:0;--zIndex:2;--rotation:0deg;--ratio:3.6666666666667;pointer-events:auto}}@media (max-width:767px){.fb-block--gmWWQQ .fb-element--1395180{--top:4;--left:2;--width:8;--height:13;--correctionTop:0;--correctionLeft:0;--correctionWidth:0;--correctionHeight:0;--zIndex:2;--rotation:0deg;--ratio:0.61538461538462;pointer-events:auto}}
 </style>
-<!-- Global Variables -->
-<script type='text/javascript'>
-//<![CDATA[
-// Global variables with content. "Available for Edit"
-var monthFormat = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
-    noThumbnail = "https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w680/nth.png",
-    postPerPage = 7,
-    fixedSidebar = true,
-    commentsSystem = "blogger",
-    disqusShortname = "soratemplates";
-//]]>
-</script>
-<!-- Google Analytics -->
-<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
-<meta name='google-adsense-platform-domain' content='blogspot.com'/>
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?display=swap&family=Cabin&family=Josefin+Sans&family=Signika+Negative&family=Archivo&family=Libre+Baskerville&family=Kanit&family=Arimo&family=Bebas+Neue&family=Fjalla+One&family=Anton&family=Open+Sans&family=Dancing+Script&family=Space+Grotesk&family=DM+Serif+Display&family=Indie+Flower&family=Courgette&family=Architects+Daughter"></head>
-<body class='index home'>
-<!-- Theme Options -->
-<div class='theme-options' style='display:none'>
-<div class='sora-panel section' id='sora-panel' name='Theme Options'><div class='widget LinkList' data-version='2' id='LinkList70'>
-
-          <style type='text/css'>
-          
-
-          </style>
-        
-</div><div class='widget LinkList' data-version='2' id='LinkList71'>
-
-          <script type='text/javascript'>
-          //<![CDATA[
-          
-
-              var disqusShortname = "soratemplates";
-            
-
-              var fixedSidebar = true;
-            
-
-              var postPerPage = 6;
-            
-
-              var postPerPage = 5;
-            
-
-          //]]>
-          </script>
-        
-</div></div>
-</div>
-<!-- Outer Wrapper -->
-<div id='outer-wrapper'>
-<!-- Header Wrapper -->
-<div id='header-wrap'>
-<!-- Main Top Bar -->
-<div id='top-bar'>
-<div class='container row'>
-<div class='top-bar-nav section' id='top-bar-nav' name='Top Navigation'><div class='widget LinkList' data-version='2' id='LinkList72'>
-<div class='widget-content'>
-<ul>
-<li><a href='/'>Home</a></li>
-<li><a href='#'>About</a></li>
-<li><a href='#'>Contact</a></li>
-</ul>
-</div>
-</div></div>
-<!-- Top Social -->
-<div class='top-bar-social social section' id='top-bar-social' name='Social Top'><div class='widget LinkList' data-version='2' id='LinkList73'>
-<div class='widget-content'>
-<ul>
-<li class='youtube'><a href='https://www.youtube.com/@sapiensshaonn' target='_blank' title='youtube'></a></li>
-<li class='facebook'><a href='#' target='_blank' title='facebook'></a></li>
-<li class='instagram'><a href='#' target='_blank' title='instagram'></a></li>
-<li class='twitter'><a href='#' target='_blank' title='twitter'></a></li>
-</ul>
-</div>
-</div></div>
-<div class='clearfix'></div>
-</div>
-</div>
-<div class='header-header'>
-<div class='container row'>
-<div class='header-logo section' id='header-logo' name='Header Logo'><div class='widget Header' data-version='2' id='Header1'>
-<div class='header-widget'>
-<a class='header-image-wrapper' href='https://sapiensshaon.blogspot.com/'>
-<img alt='Sapiens Shaon' data-height='653' data-width='1600' src='https://blogger.googleusercontent.com/img/a/AVvXsEjQQsnvme1lijbgSKbNVHrbHGSNMlH0avwlEWB5x8wutuASHUxAG2EOZegDyyWhEcIrlja0NPO2ukUCCfR_Tn2X91nHvQnYWDt6w9j7wUkO0GPTpnmArZIBe5W-aDiF0w16RYzAhZXmluini4XGslGQN1LpJPU2ehUEyeNxUyzBb_2i4Yfjxfgin1MGjO0=s1600'/>
-</a>
-</div>
-</div></div>
-</div>
-</div>
-<div class='header-menu'>
-<div class='mobile-menu'></div>
-<div class='container row'>
-<span class='slide-menu-toggle'></span>
-<div class='main-menu section' id='main-menu' name='Main Menu'><div class='widget LinkList' data-version='2' id='LinkList74'>
-<ul id='main-menu-nav' role='menubar'>
-<li><a href='/' role='menuitem'>Home</a></li>
-<li><a href='#' role='menuitem'>Cetagories</a></li>
-<li><a href='https://sapiensshaon.blogspot.com/search/label/Dawn%20of%20Deus?&max-results=5&m=1' role='menuitem'>_Dawn of Deus</a></li>
-<li><a href='https://sapiensshaon.blogspot.com/search/label/Humanism%20%26%20Altruism?&max-results=5&m=1' role='menuitem'>_Humanism & Altruism</a></li>
-<li><a href='https://sapiensshaon.blogspot.com/search/label/Theory%20%26%20Thesis?&max-results=5&m=1' role='menuitem'>_Theory & Thesis</a></li>
-<li><a href='https://sapiensshaon.blogspot.com/search/label/Ai?&max-results=5&m=1' role='menuitem'>_AI</a></li>
-<li><a href='#' role='menuitem'>__Coming Soon...</a></li>
-<li><a href='#' role='menuitem'>__Coming So</a></li>
-<li><a href='#' role='menuitem'>Projects & Resources</a></li>
-<li><a href='https://shalvaview.mypixieset.com' role='menuitem'>_Visit our Photography Website</a></li>
-<li><a href='https://sapiensshaon.blogspot.com/2023/10/lets-discover-some-incredible-stunning.html?m=1' role='menuitem'>_Resources</a></li>
-</ul>
-</div></div>
-<div id='nav-search'>
-<form action='https://sapiensshaon.blogspot.com/search' class='search-form' role='search'>
-<input autocomplete='off' class='search-input' name='q' placeholder='Search this blog' type='search' value=''/>
-<span class='hide-search'></span>
-</form>
-</div>
-<span class='show-search'></span>
-</div>
-</div>
-</div>
-<div class='clearfix'></div>
-<!-- Content Wrapper -->
-<div class='row' id='content-wrapper'>
-<div class='container'>
-<!-- Main Wrapper -->
-<div id='main-wrapper'>
-<div class='main section' id='main' name='Main Posts'><div class='widget Blog' data-version='2' id='Blog1'>
-<div class='blog-posts hfeed container index-post-wrap'>
-<div class='grid-posts'>
-<div class='blog-post hentry index-post'>
-<div class='post-image-wrap'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/11/what-is-humanity.html'>
-<img alt='What is Humanity❓' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc7VAV2MC-x8mlxZAF8pZFNlED610Y4fwEvoSgvysLy0sUjdla38kfLbxl252_sTbS7Ii8EWx_17883N8WjAI5T6OoFJGQeP-a6uKTsJ0bmLAETaHlXwoXADAtvVMA6gB4V76u63xVGL0-I76ZZApwKJDo5x_XUD8TeIVn32CoEsCf_iWRW-UW6CO26rM/w72-h72-p-k-no-nu/Humanity,%20Humanity%20above%20everything.jpg'/>
-</a>
-<span class='post-tag index-post-tag'>
-Humanism &amp; Altruism
-</span>
-</div>
-<div class='post-info'>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-11-30T05:49:00-08:00'>November 30, 2023</span>
-<span class='post-comments'><span class='post-comments-data'>0</span><span class='post-comments-text'>
-Comments</span></span></div>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/11/what-is-humanity.html'>What is Humanity&#10067;</a>
-</h2>
-<div class='post-meta'>
-<span class='post-author'><a href='https://www.blogger.com/profile/10797372003455733448' target='_blank' title='27206 shaon'>27206 shaon</a></span>
-</div>
-<p class='post-snippet'>To understand farther more better &amp; easier way you may read these two PDF from World Famous &amp; Reputable Humanist Organizations - Humanist UK &amp; Humanist International From the Humanist UK   From the Humanist Internatio&#8230;</p>
-<a class='read-more' href='https://sapiensshaon.blogspot.com/2023/11/what-is-humanity.html'>Continue Reading &#187;</a>
-</div>
-</div>
-<div class='blog-post hentry index-post'>
-<div class='post-image-wrap'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/11/update.html'>
-<img alt='Documentary: Dawn of Deus' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjntkehTugmq0knfjTI0f-pUKY3chhqtGZE46NKWZgMhKnwHpcogYBufsmbnKr-cMjBD9xjvMayNv0cte7Ga-QulllMQmM8zVj9uGwM21j06arxvP4oDgFEc52ML-B8pmVEbGlMEbh_Me-sYzhhi1xBO9f2er-uQhsZsSjJGdkYBkwWkUlCi3X4YJou64s/w72-h72-p-k-no-nu/20231130_210905.jpg'/>
-</a>
-<span class='post-tag index-post-tag'>
-Dawn of Deus
-</span>
-</div>
-<div class='post-info'>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-11-26T08:58:00-08:00'>November 26, 2023</span>
-<span class='post-comments'><span class='post-comments-data'>0</span><span class='post-comments-text'>
-Comments</span></span></div>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/11/update.html'>Documentary: Dawn of Deus</a>
-</h2>
-<div class='post-meta'>
-<span class='post-author'><a href='https://www.blogger.com/profile/18052574788818552359' target='_blank' title='Sapiens Shaon'>Sapiens Shaon</a></span>
-</div>
-<p class='post-snippet'>To know more Click Here  📣 Announcement &amp; Help📢(Read the entire text 🙏) &#8220; 🔹I&#39;ll bring a Documentary with tiny scope on my YouTube Channel. Either by connecting or collaborating with anybody or by just myself. I decide&#8230;</p>
-<a class='read-more' href='https://sapiensshaon.blogspot.com/2023/11/update.html'>Continue Reading &#187;</a>
-</div>
-</div>
-<div class='blog-post hentry index-post'>
-<div class='post-image-wrap'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/10/lets-discover-some-incredible-stunning.html'>
-<img alt='Splendid Resources' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7z3b0q0fVXqidWo8_MgkY95KQ5Xjw-L6gKx6e6oRvvjouWzvHNkOAnQwJxBmIitzM98TrbRUbKXLVEy8Q8_Xdgq7UhlIgMJeOMDrO_a-skBVA1upCngnAW2FnHO428C0hp4MGGnsAJhRyY8smdBGeTm5V1V3Byjf5cGTZkRceQ-cqQuUSw_c80FZeo/w72-h72-p-k-no-nu/Resources.jpg'/>
-</a>
-<span class='post-tag index-post-tag'>
-Library
-</span>
-</div>
-<div class='post-info'>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-10-04T02:54:00-07:00'>October 04, 2023</span>
-<span class='post-comments'><span class='post-comments-data'>0</span><span class='post-comments-text'>
-Comments</span></span></div>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/10/lets-discover-some-incredible-stunning.html'>Splendid Resources</a>
-</h2>
-<div class='post-meta'>
-<span class='post-author'><a href='https://www.blogger.com/profile/18052574788818552359' target='_blank' title='Sapiens Shaon'>Sapiens Shaon</a></span>
-</div>
-<p class='post-snippet'>Let&#39;s discover some incredible &amp; stunning websites, journals, magazines, or resources based on Science... Here are a few of them 👇👇👇 Websites/Blogs/Magazines &#160; English: &#160; &#160; &#160; &#160; &#160; &#160;🧿 Nature &#160; &#160; &#160; &#160; 🧿 BBC Science Focus&#8230;</p>
-<a class='read-more' href='https://sapiensshaon.blogspot.com/2023/10/lets-discover-some-incredible-stunning.html'>Continue Reading &#187;</a>
-</div>
-</div>
-<div class='blog-post hentry index-post'>
-<div class='post-image-wrap'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/09/incest-curse.html'>
-<img alt='"Incest"~ a Curse' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLiNnrX_XwmWMLVgArhjdBMRy1cPd9iJHsqhfwtxiyZCWwvELQGgG1qOIi0luqSxEhBfC42OGZK4q2RvzJmLviVWDrhKXK1X3kuqI6EOoBdwojxjza2X7qr47lkN8KWN5xXKuEFiScduEIYpfGiPTEdOw0QRcdrb86dzKrxjyWgLAFmEV-SDN51nnVnr0/w72-h72-p-k-no-nu/Incest,%20a%20Curse.jpg'/>
-</a>
-<span class='post-tag index-post-tag'>
-Incest&#10060;
-</span>
-</div>
-<div class='post-info'>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-09-30T22:45:00-07:00'>September 30, 2023</span>
-<span class='post-comments'><span class='post-comments-data'>0</span><span class='post-comments-text'>
-Comments</span></span></div>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/09/incest-curse.html'>"Incest"~ a Curse</a>
-</h2>
-<div class='post-meta'>
-<span class='post-author'><a href='https://www.blogger.com/profile/18052574788818552359' target='_blank' title='Sapiens Shaon'>Sapiens Shaon</a></span>
-</div>
-<p class='post-snippet'>Coming soon Coming soon              &#8220;Enjoy the MYTH&#8221;       - Shaon Ahmed Ronok</p>
-<a class='read-more' href='https://sapiensshaon.blogspot.com/2023/09/incest-curse.html'>Continue Reading &#187;</a>
-</div>
-</div>
-<div class='blog-post hentry index-post'>
-<div class='post-image-wrap'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/09/evolutionary-biology-part1.html'>
-<img alt='Travel to Theory ' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7JaU3cDaaTOStOJpBtflY26FCtI2zpicSxi48OzlZyTrPf6YC8Xgp8w_V7ajppWt97OT6aWRPGoIlr8nohqxccX5UviSw4KsQ1CKVUrXeC005IKmXN_XjZnYZ6S-HvcnSTqQSuEGpfBSUaiAJp1Rz_4AVtivdEvg4mM0kRqsmcFQglbs5PI_qJQbd6p0/w72-h72-p-k-no-nu/20231126_222214.jpg'/>
-</a>
-<span class='post-tag index-post-tag'>
-Theory &amp; Thesis
-</span>
-</div>
-<div class='post-info'>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-09-26T07:34:00-07:00'>September 26, 2023</span>
-<span class='post-comments'><span class='post-comments-data'>0</span><span class='post-comments-text'>
-Comments</span></span></div>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/09/evolutionary-biology-part1.html'>Travel to Theory </a>
-</h2>
-<div class='post-meta'>
-<span class='post-author'><a href='https://www.blogger.com/profile/18052574788818552359' target='_blank' title='Sapiens Shaon'>Sapiens Shaon</a></span>
-</div>
-<p class='post-snippet'>Visit our Photography Website  Have you ever thought that what does the word Theory actually means? Well, then let&#39;s deep dive into it right away. Let&#39;s read about &quot;Theory&quot; &#8211; the foundation of how we understand &#8230;</p>
-<a class='read-more' href='https://sapiensshaon.blogspot.com/2023/09/evolutionary-biology-part1.html'>Continue Reading &#187;</a>
-</div>
-</div>
-<div class='blog-post hentry index-post'>
-<div class='post-image-wrap'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/09/thought-of-mine1.html'>
-<img alt='My Thoughts~1' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWGCHh9hy7A3w9nprJpI9hyL93UYcpd7mW84_DGtnxQTSHKMGOXMbs-ElBzTnNzhghSt6k7PynyEo9eGGHdUpO8J3-6lSMEC_hUmlhyphenhyphenkw2dOVMQNjawjGod_C6vMtvmXAD7M0HagIHSkI7_-bHKsQnHD41eILhohRnE4IWbyqSqkzheYuhuOSDdGxyikA/w72-h72-p-k-no-nu/Thoughts.jpg'/>
-</a>
-<span class='post-tag index-post-tag'>
-My Thoughts🧿
-</span>
-</div>
-<div class='post-info'>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-09-12T14:02:00-07:00'>September 12, 2023</span>
-<span class='post-comments'><span class='post-comments-data'>0</span><span class='post-comments-text'>
-Comments</span></span></div>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/09/thought-of-mine1.html'>My Thoughts~1</a>
-</h2>
-<div class='post-meta'>
-<span class='post-author'><a href='https://www.blogger.com/profile/18052574788818552359' target='_blank' title='Sapiens Shaon'>Sapiens Shaon</a></span>
-</div>
-<p class='post-snippet'>Here just I wrote a few... You are the best friend of yourself You are the happiness of yourself Whereas your love it mom dad sister brother relatives friends can leave you (for various purposes or for doing any worst stuff) But,&#8230;</p>
-<a class='read-more' href='https://sapiensshaon.blogspot.com/2023/09/thought-of-mine1.html'>Continue Reading &#187;</a>
-</div>
-</div>
-<div class='blog-post hentry index-post'>
-<div class='post-image-wrap'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/09/httpsshalvaview.blogspot.comaidanger-of-ai.html'>
-<img alt='Untold AI' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjKTgGjGbWPS5bEoL7DJHsRaPvmRGyag8bFlxmqn3c7xfnNZhxeLzZQi3MDdXamEq0bQdUqmF6NXQKk-jCLDZD5NUG67qXmz5jymlUzDCtFQy6FDnQ1uP1AHmRBh7LmU-jpQ1ubQ8DeKkCPLw5cYnpq_d52Zdc7hXx12xfK1OUgzt3671jbRKww2QSHw/w72-h72-p-k-no-nu/AI,%20Artificial%20Intelligence.jpg'/>
-</a>
-<span class='post-tag index-post-tag'>
-Ai
-</span>
-</div>
-<div class='post-info'>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-09-12T13:38:00-07:00'>September 12, 2023</span>
-<span class='post-comments'><span class='post-comments-data'>0</span><span class='post-comments-text'>
-Comments</span></span></div>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/09/httpsshalvaview.blogspot.comaidanger-of-ai.html'>Untold AI</a>
-</h2>
-<div class='post-meta'>
-<span class='post-author'><a href='https://www.blogger.com/profile/18052574788818552359' target='_blank' title='Sapiens Shaon'>Sapiens Shaon</a></span>
-</div>
-<p class='post-snippet'>AI is far more dangerous than we think of. Slow down the development of AI &amp; stuff...(Many powerful Person are saying this) Contents: What the whole world is saying about AI? Rising of AI Does it entirely dangerous or partial&#8230;</p>
-<a class='read-more' href='https://sapiensshaon.blogspot.com/2023/09/httpsshalvaview.blogspot.comaidanger-of-ai.html'>Continue Reading &#187;</a>
-</div>
-</div>
-</div>
-</div>
-<div class='blog-pager container' id='blog-pager'>
-</div>
-</div></div>
-</div>
-<!-- Sidebar Wrapper -->
-<div id='sidebar-wrapper'>
-<div class='sidebar common-widget section' id='sidebar1' name='Sidebar Right (A)'><div class='widget HTML' data-version='2' id='HTML2'>
-<div class='widget-content'>
-//disable Text Selection and Copying
-<script src='demo-to-prevent-copy-paste-on-blogger_files/googleapis.js'>
-</script>
-<script type='text/javascript'>
-	if (typeof document.onselectstart!="undefined" ) { 
-		document.onselectstart=new Function ("return false" );
-	} 
-	else { 
-		document.onmousedown=new Function ("return false" ); 
-		document.onmouseup=new Function ("return true" );
+<style>
+				@font-face {
+	font-family: "Quincy CF";
+	font-weight: 100;
+	font-style: normal;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/n1.woff2?Expires=1704042005&Signature=fIIK43EyanIdf6zfZ8E-6hmjKhYY7wqbwMMQYbCRfpfzkT-dFEtQX-mAK2nyX56qMYgTdaF14AQ3OpsK2yjqAllEVExtNxCxj7RzY6P0GGY6Aj~i3IkyWO2kNVtwULhnbB2sixlqGEIoGYeFQPZGDs~YieEyjqpWywb5fMGZLn-2pY32m9ypKaLpZora5uQ95eR8WYnv4Mrd~Uevyo5yc9x2btwtcWonfSgLCCI-cJV3hQhF786ZyTRWXVgBa6yk-rON1hzsmYSahJt7K~gy84lLZP49Y-lJ7M9tz21LNtaMOHgvnjPuUz3CCsfoBSz3HNCjlqRcJf9Ieov28ddkYQ__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/n1.woff?Expires=1704042005&Signature=RVj6GYdre7MLarlwbE~IMJIWKDvUbUd1avC3YTDhV3CJgYN0PGBc8wlHMp3fAjiMfh0nr~fIkwL7A6PUP9rjIVSE8HMNt~oCYTMESzF1K4QDOW-4GzfyN54AZ7mgGX7L2ikHMEvjTEthLUOqbSUzpvYIassXjshRBjJLWhB4dTsaKkywoePEfWMKV4VrBkxRFOSS4KEsXEm8AaMWhqgNNr1bZP6~JYxNNSsheYYQlKy4F6c2wpjC0k19~XpF4PlYsvp6bbtZvZ9IbqHONsi3raXi~HKIoDGg8LnEEdIDBTAZ4Wb35tGbiatThrAl34b1iVHViOF~4V5Vgs09iyebvQ__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 100;
+	font-style: italic;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/i1.woff2?Expires=1704042005&Signature=ZpNIYKQ5Izk5Mp3peNP9mfEzaknFi-x4XOvzbK44IMsRw~6h7WmosyVIZsNTQC4fQ9~ijiXGwasvP1I44cStkenqboRvvkwBsMTxnnB9LT28SaT2cHhUo7WI8zcy8ZUH86vsQ~l-wp3DYaXnYpDkfYFWm8Ui0GNoxfz3H4V3LlH4vSDD6b9oe-~HCVaI~Vr0VWxCrVEaiFNYIF4QR3guJaGOsI58~7yipiMUQxVtVKXRo~juxohOTKYFIangqtSzJhNIUJ~ELXheNKGgxf-jWYA5rf6El-vs8PFJbIxrBe660YHFgfCNZGlDvrK8dSrPqXEVcxaXw2nsDbRuyfuD5A__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/i1.woff?Expires=1704042005&Signature=XSw3uuXH7EetBT6uHaoSLgo8OLX8sdD77iVq7PiYQvBke-8Uhw-gxBjTIu9-nsAnRvKBiDLXtsCn7nygztbjDfZFh-96KTKEyGU1xtud3W9uLCpYJCbpH-gVDx8rqiSRUj4oMh3Ie6lMrfg~i2YdyjjixcSSdWuYSkfVOCOIRPmA8xDzL~s2xShMF7zigz4pR0ihJakHjSs6CvwpeNrCsFikMQaWIza3mveQCEgZDwndH3YMKTZVksIuk5w8kDrvMHvz8ES~VjL2aIhxwXqJeQRs1ihYGawXyO1du5iaF1WpPaJ4qB6IifRPOex5qiQu9hxlKNrDTHdPXM52muMq0Q__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 300;
+	font-style: normal;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/n3.woff2?Expires=1704042005&Signature=PqCT74XH0Dl8tbmbJ44-3riXs6MlSmRdcfry0wY~eZZb6wwL6h2p7N55YPUZpKvxWYdyQqTaJF~bmn2U8l75V9sUgI~ACLM4OhzQmKoFi6jdAClkOntMKfOpT-Ovpbiyv2ifeROnVg3ue5HFCkSQByT3pDEdNKeyFDz~ZalKGVbN0RMhuitpYC8e8Jgv8vSjLhKqZwxwXxa5ghFIt7NJF14z0fRbTQqHutwI6HEhKV4eTggsj6zVMvVLfwOkTCR~4sx6qcFCj-gaYPs2gxrMLZN~v6esG6Zcuy1APns-diwfPy~gb-PwDnhGA7CPbo-eUETe8w8NG48G5a7OzuZ3TA__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/n3.woff?Expires=1704042005&Signature=Oixq7dnJODCWrFw8rSjxzc~qkyl-aI88~Un8ewVMkRyutsdZQtH~kd8bYkDHrXuIxVk2FF~gstxGD1~DT-VIN94mQSzIKMGu~ukesixZatzX4SHPNmDMDpKaA-7bC~t0nj3jK9nMGK6lmkNwgdnLuYGT6ZT06zuofOOqVjn076hmhyZSBEq~yZw0ap-unO8X~f0PO~dgTEAuTfJn1cC-CGxiQHe23-kUGZDAxeD~mrfrprwEHPIPUHQtAPM8wDg4aB-bhjXdQxpHmBN3BVPdAeRNDrZNQAP6xx7d7Tf7C-mW9MRHhgGmEpY-cRULdXx-AwPPNRoKWb0Zn7XCYxBNFQ__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 300;
+	font-style: italic;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/i3.woff2?Expires=1704042005&Signature=K-ky6mnoUDdOxhgKHSvmbftmEm1t2zYGnmJV1b4-U9EwpG6qJWtpHRVQOa5p-HKKhYL7t8UvgO~1qAi7J3VgE26OjiQwj8P9hPidfarvwL6GsKzlolLJwxABI-BK~2t6BRv1Vbvd9ey79A8Wdoz6cdnXVV78vM-NFloPd~hjTnlaE7vIOWa9V542bUh5oeRIF46uvCXjMyKOY~vp-vYpz6bD9EUcte44Dc-CiUYJvAOhj9S7jq~sf76pyQpV5DiEJmb84BwoChzLBtHGKOxgW5tyPm9hdS4W5PtVaXLIGGYsVX2SUMF3hRyqm4rGunnIjinx~szHSgGT9sbuDvfVow__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/i3.woff?Expires=1704042005&Signature=Qz7WxcTgLQ1~06Fffobn4jJI3Gd6TTVO~i-X8uwufN4t9InK3CSuCH5CPftjoAe-jaTLtZujbDWbvQ8sxC8HRKmHUf25-cMFolq6NDiYi~7KJUj~Ws72p87fV0SdSZOsbvRdsbA3DZYk3I~fZrvYLFCEyjux39fekz10bRAsTM9XSiOaO~I13frEvixw7joeGPqJIX-FVXls-E3RP9OsfL~526xkb7HfQFiqahfHyfg68fSdAReqW2s1yaJbsipqHuUycj8YJ5cCPGAJXviZzvG7tAGQSd~hWNCIvDDesUdYnhYcdDRskNM5mrifx4qvsQPWXOyTCCWtBm2IM57-2w__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 400;
+	font-style: normal;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/n4.woff2?Expires=1704042005&Signature=RXgeYxal~nx5nbT4kRRsrLzopWcxQbGqclrfmh9JZTEzRsfPH66ElvRhNTO1rzKffsiouBfo6fqHNV26DBZQ4QcbiLT0txeLeOZ-vX8XPREq2PdiDB7X-tbuUtECtodurtokqELSBY7jb3zo41-ZVMtfdZ3qmVludQYYhQhAiy1GF7tgMAiA~giFS03YoiwmvneEm4LFBKXW5bFkLuKJWTm7Y2d6PtJ8q2~Yj~k4mWCezB0LkfIzhB4YjMfq42Qg5gz6XegQ-FIWw~rkhyxKA28dVU8BB3FzH21VOnJlSbHMlKB2FaMusik0yPbC5wrtQOpim7zQWTxYrlNuCeMNyw__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/n4.woff?Expires=1704042005&Signature=fpPJkCCm8HFCH2t3T1sDWiuzf9U69l3jO2m7u3VXS1ptrZtkq4plcyw6BY1ElNE-3vM1vuCrWPHUdzLEe4~qwnp2LKD~iqnBHKnkTeqd06W9kTR6SlmyiSd~GteXZtZ0A~a4nA84xMtnQ5fM3cKzPjt8dlzvHXychBkBhCDYmBBWrQTSSVDXIw3xixWaJ6z8DY56-S4cvI01oeLHaU2uBvzasFJk~7cmq7JbBhv7v8PYb5fabZKDQYndLgejw5azEqIS3yIPaYe1kXQdd73~z4~LLxA7d1SCNlnBT7ZZtRdUjeO25A88at~zU7FJ2bxci1qKF94A8EfhVXusKHxHSQ__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 400;
+	font-style: italic;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/i4.woff2?Expires=1704042005&Signature=MNoB3cElkX~p1XwDNnzY0Gcf1eWpzRxEbJvMcQjjkZZSjK2AHSsvmkLVmfczf4EGU6NItN1A~HBGZOTCRObQOLjV1o6AtEw6~KNf3aLf1dlJ4WNLLE-YWn9cRuWLNezTB79-8s1~zQlxifDrfiixgqb-Kf0JNIggyVd6IMJvDUlAH1jWyRkpjX75nTo6KjCuSL-xkixZffX4Kkirw4A9rg8kvA2qpefwnuAc6-I8N6LGUuh4-On02hXCxygOQG9KP79CKKAbzQB0NN0lzx7RE6OOBt6FxhT2DUkKjAOFoFJSIMmDLVZqUNzkEUMSK5KpfE7WBv0FKSrjn3n6qUD3Vg__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/i4.woff?Expires=1704042005&Signature=E3fh1dQi8hPPIHPYp1ChtnokoFERcaMoPdwvuL~liguyefe3MHeRse8T740OT2ylnR00VGDHG1U2FauxzzVFe14I-nyIjOro6xBqtiLLs8TnD-DYhpFLH8yVqGaBM9E4QVGp0SYgjd9lCHrG1Sgb0Xu9WLu5ARX3Qb5E85uFNfT6YfazzUSOeImf~TPk5vZ69DoRAR9--FxRjQ6LTCt5iY-jYWmivelvRXT8qrtMLUc05TtJd2GgUtw1Dl7Wgc3F8S8WCIyaK7PP4vRrokf54CYI-ijncedvQIMnpwmAxTLLdI~aQkFSy-Vwh49UZDlZ4xtDFKVGp3TOm6guM2HJLw__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 500;
+	font-style: normal;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/n5.woff2?Expires=1704042005&Signature=D4JrdJa5TLWLmuQ4bDdRH7j2QJC~n-UMspM7uWHk-01pvzbN-i8rr6WJx-1qabFkyRTkU~ViJstCuLpWE4KLhusaRED4xLkLwh-53l0xK0d4226egJcg9Czud5kff~Cu4n9acF52E7dc9ZbHX-Ad04ZQYEmiIdapJk85YHCPgkFetnHBSHYB4MjPNDf0J4QPnEGqViy4bNRk0WtU306sCpxyC72ROyF--nLR0LtOKTO7FSavLL1YxYQItYvGGX9hozQIKw021EBNSzjoWSDA9RsCXNKv0vlwt8kZrji0Z-ykuAErMlYdSKaq8qYQ5wkV0LMCdQ0omB7zl0RLCQKmmA__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/n5.woff?Expires=1704042005&Signature=MOZJnEyXqtioqQU728EWPiKfnWOLCW7zvhF~YzKLeARhJ1OJAdPAHyGLVg~5eWJm2Hb~aAeTT7NWoRTASf-Jqvrlm1gFse4jB6QqJpLAMMxiuEnu5pOnTCegUngjlfWuCm-yJ-hHZ8Ht9zqgWQ-O2b1ndwl8bp5~t5cV6KirOC47K1sJEmRZnZryP-5706ZFhVGJzcHuiQpbR8j9oX4NwflhwDe93zix5sFVk1OPI0usaBVccFIaAxgnrhOEMgHgjpDilYRB-42fff9tm4c2bkBjHdQ4RxEUROIVYdvsT8o-~4jVfsDwK7qS0CilHQD6oMkqFx3mNlB2bN5JziIecA__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 500;
+	font-style: italic;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/i5.woff2?Expires=1704042006&Signature=AqhJ59Tr2e3TDLwAsk8xrRmiRl8NbAZvb0o8NFxj3J~Edt4XaiBNv6dQ7hj~jHn6dPUtlS-IOZOMRHLibSB-7M63MHD062TRW8qBOMGTQLz9nrpMrMV6X7RLXi~6uLjuTE9m6O4q5CWgcJraK2GC7k8YVLNZUYa1oUDbSTNJVyd-TVrD2DHbxn1qFjIR6E6WOxHdhWK6dW67OAul5i3NFnbNJ0URD8fswn~bb4bodFtTbf14OvhkY14SKBaic6N~lFZb6DaiyXPsPVy0NAFuD3t5QP6rQ16fLFJHObsrW99AW3CSZ92YgrgtvCTGh3bqf-zHn0Lsw4ZHgHTDtx2TxQ__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/i5.woff?Expires=1704042006&Signature=YXw8mAH8MuWIMSj10mXgyU~ziCvqafNPgS2XxSkOVnrsClzxkwC~d6ROWzRxPwhq1zF-pBj52cluafbOPAPvrC5~4zFpSIQLq0GI0I4X1eqbchjK6wLP9mhufbZ6R-1F96~cVknR~ypDiePFLM04MvjnsXL83ID7y8pYuEgbDwOWY~xodc7gMXJ8fG1wDdnIH0KpKJX~hGK-92LICP1Io2YtO0kDhRkyAkSZB7NBG81EZV2E0xS52BbsJRfnzawGx8xj7qjdy-rebBx7niOlUXpSL4RpDsCWkR0pT6feYe1-ojWVdEu3S0ZgbJfHIk2ti2Nb1z5gkO7QJzyKNrNEOQ__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 700;
+	font-style: normal;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/n7.woff2?Expires=1704042006&Signature=LMYepc4Kq8Djb~8DKy9sjno2WZZjYhVMaPcN1H0UmKcjBYB8BtcTGn8DqUc9FuUn2WC99qfUkBdM2qWn9KeWivCMm64Qn8zo-IWAOkJKsl4DcbcAOhTUfZorWF80NzHuq7E42fGHtNdLVVkLHrhnv9CfAuImNHEFxTBXCN~oOZJ~Z0tOqmXXaQxKvDeGJ3GFCc5zaY9MUZHU1Fpala9M7MBVyuOxn6vFzW8OzA-0VzlwZWqmzJA2jwUNojiNEkiwtaMbdil9hq4NRSUHW6ViIg551UjksoX55TjqUHT5tz1abVlDaVcnzWFd9b8jDro4ERgUDariebp0IpIBwAcqbw__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/n7.woff?Expires=1704042006&Signature=jqcLWdUwafPrkH0UQoO14-gG3nie6LbrTTgq8QtaPsxYnrfqtlFGQXV9saAHP6adeMoWBT6OJ1rsHU-PchL9COKAJ~8WrNEAVnkyd-6z1Mxx2Kxe81oULEs96~RcutSt~-~lzIAAYhK0l~N9Byd-ddwoVK-7nwTXugUGGV1tRTYaSh-ZuMaF6XS7fGLXhy3l0U4TOifpychUdHosTkBOF88ls7Xfc0WwfH8nBwt9Dnm9jvyqvCuXqhMmE7K2Regoih1MnlFMmOR73PQxBl3X3Fjtl7G13hIL4LpS-6p7xqSFI8l8AUY-6wuTiOxkGJ28~ZrxPUczOGFvvbyUG5ZG1Q__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 700;
+	font-style: italic;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/i7.woff2?Expires=1704042006&Signature=WFBt~0L2r2a009qnC8OAjPB~GSKv-FRks5qxRw01ObMFfZqj5NykgfhknMWLhjZ3YZG71XdrhXO3QEFgCs~hzSAWQnHqsoKGYIm7NXYzbTwN~WnDKxe9DeIvkB9HHSJO~SzV0y3LrDedQqNOiKuNuIJHSZtsbq9cGcjCIDQaX8N4F5B3tFnVK9P5b~vhk3nzowF2G4o4AvIeCcjTxk-FEuVkaRP4Dx3sWr7nQ6K~hVJuEM-R76ZsLmM-6qK6x9uzBOuCj5FvxjmjdLiRlYyj6~hLLsFxph-MRjLw3KmW85EWbao0Cau-mmRbr-PPM0NTzKdO4M785Moknv8obJaUug__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/i7.woff?Expires=1704042006&Signature=X~u3o-JQrPBtKJe8HTZdA3hZYCIIfvfvPIxjU~OxjxGXqItAAWHNN3pTle9RgGEC2KdOYky-3kMp3XSjorCM2w1fPrQeOfFF-mUlE1dChVtQMpIKhNo2HJKPTQPyM65ifxmYnMMrq5XhrP8CtnJXrmwlq1DspHi-7KYog0Fpgcq78AtbJcGVjHh55liS7bxvfI-51aaPnbbgBRU0nMYpqs7DcHJwzMQus~Na8Xq4CQSpU~g7WbPWzcwLvlRigQaTYv3hsy3Jqbp4FL9YstEPjYHGI5Gc9pBQxGTHl~CdEN3DEcqJ4tfp-Nx8bKjv9QbCEeJVcowmPQI8xGcFz9DfUA__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 800;
+	font-style: normal;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/n8.woff2?Expires=1704042006&Signature=YUf1ruViEybp-pcA3quQpR22-UA5~3MSRD2uyTZnZhGH0UM0645rxEESP8tU-~mlUe5ztbgsFpzFHfyEYEdogD561F5~GGE1E4Gybmaz0siApPEtKctHjTgv3OMvvnqKDc72Pxe3Aj8befzIOVCUCfLqOBOEIp--AxeQ3m5Lqa7zh-a1bAnai8lJtE79gS2aklMyWR0SabJKxpf6gKL2vmlPUYi2mG7wBsFyMWC6ghlLpHzJmSqE5GW8U3s79~2uuVEJrbUiTBbPoFIQjHFQVdHwuFW5nyAmHz8hznFeuSsKA4GOT7b4-djsTx8kA4GRo09edWNmM9J4v2hKiv2KaA__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/n8.woff?Expires=1704042006&Signature=WEfsvO-D~f-9bm7uSa7ocWhjCbP2oGM1Bm18AYFxMhunotJIqqfNOPmWuQ-HioH0pDnKuOLaKK6EbSJlCpfHMX9NzdDY8AsZ7vqbvHe~-RHK4d3JMj2MKmdFftwcO~hBL-NHs2dVyI8nyKLjuLBWGTkZMnZPZHyrkqtbCINJyugatTVjNDoGs3pZiVtUqKpn-RV5miXDj~uHluRMdPITvynhVnK8zXRlmPVLr3KGgEZvhNe7SaJ6kuAccl7YqJyKKRsuB2ySMy3~KOKWDKdpECBqwR2ddyajM96wgA-cAHJ4Az3ILZIiqfcq~rp2759GADXmF5WEXGVYvs7JsFQT-g__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 800;
+	font-style: italic;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/i8.woff2?Expires=1704042006&Signature=o2MnBeVx9yDYHzdObRRYmCjIr7CrzpmKnvaKFf43TOTBAdjgPl5kcFeRCbBSU6VNYapq1SDCFIWgrKx9i7YxrvNLkRAhloQNwr~TVNd5CqO5eQ04FrSTYBys2HxrXxnEjLFl9L~StSmKyZBT3ahzxkHK2phobsQOMxmGJxSaV~cLWOH-80~4OABRhaZMWd9FU8uBVH4fkbJMj5o-UksTEH-d5yeW4eeNXQLLpe-mRRpV0KY3-8-ndFvHp1njEoQt9tgLFDzVNQX559wSA1DWey14UlmUjC9JuvqoV83Z3zBjaZLjItZcZfFKo0WRdqxtFgtDh-NAncBY8H9FWXT-nw__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/i8.woff?Expires=1704042006&Signature=ktaLatjAmFpmtpnQzMpOi3BI2AN7Mcd5D0u3HcsYkJLTwkYrnG7gz544OKu9AeEzlW~QPqU7Df8QSdwgW-ihQSS4UylOxNijpR7rteSqWBFRrI003JSDIPPVTlHlHMlgXCoiMXLGw3rw-8XjmIo6lxyzd8j5dIdCMBuoYvq1gcB-Tn7iUuCB1zKhL~PmiLBF~NOEb2DFiPRMzMUFQjjFgoG4Y4asFDCiZCpIUM7Ag6uLa~n6ZSZgYG1liXaEZzDodMh2tkdx4Z1htefp6gE-rIabcGUA4~8b47mc9ayC9gTX-XGe9EiZhk1HgGzOPRzt2W33XiDK~dN1BBiRa3FjcA__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 900;
+	font-style: normal;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/n9.woff2?Expires=1704042006&Signature=oaRCW4k5UAT6t0jJK3l3fdRi1bnjdRFtUe8TaLjOS4T7S8YoznrOG43jQuV0gH4iVbpc3u4buHu1gt~ut0ryYBLh303mkdyyKauIlslCdpiZoRxLrR8QPQMP2Ym-lS3GUcG~8zvAHTaodDqNKXIhe-re-WpyuCYbO29NtwX24pSM~cNV47mrTv5Fvf0PYtkEpmc5Mt2bbdCRyhbsfyVzs35xMXw3Yw9EIRHqGEtS4lnePdNU85J8sGMVtjx6Z1r~5EkGha5F6IQ27JkB7TiMiH3SzsKnL2QKYIJSH9SoIAZP7LnmmAWFC3j3ZJN4xRtB~vhmYnZpVfApjfX22ZSIqw__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/n9.woff?Expires=1704042006&Signature=K2XqQ9CQ5jrfmeBNWZlFkz4nH0n071k3SLMJnOlx1st-R-6BM8UevZoKn2DFQosbfpusI4-crK86XC~uQJWkeT1ZB6o147pVQtVrSTRMI07jGZf5ScA0EhpIhL4NaY42Zyhu~7Hy1GJvbKVzGQSEn1WlfOoiAahyfvnT9rDdwCENldBmNBG0~gQtCmrceKB0Zj0tqjBpz24ohPy3iikdzg18a4v7MjbqFazLpWw0EymD1CytrDozWvaaqniySOONRBK-UUg~upipOdKOMzUyrm1vbprq~CVRAXU81o92CPKGEfkOe5Oaj4fTeZgDvntnN7wspVxCFa~BBzxputPxPw__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Quincy CF";
+	font-weight: 900;
+	font-style: italic;
+	src: url(https://fonts-pw.pixieset.com/fonts/quincycf/i9.woff2?Expires=1704042006&Signature=aSHP3We4j3kL9345WCf0Ufq-qNgya02nfoa~~ONVgM4~zdYZiB2~-UuhiCZ1sx7OesfcqP4D23kqkKyB2Wxd82Tv4ihbsy70L9j8aw1du4bLWwM-mX6h4qAR0MbCwDKfV1hdagO29ZT6o5OjUadqdxRZTFplVX~ixFQV409lZz7yTNMczF6QBk7Z9gHEMnnT-qLyeLC8LmccD~duiSMutz4dSr~jaLm~XyiGyoKNB78vfxCKhVsiTpF9WIFlnZPeM7rnyIrKO-90we6dc~KqG3~F4YMdFhhL89Db0brVDcScVDO2f-DVPfd-Dh1E9Wf74RXGLvqV4qlPo3DbQphCcA__&Key-Pair-Id=K3RI8219ESW2NK) format("woff2"), url(https://fonts-pw.pixieset.com/fonts/quincycf/i9.woff?Expires=1704042006&Signature=odJz-tsrP~6lwERoKZKt4ubjk6gR5wlNSVGsh6Rs5Vr~nF6NdhKtHWu~PxmtKhToVyP9~qEhzFAt9M89ImUTXN2fFMruXTiLnXKc0zz2KvocJC1wCAKtyBChf~nvVp2u52FyCHSSVq-RXPs-UjreAHdE-KFD9eiMaeFiFOoSCwKZ4MyHCLaIRhBRakuMlZTkm4DdtNF-dcUPKWeqjeK3Mk11kl9AViGVid0DCSiQyV0dCvP8k-rMNQ5UTEyzwhB2qxOMJJ7RvFcaeUwo9Y2hhpKqnatyedxorfxyfVi1J~~OvJEXlbPAyl0cw2Gqmn4~H-06364~ty9X1NwU3TkGdw__&Key-Pair-Id=K3RI8219ESW2NK) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 100;
+	font-style: normal;
+	src: url(//assets-pw.pixieset.com/gf/worksans/n1.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/n1.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 100;
+	font-style: italic;
+	src: url(//assets-pw.pixieset.com/gf/worksans/i1.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/i1.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 200;
+	font-style: normal;
+	src: url(//assets-pw.pixieset.com/gf/worksans/n2.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/n2.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 200;
+	font-style: italic;
+	src: url(//assets-pw.pixieset.com/gf/worksans/i2.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/i2.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 300;
+	font-style: normal;
+	src: url(//assets-pw.pixieset.com/gf/worksans/n3.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/n3.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 300;
+	font-style: italic;
+	src: url(//assets-pw.pixieset.com/gf/worksans/i3.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/i3.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 400;
+	font-style: normal;
+	src: url(//assets-pw.pixieset.com/gf/worksans/n4.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/n4.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 400;
+	font-style: italic;
+	src: url(//assets-pw.pixieset.com/gf/worksans/i4.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/i4.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 500;
+	font-style: normal;
+	src: url(//assets-pw.pixieset.com/gf/worksans/n5.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/n5.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 500;
+	font-style: italic;
+	src: url(//assets-pw.pixieset.com/gf/worksans/i5.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/i5.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 600;
+	font-style: normal;
+	src: url(//assets-pw.pixieset.com/gf/worksans/n6.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/n6.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 600;
+	font-style: italic;
+	src: url(//assets-pw.pixieset.com/gf/worksans/i6.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/i6.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 700;
+	font-style: normal;
+	src: url(//assets-pw.pixieset.com/gf/worksans/n7.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/n7.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 700;
+	font-style: italic;
+	src: url(//assets-pw.pixieset.com/gf/worksans/i7.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/i7.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 800;
+	font-style: normal;
+	src: url(//assets-pw.pixieset.com/gf/worksans/n8.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/n8.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 800;
+	font-style: italic;
+	src: url(//assets-pw.pixieset.com/gf/worksans/i8.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/i8.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 900;
+	font-style: normal;
+	src: url(//assets-pw.pixieset.com/gf/worksans/n9.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/n9.woff) format("woff");
+}
+@font-face {
+	font-family: "Work Sans";
+	font-weight: 900;
+	font-style: italic;
+	src: url(//assets-pw.pixieset.com/gf/worksans/i9.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/worksans/i9.woff) format("woff");
+}
+			</style>
+<link href="https://assets-pw.pixieset.com/assets/client/css/themes/theme_4.v-1ee32023.css" rel="stylesheet">
+<style>
+			:root {--base-size:16px;--display-heading_font-family:'Quincy CF', serif;--display-heading_font-weight:300;--display-heading_font-style:normal;--display-heading_font-size-small: min(5.3125rem, 1rem + 4.79vh);--display-heading_font-size: min(5.3125rem, 1rem + 4.79vw);--display-heading_font-size-large: 5.3125rem;--display-heading_line-height:0.9em;--display-heading_letter-spacing:0em;--display-heading_text-transform:none;--display-subtitle_font-family:'Work Sans', sans-serif;--display-subtitle_font-weight:500;--display-subtitle_font-style:normal;--display-subtitle_font-size-small: min(0.875rem, 1rem + -0.14vh);--display-subtitle_font-size: min(0.875rem, 1rem + -0.14vw);--display-subtitle_font-size-large: 0.875rem;--display-subtitle_line-height:1.2em;--display-subtitle_letter-spacing:0.06em;--display-subtitle_text-transform:uppercase;--heading-1_font-family:'Quincy CF', serif;--heading-1_font-weight:100;--heading-1_font-style:normal;--heading-1_font-size-small: min(4rem, 1rem + 3.33vh);--heading-1_font-size: min(4rem, 1rem + 3.33vw);--heading-1_font-size-large: 4rem;--heading-1_line-height:1em;--heading-1_letter-spacing:-0.02em;--heading-1_text-transform:none;--heading-2_font-family:'Quincy CF', serif;--heading-2_font-weight:100;--heading-2_font-style:normal;--heading-2_font-size-small: min(3rem, 1rem + 2.22vh);--heading-2_font-size: min(3rem, 1rem + 2.22vw);--heading-2_font-size-large: 3rem;--heading-2_line-height:1em;--heading-2_letter-spacing:0em;--heading-2_text-transform:none;--heading-3_font-family:'Quincy CF', serif;--heading-3_font-weight:100;--heading-3_font-style:normal;--heading-3_font-size-small: min(2.5rem, 1rem + 1.67vh);--heading-3_font-size: min(2.5rem, 1rem + 1.67vw);--heading-3_font-size-large: 2.5rem;--heading-3_line-height:1.1em;--heading-3_letter-spacing:-0.01em;--heading-3_text-transform:none;--heading-4_font-family:'Quincy CF', serif;--heading-4_font-weight:100;--heading-4_font-style:normal;--heading-4_font-size-small: min(2rem, 1rem + 1.11vh);--heading-4_font-size: min(2rem, 1rem + 1.11vw);--heading-4_font-size-large: 2rem;--heading-4_line-height:1.1em;--heading-4_letter-spacing:0.01em;--heading-4_text-transform:none;--heading-5_font-family:'Work Sans', sans-serif;--heading-5_font-weight:500;--heading-5_font-style:normal;--heading-5_font-size-small: min(1rem, 1rem + 0vh);--heading-5_font-size: min(1rem, 1rem + 0vw);--heading-5_font-size-large: 1rem;--heading-5_line-height:1.2em;--heading-5_letter-spacing:0.06em;--heading-5_text-transform:uppercase;--heading-6_font-family:'Work Sans', sans-serif;--heading-6_font-weight:500;--heading-6_font-style:normal;--heading-6_font-size-small: min(0.75rem, 1rem + -0.28vh);--heading-6_font-size: min(0.75rem, 1rem + -0.28vw);--heading-6_font-size-large: 0.75rem;--heading-6_line-height:1.2em;--heading-6_letter-spacing:0.1em;--heading-6_text-transform:uppercase;--paragraph-1_font-family:'Work Sans', sans-serif;--paragraph-1_font-weight:400;--paragraph-1_font-style:normal;--paragraph-1_font-size-small: min(1.125rem, 1rem + 0.14vh);--paragraph-1_font-size: min(1.125rem, 1rem + 0.14vw);--paragraph-1_font-size-large: 1.125rem;--paragraph-1_line-height:1.5em;--paragraph-1_letter-spacing:0.02em;--paragraph-1_text-transform:none;--paragraph-2_font-family:'Work Sans', sans-serif;--paragraph-2_font-weight:400;--paragraph-2_font-style:normal;--paragraph-2_font-size-small: min(1rem, 1rem + 0vh);--paragraph-2_font-size: min(1rem, 1rem + 0vw);--paragraph-2_font-size-large: 1rem;--paragraph-2_line-height:1.5em;--paragraph-2_letter-spacing:-0.01em;--paragraph-2_text-transform:none;--paragraph-3_font-family:'Work Sans', sans-serif;--paragraph-3_font-weight:400;--paragraph-3_font-style:normal;--paragraph-3_font-size-small: min(0.75rem, 1rem + -0.28vh);--paragraph-3_font-size: min(0.75rem, 1rem + -0.28vw);--paragraph-3_font-size-large: 0.75rem;--paragraph-3_line-height:1.6em;--paragraph-3_letter-spacing:0em;--paragraph-3_text-transform:none;--site-title_font-family:'Work Sans', sans-serif;--site-title_font-weight:600;--site-title_font-style:normal;--site-title_font-size-small: min(1.25rem, 1rem + 0.28vh);--site-title_font-size: min(1.25rem, 1rem + 0.28vw);--site-title_font-size-large: 1.25rem;--site-title_line-height:1em;--site-title_letter-spacing:0.23em;--site-title_text-transform:uppercase;--navigation_font-family:'Work Sans', sans-serif;--navigation_font-weight:500;--navigation_font-style:normal;--navigation_font-size-small: min(0.75rem, 1rem + -0.28vh);--navigation_font-size: min(0.75rem, 1rem + -0.28vw);--navigation_font-size-large: 0.75rem;--navigation_line-height:1em;--navigation_letter-spacing:0.2em;--navigation_text-transform:uppercase;--sub-navigation_font-family:'Work Sans', sans-serif;--sub-navigation_font-weight:400;--sub-navigation_font-style:normal;--sub-navigation_font-size-small: min(0.875rem, 1rem + -0.14vh);--sub-navigation_font-size: min(0.875rem, 1rem + -0.14vw);--sub-navigation_font-size-large: 0.875rem;--sub-navigation_line-height:1em;--sub-navigation_letter-spacing:0em;--sub-navigation_text-transform:capitalize;--overlay-navigation_font-family:'Quincy CF', serif;--overlay-navigation_font-weight:100;--overlay-navigation_font-style:normal;--overlay-navigation_font-size-small: min(1.5rem, 1rem + 0.56vh);--overlay-navigation_font-size: min(1.5rem, 1rem + 0.56vw);--overlay-navigation_font-size-large: 1.5rem;--overlay-navigation_line-height:1em;--overlay-navigation_letter-spacing:0.06em;--overlay-navigation_text-transform:uppercase;--overlay-sub-navigation_font-family:'Work Sans', sans-serif;--overlay-sub-navigation_font-weight:500;--overlay-sub-navigation_font-style:normal;--overlay-sub-navigation_font-size-small: min(0.625rem, 1rem + -0.42vh);--overlay-sub-navigation_font-size: min(0.625rem, 1rem + -0.42vw);--overlay-sub-navigation_font-size-large: 0.625rem;--overlay-sub-navigation_line-height:1em;--overlay-sub-navigation_letter-spacing:0.11em;--overlay-sub-navigation_text-transform:uppercase;--button_font-family:'Work Sans', sans-serif;--button_font-weight:600;--button_font-style:normal;--button_font-size-small: min(0.875rem, 1rem + -0.14vh);--button_font-size: min(0.875rem, 1rem + -0.14vw);--button_font-size-large: 0.875rem;--button_line-height:2em;--button_letter-spacing:0.1em;--button_text-transform:uppercase;--form-label_font-family:'Work Sans', sans-serif;--form-label_font-weight:400;--form-label_font-style:normal;--form-label_font-size-small: min(0.8125rem, 1rem + -0.21vh);--form-label_font-size: min(0.8125rem, 1rem + -0.21vw);--form-label_font-size-large: 0.8125rem;--form-label_line-height:1.4em;--form-label_letter-spacing:0em;--form-label_text-transform:none;--pullquote_font-family:'Quincy CF', serif;--pullquote_font-weight:300;--pullquote_font-style:normal;--pullquote_font-size-small: min(1.5rem, 1rem + 0.56vh);--pullquote_font-size: min(1.5rem, 1rem + 0.56vw);--pullquote_font-size-large: 1.5rem;--pullquote_line-height:1.3em;--pullquote_letter-spacing:0.02em;--pullquote_text-transform:none;--max-page-width:1200px;--global-block-padding:40px;--padding-scaling-xs:0.75;--padding-scaling-sm:1.00;--padding-scaling-md:1.00;--padding-scaling-lg:1.00;--button-width:30px;--button-height:14px;}
+		</style>
+<style id="js-ac-css-variables">:root {--primary-background:#20614C;--primary-headings:#FFFFFF;--primary-paragraphs:#FFFFFF;--primary-details:#427B69;--accent-background:#FFFFFF;--accent-headings:#1C1C1C;--accent-paragraphs:#1C1C1C;--accent-details:#D9D9D9;--button-background:#A6A8AA;--button-text:#FFFFFF;--button-background-hover:#D69F56;--button-text-hover:#FFFFFF;}</style>
+<style id="js-ac-css-definitions">.ca-background-ganW02{background-color:var(--primary-background);}.ca-title-2YvrPB{color:var(--primary-headings);}.ca-subtitle-NVMrpB{color:var(--primary-headings);}.ca-social-icons-2wXq3B{color:var(--button-background);}.ca-social-icons-hover-2namDg:hover,.ca-social-icons-hover-2namDg:active,.ca-social-icons-hover-2namDg:focus{color:var(--button-background-hover);}.ca-button-gL6rbB{--local-button:var(--button-background);}.ca-button-hover-B9JrrN:hover,.ca-button-hover-B9JrrN:active,.ca-button-hover-B9JrrN:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-N1zXmg{--local-button-text:var(--button-text);}.ca-button-text-hover-gmy1Lg:hover,.ca-button-text-hover-gmy1Lg:active,.ca-button-text-hover-gmy1Lg:focus{--local-button-text-hover:var(--button-text-hover);}.ca-pixieset-logo-NOWr5N{stroke:var(--button-background);}.ca-pixieset-logo-hover-Nzv5YN:hover,.ca-pixieset-logo-hover-Nzv5YN:active,.ca-pixieset-logo-hover-Nzv5YN:focus{stroke:var(--button-background-hover);}.ca-pixieset-logo-fill-gjenrN{fill:var(--button-background);}.ca-pixieset-logo-fill-hover-BK5Wxg:hover,.ca-pixieset-logo-fill-hover-BK5Wxg:active,.ca-pixieset-logo-fill-hover-BK5Wxg:focus{fill:var(--button-background-hover);}.ca-background-BJ37LN{background-color:var(--primary-background);}.ca-title-NbOGkg{color:var(--primary-headings);}.ca-subtitle-BpyMyN{color:var(--primary-headings);}.ca-social-icons-N4yjzg{color:var(--button-background);}.ca-social-icons-hover-2qy7w2:hover,.ca-social-icons-hover-2qy7w2:active,.ca-social-icons-hover-2qy7w2:focus{color:var(--button-background-hover);}.ca-button-gGG8vg{--local-button:var(--button-background);}.ca-button-hover-Ne4xAB:hover,.ca-button-hover-Ne4xAB:active,.ca-button-hover-Ne4xAB:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-g5OKjB{--local-button-text:var(--button-text);}.ca-button-text-hover-gx9Yo2:hover,.ca-button-text-hover-gx9Yo2:active,.ca-button-text-hover-gx9Yo2:focus{--local-button-text-hover:var(--button-text-hover);}.ca-background-NRlVd2{background-color:var(--primary-background);}.ca-card-BXRmPg{background-color:var(--accent-background);}.ca-title-gEplON{color:var(--primary-headings);}.ca-subtitle-gdd5Gg{color:var(--primary-headings);}.ca-social-icons-gov6kN{color:var(--button-background);}.ca-social-icons-hover-BDG0m2:hover,.ca-social-icons-hover-BDG0m2:active,.ca-social-icons-hover-BDG0m2:focus{color:var(--button-background-hover);}.ca-button-2rnWm2{--local-button:var(--button-background);}.ca-button-hover-BZQza2:hover,.ca-button-hover-BZQza2:active,.ca-button-hover-BZQza2:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-BAQERB{--local-button-text:var(--button-text);}.ca-button-text-hover-2kk0E2:hover,.ca-button-text-hover-2kk0E2:active,.ca-button-text-hover-2kk0E2:focus{--local-button-text-hover:var(--button-text-hover);}.ca-pixieset-logo-N0K1vB{stroke:var(--button-background);}.ca-pixieset-logo-hover-glyk32:hover,.ca-pixieset-logo-hover-glyk32:active,.ca-pixieset-logo-hover-glyk32:focus{stroke:var(--button-background-hover);}.ca-pixieset-logo-fill-g3xzq2{fill:var(--button-background);}.ca-pixieset-logo-fill-hover-B8KpM2:hover,.ca-pixieset-logo-fill-hover-B8KpM2:active,.ca-pixieset-logo-fill-hover-B8KpM2:focus{fill:var(--button-background-hover);}.ca-background-26GJnB{background-color:var(--primary-background);}.ca-title-2M4P1g{color:var(--primary-headings);}.ca-subtitle-g7EbaB{color:var(--primary-headings);}.ca-social-icons-2Ww1o2{color:var(--button-background);}.ca-social-icons-hover-2vXQ7N:hover,.ca-social-icons-hover-2vXQ7N:active,.ca-social-icons-hover-2vXQ7N:focus{color:var(--button-background-hover);}.ca-button-gPEaD2{--local-button:var(--button-background);}.ca-button-hover-ByWVJg:hover,.ca-button-hover-ByWVJg:active,.ca-button-hover-ByWVJg:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-NQ0YOB{--local-button-text:var(--button-text);}.ca-button-text-hover-ganq02:hover,.ca-button-text-hover-ganq02:active,.ca-button-text-hover-ganq02:focus{--local-button-text-hover:var(--button-text-hover);}.ca-pixieset-logo-2YvOPB{stroke:var(--button-background);}.ca-pixieset-logo-hover-NVM9pB:hover,.ca-pixieset-logo-hover-NVM9pB:active,.ca-pixieset-logo-hover-NVM9pB:focus{stroke:var(--button-background-hover);}.ca-pixieset-logo-fill-2wXa3B{fill:var(--button-background);}.ca-pixieset-logo-fill-hover-2na8Dg:hover,.ca-pixieset-logo-fill-hover-2na8Dg:active,.ca-pixieset-logo-fill-hover-2na8Dg:focus{fill:var(--button-background-hover);}.ca-background-zglx5g{background-color:var(--primary-background);}.ca-title-rg37wg{color:var(--primary-headings);}.ca-date-RB8QDN{color:var(--primary-paragraphs);}.ca-category-a26PON{color:var(--primary-paragraphs);}.ca-search-icon-12M3XN{color:var(--primary-paragraphs);}.ca-search-icon-hover-og7yAB:hover,.ca-search-icon-hover-og7yAB:active,.ca-search-icon-hover-og7yAB:focus{color:var(--primary-paragraphs);}.ca-post-arrow-l2WaMN{color:var(--primary-paragraphs);}.ca-pagination-w2vZD2{color:var(--primary-paragraphs);}.ca-pagination-hover-ZgPMG2:hover,.ca-pagination-hover-ZgPMG2:active,.ca-pagination-hover-ZgPMG2:focus{color:var(--primary-paragraphs);}.ca-pagination-arrow-zBymeB{color:var(--primary-paragraphs);}.ca-button-JNQ7Y2{--local-button:var(--button-background);}.ca-button-text-kN08EN{--local-button-text:var(--button-text);}.ca-button-hover-zglxmg:hover,.ca-button-hover-zglxmg:active,.ca-button-hover-zglxmg:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-rg37bg:hover,.ca-button-text-hover-rg37bg:active,.ca-button-text-hover-rg37bg:focus{--local-button-text-hover:var(--button-text-hover);}.ca-search-overlay-2qrErB{background-color:var(--primary-background);}.ca-search-overlay-icon-gG5bJB{color:var(--primary-paragraphs);}.ca-search-overlay-icon-hover-gxPElg:hover,.ca-search-overlay-icon-hover-gxPElg:active,.ca-search-overlay-icon-hover-gxPElg:focus{color:var(--primary-paragraphs);}.ca-search-outline-gEGbAB{border-color:var(--primary-details);}.ca-input-text-BD5doN{--local-input-text:var(--primary-paragraphs);}.ca-background-RB8QbN{background-color:var(--primary-background);}.ca-title-a26olB{color:var(--primary-headings);}.ca-date-12MqR2{color:var(--primary-paragraphs);}.ca-category-og7oOg{color:var(--primary-paragraphs);}.ca-search-icon-l2WRwg{color:var(--primary-paragraphs);}.ca-search-icon-hover-w2v31B:hover,.ca-search-icon-hover-w2v31B:active,.ca-search-icon-hover-w2v31B:focus{color:var(--primary-paragraphs);}.ca-post-arrow-ZgPqj2{color:var(--primary-paragraphs);}.ca-pagination-zByMbB{color:var(--primary-paragraphs);}.ca-pagination-hover-JNQoE2:hover,.ca-pagination-hover-JNQoE2:active,.ca-pagination-hover-JNQoE2:focus{color:var(--primary-paragraphs);}.ca-pagination-arrow-wga4dN{color:var(--primary-paragraphs);}.ca-button-x2Y4pg{--local-button:var(--button-background);}.ca-button-text-zNV4A2{--local-button-text:var(--button-text);}.ca-button-hover-02w8mB:hover,.ca-button-hover-02w8mB:active,.ca-button-hover-02w8mB:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-42nonB:hover,.ca-button-text-hover-42nonB:active,.ca-button-text-hover-42nonB:focus{--local-button-text-hover:var(--button-text-hover);}.ca-search-overlay-icon-NedZ4B{color:var(--primary-paragraphs);}.ca-search-overlay-icon-hover-NRJ4EN:hover,.ca-search-overlay-icon-hover-NRJ4EN:active,.ca-search-overlay-icon-hover-NRJ4EN:focus{color:var(--primary-paragraphs);}.ca-search-outline-gdQZ12{border-color:var(--primary-details);}.ca-input-text-2rQEeg{--local-input-text:var(--primary-paragraphs);}.ca-search-overlay-2Yv4nB{background-color:var(--primary-background);}.ca-background-AgLx7g{background-color:var(--primary-background);}.ca-card-qB9oPg{background-color:var(--primary-background);}.ca-title-pN1G62{color:var(--primary-headings);}.ca-date-xgmmmg{color:var(--primary-paragraphs);}.ca-category-DNOdlg{color:var(--primary-paragraphs);}.ca-divider-oNz7xg{background-color:var(--primary-details);}.ca-search-icon-lgjpZB{color:var(--primary-paragraphs);}.ca-search-icon-hover-LBKqeg:hover,.ca-search-icon-hover-LBKqeg:active,.ca-search-icon-hover-LBKqeg:focus{color:var(--primary-paragraphs);}.ca-post-arrow-RBJqy2{color:var(--primary-paragraphs);}.ca-pagination-VNb4J2{color:var(--primary-paragraphs);}.ca-pagination-hover-VBprqg:hover,.ca-pagination-hover-VBprqg:active,.ca-pagination-hover-VBprqg:focus{color:var(--primary-paragraphs);}.ca-pagination-arrow-5N4oVB{color:var(--primary-paragraphs);}.ca-button-W2qRMB{--local-button:var(--button-background);}.ca-button-text-mgGq3B{--local-button-text:var(--button-text);}.ca-button-hover-MNemXN:hover,.ca-button-hover-MNemXN:active,.ca-button-hover-MNemXN:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-Qg5oJB:hover,.ca-button-text-hover-Qg5oJB:active,.ca-button-text-hover-Qg5oJB:focus{--local-button-text-hover:var(--button-text-hover);}.ca-search-overlay-icon-g50deN{color:var(--primary-paragraphs);}.ca-search-overlay-icon-hover-BXKZA2:hover,.ca-search-overlay-icon-hover-BXKZA2:active,.ca-search-overlay-icon-hover-BXKZA2:focus{color:var(--primary-paragraphs);}.ca-search-outline-goaEJB{border-color:var(--primary-details);}.ca-input-text-BZmZq2{--local-input-text:var(--primary-paragraphs);}.ca-search-overlay-NVM4KB{background-color:var(--primary-background);}.ca-background-egEKeB{background-color:var(--primary-background);}.ca-button-VgdOwN{--local-button:var(--button-background);}.ca-button-text-rgok7g{--local-button-text:var(--button-text);}.ca-button-hover-yBDKL2:hover,.ca-button-hover-yBDKL2:active,.ca-button-hover-yBDKL2:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-52ry6g:hover,.ca-button-text-hover-52ry6g:active,.ca-button-text-hover-52ry6g:focus{--local-button-text-hover:var(--button-text-hover);}.ca-background-lgjRKg{background-color:var(--primary-background);}.ca-title-LBKd6N{color:var(--primary-headings);}.ca-subtitle-RBJxKg{color:var(--primary-paragraphs);}.ca-button-VNbkvg{--local-button:var(--button-background);}.ca-button-text-VBpQMN{--local-button-text:var(--button-text);}.ca-button-hover-5N4m0g:hover,.ca-button-hover-5N4m0g:active,.ca-button-hover-5N4m0g:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-W2qkJN:hover,.ca-button-text-hover-W2qkJN:active,.ca-button-text-hover-W2qkJN:focus{--local-button-text-hover:var(--button-text-hover);}.ca-divider-mgGJ6N{background-color:var(--primary-details);}.ca-background-MNerGg{background-color:var(--primary-background);}.ca-title-Qg5OpB{color:var(--primary-headings);}.ca-subtitle-lgx9P2{color:var(--primary-paragraphs);}.ca-button-0NRlP2{--local-button:var(--button-background);}.ca-button-text-kBXRRg{--local-button-text:var(--button-text);}.ca-button-hover-egEp7N:hover,.ca-button-hover-egEp7N:active,.ca-button-hover-egEp7N:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-VgddRg:hover,.ca-button-text-hover-VgddRg:active,.ca-button-text-hover-VgddRg:focus{--local-button-text-hover:var(--button-text-hover);}.ca-divider-rgovPN{background-color:var(--primary-details);}.ca-background-yBDG12{background-color:var(--primary-background);}.ca-title-52rnZ2{color:var(--primary-headings);}.ca-subtitle-mBZQp2{color:var(--primary-paragraphs);}.ca-button-YBAQJB{--local-button:var(--button-background);}.ca-button-text-K2kk72{--local-button-text:var(--button-text);}.ca-button-hover-kN0KoB:hover,.ca-button-hover-kN0KoB:active,.ca-button-hover-kN0KoB:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-zglyG2:hover,.ca-button-text-hover-zglyG2:active,.ca-button-text-hover-zglyG2:focus{--local-button-text-hover:var(--button-text-hover);}.ca-divider-rg3x82{background-color:var(--primary-details);}.ca-card-zgl65B{background-color:var(--accent-background);}.ca-background-ZgPWoN{background-color:var(--primary-background);}.ca-tags-zByyrB{color:var(--primary-paragraphs);}.ca-search-icon-JNQv0g{color:var(--primary-paragraphs);}.ca-search-icon-hover-kN0Qxg:hover,.ca-search-icon-hover-kN0Qxg:active,.ca-search-icon-hover-kN0Qxg:focus{color:var(--primary-paragraphs);}.ca-arrow-zgleV2{color:var(--primary-paragraphs);}.ca-title-rg3e3B{color:var(--primary-headings);}.ca-date-RB8R1g{color:var(--primary-paragraphs);}.ca-pagination-a26ejg{color:var(--primary-paragraphs);}.ca-pagination-hover-12M66B:hover,.ca-pagination-hover-12M66B:active,.ca-pagination-hover-12M66B:focus{color:var(--primary-paragraphs);}.ca-background-og7492{background-color:var(--primary-background);}.ca-tags-l2WevN{color:var(--primary-paragraphs);}.ca-search-icon-w2vRL2{color:var(--primary-paragraphs);}.ca-search-icon-hover-ZgPWyN:hover,.ca-search-icon-hover-ZgPWyN:active,.ca-search-icon-hover-ZgPWyN:focus{color:var(--primary-paragraphs);}.ca-title-zByy8B{color:var(--primary-headings);}.ca-date-JNQv7g{color:var(--primary-paragraphs);}.ca-pagination-wgae4g{color:var(--primary-paragraphs);}.ca-pagination-hover-x2YpQg:hover,.ca-pagination-hover-x2YpQg:active,.ca-pagination-hover-x2YpQg:focus{color:var(--primary-paragraphs);}.ca-background-zNVoPg{background-color:var(--primary-background);}.ca-tags-02wOE2{color:var(--primary-paragraphs);}.ca-search-icon-42ndyN{color:var(--primary-paragraphs);}.ca-search-bar-AgL8ag{background-color:var(--accent-background);}.ca-placeholder-text-qB9pq2{color:var(--accent-paragraphs);}.ca-image-arrow-pN1Rpg{color:var(--primary-paragraphs);}.ca-title-xgmGjB{color:var(--primary-headings);}.ca-date-DNO7ON{color:var(--primary-paragraphs);}.ca-pagination-oNzQlB{color:var(--primary-paragraphs);}.ca-pagination-arrow-lgjaEN{color:var(--primary-paragraphs);}.ca-background-a26vj2{background-color:var(--primary-background);}.ca-input-label-12Mm62{--local-input-label:var(--primary-headings);}.ca-input-background-og7P92{--local-input-background:var(--accent-background);}.ca-input-text-l2Wvvg{--local-input-text:var(--accent-paragraphs);}.ca-input-option-label-w2vrL2{--local-input-option-label:var(--primary-paragraphs);}.ca-description-text-ZgPlyg{color:var(--primary-details);}.ca-button-zByo8g{--local-button:var(--button-background);}.ca-button-text-JNQ372{--local-button-text:var(--button-text);}.ca-button-hover-kN03GB:hover,.ca-button-hover-kN03GB:active,.ca-button-hover-kN03GB:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-zglWoN:hover,.ca-button-text-hover-zglWoN:active,.ca-button-text-hover-zglWoN:focus{--local-button-text-hover:var(--button-text-hover);}.ca-success-message-oNzjYN{color:var(--primary-paragraphs);}.ca-description-rg3Dw2{color:var(--primary-paragraphs);}.ca-background-rg3MyB{background-color:var(--primary-background);}.ca-card-RB8ydN{background-color:var(--accent-background);}.ca-input-label-a26vV2{--local-input-label:var(--accent-headings);}.ca-input-background-12MmY2{--local-input-background:var(--primary-background);}.ca-input-text-og7Pq2{--local-input-text:var(--primary-paragraphs);}.ca-input-option-label-l2WvYg{--local-input-option-label:var(--accent-paragraphs);}.ca-description-text-w2vrv2{color:var(--accent-details);}.ca-button-ZgPlzg{--local-button:var(--button-background);}.ca-button-text-zByo0g{--local-button-text:var(--button-text);}.ca-button-hover-JNQ3b2:hover,.ca-button-hover-JNQ3b2:active,.ca-button-hover-JNQ3b2:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-wgakYB:hover,.ca-button-text-hover-wgakYB:active,.ca-button-text-hover-wgakYB:focus{--local-button-text-hover:var(--button-text-hover);}.ca-success-message-lgj7r2{color:var(--accent-paragraphs);}.ca-description-RB86Dg{color:var(--accent-paragraphs);}.ca-background-x2YyD2{background-color:var(--primary-background);}.ca-card-zNVWmg{background-color:var(--accent-background);}.ca-card-2-02wm4N{background-color:var(--primary-background);}.ca-input-label-42nPYN{--local-input-label:var(--primary-headings);}.ca-input-background-AgL4Xg{--local-input-background:var(--accent-background);}.ca-input-text-qB9mAB{--local-input-text:var(--primary-paragraphs);}.ca-input-option-label-pN18ZB{--local-input-option-label:var(--primary-paragraphs);}.ca-description-text-xgmvD2{color:var(--primary-details);}.ca-button-DNO0kg{--local-button:var(--button-background);}.ca-button-text-oNzK5g{--local-button-text:var(--button-text);}.ca-button-hover-lgjMoN:hover,.ca-button-hover-lgjMoN:active,.ca-button-hover-lgjMoN:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-LBK9jg:hover,.ca-button-text-hover-LBK9jg:active,.ca-button-text-hover-LBK9jg:focus{--local-button-text-hover:var(--button-text-hover);}.ca-success-message-LBKQxg{color:var(--primary-paragraphs);}.ca-description-a263OB{color:var(--primary-paragraphs);}.ca-input-border-2WKZG2{--local-input-border:var(--primary-details);}.ca-background-JNQAbN{background-color:var(--primary-background);}.ca-card-wga1Yg{background-color:var(--accent-background);}.ca-input-label-x2Y1D2{--local-input-label:var(--primary-headings);}.ca-input-background-zNVVmN{--local-input-background:var(--accent-background);}.ca-input-text-02wL4B{--local-input-text:var(--accent-paragraphs);}.ca-input-option-label-42nnY2{--local-input-option-label:var(--primary-paragraphs);}.ca-description-text-AgLoXN{color:var(--primary-details);}.ca-button-qB9EAB{--local-button:var(--button-background);}.ca-button-text-pN1eZN{--local-button-text:var(--button-text);}.ca-button-hover-xgmRD2:hover,.ca-button-hover-xgmRD2:active,.ca-button-hover-xgmRD2:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-DNOxkg:hover,.ca-button-text-hover-DNOxkg:active,.ca-button-text-hover-DNOxkg:focus{--local-button-text-hover:var(--button-text-hover);}.ca-caption-pN1PmB{color:var(--accent-paragraphs);}.ca-success-message-RBJyL2{color:var(--primary-paragraphs);}.ca-description-l2WXMB{color:var(--primary-paragraphs);}.ca-background-oNzz5N{background-color:var(--primary-background);}.ca-card-lgjAoN{background-color:var(--accent-background);}.ca-input-label-LBKkjB{--local-input-label:var(--accent-headings);}.ca-input-background-RBJOpN{--local-input-background:var(--primary-background);}.ca-input-text-VNb1eB{--local-input-text:var(--primary-paragraphs);}.ca-input-option-label-VBp9PN{--local-input-option-label:var(--accent-paragraphs);}.ca-description-text-5N4Exg{color:var(--accent-details);}.ca-button-W2qprg{--local-button:var(--button-background);}.ca-button-text-mgGlJ2{--local-button-text:var(--button-text);}.ca-button-hover-MNeE4N:hover,.ca-button-hover-MNeE4N:active,.ca-button-hover-MNeE4N:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-Qg5GeB:hover,.ca-button-text-hover-Qg5GeB:active,.ca-button-text-hover-Qg5GeB:focus{--local-button-text-hover:var(--button-text-hover);}.ca-caption-xgmPLN{color:var(--accent-paragraphs);}.ca-success-message-VNbYkB{color:var(--accent-paragraphs);}.ca-description-w2vbD2{color:var(--accent-paragraphs);}.ca-background-lgxRlB{background-color:var(--primary-background);}.ca-card-0NRaEB{background-color:var(--accent-background);}.ca-input-label-kBXGA2{--local-input-label:var(--accent-headings);}.ca-input-background-egEaAg{--local-input-background:var(--primary-background);}.ca-input-text-VgdG1N{--local-input-text:var(--accent-paragraphs);}.ca-input-option-label-rgo4J2{--local-input-option-label:var(--accent-paragraphs);}.ca-description-text-yBDQoN{color:var(--primary-details);}.ca-button-52rdeN{--local-button:var(--button-background);}.ca-button-text-mBZqq2{--local-button-text:var(--button-text);}.ca-button-hover-YBAvKN:hover,.ca-button-hover-YBAvKN:active,.ca-button-hover-YBAvKN:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-K2kGz2:hover,.ca-button-text-hover-K2kGz2:active,.ca-button-text-hover-K2kGz2:focus{--local-button-text-hover:var(--button-text-hover);}.ca-caption-kN0eGg{color:var(--accent-paragraphs);}.ca-success-message-VBp7y2{color:var(--accent-paragraphs);}.ca-description-kN0Emg{color:var(--accent-paragraphs);}.ca-input-border-gPkrWN{--local-input-border:var(--accent-details);}.ca-background-RBJJpB{background-color:var(--primary-background);}.ca-card-VNbEeB{background-color:var(--accent-background);}.ca-headings-VBpXPB{color:var(--accent-headings);}.ca-paragraphs-5N4GxB{color:var(--accent-paragraphs);}.ca-link-W2qGrN{--local-link:var(--button-background);}.ca-link-hover-mgGdJ2:hover,.ca-link-hover-mgGdJ2:active,.ca-link-hover-mgGdJ2:focus{color:var(--button-background-hover);}.ca-input-label-MNeD4B{--local-input-label:var(--primary-headings);}.ca-input-background-Qg5ne2{--local-input-background:var(--accent-background);}.ca-input-text-lgxLlg{--local-input-text:var(--accent-paragraphs);}.ca-input-option-label-0NRoEg{--local-input-option-label:var(--accent-paragraphs);}.ca-description-text-kBXbAg{color:var(--accent-details);}.ca-button-egEOAB{--local-button:var(--button-background);}.ca-button-text-Vgdk1N{--local-button-text:var(--button-text);}.ca-button-hover-rgoLJ2:hover,.ca-button-hover-rgoLJ2:active,.ca-button-hover-rgoLJ2:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-yBDEoN:hover,.ca-button-text-hover-yBDEoN:active,.ca-button-text-hover-yBDEoN:focus{--local-button-text-hover:var(--button-text-hover);}.ca-success-message-5N4bz2{color:var(--primary-paragraphs);}.ca-description-12MkXN{color:var(--primary-paragraphs);}.ca-background-52reeg{background-color:var(--primary-background);}.ca-card-mBZEq2{background-color:var(--accent-background);}.ca-headings-YBAOKg{color:var(--accent-headings);}.ca-paragraphs-K2kezN{color:var(--accent-paragraphs);}.ca-link-kN0oGB{--local-link:var(--button-background);}.ca-link-hover-zglroB:hover,.ca-link-hover-zglroB:active,.ca-link-hover-zglroB:focus{color:var(--button-background-hover);}.ca-input-label-rg3myB{--local-input-label:var(--accent-headings);}.ca-input-background-RB8Gd2{--local-input-background:var(--primary-background);}.ca-input-text-a26KVB{--local-input-text:var(--primary-paragraphs);}.ca-input-option-label-12MVYB{--local-input-option-label:var(--accent-paragraphs);}.ca-description-text-og7JqN{color:var(--accent-details);}.ca-button-l2WVYg{--local-button:var(--button-background);}.ca-button-text-w2vLvN{--local-button-text:var(--button-text);}.ca-button-hover-ZgPdzg:hover,.ca-button-hover-ZgPdzg:active,.ca-button-hover-ZgPdzg:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-zByL02:hover,.ca-button-text-hover-zByL02:active,.ca-button-text-hover-zByL02:focus{--local-button-text-hover:var(--button-text-hover);}.ca-success-message-W2qWwN{color:var(--accent-paragraphs);}.ca-description-og78A2{color:var(--accent-paragraphs);}.ca-background-zglGoN{background-color:var(--primary-background);}.ca-card-rg3Ly2{background-color:var(--accent-background);}.ca-headings-RB8zdg{color:var(--accent-headings);}.ca-paragraphs-a26LVN{color:var(--accent-paragraphs);}.ca-link-12MWYN{--local-link:var(--button-background);}.ca-link-hover-og7kqg:hover,.ca-link-hover-og7kqg:active,.ca-link-hover-og7kqg:focus{color:var(--button-background-hover);}.ca-input-label-l2W5YN{--local-input-label:var(--accent-headings);}.ca-input-background-w2vdvN{--local-input-background:var(--accent-background);}.ca-input-text-ZgPyz2{--local-input-text:var(--accent-paragraphs);}.ca-input-option-label-zByk0g{--local-input-option-label:var(--accent-paragraphs);}.ca-description-text-JNQQbN{color:var(--primary-details);}.ca-button-kN0emg{--local-button:var(--button-background);}.ca-button-text-zglG5N{--local-button-text:var(--button-text);}.ca-button-hover-rg3Lw2:hover,.ca-button-hover-rg3Lw2:active,.ca-button-hover-rg3Lw2:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-RB8zDg:hover,.ca-button-text-hover-RB8zDg:active,.ca-button-text-hover-RB8zDg:focus{--local-button-text-hover:var(--button-text-hover);}.ca-success-message-mgGWvg{color:var(--accent-paragraphs);}.ca-description-zgln5B{color:var(--accent-paragraphs);}.ca-input-border-2vw48B{--local-input-border:var(--accent-details);}.ca-background-x2YEQ2{background-color:var(--primary-background);}.ca-title-zNVAPB{color:var(--primary-headings);}.ca-date-02wwE2{color:var(--primary-paragraphs);}.ca-category-42nJy2{color:var(--primary-paragraphs);}.ca-post-arrow-AgL5a2{color:var(--primary-paragraphs);}.ca-pagination-qB9Gqg{color:var(--primary-paragraphs);}.ca-pagination-arrow-pN1rpg{color:var(--primary-paragraphs);}.ca-button-xgm4jN{--local-button:var(--button-background);}.ca-button-text-DNOoON{--local-button-text:var(--button-text);}.ca-button-hover-oNzZlN:hover,.ca-button-hover-oNzZlN:active,.ca-button-hover-oNzZlN:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-lgjvEg:hover,.ca-button-text-hover-lgjvEg:active,.ca-button-text-hover-lgjvEg:focus{--local-button-text-hover:var(--button-text-hover);}.ca-pagination-hover-lgx6ZB:hover,.ca-pagination-hover-lgx6ZB:active,.ca-pagination-hover-lgx6ZB:focus{color:var(--primary-paragraphs);}.ca-background-LBKa1g{background-color:var(--primary-background);}.ca-title-RBJQD2{color:var(--primary-headings);}.ca-date-VNb032{color:var(--primary-paragraphs);}.ca-category-VBpdOB{color:var(--primary-paragraphs);}.ca-post-arrow-5N4R12{color:var(--primary-paragraphs);}.ca-pagination-W2qZ0B{color:var(--primary-paragraphs);}.ca-pagination-arrow-mgG4a2{color:var(--primary-paragraphs);}.ca-button-MNe81B{--local-button:var(--button-background);}.ca-button-text-Qg5z92{--local-button-text:var(--button-text);}.ca-button-hover-lgxOxN:hover,.ca-button-hover-lgxOxN:active,.ca-button-hover-lgxOxN:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-0NRdr2:hover,.ca-button-text-hover-0NRdr2:active,.ca-button-text-hover-0NRdr2:focus{--local-button-text-hover:var(--button-text-hover);}.ca-pagination-hover-0NRqnB:hover,.ca-pagination-hover-0NRqnB:active,.ca-pagination-hover-0NRqnB:focus{color:var(--primary-paragraphs);}.ca-background-kBX5mN{background-color:var(--primary-background);}.ca-card-egEJL2{background-color:var(--primary-background);}.ca-title-Vgd3aN{color:var(--primary-headings);}.ca-date-rgoJ3N{color:var(--primary-paragraphs);}.ca-category-yBDpWB{color:var(--primary-paragraphs);}.ca-divider-52raRg{background-color:var(--primary-details);}.ca-post-arrow-mBZVmB{color:var(--primary-paragraphs);}.ca-pagination-YBAn1N{color:var(--primary-paragraphs);}.ca-pagination-arrow-K2k7k2{color:var(--primary-paragraphs);}.ca-button-kN03xB{--local-button:var(--button-background);}.ca-button-text-zglWVN{--local-button-text:var(--button-text);}.ca-button-hover-rg3M3B:hover,.ca-button-hover-rg3M3B:active,.ca-button-hover-rg3M3B:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-RB8y1N:hover,.ca-button-text-hover-RB8y1N:active,.ca-button-text-hover-RB8y1N:focus{--local-button-text-hover:var(--button-text-hover);}.ca-pagination-hover-kBXe4N:hover,.ca-pagination-hover-kBXe4N:active,.ca-pagination-hover-kBXe4N:focus{color:var(--primary-paragraphs);}.ca-background-mBZwWN{background-color:var(--primary-background);}.ca-background-glVR3B{background-color:var(--primary-background);}.ca-background-g3EKqB{background-color:var(--primary-background);}.ca-background-mgGxx2{background-color:var(--primary-background);}.ca-divider-MNeKo2{background-color:var(--primary-details);}.ca-background-0NR7Mg{background-color:var(--primary-background);}.ca-divider-kBXaZN{background-color:var(--primary-details);}.ca-background-Qg5Mog{background-color:var(--primary-background);}.ca-divider-lgx3rN{background-color:var(--primary-details);}.ca-background-wganQ2{background-color:var(--primary-background);}.ca-title-x2YvkB{color:var(--primary-headings);}.ca-question-zNVMLB{color:var(--primary-headings);}.ca-answer-02wXAB{color:var(--primary-paragraphs);}.ca-background-42nabg{background-color:var(--primary-background);}.ca-divider-AgL6DB{border-color:var(--primary-details);}.ca-title-qB9JON{color:var(--primary-headings);}.ca-question-pN1zDg{color:var(--primary-headings);}.ca-answer-xgmyag{color:var(--primary-paragraphs);}.ca-background-DNOWXN{background-color:var(--primary-background);}.ca-divider-oNzvkN{border-color:var(--primary-details);}.ca-toggle-icon-lgjeKN{color:var(--primary-paragraphs);}.ca-title-LBK56g{color:var(--primary-headings);}.ca-question-RBJ3KN{color:var(--primary-headings);}.ca-answer-VNbOvg{color:var(--primary-paragraphs);}.ca-background-Qg51wg{background-color:var(--primary-background);}.ca-icon-lgxzaB{color:var(--primary-paragraphs);}.ca-title-0NRyYB{color:var(--primary-headings);}.ca-subtitle-kBXAXN{color:var(--primary-paragraphs);}.ca-background-egEwYB{background-color:var(--primary-background);}.ca-card-VgdrDB{background-color:var(--accent-background);}.ca-icon-rgoowg{color:var(--accent-paragraphs);}.ca-title-yBD1vN{color:var(--accent-headings);}.ca-subtitle-52rGLB{color:var(--accent-paragraphs);}.ca-background-mBZbyB{background-color:var(--primary-background);}.ca-card-YBA472{background-color:var(--accent-background);}.ca-divider-K2kxJB{background-color:var(--accent-details);}.ca-icon-kN0nY2{color:var(--accent-paragraphs);}.ca-title-zgldOg{color:var(--accent-headings);}.ca-subtitle-rg31dB{color:var(--accent-paragraphs);}.ca-background-RB81pN{background-color:var(--primary-background);}.ca-card-a26E3g{background-color:var(--accent-background);}.ca-title-12MEG2{color:var(--accent-headings);}.ca-subtitle-og7RGN{color:var(--accent-paragraphs);}.ca-background-l2WG32{background-color:var(--primary-background);}.ca-card-w2v8WN{background-color:var(--primary-background);}.ca-title-ZgP5o2{color:var(--primary-headings);}.ca-subtitle-zBy7rg{color:var(--primary-paragraphs);}.ca-arrow-JNQG02{color:var(--primary-paragraphs);}.ca-background-wgadmN{background-color:var(--primary-background);}.ca-title-x2YR0B{color:var(--primary-headings);}.ca-subtitle-zNVYdB{color:var(--primary-paragraphs);}.ca-arrow-02w69g{color:var(--primary-paragraphs);}.ca-background-mgGAyB{background-color:var(--primary-background);}.ca-title-MNe3q2{color:var(--primary-headings);}.ca-subtitle-Qg5jw2{color:var(--primary-paragraphs);}.ca-arrow-lgxMa2{color:var(--primary-paragraphs);}.ca-background-0NRAYB{background-color:var(--primary-background);}.ca-title-kBXwX2{color:var(--primary-headings);}.ca-subtitle-egEAYg{color:var(--primary-paragraphs);}.ca-link-hover-VgdlDg:hover,.ca-link-hover-VgdlDg:active,.ca-link-hover-VgdlDg:focus{background-color:var(--accent-background);}.ca-background-rgorwN{background-color:var(--primary-background);}.ca-card-yBDAvN{background-color:var(--accent-background);}.ca-title-52rZL2{color:var(--accent-headings);}.ca-subtitle-mBZ9y2{color:var(--accent-paragraphs);}.ca-background-42neeg{background-color:var(--primary-background);}.ca-title-AgLJ8B{color:var(--primary-headings);}.ca-subtitle-qB9jGN{color:var(--primary-paragraphs);}.ca-arrow-pN1j8g{color:var(--primary-paragraphs);}.ca-background-xgmoRB{background-color:var(--primary-background);}.ca-title-DNOJPB{color:var(--primary-headings);}.ca-subtitle-oNzW6g{color:var(--primary-paragraphs);}.ca-arrow-lgjW42{color:var(--primary-paragraphs);}.ca-background-LBKpqN{background-color:var(--primary-background);}.ca-card-RBJAo2{background-color:var(--accent-background);}.ca-title-VNbPb2{color:var(--primary-headings);}.ca-subtitle-VBpREg{color:var(--primary-paragraphs);}.ca-divider-5N4eag{background-color:var(--primary-details);}.ca-arrow-W2q1W2{color:var(--primary-paragraphs);}.ca-background-LBK31B{background-color:var(--primary-background);}.ca-title-RBJlDg{color:var(--primary-headings);}.ca-date-VNbA3B{color:var(--primary-paragraphs);}.ca-category-VBpYON{color:var(--primary-paragraphs);}.ca-arrow-5N4k1B{color:var(--primary-paragraphs);}.ca-background-W2qo0N{background-color:var(--primary-background);}.ca-card-mgG9aB{background-color:var(--accent-background);}.ca-title-MNea1N{color:var(--accent-headings);}.ca-date-Qg5Q9g{color:var(--accent-paragraphs);}.ca-category-lgxoxN{color:var(--accent-paragraphs);}.ca-arrow-0NRpr2{color:var(--accent-paragraphs);}.ca-background-kBXpmB{background-color:var(--primary-background);}.ca-card-egE4LN{background-color:var(--accent-background);}.ca-title-Vgd1a2{color:var(--accent-headings);}.ca-date-rgoY3B{color:var(--accent-paragraphs);}.ca-category-yBD4WB{color:var(--accent-paragraphs);}.ca-arrow-52rJR2{color:var(--accent-paragraphs);}.ca-divider-mBZLmg{background-color:var(--accent-details);}.ca-background-qB9852{background-color:var(--primary-background);}.ca-card-pN1Wa2{background-color:var(--accent-background);}.ca-title-xgmKwB{color:var(--accent-headings);}.ca-subtitle-DNOnEB{color:var(--accent-paragraphs);}.ca-divider-oNzrpN{background-color:var(--accent-details);}.ca-body-lgj8eB{color:var(--accent-paragraphs);}.ca-button-LBKGAB{--local-button:var(--button-background);}.ca-button-text-RBJ5j2{--local-button-text:var(--button-text);}.ca-button-hover-VNbjjN:hover,.ca-button-hover-VNbjjN:active,.ca-button-hover-VNbjjN:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-VBpke2:hover,.ca-button-text-hover-VBpke2:active,.ca-button-text-hover-VBpke2:focus{--local-button-text-hover:var(--button-text-hover);}.ca-background-5N48eN{background-color:var(--primary-background);}.ca-card-W2qVoB{background-color:var(--accent-background);}.ca-card-2-mgGv4N{background-color:var(--primary-background);}.ca-title-MNej0g{color:var(--primary-headings);}.ca-subtitle-Qg56n2{color:var(--primary-paragraphs);}.ca-body-lgx1R2{color:var(--primary-paragraphs);}.ca-button-0NRE7B{--local-button:var(--button-background);}.ca-button-text-kBXWY2{--local-button-text:var(--button-text);}.ca-button-hover-egEoqB:hover,.ca-button-hover-egEoqB:active,.ca-button-hover-egEoqB:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-VgdjpB:hover,.ca-button-text-hover-VgdjpB:active,.ca-button-text-hover-VgdjpB:focus{--local-button-text-hover:var(--button-text-hover);}.ca-background-rgoPb2{background-color:var(--primary-background);}.ca-card-yBDwd2{background-color:var(--accent-background);}.ca-title-52rwVB{color:var(--accent-headings);}.ca-subtitle-mBZPMg{color:var(--accent-paragraphs);}.ca-body-YBAL62{color:var(--accent-paragraphs);}.ca-button-K2k6qg{--local-button:var(--button-background);}.ca-button-text-kN09kg{--local-button-text:var(--button-text);}.ca-button-hover-zglM02:hover,.ca-button-hover-zglM02:active,.ca-button-hover-zglM02:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-rg33vg:hover,.ca-button-text-hover-rg33vg:active,.ca-button-text-hover-rg33vg:focus{--local-button-text-hover:var(--button-text-hover);}.ca-divider-RB8xlB{background-color:var(--primary-details);}.ca-background-wgaAMg{background-color:var(--primary-background);}.ca-title-x2YAl2{color:var(--primary-headings);}.ca-username-zNVz1N{color:var(--primary-paragraphs);}.ca-instagram-logo-02wrjg{color:var(--primary-paragraphs);}.ca-username-hover-N4w01B:hover,.ca-username-hover-N4w01B:active,.ca-username-hover-N4w01B:focus{color:var(--primary-paragraphs);}.ca-background-42n7RB{background-color:var(--primary-background);}.ca-card-AgL01g{background-color:var(--accent-background);}.ca-title-qB9Pe2{color:var(--primary-headings);}.ca-username-pN1lzB{color:var(--primary-paragraphs);}.ca-instagram-logo-xgmMQg{color:var(--primary-paragraphs);}.ca-username-hover-2qrO0B:hover,.ca-username-hover-2qrO0B:active,.ca-username-hover-2qrO0B:focus{color:var(--primary-paragraphs);}.ca-background-DNO8Gg{background-color:var(--primary-background);}.ca-card-oNz6rN{background-color:var(--accent-background);}.ca-title-lgj3O2{color:var(--accent-headings);}.ca-username-LBKKpB{color:var(--accent-paragraphs);}.ca-arrow-RBJdlg{color:var(--accent-paragraphs);}.ca-instagram-logo-VNbz0N{color:var(--accent-paragraphs);}.ca-username-hover-gG51aB:hover,.ca-username-hover-gG51aB:active,.ca-username-hover-gG51aB:focus{color:var(--accent-paragraphs);}.ca-background-a26LON{background-color:var(--primary-background);}.ca-background-12MWXN{background-color:var(--primary-background);}.ca-pin-icon-og7kAg{color:var(--primary-paragraphs);}.ca-address-l2W5MN{color:var(--primary-paragraphs);}.ca-background-w2vdDN{background-color:var(--primary-background);}.ca-pin-icon-ZgPyG2{color:var(--primary-paragraphs);}.ca-address-zBykeg{color:var(--primary-headings);}.ca-divider-JNQQYN{background-color:var(--primary-details);}.ca-background-VgdY2w{background-color:var(--primary-background);}.ca-caption-rgoOg9{color:var(--primary-paragraphs);}.ca-background-yBD0B3{background-color:var(--primary-background);}.ca-caption-52rz28{color:var(--primary-paragraphs);}.ca-background-mBZ3Nq{background-color:var(--primary-background);}.ca-caption-YBArNb{color:var(--primary-paragraphs);}.ca-background-12M5d2{background-color:var(--primary-background);}.ca-headings-og7OVg{color:var(--primary-headings);}.ca-paragraphs-l2WKb2{color:var(--primary-paragraphs);}.ca-link-w2vw9B{--local-link:var(--button-background);}.ca-link-hover-ZgPknN:hover,.ca-link-hover-ZgPknN:active,.ca-link-hover-ZgPknN:focus{color:var(--button-background-hover);}.ca-caption-zByrnN{color:var(--primary-paragraphs);}.ca-background-JNQXWB{background-color:var(--primary-background);}.ca-headings-wgaKQB{color:var(--primary-headings);}.ca-paragraphs-x2YLkg{color:var(--primary-paragraphs);}.ca-link-zNVKLg{--local-link:var(--button-background);}.ca-link-hover-02wRAg:hover,.ca-link-hover-02wRAg:active,.ca-link-hover-02wRAg:focus{color:var(--button-background-hover);}.ca-caption-42nKbB{color:var(--primary-paragraphs);}.ca-background-AgLpDg{background-color:var(--primary-background);}.ca-headings-qB9eOB{color:var(--primary-headings);}.ca-paragraphs-pN1kD2{color:var(--primary-paragraphs);}.ca-link-xgmWaB{--local-link:var(--button-background);}.ca-link-hover-DNOAX2:hover,.ca-link-hover-DNOAX2:active,.ca-link-hover-DNOAX2:focus{color:var(--button-background-hover);}.ca-caption-oNzpk2{color:var(--primary-paragraphs);}.ca-background-zgljBq{background-color:var(--primary-background);}.ca-headings-rg3Kgx{color:var(--primary-headings);}.ca-paragraphs-RB8K2M{color:var(--primary-paragraphs);}.ca-link-a26kBO{--local-link:var(--button-background);}.ca-link-hover-12MjBD:hover,.ca-link-hover-12MjBD:active,.ca-link-hover-12MjBD:focus{color:var(--button-background-hover);}.ca-background-og7YBj{background-color:var(--primary-background);}.ca-headings-l2WG2b{color:var(--primary-headings);}.ca-paragraphs-w2v8NL{color:var(--primary-paragraphs);}.ca-link-ZgPWNz{--local-link:var(--button-background);}.ca-link-hover-zBy1Bd:hover,.ca-link-hover-zBy1Bd:active,.ca-link-hover-zBy1Bd:focus{color:var(--button-background-hover);}.ca-background-JNQ32L{background-color:var(--primary-background);}.ca-headings-wga1gG{color:var(--primary-headings);}.ca-paragraphs-x2YA2M{color:var(--primary-paragraphs);}.ca-link-zNVyBp{--local-link:var(--button-background);}.ca-link-hover-02wG2w:hover,.ca-link-hover-02wG2w:active,.ca-link-hover-02wG2w:focus{color:var(--button-background-hover);}.ca-background-rg3JKN{background-color:var(--primary-background);}.ca-background-K2kANz{background-color:var(--primary-background);}.ca-background-zgljjB{background-color:var(--primary-background);}.ca-background-kN0z72{background-color:var(--primary-background);}.ca-background-RB88KB{background-color:var(--primary-background);}.ca-slider-controls-a26akg{color:var(--primary-paragraphs);}.ca-background-12MRjB{background-color:var(--primary-background);}.ca-slider-controls-og7xY2{color:var(--primary-paragraphs);}.ca-background-x2YnAB{background-color:var(--primary-background);}.ca-headings-zNVqyB{color:var(--primary-headings);}.ca-paragraphs-02wJGg{color:var(--primary-paragraphs);}.ca-link-42nWoB{--local-link:var(--button-background);}.ca-link-hover-AgL1z2:hover,.ca-link-hover-AgL1z2:active,.ca-link-hover-AgL1z2:focus{color:var(--button-background-hover);}.ca-caption-qB9wng{color:var(--primary-paragraphs);}.ca-background-pN1J9g{background-color:var(--primary-background);}.ca-headings-xgmrP2{color:var(--primary-headings);}.ca-paragraphs-DNOEw2{color:var(--primary-paragraphs);}.ca-link-oNz9LB{--local-link:var(--button-background);}.ca-link-hover-lgjLqB:hover,.ca-link-hover-lgjLqB:active,.ca-link-hover-lgjLqB:focus{color:var(--button-background-hover);}.ca-caption-LBK8YN{color:var(--primary-paragraphs);}.ca-background-l2WqGN{background-color:var(--primary-background);}.ca-headings-w2vn82{color:var(--primary-headings);}.ca-paragraphs-ZgPoWN{color:var(--primary-paragraphs);}.ca-link-zBy91B{--local-link:var(--button-background);}.ca-link-hover-JNQ43B:hover,.ca-link-hover-JNQ43B:active,.ca-link-hover-JNQ43B:focus{color:var(--button-background-hover);}.ca-caption-wgav12{color:var(--primary-paragraphs);}.ca-background-x2Ye02{background-color:var(--primary-background);}.ca-divider-zNV5dB{background-color:var(--primary-details);}.ca-title-02w99N{color:var(--primary-headings);}.ca-package-name-42nOeB{color:var(--primary-headings);}.ca-description-AgLE82{color:var(--primary-paragraphs);}.ca-price-qB9QGB{color:var(--primary-paragraphs);}.ca-background-pN118N{background-color:var(--primary-background);}.ca-card-xgmZR2{background-color:var(--accent-background);}.ca-divider-DNORPB{background-color:var(--accent-details);}.ca-title-oNz16B{color:var(--primary-headings);}.ca-package-name-lgjO42{color:var(--accent-headings);}.ca-description-LBKEqg{color:var(--accent-paragraphs);}.ca-price-RBJEo2{color:var(--accent-paragraphs);}.ca-background-VNbrbN{background-color:var(--primary-background);}.ca-divider-VBpeEN{background-color:var(--primary-details);}.ca-title-5N4Ja2{color:var(--primary-headings);}.ca-package-name-W2qdWg{color:var(--primary-headings);}.ca-description-mgGEyB{color:var(--primary-paragraphs);}.ca-price-MNeAqN{color:var(--primary-paragraphs);}.ca-background-VBpyMN{background-color:var(--primary-background);}.ca-divider-5N4y0g{background-color:var(--primary-details);}.ca-quote-W2qyJ2{color:var(--primary-headings);}.ca-source-mgGG6g{color:var(--primary-paragraphs);}.ca-background-MNe4GB{background-color:var(--primary-background);}.ca-divider-Qg5epg{background-color:var(--primary-details);}.ca-quote-lgx7PN{color:var(--primary-headings);}.ca-source-0NRePB{color:var(--primary-paragraphs);}.ca-background-kBXdRB{background-color:var(--primary-background);}.ca-card-egE77B{background-color:var(--accent-background);}.ca-quote-VgdzRB{color:var(--accent-headings);}.ca-source-rgo0P2{color:var(--accent-paragraphs);}.ca-background-YBAJ1N{background-color:var(--primary-background);}.ca-card-K2kPkB{background-color:var(--accent-background);}.ca-title-kN0Vx2{color:var(--accent-headings);}.ca-date-zglJVB{color:var(--accent-paragraphs);}.ca-category-rg3V3N{color:var(--accent-paragraphs);}.ca-background-RB8V1g{background-color:var(--primary-background);}.ca-title-a26mjg{color:var(--primary-headings);}.ca-date-12Mx6g{color:var(--primary-paragraphs);}.ca-category-og799B{color:var(--primary-paragraphs);}.ca-arrow-l2WLvB{color:var(--primary-paragraphs);}.ca-background-w2vVL2{background-color:var(--primary-background);}.ca-title-ZgPLyg{color:var(--primary-headings);}.ca-date-zBy18B{color:var(--primary-paragraphs);}.ca-category-JNQd7B{color:var(--primary-paragraphs);}.ca-arrow-wgaO4B{color:var(--primary-paragraphs);}.ca-background-lgxWNV{background-color:var(--primary-background);}.ca-caption-0NRjNZ{color:var(--primary-paragraphs);}.ca-background-kBX72n{background-color:var(--primary-background);}.ca-caption-egER2w{color:var(--primary-paragraphs);}.ca-background-B9ernB{background-color:var(--primary-background);}.ca-caption-N1kX92{color:var(--primary-paragraphs);}.ca-background-MNeyNa{background-color:var(--primary-background);}.ca-caption-Qg5kBy{color:var(--primary-paragraphs);}.ca-background-RBJLng{background-color:var(--primary-background);}.ca-headings-VNbR8N{color:var(--primary-headings);}.ca-paragraphs-VBpZAg{color:var(--primary-paragraphs);}.ca-link-5N4wKB{--local-link:var(--button-background);}.ca-link-hover-W2qr5B:hover,.ca-link-hover-W2qr5B:active,.ca-link-hover-W2qr5B:focus{color:var(--button-background-hover);}.ca-caption-mgG5MB{color:var(--primary-paragraphs);}.ca-background-MNedyB{background-color:var(--primary-background);}.ca-headings-Qg50kN{color:var(--primary-headings);}.ca-paragraphs-lgxPWg{color:var(--primary-paragraphs);}.ca-link-0NRJjN{--local-link:var(--button-background);}.ca-link-hover-kBXK72:hover,.ca-link-hover-kBXK72:active,.ca-link-hover-kBXK72:focus{color:var(--button-background-hover);}.ca-caption-egEGRB{color:var(--primary-paragraphs);}.ca-background-VgdQY2{background-color:var(--primary-background);}.ca-headings-rgoaOB{color:var(--primary-headings);}.ca-paragraphs-yBD50N{color:var(--primary-paragraphs);}.ca-link-52rQzg{--local-link:var(--button-background);}.ca-link-hover-mBZm32:hover,.ca-link-hover-mBZm32:active,.ca-link-hover-mBZm32:focus{color:var(--button-background-hover);}.ca-caption-YBA5rB{color:var(--primary-paragraphs);}.ca-background-K2kYAN{background-color:var(--primary-background);}.ca-headings-kN0J72{color:var(--primary-headings);}.ca-paragraphs-zglRjB{color:var(--primary-paragraphs);}.ca-link-rg3KKg{--local-link:var(--button-background);}.ca-link-hover-RB84KB:hover,.ca-link-hover-RB84KB:active,.ca-link-hover-RB84KB:focus{color:var(--button-background-hover);}.ca-caption-a26xkN{color:var(--primary-paragraphs);}.ca-background-12M5j2{background-color:var(--primary-background);}.ca-headings-og7OYg{color:var(--primary-headings);}.ca-paragraphs-l2WKG2{color:var(--primary-paragraphs);}.ca-link-w2vw8B{--local-link:var(--button-background);}.ca-link-hover-ZgPkWN:hover,.ca-link-hover-ZgPkWN:active,.ca-link-hover-ZgPkWN:focus{color:var(--button-background-hover);}.ca-caption-zByr1N{color:var(--primary-paragraphs);}.ca-background-JNQX3B{background-color:var(--primary-background);}.ca-headings-kN0Jo2{color:var(--primary-headings);}.ca-paragraphs-zglRGB{color:var(--primary-paragraphs);}.ca-link-rg3K8g{--local-link:var(--button-background);}.ca-link-hover-RB84QB:hover,.ca-link-hover-RB84QB:active,.ca-link-hover-RB84QB:focus{color:var(--button-background-hover);}.ca-caption-a26xoN{color:var(--primary-paragraphs);}.ca-background-gmW1PB{background-color:var(--primary-background);}.ca-caption-NOArw2{color:var(--primary-paragraphs);}.ca-headings-Nzp5L2{color:var(--primary-headings);}.ca-paragraphs-gjRnqg{color:var(--primary-paragraphs);}.ca-background-VNb82A{background-color:var(--primary-background);}.ca-headings-VBpAN4{color:var(--primary-headings);}.ca-paragraphs-5N4KBM{color:var(--primary-paragraphs);}.ca-link-W2q52m{--local-link:var(--button-background);}.ca-link-hover-mgGMBd:hover,.ca-link-hover-mgGMBd:active,.ca-link-hover-mgGMBd:focus{color:var(--button-background-hover);}.ca-background-DNOwNm{background-color:var(--primary-background);}.ca-headings-oNzL2y{color:var(--primary-headings);}.ca-paragraphs-lgjqN1{color:var(--primary-paragraphs);}.ca-link-LBKYgW{--local-link:var(--button-background);}.ca-link-hover-RBJnBr:hover,.ca-link-hover-RBJnBr:active,.ca-link-hover-RBJnBr:focus{color:var(--button-background-hover);}.ca-background-42noBe{background-color:var(--primary-background);}.ca-headings-AgLzB8{color:var(--primary-headings);}.ca-paragraphs-qB9nNn{color:var(--primary-paragraphs);}.ca-link-pN19NP{--local-link:var(--button-background);}.ca-link-hover-xgmPNX:hover,.ca-link-hover-xgmPNX:active,.ca-link-hover-xgmPNX:focus{color:var(--button-background-hover);}.ca-button-qB9dV2{--local-button:var(--primary-background);}.ca-button-text-pN194N{--local-button-text:var(--primary-paragraphs);}.ca-button-hover-xgmEJg:hover,.ca-button-hover-xgmEJg:active,.ca-button-hover-xgmEJg:focus{--local-button-hover:var(--primary-details);}.ca-button-text-hover-DNObDB:hover,.ca-button-text-hover-DNObDB:active,.ca-button-text-hover-DNObDB:focus{--local-button-text-hover:var(--button-background-hover);}.ca-button-oNzEbB{--local-button:var(--button-background);}.ca-button-text-lgjZwg{--local-button-text:var(--button-text);}.ca-button-hover-LBKby2:hover,.ca-button-hover-LBKby2:active,.ca-button-hover-LBKby2:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-RBJbXB:hover,.ca-button-text-hover-RBJbXB:active,.ca-button-text-hover-RBJbXB:focus{--local-button-text-hover:var(--button-text-hover);}.ca-background-RB8KQ2{background-color:var(--primary-background);}.ca-title-a26GoB{color:var(--primary-headings);}.ca-subtitle-12M4dg{color:var(--primary-paragraphs);}.ca-button-og7EVB{--local-button:var(--button-background);}.ca-button-text-l2Wwb2{--local-button-text:var(--button-text);}.ca-button-hover-w2vX9N:hover,.ca-button-hover-w2vX9N:active,.ca-button-hover-w2vX9N:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-ZgPEn2:hover,.ca-button-text-hover-ZgPEn2:active,.ca-button-text-hover-ZgPEn2:focus{--local-button-text-hover:var(--button-text-hover);}.ca-slider-controls-zByWng{color:var(--primary-paragraphs);}.ca-divider-JNQ0WB{background-color:var(--primary-details);}.ca-card-rg38w2{background-color:var(--accent-background);}.ca-background-VBpvXg{background-color:var(--primary-background);}.ca-accent-icons-5N46G2{color:var(--button-background);}.ca-neutral-icons-DNOe52{color:var(--primary-paragraphs);}.ca-background-W2qPpg{background-color:var(--primary-background);}.ca-label-x2YZ6B{color:var(--primary-paragraphs);}.ca-background-zNVeJB{background-color:var(--primary-background);}.ca-label-02wEoN{color:var(--primary-paragraphs);}.ca-background-42nE0g{background-color:var(--primary-background);}.ca-label-AgLd9g{color:var(--primary-paragraphs);}.ca-background-a26Mbg{background-color:var(--primary-background);}.ca-card-12MAD2{background-color:var(--accent-background);}.ca-slider-controls-og7Y1B{color:var(--accent-paragraphs);}.ca-divider-l2WApN{background-color:var(--accent-details);}.ca-title-w2vKkB{color:var(--accent-paragraphs);}.ca-source-ZgPp0g{color:var(--accent-headings);}.ca-quote-zByb4N{color:var(--accent-paragraphs);}.ca-background-JNQ5ZN{background-color:var(--primary-background);}.ca-card-kN09Yg{background-color:var(--accent-background);}.ca-card-2-zglMO2{background-color:var(--primary-background);}.ca-slider-controls-rg33dg{color:var(--primary-paragraphs);}.ca-title-RB8xpB{color:var(--primary-paragraphs);}.ca-source-a26M3g{color:var(--primary-headings);}.ca-quote-12MAG2{color:var(--primary-paragraphs);}.ca-background-og7YGB{background-color:var(--primary-background);}.ca-card-l2WA3N{background-color:var(--primary-background);}.ca-slider-controls-w2vmWg{color:var(--primary-paragraphs);}.ca-icon-ZgPAo2{color:var(--primary-details);}.ca-title-zByOrg{color:var(--primary-headings);}.ca-source-JNQE0N{color:var(--primary-headings);}.ca-quote-wgarm2{color:var(--primary-paragraphs);}.ca-background-wgapMN{background-color:var(--primary-background);}.ca-footer-text-x2YYl2{color:var(--primary-paragraphs);}.ca-social-icons-zNVy1B{color:var(--button-background);}.ca-arrow-02wljB{color:var(--primary-paragraphs);}.ca-social-icons-hover-LBK0pN:hover,.ca-social-icons-hover-LBK0pN:active,.ca-social-icons-hover-LBK0pN:focus{color:var(--button-background-hover);}.ca-arrow-hover-VBpoX2:hover,.ca-arrow-hover-VBpoX2:active,.ca-arrow-hover-VBpoX2:focus{color:var(--primary-paragraphs);}.ca-pixieset-logo-fill-mgGjxN{fill:var(--button-background);}.ca-pixieset-logo-fill-hover-lgxmr2:hover,.ca-pixieset-logo-fill-hover-lgxmr2:active,.ca-pixieset-logo-fill-hover-lgxmr2:focus{fill:var(--button-background-hover);}.ca-pixieset-logo-hover-egEmeg:hover,.ca-pixieset-logo-hover-egEmeg:active,.ca-pixieset-logo-hover-egEmeg:focus{stroke:var(--button-background-hover);}.ca-pixieset-logo-42nyDg{stroke:var(--button-background);}.ca-background-42nZR2{background-color:var(--primary-background);}.ca-footer-text-AgLl1g{color:var(--primary-paragraphs);}.ca-social-icons-qB9aeB{color:var(--button-background);}.ca-arrow-pN16zg{color:var(--primary-paragraphs);}.ca-navigation-links-xgmdQN{color:var(--primary-paragraphs);}.ca-dropdown-DNO6GB{background-color:var(--accent-background);}.ca-dropdown-links-oNzmrB{color:var(--accent-paragraphs);}.ca-social-icons-hover-RBJml2:hover,.ca-social-icons-hover-RBJml2:active,.ca-social-icons-hover-RBJml2:focus{color:var(--button-background-hover);}.ca-arrow-hover-5N4WGB:hover,.ca-arrow-hover-5N4WGB:active,.ca-arrow-hover-5N4WGB:focus{color:var(--primary-paragraphs);}.ca-pixieset-logo-fill-MNeoo2{fill:var(--button-background);}.ca-pixieset-logo-fill-hover-0NRWMg:hover,.ca-pixieset-logo-fill-hover-0NRWMg:active,.ca-pixieset-logo-fill-hover-0NRWMg:focus{fill:var(--button-background-hover);}.ca-pixieset-logo-hover-VgdowN:hover,.ca-pixieset-logo-hover-VgdowN:active,.ca-pixieset-logo-hover-VgdowN:focus{stroke:var(--button-background-hover);}.ca-navigation-links-hover-wgax0N:hover,.ca-navigation-links-hover-wgax0N:active,.ca-navigation-links-hover-wgax0N:focus{color:var(--primary-paragraphs);}.ca-dropdown-links-hover-x2YxPg:hover,.ca-dropdown-links-hover-x2YxPg:active,.ca-dropdown-links-hover-x2YxPg:focus{color:var(--accent-paragraphs);}.ca-pixieset-logo-AgLeb2{stroke:var(--button-background);}.ca-background-RB8vDg{background-color:var(--primary-background);}.ca-card-a267OB{background-color:var(--primary-background);}.ca-ig-details-12MlXg{color:var(--primary-paragraphs);}.ca-footer-text-og7WAg{color:var(--primary-paragraphs);}.ca-social-icons-l2WQMN{color:var(--button-background);}.ca-arrow-w2v0DN{color:var(--primary-paragraphs);}.ca-navigation-links-ZgP6GB{color:var(--primary-paragraphs);}.ca-dropdown-zBy8e2{background-color:var(--accent-background);}.ca-dropdown-links-JNQMYN{color:var(--accent-paragraphs);}.ca-divider-lgj4OB{background-color:var(--primary-details);}.ca-social-icons-hover-VNbo0g:hover,.ca-social-icons-hover-VNbo0g:active,.ca-social-icons-hover-VNbo0g:focus{color:var(--button-background-hover);}.ca-arrow-hover-W2qXpg:hover,.ca-arrow-hover-W2qXpg:active,.ca-arrow-hover-W2qXpg:focus{color:var(--primary-paragraphs);}.ca-pixieset-logo-fill-Qg5vo2{fill:var(--button-background);}.ca-pixieset-logo-fill-hover-kBXYZN:hover,.ca-pixieset-logo-fill-hover-kBXYZN:active,.ca-pixieset-logo-fill-hover-kBXYZN:focus{fill:var(--button-background-hover);}.ca-pixieset-logo-hover-rgoz7N:hover,.ca-pixieset-logo-hover-rgoz7N:active,.ca-pixieset-logo-hover-rgoz7N:focus{stroke:var(--button-background-hover);}.ca-navigation-links-hover-zNVxp2:hover,.ca-navigation-links-hover-zNVxp2:active,.ca-navigation-links-hover-zNVxp2:focus{color:var(--primary-paragraphs);}.ca-dropdown-links-hover-02w13N:hover,.ca-dropdown-links-hover-02w13N:active,.ca-dropdown-links-hover-02w13N:focus{color:var(--accent-paragraphs);}.ca-pixieset-logo-qB9Lr2{stroke:var(--button-background);}.ca-background-egEq6g{background-color:var(--primary-background);}.ca-site-title-VgdAm2{color:var(--primary-paragraphs);}.ca-primary-link-rgox92{color:var(--primary-paragraphs);}.ca-primary-icon-yBDqZN{color:var(--primary-paragraphs);}.ca-dropdown-52rmDg{background-color:var(--accent-background);}.ca-dropdown-link-mBZ48g{color:var(--accent-paragraphs);}.ca-overlay-menu-YBAoAg{background-color:var(--primary-background);}.ca-overlay-link-K2kd0B{color:var(--primary-headings);}.ca-overlay-sub-link-kN0GEB{color:var(--primary-headings);}.ca-overlay-icon-zglAm2{color:var(--primary-details);}.ca-primary-link-hover-VNbZMN:hover,.ca-primary-link-hover-VNbZMN:active,.ca-primary-link-hover-VNbZMN:focus{color:var(--primary-paragraphs);}.ca-primary-icon-hover-VBpEGN:hover,.ca-primary-icon-hover-VBpEGN:active,.ca-primary-icon-hover-VBpEGN:focus{color:var(--primary-paragraphs);}.ca-dropdown-link-hover-5N4dLN:hover,.ca-dropdown-link-hover-5N4dLN:active,.ca-dropdown-link-hover-5N4dLN:focus{color:var(--accent-paragraphs);}.ca-overlay-link-hover-W2qEb2:hover,.ca-overlay-link-hover-W2qEb2:active,.ca-overlay-link-hover-W2qEb2:focus{color:var(--primary-headings);}.ca-overlay-sub-link-hover-mgGbrN:hover,.ca-overlay-sub-link-hover-mgGbrN:active,.ca-overlay-sub-link-hover-mgGbrN:focus{color:var(--primary-headings);}.ca-overlay-icon-hover-MNeZxg:hover,.ca-overlay-icon-hover-MNeZxg:active,.ca-overlay-icon-hover-MNeZxg:focus{color:var(--primary-details);}.ca-background-rg3Gbg{background-color:var(--primary-background);}.ca-site-title-RB8ob2{color:var(--primary-paragraphs);}.ca-primary-link-a26ylg{color:var(--primary-headings);}.ca-primary-icon-12MdRg{color:var(--primary-paragraphs);}.ca-dropdown-og7QOB{background-color:var(--accent-background);}.ca-dropdown-link-l2WPwB{color:var(--accent-headings);}.ca-overlay-menu-w2vo1B{background-color:var(--primary-background);}.ca-overlay-link-ZgP3jN{color:var(--primary-headings);}.ca-overlay-sub-link-zBydb2{color:var(--primary-headings);}.ca-overlay-icon-JNQ8EB{color:var(--primary-details);}.ca-title-wga9dg{color:var(--primary-headings);}.ca-subtitle-x2YQp2{color:var(--primary-paragraphs);}.ca-slider-controls-zNVvAN{color:var(--primary-paragraphs);}.ca-button-02wZmg{--local-button:var(--button-background);}.ca-button-text-42nrn2{--local-button-text:var(--button-text);}.ca-button-hover-AgLz7B:hover,.ca-button-hover-AgLz7B:active,.ca-button-hover-AgLz7B:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-qB9YPB:hover,.ca-button-text-hover-qB9YPB:active,.ca-button-text-hover-qB9YPB:focus{--local-button-text-hover:var(--button-text-hover);}.ca-primary-link-hover-Qg5dlN:hover,.ca-primary-link-hover-Qg5dlN:active,.ca-primary-link-hover-Qg5dlN:focus{color:var(--primary-headings);}.ca-primary-icon-hover-lgxE52:hover,.ca-primary-icon-hover-lgxE52:active,.ca-primary-icon-hover-lgxE52:focus{color:var(--primary-paragraphs);}.ca-dropdown-link-hover-0NR4w2:hover,.ca-dropdown-link-hover-0NR4w2:active,.ca-dropdown-link-hover-0NR4w2:focus{color:var(--accent-headings);}.ca-overlay-link-hover-kBXZ6g:hover,.ca-overlay-link-hover-kBXZ6g:active,.ca-overlay-link-hover-kBXZ6g:focus{color:var(--primary-headings);}.ca-overlay-sub-link-hover-egEe5g:hover,.ca-overlay-sub-link-hover-egEe5g:active,.ca-overlay-sub-link-hover-egEe5g:focus{color:var(--primary-headings);}.ca-overlay-icon-hover-Vgd0Qg:hover,.ca-overlay-icon-hover-Vgd0Qg:active,.ca-overlay-icon-hover-Vgd0Qg:focus{color:var(--primary-details);}.ca-background-pN1M6N{background-color:var(--primary-background);}.ca-site-title-xgmemg{color:var(--primary-paragraphs);}.ca-primary-link-DNOllg{color:var(--primary-headings);}.ca-primary-icon-oNz4x2{color:var(--primary-paragraphs);}.ca-dropdown-lgjdZB{background-color:var(--accent-background);}.ca-dropdown-link-LBKze2{color:var(--accent-headings);}.ca-overlay-menu-RBJoyN{background-color:var(--primary-background);}.ca-overlay-link-VNbmJB{color:var(--primary-headings);}.ca-overlay-sub-link-VBp4qB{color:var(--primary-headings);}.ca-overlay-icon-5N4vV2{color:var(--primary-details);}.ca-title-W2q4Mg{color:var(--primary-headings);}.ca-subtitle-mgGz3N{color:var(--primary-paragraphs);}.ca-slider-controls-MNezXg{color:var(--primary-paragraphs);}.ca-button-Qg5PJN{--local-button:var(--button-background);}.ca-button-text-lgxrZB{--local-button-text:var(--button-text);}.ca-button-hover-0NR6nN:hover,.ca-button-hover-0NR6nN:active,.ca-button-hover-0NR6nN:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-kBXy4N:hover,.ca-button-text-hover-kBXy4N:active,.ca-button-text-hover-kBXy4N:focus{--local-button-text-hover:var(--button-text-hover);}.ca-primary-link-hover-rgoQdB:hover,.ca-primary-link-hover-rgoQdB:active,.ca-primary-link-hover-rgoQdB:focus{color:var(--primary-headings);}.ca-primary-icon-hover-yBDeGN:hover,.ca-primary-icon-hover-yBDeGN:active,.ca-primary-icon-hover-yBDeGN:focus{color:var(--primary-paragraphs);}.ca-dropdown-link-hover-52rV82:hover,.ca-dropdown-link-hover-52rV82:active,.ca-dropdown-link-hover-52rV82:focus{color:var(--accent-headings);}.ca-overlay-link-hover-mBZxlg:hover,.ca-overlay-link-hover-mBZxlg:active,.ca-overlay-link-hover-mBZxlg:focus{color:var(--primary-headings);}.ca-overlay-sub-link-hover-YBAeLB:hover,.ca-overlay-sub-link-hover-YBAeLB:active,.ca-overlay-sub-link-hover-YBAeLB:focus{color:var(--primary-headings);}.ca-overlay-icon-hover-K2kWx2:hover,.ca-overlay-icon-hover-K2kWx2:active,.ca-overlay-icon-hover-K2kWx2:focus{color:var(--primary-details);}.ca-background-yBDmLN{background-color:var(--primary-background);}.ca-title-52rr62{color:var(--primary-headings);}.ca-category-mBZrWB{color:var(--primary-paragraphs);}.ca-icons-YBAmzB{color:var(--primary-paragraphs);}.ca-date-K2kzXg{color:var(--primary-paragraphs);}.ca-arrow-kN08mN{color:var(--primary-paragraphs);}.ca-category-hover-BDV70g:hover,.ca-category-hover-BDV70g:active,.ca-category-hover-BDV70g:focus{color:var(--primary-paragraphs);}.ca-social-icons-2r86zN{color:var(--button-background);}.ca-social-icons-hover-BZd63g:hover,.ca-social-icons-hover-BZd63g:active,.ca-social-icons-hover-BZd63g:focus{color:var(--button-background-hover);}.ca-background-egEx6N{background-color:var(--primary-background);}.ca-site-title-Vgdpmg{color:var(--primary-paragraphs);}.ca-primary-link-rgoR9N{color:var(--primary-headings);}.ca-primary-icon-yBDzZg{color:var(--primary-paragraphs);}.ca-dropdown-52r4DN{background-color:var(--accent-background);}.ca-dropdown-link-mBZa82{color:var(--accent-headings);}.ca-overlay-menu-YBADA2{background-color:var(--primary-background);}.ca-overlay-link-K2k90N{color:var(--primary-headings);}.ca-overlay-sub-link-kN06E2{color:var(--primary-headings);}.ca-overlay-icon-zglomN{color:var(--primary-paragraphs);}.ca-title-rg3Wbg{color:var(--primary-headings);}.ca-subtitle-RB8abN{color:var(--primary-paragraphs);}.ca-date-a26Ylg{color:var(--primary-paragraphs);}.ca-category-12M0Rg{color:var(--primary-paragraphs);}.ca-button-og7VON{--local-button:var(--button-background);}.ca-button-text-l2WywN{--local-button-text:var(--button-text);}.ca-button-hover-w2vx1N:hover,.ca-button-hover-w2vx1N:active,.ca-button-hover-w2vx1N:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-ZgP8jg:hover,.ca-button-text-hover-ZgP8jg:active,.ca-button-text-hover-ZgP8jg:focus{--local-button-text-hover:var(--button-text-hover);}.ca-slider-controls-zByZbN{color:var(--primary-paragraphs);}.ca-primary-link-hover-kN0vO2:hover,.ca-primary-link-hover-kN0vO2:active,.ca-primary-link-hover-kN0vO2:focus{color:var(--primary-headings);}.ca-primary-icon-hover-zglveB:hover,.ca-primary-icon-hover-zglveB:active,.ca-primary-icon-hover-zglveB:focus{color:var(--primary-paragraphs);}.ca-dropdown-link-hover-rg3QVB:hover,.ca-dropdown-link-hover-rg3QVB:active,.ca-dropdown-link-hover-rg3QVB:focus{color:var(--accent-headings);}.ca-overlay-link-hover-RB8nyg:hover,.ca-overlay-link-hover-RB8nyg:active,.ca-overlay-link-hover-RB8nyg:focus{color:var(--primary-headings);}.ca-overlay-sub-link-hover-a26VK2:hover,.ca-overlay-sub-link-hover-a26VK2:active,.ca-overlay-sub-link-hover-a26VK2:focus{color:var(--primary-headings);}.ca-overlay-icon-hover-12MeW2:hover,.ca-overlay-icon-hover-12MeW2:active,.ca-overlay-icon-hover-12MeW2:focus{color:var(--primary-paragraphs);}.ca-background-JNQ6Eg{background-color:var(--primary-background);}.ca-site-title-kN0WOB{color:var(--primary-paragraphs);}.ca-primary-link-zglpeg{color:var(--primary-headings);}.ca-primary-icon-rg3yVB{color:var(--primary-paragraphs);}.ca-dropdown-RB8wy2{background-color:var(--accent-background);}.ca-dropdown-link-a26YKg{color:var(--accent-headings);}.ca-overlay-menu-12M0Wg{background-color:var(--primary-background);}.ca-overlay-link-og7VWN{color:var(--primary-headings);}.ca-overlay-sub-link-l2WyaN{color:var(--primary-headings);}.ca-overlay-icon-w2vx3N{color:var(--primary-paragraphs);}.ca-title-ZgP83g{color:var(--primary-headings);}.ca-subtitle-zByZZN{color:var(--primary-paragraphs);}.ca-date-JNQ6pg{color:var(--primary-paragraphs);}.ca-category-wgaExg{color:var(--primary-paragraphs);}.ca-button-x2Ya62{--local-button:var(--button-background);}.ca-button-text-zNVPJ2{--local-button-text:var(--button-text);}.ca-button-hover-02wxoB:hover,.ca-button-hover-02wxoB:active,.ca-button-hover-02wxoB:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-42nX0N:hover,.ca-button-text-hover-42nX0N:active,.ca-button-text-hover-42nX0N:focus{--local-button-text-hover:var(--button-text-hover);}.ca-slider-controls-AgLR9B{color:var(--primary-paragraphs);}.ca-primary-link-hover-og7wWg:hover,.ca-primary-link-hover-og7wWg:active,.ca-primary-link-hover-og7wWg:focus{color:var(--primary-headings);}.ca-primary-icon-hover-l2WxaB:hover,.ca-primary-icon-hover-l2WxaB:active,.ca-primary-icon-hover-l2WxaB:focus{color:var(--primary-paragraphs);}.ca-dropdown-link-hover-w2v93g:hover,.ca-dropdown-link-hover-w2v93g:active,.ca-dropdown-link-hover-w2v93g:focus{color:var(--accent-headings);}.ca-overlay-link-hover-ZgPX3g:hover,.ca-overlay-link-hover-ZgPX3g:active,.ca-overlay-link-hover-ZgPX3g:focus{color:var(--primary-headings);}.ca-overlay-sub-link-hover-zByjZN:hover,.ca-overlay-sub-link-hover-zByjZN:active,.ca-overlay-sub-link-hover-zByjZN:focus{color:var(--primary-headings);}.ca-overlay-icon-hover-JNQkp2:hover,.ca-overlay-icon-hover-JNQkp2:active,.ca-overlay-icon-hover-JNQkp2:focus{color:var(--primary-paragraphs);}.ca-category-hover-BA38rg:hover,.ca-category-hover-BA38rg:active,.ca-category-hover-BA38rg:focus{color:var(--primary-paragraphs);}.ca-background-qB9nVN{background-color:var(--primary-background);}.ca-site-title-pN1v4g{color:var(--primary-paragraphs);}.ca-primary-link-xgmbJ2{color:var(--primary-headings);}.ca-primary-icon-DNO3DN{color:var(--primary-paragraphs);}.ca-dropdown-oNzxb2{background-color:var(--accent-background);}.ca-dropdown-link-lgjxwB{color:var(--accent-headings);}.ca-overlay-menu-LBKRy2{background-color:var(--primary-background);}.ca-overlay-link-RBJRXB{color:var(--primary-headings);}.ca-overlay-sub-link-VNbbMN{color:var(--primary-headings);}.ca-overlay-icon-VBpbGg{color:var(--primary-paragraphs);}.ca-title-5N4QLg{color:var(--primary-headings);}.ca-subtitle-W2qxbg{color:var(--primary-paragraphs);}.ca-date-mgGRrN{color:var(--primary-paragraphs);}.ca-category-MNebxg{color:var(--primary-paragraphs);}.ca-divider-Qg5alg{background-color:var(--primary-details);}.ca-button-lgxd5g{--local-button:var(--button-background);}.ca-button-text-0NRMwB{--local-button-text:var(--button-text);}.ca-button-hover-kBXQ6N:hover,.ca-button-hover-kBXQ6N:active,.ca-button-hover-kBXQ6N:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-egEb52:hover,.ca-button-text-hover-egEb52:active,.ca-button-text-hover-egEb52:focus{--local-button-text-hover:var(--button-text-hover);}.ca-slider-controls-VgdZQB{color:var(--primary-paragraphs);}.ca-primary-link-hover-kN0vv2:hover,.ca-primary-link-hover-kN0vv2:active,.ca-primary-link-hover-kN0vv2:focus{color:var(--primary-headings);}.ca-primary-icon-hover-zglv3B:hover,.ca-primary-icon-hover-zglv3B:active,.ca-primary-icon-hover-zglv3B:focus{color:var(--primary-paragraphs);}.ca-dropdown-link-hover-rg3QqB:hover,.ca-dropdown-link-hover-rg3QqB:active,.ca-dropdown-link-hover-rg3QqB:focus{color:var(--accent-headings);}.ca-overlay-link-hover-RB8nMg:hover,.ca-overlay-link-hover-RB8nMg:active,.ca-overlay-link-hover-RB8nMg:focus{color:var(--primary-headings);}.ca-overlay-sub-link-hover-a26Vn2:hover,.ca-overlay-sub-link-hover-a26Vn2:active,.ca-overlay-sub-link-hover-a26Vn2:focus{color:var(--primary-headings);}.ca-overlay-icon-hover-12Me12:hover,.ca-overlay-icon-hover-12Me12:active,.ca-overlay-icon-hover-12Me12:focus{color:var(--primary-paragraphs);}.ca-background-rgoEdB{background-color:var(--primary-background);}.ca-site-title-yBDdGB{color:var(--primary-paragraphs);}.ca-primary-link-52rE8g{color:var(--primary-headings);}.ca-primary-icon-mBZZlB{color:var(--primary-paragraphs);}.ca-dropdown-YBAdL2{background-color:var(--accent-background);}.ca-dropdown-link-K2kExN{color:var(--accent-headings);}.ca-overlay-menu-kN0LON{background-color:var(--primary-background);}.ca-overlay-link-zglEe2{color:var(--primary-headings);}.ca-overlay-sub-link-rg3oVg{color:var(--primary-headings);}.ca-overlay-icon-RB8dyB{color:var(--primary-paragraphs);}.ca-title-a26dKN{color:var(--primary-headings);}.ca-subtitle-12MbWB{color:var(--primary-paragraphs);}.ca-date-og7dW2{color:var(--primary-paragraphs);}.ca-category-l2Wbag{color:var(--primary-paragraphs);}.ca-button-w2vE3g{--local-button:var(--button-background);}.ca-button-text-ZgPb3B{--local-button-text:var(--button-text);}.ca-button-hover-zByEZB:hover,.ca-button-hover-zByEZB:active,.ca-button-hover-zByEZB:focus{--local-button-hover:var(--button-background-hover);}.ca-button-text-hover-JNQppB:hover,.ca-button-text-hover-JNQppB:active,.ca-button-text-hover-JNQppB:focus{--local-button-text-hover:var(--button-text-hover);}.ca-slider-controls-wgaZx2{color:var(--primary-paragraphs);}.ca-primary-link-hover-og7wag:hover,.ca-primary-link-hover-og7wag:active,.ca-primary-link-hover-og7wag:focus{color:var(--primary-headings);}.ca-primary-icon-hover-l2WxoB:hover,.ca-primary-icon-hover-l2WxoB:active,.ca-primary-icon-hover-l2WxoB:focus{color:var(--primary-paragraphs);}.ca-dropdown-link-hover-w2v97g:hover,.ca-dropdown-link-hover-w2v97g:active,.ca-dropdown-link-hover-w2v97g:focus{color:var(--accent-headings);}.ca-overlay-link-hover-ZgPXDg:hover,.ca-overlay-link-hover-ZgPXDg:active,.ca-overlay-link-hover-ZgPXDg:focus{color:var(--primary-headings);}.ca-overlay-sub-link-hover-zByjJN:hover,.ca-overlay-sub-link-hover-zByjJN:active,.ca-overlay-sub-link-hover-zByjJN:focus{color:var(--primary-headings);}.ca-overlay-icon-hover-JNQkO2:hover,.ca-overlay-icon-hover-JNQkO2:active,.ca-overlay-icon-hover-JNQkO2:focus{color:var(--primary-paragraphs);}.ca-category-hover-2kvOAg:hover,.ca-category-hover-2kvOAg:active,.ca-category-hover-2kvOAg:focus{color:var(--primary-paragraphs);}.ca-background-YBAx72{background-color:var(--primary-background);}.ca-title-K2kZJg{color:var(--primary-headings);}.ca-subtitle-kN0OYB{color:var(--primary-paragraphs);}.ca-link-hover-YBAKzg:hover,.ca-link-hover-YBAKzg:active,.ca-link-hover-YBAKzg:focus{color:var(--primary-paragraphs);}.ca-background-zgl1O2{background-color:var(--primary-background);}.ca-card-rg3pd2{background-color:var(--accent-background);}.ca-title-RB8Jpg{color:var(--accent-headings);}.ca-subtitle-a26j32{color:var(--accent-paragraphs);}.ca-link-hover-kN00mN:hover,.ca-link-hover-kN00mN:active,.ca-link-hover-kN00mN:focus{color:var(--accent-headings);}.ca-background-12MKGN{background-color:var(--primary-background);}.ca-card-og7jGN{background-color:var(--accent-background);}.ca-title-l2Wj3g{color:var(--accent-headings);}.ca-subtitle-w2vRW2{color:var(--accent-paragraphs);}.ca-link-hover-K2k8XB:hover,.ca-link-hover-K2k8XB:active,.ca-link-hover-K2k8XB:focus{color:var(--accent-paragraphs);}.ca-background-og771g{background-color:var(--primary-background);}.ca-play-icon-l2WdpB{background-color:var(--primary-details);}.ca-play-icon-accent-w2v1kg{color:var(--accent-details);}.ca-caption-ZgPv0B{color:var(--primary-paragraphs);}.ca-background-rg3Ovg{background-color:var(--primary-background);}.ca-play-icon-RB8Wl2{background-color:var(--primary-details);}.ca-play-icon-accent-a26kbB{color:var(--accent-details);}.ca-caption-12MoDN{color:var(--primary-paragraphs);}.ca-background-BKdrYN{background-color:var(--primary-background);}.ca-caption-BJxrng{color:var(--primary-paragraphs);}.ca-background-zByz4N{background-color:var(--primary-background);}.ca-play-icon-JNQKZ2{background-color:var(--primary-details);}.ca-play-icon-accent-wgambg{color:var(--accent-details);}.ca-caption-x2Yo3N{color:var(--primary-paragraphs);}.ca-background-yBDV1g{background-color:var(--primary-background);}.ca-play-icon-52r8ZN{background-color:var(--primary-details);}.ca-play-icon-accent-mBZdpg{color:var(--accent-details);}.ca-title-YBA3Jg{color:var(--primary-headings);}.ca-subtitle-K2kv7g{color:var(--primary-paragraphs);}.ca-divider-kN0xoN{background-color:var(--primary-details);}.ca-background-zglPGg{background-color:var(--primary-background);}.ca-play-icon-rg3O8g{background-color:var(--primary-details);}.ca-play-icon-accent-RB8WQ2{color:var(--accent-details);}.ca-title-a26koB{color:var(--primary-headings);}.ca-subtitle-12ModN{color:var(--primary-paragraphs);}.ca-divider-og77Vg{background-color:var(--primary-details);}.ca-background-l2WdbB{background-color:var(--primary-background);}.ca-card-w2v19g{background-color:var(--accent-background);}.ca-play-icon-ZgPvnB{background-color:var(--primary-details);}.ca-play-icon-accent-zByznN{color:var(--accent-details);}.ca-title-JNQKW2{color:var(--accent-headings);}.ca-subtitle-kN0xkN{color:var(--accent-paragraphs);}.ca-divider-zglP0g{background-color:var(--accent-details);}.ca-background-mgGo4g{background-color:var(--primary-background);}.ca-headings-MNeW02{color:var(--primary-headings);}.ca-paragraphs-Qg5xnN{color:var(--primary-paragraphs);}.ca-link-lgxlRg{--local-link:var(--button-background);}.ca-link-hover-0NR17B:hover,.ca-link-hover-0NR17B:active,.ca-link-hover-0NR17B:focus{color:var(--button-background-hover);}.ca-play-icon-kBXnYg{background-color:var(--primary-details);}.ca-play-icon-accent-egEdqN{color:var(--accent-details);}.ca-caption-VgdRpB{color:var(--primary-paragraphs);}.ca-background-rgoGbg{background-color:var(--primary-background);}.ca-headings-yBDjdg{color:var(--primary-headings);}.ca-paragraphs-52r0VN{color:var(--primary-paragraphs);}.ca-link-mBZlMg{--local-link:var(--button-background);}.ca-link-hover-YBAp62:hover,.ca-link-hover-YBAp62:active,.ca-link-hover-YBAp62:focus{color:var(--button-background-hover);}.ca-play-icon-K2kRqg{background-color:var(--primary-details);}.ca-play-icon-accent-kN0rk2{color:var(--accent-details);}.ca-caption-zglV0B{color:var(--primary-paragraphs);}.ca-background-rg3EvB{background-color:var(--primary-background);}.ca-headings-RB83l2{color:var(--primary-headings);}.ca-paragraphs-a260bN{color:var(--primary-paragraphs);}.ca-link-12MjDB{--local-link:var(--button-background);}.ca-link-hover-og7l12:hover,.ca-link-hover-og7l12:active,.ca-link-hover-og7l12:focus{color:var(--button-background-hover);}.ca-play-icon-l2WEpN{background-color:var(--primary-details);}.ca-play-icon-accent-w2v6k2{color:var(--accent-details);}.ca-caption-ZgPj0B{color:var(--primary-paragraphs);}.ca-background-zBy34g{background-color:var(--primary-background);}.ca-headings-JNQPZB{color:var(--primary-headings);}.ca-paragraphs-wga8bN{color:var(--primary-paragraphs);}.ca-link-x2Y03g{--local-link:var(--button-background);}.ca-link-hover-zNVnrN:hover,.ca-link-hover-zNVnrN:active,.ca-link-hover-zNVnrN:focus{color:var(--button-background-hover);}.ca-play-icon-02w0aB{background-color:var(--primary-details);}.ca-play-icon-accent-42nx9N{color:var(--accent-details);}.ca-caption-AgLkqN{color:var(--primary-paragraphs);}.ca-background-oNz8p2{background-color:var(--primary-background);}.ca-headings-lgjke2{color:var(--primary-headings);}.ca-paragraphs-LBKoAB{color:var(--primary-paragraphs);}.ca-link-RBJjjB{--local-link:var(--button-background);}.ca-link-hover-VNb6jN:hover,.ca-link-hover-VNb6jN:active,.ca-link-hover-VNb6jN:focus{color:var(--button-background-hover);}.ca-play-icon-VBpjeg{background-color:var(--primary-details);}.ca-play-icon-accent-5N4OeB{color:var(--accent-details);}.ca-caption-W2qwoN{color:var(--primary-paragraphs);}.ca-background-zNVjrN{background-color:var(--primary-background);}.ca-headings-02wMaN{color:var(--primary-headings);}.ca-paragraphs-42nv92{color:var(--primary-paragraphs);}.ca-link-AgLGqN{--local-link:var(--button-background);}.ca-link-hover-qB9v5N:hover,.ca-link-hover-qB9v5N:active,.ca-link-hover-qB9v5N:focus{color:var(--button-background-hover);}.ca-play-icon-pN1xaB{background-color:var(--primary-details);}.ca-play-icon-accent-xgm7wB{color:var(--accent-details);}.ca-caption-DNOGEN{color:var(--primary-paragraphs);}.ca-background-Nbkv8g{background-color:var(--primary-background);}.ca-headings-BpQzAN{color:var(--primary-headings);}.ca-paragraphs-N4mrKg{color:var(--primary-paragraphs);}.ca-caption-2qkj5N{color:var(--primary-paragraphs);}</style>
+<script>
+	var fData = {
+		view: 'client',
+		initialData: {
+			app: {
+				googleMapsPublicKey: 'AIzaSyCmeQ82q8DPgTorDfyToDngKGCV2J1Paas',
+			}
+		}
 	}
 </script>
-</div>
-</div><!--Failed to render gadget 'LinkList200'.
-
-There was an error processing the markup.
---><!--Failed to render gadget 'LinkList204'.
-
-There was an error processing the markup.
--->
-<div class='widget Attribution' data-version='2' id='Attribution1'>
-<div class='widget-content'>
-<div class='blogger'>
-<a href='https://www.blogger.com' rel='nofollow'>
-<svg class='svg-icon-24'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_post_blogger_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-Pow 
-</a>
-</div>
-</div>
-</div><!--Failed to render gadget 'LinkList203'.
-
-There was an error processing the markup.
---><!--Failed to render gadget 'LinkList1'.
-
-There was an error processing the markup.
---><div class='widget ReportAbuse' data-version='2' id='ReportAbuse1'>
-<h3 class='title'>
-<a class='report_abuse' href='https://www.blogger.com/go/report-abuse' rel='noopener nofollow' target='_blank'>
-Report Abuse
-</a>
-</h3>
-</div><div class='widget Profile' data-version='2' id='Profile1'>
-<div class='widget-title'>
-<h3 class='title'>
-Contributors
-</h3>
-</div>
-<div class='widget-content team'>
-<ul>
-<li>
-<div class='team-member'>
-<img alt='My photo' class='profile-img' src='https://1.bp.blogspot.com/-QN2lgvtYZco/YN3mUSryAVI/AAAAAAAAADs/KrR-etCcvUMcPl06jopTs9pzq59IAXhMQCLcBGAsYHQ/w50-h50-p-k-no-nu/avatar.jpg'/>
-<div class='profile-info'>
-<a class='profile-name' href='' rel='noopener nofollow' target='_blank'><!--Can't find substitution for tag [display-name]--></a>
-<a class='profile-link' href='' rel='noopener nofollow' target='_blank'>Show more</a>
-</div>
-</div>
-</li>
-<li>
-<div class='team-member'>
-<img alt='My photo' class='profile-img' src='https://1.bp.blogspot.com/-QN2lgvtYZco/YN3mUSryAVI/AAAAAAAAADs/KrR-etCcvUMcPl06jopTs9pzq59IAXhMQCLcBGAsYHQ/w50-h50-p-k-no-nu/avatar.jpg'/>
-<div class='profile-info'>
-<a class='profile-name' href='' rel='noopener nofollow' target='_blank'><!--Can't find substitution for tag [display-name]--></a>
-<a class='profile-link' href='' rel='noopener nofollow' target='_blank'>Show more</a>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div><!--Failed to render gadget 'FeaturedPost1'.
-
-There was an error processing the markup.
--->
-<div class='widget BlogSearch' data-version='2' id='BlogSearch1'>
-<div class='widget-title'>
-<h3 class='title'>
-Search This Blog
-</h3>
-</div>
-<form action='https://sapiensshaon.blogspot.com/search' class='search-form' target='_top'>
-<input aria-label='Search' autocomplete='off' class='search-input' name='q' placeholder='Search' type='search' value=''/>
-<input class='search-action btn' type='submit' value='Ok'/>
-</form>
-</div>
-<!--Failed to render gadget 'HTML51'.
-
-There was an error processing the markup.
--->
-<div class='widget BlogArchive' data-version='2' id='BlogArchive1'>
-<div class='widget-content archive-list'>
-<ul class='list-style'>
-<li><a class='archive-name has-count' href='https://sapiensshaon.blogspot.com/2023/11/'>November 2023
-<span class='archive-count count-style'>(2)</span></a></li>
-<li><a class='archive-name has-count' href='https://sapiensshaon.blogspot.com/2023/10/'>October 2023
-<span class='archive-count count-style'>(1)</span></a></li>
-<li><a class='archive-name has-count' href='https://sapiensshaon.blogspot.com/2023/09/'>September 2023
-<span class='archive-count count-style'>(4)</span></a></li>
-</ul>
-</div>
-</div><div class='widget Label' data-version='2' id='Label1'>
-<div class='widget-title'>
-<h3 class='title'>
-Main Tags
-</h3>
-</div>
-<div class='widget-content cloud-label'>
-<ul class='cloud-style'>
-<li><a class='label-name btn' href='https://sapiensshaon.blogspot.com/search/label/Ai'>Ai</a></li>
-<li><a class='label-name btn' href='https://sapiensshaon.blogspot.com/search/label/Dawn%20of%20Deus'>Dawn of Deus</a></li>
-<li><a class='label-name btn' href='https://sapiensshaon.blogspot.com/search/label/Humanism%20%26%20Altruism'>Humanism &amp; Altruism</a></li>
-<li><a class='label-name btn' href='https://sapiensshaon.blogspot.com/search/label/Incest%E2%9D%8C'>Incest&#10060;</a></li>
-<li><a class='label-name btn' href='https://sapiensshaon.blogspot.com/search/label/Library'>Library</a></li>
-<li><a class='label-name btn' href='https://sapiensshaon.blogspot.com/search/label/My%20Thoughts%F0%9F%A7%BF'>My Thoughts🧿</a></li>
-<li><a class='label-name btn' href='https://sapiensshaon.blogspot.com/search/label/Theory%20%26%20Thesis'>Theory &amp; Thesis</a></li>
-</ul>
-</div>
-</div>
-<!--Failed to render gadget 'Image50'.
-
-There was an error processing the markup.
---><!--Failed to render gadget 'Image51'.
-
-There was an error processing the markup.
---></div>
-<div class='sidebar section' id='social-widget' name='Social Widget'><div class='widget LinkList' data-version='2' id='LinkList75'>
-<div class='widget-title'>
-<h3 class='title'>
-Social Plugin
-</h3>
-</div>
-<div class='widget-content'>
-<ul class='social-counter social social-color'>
-<li class='youtube'><a href='#' target='_blank' title='youtube'></a></li>
-<li class='facebook'><a href='#' target='_blank' title='facebook'></a></li>
-<li class='instagram'><a href='#' target='_blank' title='instagram'></a></li>
-<li class='twitter'><a href='#' target='_blank' title='twitter'></a></li>
-</ul>
-</div>
-</div></div>
-<div class='sidebar common-widget section' id='sidebar2' name='Sidebar Right (B)'><div class='widget PopularPosts' data-version='2' id='PopularPosts1'>
-<div class='widget-title'>
-<h3 class='title'>
-Popular Posts
-</h3>
-</div>
-<div class='widget-content'>
-<div class='post'>
-<div class='post-content'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/09/evolutionary-biology-part1.html'>
-<img alt='Travel to Theory ' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7JaU3cDaaTOStOJpBtflY26FCtI2zpicSxi48OzlZyTrPf6YC8Xgp8w_V7ajppWt97OT6aWRPGoIlr8nohqxccX5UviSw4KsQ1CKVUrXeC005IKmXN_XjZnYZ6S-HvcnSTqQSuEGpfBSUaiAJp1Rz_4AVtivdEvg4mM0kRqsmcFQglbs5PI_qJQbd6p0/w72-h72-p-k-no-nu/20231126_222214.jpg'/>
-</a>
-<div class='post-info'>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/09/evolutionary-biology-part1.html'>Travel to Theory </a>
-</h2>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-09-26T07:34:00-07:00'>September 26, 2023</span>
-</div>
-</div>
-</div>
-</div>
-<div class='post'>
-<div class='post-content'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/11/update.html'>
-<img alt='Documentary: Dawn of Deus' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjntkehTugmq0knfjTI0f-pUKY3chhqtGZE46NKWZgMhKnwHpcogYBufsmbnKr-cMjBD9xjvMayNv0cte7Ga-QulllMQmM8zVj9uGwM21j06arxvP4oDgFEc52ML-B8pmVEbGlMEbh_Me-sYzhhi1xBO9f2er-uQhsZsSjJGdkYBkwWkUlCi3X4YJou64s/w72-h72-p-k-no-nu/20231130_210905.jpg'/>
-</a>
-<div class='post-info'>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/11/update.html'>Documentary: Dawn of Deus</a>
-</h2>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-11-26T08:58:00-08:00'>November 26, 2023</span>
-</div>
-</div>
-</div>
-</div>
-<div class='post'>
-<div class='post-content'>
-<a class='post-image-link' href='https://sapiensshaon.blogspot.com/2023/09/incest-curse.html'>
-<img alt='"Incest"~ a Curse' class='post-thumb' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLiNnrX_XwmWMLVgArhjdBMRy1cPd9iJHsqhfwtxiyZCWwvELQGgG1qOIi0luqSxEhBfC42OGZK4q2RvzJmLviVWDrhKXK1X3kuqI6EOoBdwojxjza2X7qr47lkN8KWN5xXKuEFiScduEIYpfGiPTEdOw0QRcdrb86dzKrxjyWgLAFmEV-SDN51nnVnr0/w72-h72-p-k-no-nu/Incest,%20a%20Curse.jpg'/>
-</a>
-<div class='post-info'>
-<h2 class='post-title'>
-<a href='https://sapiensshaon.blogspot.com/2023/09/incest-curse.html'>"Incest"~ a Curse</a>
-</h2>
-<div class='post-meta'>
-<span class='post-date published' datetime='2023-09-30T22:45:00-07:00'>September 30, 2023</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div><div class='widget HTML' data-version='2' id='HTML1'>
-<div class='widget-title'>
-<h3 class='title'>
-👇Support me by Subscribing👇
-</h3>
-</div>
-<div class='widget-content'>
-<a href="https://youtube.com/@sapiensshaonn" style="background-color: blue; border: none; color: white; cursor: pointer; padding: 10px 20px; text-decoration: none;">🙏👉Click Here to SUBSCRIBE👈🙏</a>
-</div>
-</div><div class='widget HTML' data-version='2' id='HTML6'>
-<div class='widget-title'>
-<h3 class='title'>
-Facebook
-</h3>
-</div>
-<div class='widget-content'>
-<center><div class="fb-page" data-href="https://www.facebook.com/profile.php?id=61553642603517&mibextid=JRoKGi" data-width="360" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div></center>
-</div>
-</div><div class='widget Label' data-version='2' id='Label4'>
-<div class='widget-title'>
-<h3 class='title'>
-Tags
-</h3>
-</div>
-<div class='widget-content cloud-label'>
-<ul>
-<li>
-<a class='label-name' href='https://sapiensshaon.blogspot.com/search/label/Ai'>
-Ai
+<link rel="stylesheet" type="text/css" href="https://assets-pw.pixieset.com/assets/flex-client/static/css/flex-main.v-ea170024.css">
+</link>
+</head>
+<body class="theme-theme4 photo--protected client-side pixieset-branding-enabled">
+<div id="js-flex-builder"></div>
+<div class="page-container button_height-14 button_size-2 button_style-2 button_width-30 font_theme-3 menu_style-2 sticky_header-0">
+<div class="theme-container" data-animation-type="scaleUp" data-animation-duration="0">
+<div role="header">
+<div class="block-container block-theme4-header block-container--flushed-top ca-background-pN1M6N" id="block-container-VWv4Jm">
+<div class="block-container__block">
+<div class="theme-4-header theme-4-header--banner-size_lg header-menu__overlay">
+<div class="element-container clearfix element-header-menu" id="element-container-0keMmk">
+<div class="element-container__element">
+<div class="header-menu header-menu__style-three">
+<nav class="navbar navbar-expand-lg header-menu__wrapper">
+<div class="header-menu__split-nav">
+<div class="collapse navbar-collapse header-menu__split-nav--left">
+<ul class="header-menu__nav">
+<li class="nav-item active header-menu__item">
+<a class="nav-link header-menu__primary ca-primary-link-DNOllg ca-primary-link-hover-rgoQdB" href="/">
+Home
 </a>
 </li>
-<li>
-<a class='label-name' href='https://sapiensshaon.blogspot.com/search/label/Library'>
-Library
+<li class="nav-item header-menu__item">
+<a class="nav-link header-menu__primary ca-primary-link-DNOllg ca-primary-link-hover-rgoQdB" href="/portfolio/">
+Protfolio
 </a>
 </li>
-<li>
-<a class='label-name' href='https://sapiensshaon.blogspot.com/search/label/My%20Thoughts%F0%9F%A7%BF'>
-My Thoughts🧿
-</a>
-</li>
-<li>
-<a class='label-name' href='https://sapiensshaon.blogspot.com/search/label/Theory%20%26%20Thesis'>
-Theory &amp; Thesis
+<li class="nav-item header-menu__item">
+<a class="nav-link header-menu__primary ca-primary-link-DNOllg ca-primary-link-hover-rgoQdB" href="http://sapiensshaon.blogspot.com" target="_blank">
+Blog
 </a>
 </li>
 </ul>
 </div>
-</div></div>
-</div>
-</div>
-</div>
-<div class='clearfix'></div>
-<!-- Footer Wrapper -->
-<div id='footer-wrapper'>
-<div id='sub-footer-wrapper'>
-<div class='container row'>
-<div class='menu-footer section' id='menu-footer' name='Menu Footer'><div class='widget LinkList' data-version='2' id='LinkList76'>
-<div class='widget-title'>
-<h3 class='title'>
-Menu Footer Widget
-</h3>
-</div>
-<div class='widget-content'>
-<ul>
-<li><a href='/'>Home</a></li>
-<li><a href='#'>About</a></li>
-<li><a href='https://sapiensshaon.blogspot.com/p/contact-us_27.html?m=1'>Contact Us</a></li>
+<a class="header-menu__logo logo-size--large" href="/">
+<img class="header-menu__logo--img" src="https://images-pw.pixieset.com/profile/928776/73fa59d2905d9f9a67924a3ebc54b8b7e68a371410802a55da41f64cca808b56.png">
+</a>
+<div class="collapse navbar-collapse header-menu__split-nav--right">
+<ul class="header-menu__nav">
+<li class="nav-item header-menu__item">
+<a class="nav-link header-menu__primary ca-primary-link-DNOllg ca-primary-link-hover-rgoQdB" href="/about/">
+About
+</a>
+</li>
+<li class="nav-item header-menu__item">
+<a class="nav-link header-menu__primary ca-primary-link-DNOllg ca-primary-link-hover-rgoQdB" href="/contact/">
+Contact
+</a>
+</li>
 </ul>
 </div>
-</div></div>
-<div class='copyright-area'>Designed with <i aria-hidden='true' class='fa fa-heart' style='color: red;margin:0 2px;'></i> by <a href='http://www.way2themes.com/' id='mycontent' rel='dofollow' title='Way2Themes'>Blog</a>
+</div>
+<div class="header-menu__overlay-toggler d-lg-none">
+<a href="#" class="overlay-menu__show js-overlay-menu-show">
+<span class="d-lg-none header-menu__primary ca-primary-link-DNOllg ca-primary-link-hover-rgoQdB">Menu</span>
+<i class="fal fa-bars fa-fw header-menu__icon ca-primary-icon-oNz4x2 ca-primary-icon-hover-yBDeGN"></i>
+</a>
+<a class="overlay-menu__hide js-overlay-menu-hide" href="#">
+<i class="fal fa-times fa-fw header-menu__icon ca-overlay-icon-5N4vV2 ca-overlay-icon-hover-K2kWx2"></i>
+</a>
+</div>
+</nav>
+<div class="overlay-menu__wrapper ca-overlay-menu-RBJoyN">
+<a class="overlay-nav__close-link" href="#" style="display: none;">
+<i class="fal fa-times ca-overlay-icon-5N4vV2 ca-overlay-icon-hover-K2kWx2"></i>
+</a>
+<ul class="overlay-menu__nav">
+<li class="overlay-menu__item">
+<a class="overlay-menu__primary ca-overlay-link-VNbmJB ca-overlay-link-hover-mBZxlg" href="/">
+Home
+</a>
+</li>
+<li class="overlay-menu__item">
+<a class="overlay-menu__primary ca-overlay-link-VNbmJB ca-overlay-link-hover-mBZxlg" href="/portfolio/">
+Protfolio
+</a>
+</li>
+<li class="overlay-menu__item">
+<a class="overlay-menu__primary ca-overlay-link-VNbmJB ca-overlay-link-hover-mBZxlg" href="http://sapiensshaon.blogspot.com" target="_blank">
+Blog
+</a>
+</li>
+<li class="overlay-menu__item">
+<a class="overlay-menu__primary ca-overlay-link-VNbmJB ca-overlay-link-hover-mBZxlg" href="/about/">
+About
+</a>
+</li>
+<li class="overlay-menu__item">
+<a class="overlay-menu__primary ca-overlay-link-VNbmJB ca-overlay-link-hover-mBZxlg" href="/contact/">
+Contact
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="element-container clearfix element-theme4-header-wrapper" id="element-container-lzGYK0">
+<div class="element-container__element">
+<div class="theme-4-header__slider container--full-width">
+<div class="theme-4-header__slide">
+<div class="element-container clearfix element-theme4-header" id="element-container-Z6qODy">
+<div class="element-container__element">
+<div class="row no-gutters">
+<div class="col-12">
+<div class="theme-4-header__background-photo" style="background-image: url(//images-pw.pixieset.com/elementfield/569580673/Untitled_1-c531b962-2500.png); background-position: 51% 32%;">
+<div class="theme-4-header__tint absolute-fill js-tint"></div>
+</div>
+<div class="theme-4-header__content-wrapper container-fluid d-flex justify-content-center align-items-end align-items-lg-center">
+<div class="theme-4-header__content row justify-content-center justify-content-lg-between align-items-center">
+<div class="col-12 col-md-10 col-lg-8 max-w-900 text-center m-auto">
+<h1 class="theme-4-header__title hero-text ca-title-W2q4Mg"><span class="spanify">🧬</span>
+</h1>
 </div>
 </div>
 </div>
 </div>
 </div>
-<!-- Main Scripts -->
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js' type='text/javascript'></script>
-<script type='text/javascript'>
-//<![CDATA[   
-/*! Owl carousel by Bartosz Wojciechowski/David Deutsch | v2.0.0 - http://owlcarousel2.github.io/OwlCarousel2 */
-!function(a,b,c,d){function e(b,c){this.settings=null,this.options=a.extend({},e.Defaults,c),this.$element=a(b),this.drag=a.extend({},m),this.state=a.extend({},n),this.e=a.extend({},o),this._plugins={},this._supress={},this._current=null,this._speed=null,this._coordinates=[],this._breakpoint=null,this._width=null,this._items=[],this._clones=[],this._mergers=[],this._invalidated={},this._pipe=[],a.each(e.Plugins,a.proxy(function(a,b){this._plugins[a[0].toLowerCase()+a.slice(1)]=new b(this)},this)),a.each(e.Pipe,a.proxy(function(b,c){this._pipe.push({filter:c.filter,run:a.proxy(c.run,this)})},this)),this.setup(),this.initialize()}function f(a){if(a.touches!==d)return{x:a.touches[0].pageX,y:a.touches[0].pageY};if(a.touches===d){if(a.pageX!==d)return{x:a.pageX,y:a.pageY};if(a.pageX===d)return{x:a.clientX,y:a.clientY}}}function g(a){var b,d,e=c.createElement("div"),f=a;for(b in f)if(d=f[b],"undefined"!=typeof e.style[d])return e=null,[d,b];return[!1]}function h(){return g(["transition","WebkitTransition","MozTransition","OTransition"])[1]}function i(){return g(["transform","WebkitTransform","MozTransform","OTransform","msTransform"])[0]}function j(){return g(["perspective","webkitPerspective","MozPerspective","OPerspective","MsPerspective"])[0]}function k(){return"ontouchstart"in b||!!navigator.msMaxTouchPoints}function l(){return b.navigator.msPointerEnabled}var m,n,o;m={start:0,startX:0,startY:0,current:0,currentX:0,currentY:0,offsetX:0,offsetY:0,distance:null,startTime:0,endTime:0,updatedX:0,targetEl:null},n={isTouch:!1,isScrolling:!1,isSwiping:!1,direction:!1,inMotion:!1},o={_onDragStart:null,_onDragMove:null,_onDragEnd:null,_transitionEnd:null,_resizer:null,_responsiveCall:null,_goToLoop:null,_checkVisibile:null},e.Defaults={items:3,loop:!1,center:!1,mouseDrag:!0,touchDrag:!0,pullDrag:!0,freeDrag:!1,margin:0,stagePadding:0,merge:!1,mergeFit:!0,autoWidth:!1,startPosition:0,rtl:!1,smartSpeed:250,fluidSpeed:!1,dragEndSpeed:!1,responsive:{},responsiveRefreshRate:200,responsiveBaseElement:b,responsiveClass:!1,fallbackEasing:"swing",info:!1,nestedItemSelector:!1,itemElement:"div",stageElement:"div",themeClass:"owl-theme",baseClass:"owl-carousel",itemClass:"owl-item",centerClass:"center",activeClass:"active"},e.Width={Default:"default",Inner:"inner",Outer:"outer"},e.Plugins={},e.Pipe=[{filter:["width","items","settings"],run:function(a){a.current=this._items&&this._items[this.relative(this._current)]}},{filter:["items","settings"],run:function(){var a=this._clones,b=this.$stage.children(".cloned");(b.length!==a.length||!this.settings.loop&&a.length>0)&&(this.$stage.children(".cloned").remove(),this._clones=[])}},{filter:["items","settings"],run:function(){var a,b,c=this._clones,d=this._items,e=this.settings.loop?c.length-Math.max(2*this.settings.items,4):0;for(a=0,b=Math.abs(e/2);b>a;a++)e>0?(this.$stage.children().eq(d.length+c.length-1).remove(),c.pop(),this.$stage.children().eq(0).remove(),c.pop()):(c.push(c.length/2),this.$stage.append(d[c[c.length-1]].clone().addClass("cloned")),c.push(d.length-1-(c.length-1)/2),this.$stage.prepend(d[c[c.length-1]].clone().addClass("cloned")))}},{filter:["width","items","settings"],run:function(){var a,b,c,d=this.settings.rtl?1:-1,e=(this.width()/this.settings.items).toFixed(3),f=0;for(this._coordinates=[],b=0,c=this._clones.length+this._items.length;c>b;b++)a=this._mergers[this.relative(b)],a=this.settings.mergeFit&&Math.min(a,this.settings.items)||a,f+=(this.settings.autoWidth?this._items[this.relative(b)].width()+this.settings.margin:e*a)*d,this._coordinates.push(f)}},{filter:["width","items","settings"],run:function(){var b,c,d=(this.width()/this.settings.items).toFixed(3),e={width:Math.abs(this._coordinates[this._coordinates.length-1])+2*this.settings.stagePadding,"padding-left":this.settings.stagePadding||"","padding-right":this.settings.stagePadding||""};if(this.$stage.css(e),e={width:this.settings.autoWidth?"auto":d-this.settings.margin},e[this.settings.rtl?"margin-left":"margin-right"]=this.settings.margin,!this.settings.autoWidth&&a.grep(this._mergers,function(a){return a>1}).length>0)for(b=0,c=this._coordinates.length;c>b;b++)e.width=Math.abs(this._coordinates[b])-Math.abs(this._coordinates[b-1]||0)-this.settings.margin,this.$stage.children().eq(b).css(e);else this.$stage.children().css(e)}},{filter:["width","items","settings"],run:function(a){a.current&&this.reset(this.$stage.children().index(a.current))}},{filter:["position"],run:function(){this.animate(this.coordinates(this._current))}},{filter:["width","position","items","settings"],run:function(){var a,b,c,d,e=this.settings.rtl?1:-1,f=2*this.settings.stagePadding,g=this.coordinates(this.current())+f,h=g+this.width()*e,i=[];for(c=0,d=this._coordinates.length;d>c;c++)a=this._coordinates[c-1]||0,b=Math.abs(this._coordinates[c])+f*e,(this.op(a,"<=",g)&&this.op(a,">",h)||this.op(b,"<",g)&&this.op(b,">",h))&&i.push(c);this.$stage.children("."+this.settings.activeClass).removeClass(this.settings.activeClass),this.$stage.children(":eq("+i.join("), :eq(")+")").addClass(this.settings.activeClass),this.settings.center&&(this.$stage.children("."+this.settings.centerClass).removeClass(this.settings.centerClass),this.$stage.children().eq(this.current()).addClass(this.settings.centerClass))}}],e.prototype.initialize=function(){if(this.trigger("initialize"),this.$element.addClass(this.settings.baseClass).addClass(this.settings.themeClass).toggleClass("owl-rtl",this.settings.rtl),this.browserSupport(),this.settings.autoWidth&&this.state.imagesLoaded!==!0){var b,c,e;if(b=this.$element.find("img"),c=this.settings.nestedItemSelector?"."+this.settings.nestedItemSelector:d,e=this.$element.children(c).width(),b.length&&0>=e)return this.preloadAutoWidthImages(b),!1}this.$element.addClass("owl-loading"),this.$stage=a("<"+this.settings.stageElement+' class="owl-stage"/>').wrap('<div class="owl-stage-outer">'),this.$element.append(this.$stage.parent()),this.replace(this.$element.children().not(this.$stage.parent())),this._width=this.$element.width(),this.refresh(),this.$element.removeClass("owl-loading").addClass("owl-loaded"),this.eventsCall(),this.internalEvents(),this.addTriggerableEvents(),this.trigger("initialized")},e.prototype.setup=function(){var b=this.viewport(),c=this.options.responsive,d=-1,e=null;c?(a.each(c,function(a){b>=a&&a>d&&(d=Number(a))}),e=a.extend({},this.options,c[d]),delete e.responsive,e.responsiveClass&&this.$element.attr("class",function(a,b){return b.replace(/\b owl-responsive-\S+/g,"")}).addClass("owl-responsive-"+d)):e=a.extend({},this.options),(null===this.settings||this._breakpoint!==d)&&(this.trigger("change",{property:{name:"settings",value:e}}),this._breakpoint=d,this.settings=e,this.invalidate("settings"),this.trigger("changed",{property:{name:"settings",value:this.settings}}))},e.prototype.optionsLogic=function(){this.$element.toggleClass("owl-center",this.settings.center),this.settings.loop&&this._items.length<this.settings.items&&(this.settings.loop=!1),this.settings.autoWidth&&(this.settings.stagePadding=!1,this.settings.merge=!1)},e.prototype.prepare=function(b){var c=this.trigger("prepare",{content:b});return c.data||(c.data=a("<"+this.settings.itemElement+"/>").addClass(this.settings.itemClass).append(b)),this.trigger("prepared",{content:c.data}),c.data},e.prototype.update=function(){for(var b=0,c=this._pipe.length,d=a.proxy(function(a){return this[a]},this._invalidated),e={};c>b;)(this._invalidated.all||a.grep(this._pipe[b].filter,d).length>0)&&this._pipe[b].run(e),b++;this._invalidated={}},e.prototype.width=function(a){switch(a=a||e.Width.Default){case e.Width.Inner:case e.Width.Outer:return this._width;default:return this._width-2*this.settings.stagePadding+this.settings.margin}},e.prototype.refresh=function(){if(0===this._items.length)return!1;(new Date).getTime();this.trigger("refresh"),this.setup(),this.optionsLogic(),this.$stage.addClass("owl-refresh"),this.update(),this.$stage.removeClass("owl-refresh"),this.state.orientation=b.orientation,this.watchVisibility(),this.trigger("refreshed")},e.prototype.eventsCall=function(){this.e._onDragStart=a.proxy(function(a){this.onDragStart(a)},this),this.e._onDragMove=a.proxy(function(a){this.onDragMove(a)},this),this.e._onDragEnd=a.proxy(function(a){this.onDragEnd(a)},this),this.e._onResize=a.proxy(function(a){this.onResize(a)},this),this.e._transitionEnd=a.proxy(function(a){this.transitionEnd(a)},this),this.e._preventClick=a.proxy(function(a){this.preventClick(a)},this)},e.prototype.onThrottledResize=function(){b.clearTimeout(this.resizeTimer),this.resizeTimer=b.setTimeout(this.e._onResize,this.settings.responsiveRefreshRate)},e.prototype.onResize=function(){return this._items.length?this._width===this.$element.width()?!1:this.trigger("resize").isDefaultPrevented()?!1:(this._width=this.$element.width(),this.invalidate("width"),this.refresh(),void this.trigger("resized")):!1},e.prototype.eventsRouter=function(a){var b=a.type;"mousedown"===b||"touchstart"===b?this.onDragStart(a):"mousemove"===b||"touchmove"===b?this.onDragMove(a):"mouseup"===b||"touchend"===b?this.onDragEnd(a):"touchcancel"===b&&this.onDragEnd(a)},e.prototype.internalEvents=function(){var c=(k(),l());this.settings.mouseDrag?(this.$stage.on("mousedown",a.proxy(function(a){this.eventsRouter(a)},this)),this.$stage.on("dragstart",function(){return!1}),this.$stage.get(0).onselectstart=function(){return!1}):this.$element.addClass("owl-text-select-on"),this.settings.touchDrag&&!c&&this.$stage.on("touchstart touchcancel",a.proxy(function(a){this.eventsRouter(a)},this)),this.transitionEndVendor&&this.on(this.$stage.get(0),this.transitionEndVendor,this.e._transitionEnd,!1),this.settings.responsive!==!1&&this.on(b,"resize",a.proxy(this.onThrottledResize,this))},e.prototype.onDragStart=function(d){var e,g,h,i;if(e=d.originalEvent||d||b.event,3===e.which||this.state.isTouch)return!1;if("mousedown"===e.type&&this.$stage.addClass("owl-grab"),this.trigger("drag"),this.drag.startTime=(new Date).getTime(),this.speed(0),this.state.isTouch=!0,this.state.isScrolling=!1,this.state.isSwiping=!1,this.drag.distance=0,g=f(e).x,h=f(e).y,this.drag.offsetX=this.$stage.position().left,this.drag.offsetY=this.$stage.position().top,this.settings.rtl&&(this.drag.offsetX=this.$stage.position().left+this.$stage.width()-this.width()+this.settings.margin),this.state.inMotion&&this.support3d)i=this.getTransformProperty(),this.drag.offsetX=i,this.animate(i),this.state.inMotion=!0;else if(this.state.inMotion&&!this.support3d)return this.state.inMotion=!1,!1;this.drag.startX=g-this.drag.offsetX,this.drag.startY=h-this.drag.offsetY,this.drag.start=g-this.drag.startX,this.drag.targetEl=e.target||e.srcElement,this.drag.updatedX=this.drag.start,("IMG"===this.drag.targetEl.tagName||"A"===this.drag.targetEl.tagName)&&(this.drag.targetEl.draggable=!1),a(c).on("mousemove.owl.dragEvents mouseup.owl.dragEvents touchmove.owl.dragEvents touchend.owl.dragEvents",a.proxy(function(a){this.eventsRouter(a)},this))},e.prototype.onDragMove=function(a){var c,e,g,h,i,j;this.state.isTouch&&(this.state.isScrolling||(c=a.originalEvent||a||b.event,e=f(c).x,g=f(c).y,this.drag.currentX=e-this.drag.startX,this.drag.currentY=g-this.drag.startY,this.drag.distance=this.drag.currentX-this.drag.offsetX,this.drag.distance<0?this.state.direction=this.settings.rtl?"right":"left":this.drag.distance>0&&(this.state.direction=this.settings.rtl?"left":"right"),this.settings.loop?this.op(this.drag.currentX,">",this.coordinates(this.minimum()))&&"right"===this.state.direction?this.drag.currentX-=(this.settings.center&&this.coordinates(0))-this.coordinates(this._items.length):this.op(this.drag.currentX,"<",this.coordinates(this.maximum()))&&"left"===this.state.direction&&(this.drag.currentX+=(this.settings.center&&this.coordinates(0))-this.coordinates(this._items.length)):(h=this.coordinates(this.settings.rtl?this.maximum():this.minimum()),i=this.coordinates(this.settings.rtl?this.minimum():this.maximum()),j=this.settings.pullDrag?this.drag.distance/5:0,this.drag.currentX=Math.max(Math.min(this.drag.currentX,h+j),i+j)),(this.drag.distance>8||this.drag.distance<-8)&&(c.preventDefault!==d?c.preventDefault():c.returnValue=!1,this.state.isSwiping=!0),this.drag.updatedX=this.drag.currentX,(this.drag.currentY>16||this.drag.currentY<-16)&&this.state.isSwiping===!1&&(this.state.isScrolling=!0,this.drag.updatedX=this.drag.start),this.animate(this.drag.updatedX)))},e.prototype.onDragEnd=function(b){var d,e,f;if(this.state.isTouch){if("mouseup"===b.type&&this.$stage.removeClass("owl-grab"),this.trigger("dragged"),this.drag.targetEl.removeAttribute("draggable"),this.state.isTouch=!1,this.state.isScrolling=!1,this.state.isSwiping=!1,0===this.drag.distance&&this.state.inMotion!==!0)return this.state.inMotion=!1,!1;this.drag.endTime=(new Date).getTime(),d=this.drag.endTime-this.drag.startTime,e=Math.abs(this.drag.distance),(e>3||d>300)&&this.removeClick(this.drag.targetEl),f=this.closest(this.drag.updatedX),this.speed(this.settings.dragEndSpeed||this.settings.smartSpeed),this.current(f),this.invalidate("position"),this.update(),this.settings.pullDrag||this.drag.updatedX!==this.coordinates(f)||this.transitionEnd(),this.drag.distance=0,a(c).off(".owl.dragEvents")}},e.prototype.removeClick=function(c){this.drag.targetEl=c,a(c).on("click.preventClick",this.e._preventClick),b.setTimeout(function(){a(c).off("click.preventClick")},300)},e.prototype.preventClick=function(b){b.preventDefault?b.preventDefault():b.returnValue=!1,b.stopPropagation&&b.stopPropagation(),a(b.target).off("click.preventClick")},e.prototype.getTransformProperty=function(){var a,c;return a=b.getComputedStyle(this.$stage.get(0),null).getPropertyValue(this.vendorName+"transform"),a=a.replace(/matrix(3d)?\(|\)/g,"").split(","),c=16===a.length,c!==!0?a[4]:a[12]},e.prototype.closest=function(b){var c=-1,d=30,e=this.width(),f=this.coordinates();return this.settings.freeDrag||a.each(f,a.proxy(function(a,g){return b>g-d&&g+d>b?c=a:this.op(b,"<",g)&&this.op(b,">",f[a+1]||g-e)&&(c="left"===this.state.direction?a+1:a),-1===c},this)),this.settings.loop||(this.op(b,">",f[this.minimum()])?c=b=this.minimum():this.op(b,"<",f[this.maximum()])&&(c=b=this.maximum())),c},e.prototype.animate=function(b){this.trigger("translate"),this.state.inMotion=this.speed()>0,this.support3d?this.$stage.css({transform:"translate3d("+b+"px,0px, 0px)",transition:this.speed()/1e3+"s"}):this.state.isTouch?this.$stage.css({left:b+"px"}):this.$stage.animate({left:b},this.speed()/1e3,this.settings.fallbackEasing,a.proxy(function(){this.state.inMotion&&this.transitionEnd()},this))},e.prototype.current=function(a){if(a===d)return this._current;if(0===this._items.length)return d;if(a=this.normalize(a),this._current!==a){var b=this.trigger("change",{property:{name:"position",value:a}});b.data!==d&&(a=this.normalize(b.data)),this._current=a,this.invalidate("position"),this.trigger("changed",{property:{name:"position",value:this._current}})}return this._current},e.prototype.invalidate=function(a){this._invalidated[a]=!0},e.prototype.reset=function(a){a=this.normalize(a),a!==d&&(this._speed=0,this._current=a,this.suppress(["translate","translated"]),this.animate(this.coordinates(a)),this.release(["translate","translated"]))},e.prototype.normalize=function(b,c){var e=c?this._items.length:this._items.length+this._clones.length;return!a.isNumeric(b)||1>e?d:b=this._clones.length?(b%e+e)%e:Math.max(this.minimum(c),Math.min(this.maximum(c),b))},e.prototype.relative=function(a){return a=this.normalize(a),a-=this._clones.length/2,this.normalize(a,!0)},e.prototype.maximum=function(a){var b,c,d,e=0,f=this.settings;if(a)return this._items.length-1;if(!f.loop&&f.center)b=this._items.length-1;else if(f.loop||f.center)if(f.loop||f.center)b=this._items.length+f.items;else{if(!f.autoWidth&&!f.merge)throw"Can not detect maximum absolute position.";for(revert=f.rtl?1:-1,c=this.$stage.width()-this.$element.width();(d=this.coordinates(e))&&!(d*revert>=c);)b=++e}else b=this._items.length-f.items;return b},e.prototype.minimum=function(a){return a?0:this._clones.length/2},e.prototype.items=function(a){return a===d?this._items.slice():(a=this.normalize(a,!0),this._items[a])},e.prototype.mergers=function(a){return a===d?this._mergers.slice():(a=this.normalize(a,!0),this._mergers[a])},e.prototype.clones=function(b){var c=this._clones.length/2,e=c+this._items.length,f=function(a){return a%2===0?e+a/2:c-(a+1)/2};return b===d?a.map(this._clones,function(a,b){return f(b)}):a.map(this._clones,function(a,c){return a===b?f(c):null})},e.prototype.speed=function(a){return a!==d&&(this._speed=a),this._speed},e.prototype.coordinates=function(b){var c=null;return b===d?a.map(this._coordinates,a.proxy(function(a,b){return this.coordinates(b)},this)):(this.settings.center?(c=this._coordinates[b],c+=(this.width()-c+(this._coordinates[b-1]||0))/2*(this.settings.rtl?-1:1)):c=this._coordinates[b-1]||0,c)},e.prototype.duration=function(a,b,c){return Math.min(Math.max(Math.abs(b-a),1),6)*Math.abs(c||this.settings.smartSpeed)},e.prototype.to=function(c,d){if(this.settings.loop){var e=c-this.relative(this.current()),f=this.current(),g=this.current(),h=this.current()+e,i=0>g-h?!0:!1,j=this._clones.length+this._items.length;h<this.settings.items&&i===!1?(f=g+this._items.length,this.reset(f)):h>=j-this.settings.items&&i===!0&&(f=g-this._items.length,this.reset(f)),b.clearTimeout(this.e._goToLoop),this.e._goToLoop=b.setTimeout(a.proxy(function(){this.speed(this.duration(this.current(),f+e,d)),this.current(f+e),this.update()},this),30)}else this.speed(this.duration(this.current(),c,d)),this.current(c),this.update()},e.prototype.next=function(a){a=a||!1,this.to(this.relative(this.current())+1,a)},e.prototype.prev=function(a){a=a||!1,this.to(this.relative(this.current())-1,a)},e.prototype.transitionEnd=function(a){return a!==d&&(a.stopPropagation(),(a.target||a.srcElement||a.originalTarget)!==this.$stage.get(0))?!1:(this.state.inMotion=!1,void this.trigger("translated"))},e.prototype.viewport=function(){var d;if(this.options.responsiveBaseElement!==b)d=a(this.options.responsiveBaseElement).width();else if(b.innerWidth)d=b.innerWidth;else{if(!c.documentElement||!c.documentElement.clientWidth)throw"Can not detect viewport width.";d=c.documentElement.clientWidth}return d},e.prototype.replace=function(b){this.$stage.empty(),this._items=[],b&&(b=b instanceof jQuery?b:a(b)),this.settings.nestedItemSelector&&(b=b.find("."+this.settings.nestedItemSelector)),b.filter(function(){return 1===this.nodeType}).each(a.proxy(function(a,b){b=this.prepare(b),this.$stage.append(b),this._items.push(b),this._mergers.push(1*b.find("[data-merge]").andSelf("[data-merge]").attr("data-merge")||1)},this)),this.reset(a.isNumeric(this.settings.startPosition)?this.settings.startPosition:0),this.invalidate("items")},e.prototype.add=function(a,b){b=b===d?this._items.length:this.normalize(b,!0),this.trigger("add",{content:a,position:b}),0===this._items.length||b===this._items.length?(this.$stage.append(a),this._items.push(a),this._mergers.push(1*a.find("[data-merge]").andSelf("[data-merge]").attr("data-merge")||1)):(this._items[b].before(a),this._items.splice(b,0,a),this._mergers.splice(b,0,1*a.find("[data-merge]").andSelf("[data-merge]").attr("data-merge")||1)),this.invalidate("items"),this.trigger("added",{content:a,position:b})},e.prototype.remove=function(a){a=this.normalize(a,!0),a!==d&&(this.trigger("remove",{content:this._items[a],position:a}),this._items[a].remove(),this._items.splice(a,1),this._mergers.splice(a,1),this.invalidate("items"),this.trigger("removed",{content:null,position:a}))},e.prototype.addTriggerableEvents=function(){var b=a.proxy(function(b,c){return a.proxy(function(a){a.relatedTarget!==this&&(this.suppress([c]),b.apply(this,[].slice.call(arguments,1)),this.release([c]))},this)},this);a.each({next:this.next,prev:this.prev,to:this.to,destroy:this.destroy,refresh:this.refresh,replace:this.replace,add:this.add,remove:this.remove},a.proxy(function(a,c){this.$element.on(a+".owl.carousel",b(c,a+".owl.carousel"))},this))},e.prototype.watchVisibility=function(){function c(a){return a.offsetWidth>0&&a.offsetHeight>0}function d(){c(this.$element.get(0))&&(this.$element.removeClass("owl-hidden"),this.refresh(),b.clearInterval(this.e._checkVisibile))}c(this.$element.get(0))||(this.$element.addClass("owl-hidden"),b.clearInterval(this.e._checkVisibile),this.e._checkVisibile=b.setInterval(a.proxy(d,this),500))},e.prototype.preloadAutoWidthImages=function(b){var c,d,e,f;c=0,d=this,b.each(function(g,h){e=a(h),f=new Image,f.onload=function(){c++,e.attr("src",f.src),e.css("opacity",1),c>=b.length&&(d.state.imagesLoaded=!0,d.initialize())},f.src=e.attr("src")||e.attr("data-src")||e.attr("data-src-retina")})},e.prototype.destroy=function(){this.$element.hasClass(this.settings.themeClass)&&this.$element.removeClass(this.settings.themeClass),this.settings.responsive!==!1&&a(b).off("resize.owl.carousel"),this.transitionEndVendor&&this.off(this.$stage.get(0),this.transitionEndVendor,this.e._transitionEnd);for(var d in this._plugins)this._plugins[d].destroy();(this.settings.mouseDrag||this.settings.touchDrag)&&(this.$stage.off("mousedown touchstart touchcancel"),a(c).off(".owl.dragEvents"),this.$stage.get(0).onselectstart=function(){},this.$stage.off("dragstart",function(){return!1})),this.$element.off(".owl"),this.$stage.children(".cloned").remove(),this.e=null,this.$element.removeData("owlCarousel"),this.$stage.children().contents().unwrap(),this.$stage.children().unwrap(),this.$stage.unwrap()},e.prototype.op=function(a,b,c){var d=this.settings.rtl;switch(b){case"<":return d?a>c:c>a;case">":return d?c>a:a>c;case">=":return d?c>=a:a>=c;case"<=":return d?a>=c:c>=a}},e.prototype.on=function(a,b,c,d){a.addEventListener?a.addEventListener(b,c,d):a.attachEvent&&a.attachEvent("on"+b,c)},e.prototype.off=function(a,b,c,d){a.removeEventListener?a.removeEventListener(b,c,d):a.detachEvent&&a.detachEvent("on"+b,c)},e.prototype.trigger=function(b,c,d){var e={item:{count:this._items.length,index:this.current()}},f=a.camelCase(a.grep(["on",b,d],function(a){return a}).join("-").toLowerCase()),g=a.Event([b,"owl",d||"carousel"].join(".").toLowerCase(),a.extend({relatedTarget:this},e,c));return this._supress[b]||(a.each(this._plugins,function(a,b){b.onTrigger&&b.onTrigger(g)}),this.$element.trigger(g),this.settings&&"function"==typeof this.settings[f]&&this.settings[f].apply(this,g)),g},e.prototype.suppress=function(b){a.each(b,a.proxy(function(a,b){this._supress[b]=!0},this))},e.prototype.release=function(b){a.each(b,a.proxy(function(a,b){delete this._supress[b]},this))},e.prototype.browserSupport=function(){if(this.support3d=j(),this.support3d){this.transformVendor=i();var a=["transitionend","webkitTransitionEnd","transitionend","oTransitionEnd"];this.transitionEndVendor=a[h()],this.vendorName=this.transformVendor.replace(/Transform/i,""),this.vendorName=""!==this.vendorName?"-"+this.vendorName.toLowerCase()+"-":""}this.state.orientation=b.orientation},a.fn.owlCarousel=function(b){return this.each(function(){a(this).data("owlCarousel")||a(this).data("owlCarousel",new e(this,b))})},a.fn.owlCarousel.Constructor=e}(window.Zepto||window.jQuery,window,document),function(a,b){var c=function(b){this._core=b,this._loaded=[],this._handlers={"initialized.owl.carousel change.owl.carousel":a.proxy(function(b){if(b.namespace&&this._core.settings&&this._core.settings.lazyLoad&&(b.property&&"position"==b.property.name||"initialized"==b.type))for(var c=this._core.settings,d=c.center&&Math.ceil(c.items/2)||c.items,e=c.center&&-1*d||0,f=(b.property&&b.property.value||this._core.current())+e,g=this._core.clones().length,h=a.proxy(function(a,b){this.load(b)},this);e++<d;)this.load(g/2+this._core.relative(f)),g&&a.each(this._core.clones(this._core.relative(f++)),h)},this)},this._core.options=a.extend({},c.Defaults,this._core.options),this._core.$element.on(this._handlers)};c.Defaults={lazyLoad:!1},c.prototype.load=function(c){var d=this._core.$stage.children().eq(c),e=d&&d.find(".owl-lazy");!e||a.inArray(d.get(0),this._loaded)>-1||(e.each(a.proxy(function(c,d){var e,f=a(d),g=b.devicePixelRatio>1&&f.attr("data-src-retina")||f.attr("data-src");this._core.trigger("load",{element:f,url:g},"lazy"),f.is("img")?f.one("load.owl.lazy",a.proxy(function(){f.css("opacity",1),this._core.trigger("loaded",{element:f,url:g},"lazy")},this)).attr("src",g):(e=new Image,e.onload=a.proxy(function(){f.css({"background-image":"url("+g+")",opacity:"1"}),this._core.trigger("loaded",{element:f,url:g},"lazy")},this),e.src=g)},this)),this._loaded.push(d.get(0)))},c.prototype.destroy=function(){var a,b;for(a in this.handlers)this._core.$element.off(a,this.handlers[a]);for(b in Object.getOwnPropertyNames(this))"function"!=typeof this[b]&&(this[b]=null)},a.fn.owlCarousel.Constructor.Plugins.Lazy=c}(window.Zepto||window.jQuery,window,document),function(a){var b=function(c){this._core=c,this._handlers={"initialized.owl.carousel":a.proxy(function(){this._core.settings.autoHeight&&this.update()},this),"changed.owl.carousel":a.proxy(function(a){this._core.settings.autoHeight&&"position"==a.property.name&&this.update()},this),"loaded.owl.lazy":a.proxy(function(a){this._core.settings.autoHeight&&a.element.closest("."+this._core.settings.itemClass)===this._core.$stage.children().eq(this._core.current())&&this.update()},this)},this._core.options=a.extend({},b.Defaults,this._core.options),this._core.$element.on(this._handlers)};b.Defaults={autoHeight:!1,autoHeightClass:"owl-height"},b.prototype.update=function(){this._core.$stage.parent().height(this._core.$stage.children().eq(this._core.current()).height()).addClass(this._core.settings.autoHeightClass)},b.prototype.destroy=function(){var a,b;for(a in this._handlers)this._core.$element.off(a,this._handlers[a]);for(b in Object.getOwnPropertyNames(this))"function"!=typeof this[b]&&(this[b]=null)},a.fn.owlCarousel.Constructor.Plugins.AutoHeight=b}(window.Zepto||window.jQuery,window,document),function(a,b,c){var d=function(b){this._core=b,this._videos={},this._playing=null,this._fullscreen=!1,this._handlers={"resize.owl.carousel":a.proxy(function(a){this._core.settings.video&&!this.isInFullScreen()&&a.preventDefault()},this),"refresh.owl.carousel changed.owl.carousel":a.proxy(function(){this._playing&&this.stop()},this),"prepared.owl.carousel":a.proxy(function(b){var c=a(b.content).find(".owl-video");c.length&&(c.css("display","none"),this.fetch(c,a(b.content)))},this)},this._core.options=a.extend({},d.Defaults,this._core.options),this._core.$element.on(this._handlers),this._core.$element.on("click.owl.video",".owl-video-play-icon",a.proxy(function(a){this.play(a)},this))};d.Defaults={video:!1,videoHeight:!1,videoWidth:!1},d.prototype.fetch=function(a,b){var c=a.attr("data-vimeo-id")?"vimeo":"youtube",d=a.attr("data-vimeo-id")||a.attr("data-youtube-id"),e=a.attr("data-width")||this._core.settings.videoWidth,f=a.attr("data-height")||this._core.settings.videoHeight,g=a.attr("href");if(!g)throw new Error("Missing video URL.");if(d=g.match(/(http:|https:|)\/\/(player.|www.)?(vimeo\.com|youtu(be\.com|\.be|be\.googleapis\.com))\/(video\/|embed\/|watch\?v=|v\/)?([A-Za-z0-9._%-]*)(\&\S+)?/),d[3].indexOf("youtu")>-1)c="youtube";else{if(!(d[3].indexOf("vimeo")>-1))throw new Error("Video URL not supported.");c="vimeo"}d=d[6],this._videos[g]={type:c,id:d,width:e,height:f},b.attr("data-video",g),this.thumbnail(a,this._videos[g])},d.prototype.thumbnail=function(b,c){var d,e,f,g=c.width&&c.height?'style="width:'+c.width+"px;height:"+c.height+'px;"':"",h=b.find("img"),i="src",j="",k=this._core.settings,l=function(a){e='<div class="owl-video-play-icon"></div>',d=k.lazyLoad?'<div class="owl-video-tn '+j+'" '+i+'="'+a+'"></div>':'<div class="owl-video-tn" style="opacity:1;background-image:url('+a+')"></div>',b.after(d),b.after(e)};return b.wrap('<div class="owl-video-wrapper"'+g+"></div>"),this._core.settings.lazyLoad&&(i="data-src",j="owl-lazy"),h.length?(l(h.attr(i)),h.remove(),!1):void("youtube"===c.type?(f="http://img.youtube.com/vi/"+c.id+"/hqdefault.jpg",l(f)):"vimeo"===c.type&&a.ajax({type:"GET",url:"http://vimeo.com/api/v2/video/"+c.id+".json",jsonp:"callback",dataType:"jsonp",success:function(a){f=a[0].thumbnail_large,l(f)}}))},d.prototype.stop=function(){this._core.trigger("stop",null,"video"),this._playing.find(".owl-video-frame").remove(),this._playing.removeClass("owl-video-playing"),this._playing=null},d.prototype.play=function(b){this._core.trigger("play",null,"video"),this._playing&&this.stop();var c,d,e=a(b.target||b.srcElement),f=e.closest("."+this._core.settings.itemClass),g=this._videos[f.attr("data-video")],h=g.width||"100%",i=g.height||this._core.$stage.height();"youtube"===g.type?c='<iframe width="'+h+'" height="'+i+'" src="http://www.youtube.com/embed/'+g.id+"?autoplay=1&v="+g.id+'" frameborder="0" allowfullscreen></iframe>':"vimeo"===g.type&&(c='<iframe src="http://player.vimeo.com/video/'+g.id+'?autoplay=1" width="'+h+'" height="'+i+'" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'),f.addClass("owl-video-playing"),this._playing=f,d=a('<div style="height:'+i+"px; width:"+h+'px" class="owl-video-frame">'+c+"</div>"),e.after(d)},d.prototype.isInFullScreen=function(){var d=c.fullscreenElement||c.mozFullScreenElement||c.webkitFullscreenElement;return d&&a(d).parent().hasClass("owl-video-frame")&&(this._core.speed(0),this._fullscreen=!0),d&&this._fullscreen&&this._playing?!1:this._fullscreen?(this._fullscreen=!1,!1):this._playing&&this._core.state.orientation!==b.orientation?(this._core.state.orientation=b.orientation,!1):!0},d.prototype.destroy=function(){var a,b;this._core.$element.off("click.owl.video");for(a in this._handlers)this._core.$element.off(a,this._handlers[a]);for(b in Object.getOwnPropertyNames(this))"function"!=typeof this[b]&&(this[b]=null)},a.fn.owlCarousel.Constructor.Plugins.Video=d}(window.Zepto||window.jQuery,window,document),function(a,b,c,d){var e=function(b){this.core=b,this.core.options=a.extend({},e.Defaults,this.core.options),this.swapping=!0,this.previous=d,this.next=d,this.handlers={"change.owl.carousel":a.proxy(function(a){"position"==a.property.name&&(this.previous=this.core.current(),this.next=a.property.value)},this),"drag.owl.carousel dragged.owl.carousel translated.owl.carousel":a.proxy(function(a){this.swapping="translated"==a.type},this),"translate.owl.carousel":a.proxy(function(){this.swapping&&(this.core.options.animateOut||this.core.options.animateIn)&&this.swap()},this)},this.core.$element.on(this.handlers)};e.Defaults={animateOut:!1,animateIn:!1},e.prototype.swap=function(){if(1===this.core.settings.items&&this.core.support3d){this.core.speed(0);var b,c=a.proxy(this.clear,this),d=this.core.$stage.children().eq(this.previous),e=this.core.$stage.children().eq(this.next),f=this.core.settings.animateIn,g=this.core.settings.animateOut;this.core.current()!==this.previous&&(g&&(b=this.core.coordinates(this.previous)-this.core.coordinates(this.next),d.css({left:b+"px"}).addClass("animated owl-animated-out").addClass(g).one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend",c)),f&&e.addClass("animated owl-animated-in").addClass(f).one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend",c))}},e.prototype.clear=function(b){a(b.target).css({left:""}).removeClass("animated owl-animated-out owl-animated-in").removeClass(this.core.settings.animateIn).removeClass(this.core.settings.animateOut),this.core.transitionEnd()},e.prototype.destroy=function(){var a,b;for(a in this.handlers)this.core.$element.off(a,this.handlers[a]);for(b in Object.getOwnPropertyNames(this))"function"!=typeof this[b]&&(this[b]=null)},a.fn.owlCarousel.Constructor.Plugins.Animate=e}(window.Zepto||window.jQuery,window,document),function(a,b,c){var d=function(b){this.core=b,this.core.options=a.extend({},d.Defaults,this.core.options),this.handlers={"translated.owl.carousel refreshed.owl.carousel":a.proxy(function(){this.autoplay()
-},this),"play.owl.autoplay":a.proxy(function(a,b,c){this.play(b,c)},this),"stop.owl.autoplay":a.proxy(function(){this.stop()},this),"mouseover.owl.autoplay":a.proxy(function(){this.core.settings.autoplayHoverPause&&this.pause()},this),"mouseleave.owl.autoplay":a.proxy(function(){this.core.settings.autoplayHoverPause&&this.autoplay()},this)},this.core.$element.on(this.handlers)};d.Defaults={autoplay:!1,autoplayTimeout:5e3,autoplayHoverPause:!1,autoplaySpeed:!1},d.prototype.autoplay=function(){this.core.settings.autoplay&&!this.core.state.videoPlay?(b.clearInterval(this.interval),this.interval=b.setInterval(a.proxy(function(){this.play()},this),this.core.settings.autoplayTimeout)):b.clearInterval(this.interval)},d.prototype.play=function(){return c.hidden===!0||this.core.state.isTouch||this.core.state.isScrolling||this.core.state.isSwiping||this.core.state.inMotion?void 0:this.core.settings.autoplay===!1?void b.clearInterval(this.interval):void this.core.next(this.core.settings.autoplaySpeed)},d.prototype.stop=function(){b.clearInterval(this.interval)},d.prototype.pause=function(){b.clearInterval(this.interval)},d.prototype.destroy=function(){var a,c;b.clearInterval(this.interval);for(a in this.handlers)this.core.$element.off(a,this.handlers[a]);for(c in Object.getOwnPropertyNames(this))"function"!=typeof this[c]&&(this[c]=null)},a.fn.owlCarousel.Constructor.Plugins.autoplay=d}(window.Zepto||window.jQuery,window,document),function(a){"use strict";var b=function(c){this._core=c,this._initialized=!1,this._pages=[],this._controls={},this._templates=[],this.$element=this._core.$element,this._overrides={next:this._core.next,prev:this._core.prev,to:this._core.to},this._handlers={"prepared.owl.carousel":a.proxy(function(b){this._core.settings.dotsData&&this._templates.push(a(b.content).find("[data-dot]").andSelf("[data-dot]").attr("data-dot"))},this),"add.owl.carousel":a.proxy(function(b){this._core.settings.dotsData&&this._templates.splice(b.position,0,a(b.content).find("[data-dot]").andSelf("[data-dot]").attr("data-dot"))},this),"remove.owl.carousel prepared.owl.carousel":a.proxy(function(a){this._core.settings.dotsData&&this._templates.splice(a.position,1)},this),"change.owl.carousel":a.proxy(function(a){if("position"==a.property.name&&!this._core.state.revert&&!this._core.settings.loop&&this._core.settings.navRewind){var b=this._core.current(),c=this._core.maximum(),d=this._core.minimum();a.data=a.property.value>c?b>=c?d:c:a.property.value<d?c:a.property.value}},this),"changed.owl.carousel":a.proxy(function(a){"position"==a.property.name&&this.draw()},this),"refreshed.owl.carousel":a.proxy(function(){this._initialized||(this.initialize(),this._initialized=!0),this._core.trigger("refresh",null,"navigation"),this.update(),this.draw(),this._core.trigger("refreshed",null,"navigation")},this)},this._core.options=a.extend({},b.Defaults,this._core.options),this.$element.on(this._handlers)};b.Defaults={nav:!1,navRewind:!0,navText:["prev","next"],navSpeed:!1,navElement:"div",navContainer:!1,navContainerClass:"owl-nav",navClass:["owl-prev","owl-next"],slideBy:1,dotClass:"owl-dot",dotsClass:"owl-dots",dots:!0,dotsEach:!1,dotData:!1,dotsSpeed:!1,dotsContainer:!1,controlsClass:"owl-controls"},b.prototype.initialize=function(){var b,c,d=this._core.settings;d.dotsData||(this._templates=[a("<div>").addClass(d.dotClass).append(a("<span>")).prop("outerHTML")]),d.navContainer&&d.dotsContainer||(this._controls.$container=a("<div>").addClass(d.controlsClass).appendTo(this.$element)),this._controls.$indicators=d.dotsContainer?a(d.dotsContainer):a("<div>").hide().addClass(d.dotsClass).appendTo(this._controls.$container),this._controls.$indicators.on("click","div",a.proxy(function(b){var c=a(b.target).parent().is(this._controls.$indicators)?a(b.target).index():a(b.target).parent().index();b.preventDefault(),this.to(c,d.dotsSpeed)},this)),b=d.navContainer?a(d.navContainer):a("<div>").addClass(d.navContainerClass).prependTo(this._controls.$container),this._controls.$next=a("<"+d.navElement+">"),this._controls.$previous=this._controls.$next.clone(),this._controls.$previous.addClass(d.navClass[0]).html(d.navText[0]).hide().prependTo(b).on("click",a.proxy(function(){this.prev(d.navSpeed)},this)),this._controls.$next.addClass(d.navClass[1]).html(d.navText[1]).hide().appendTo(b).on("click",a.proxy(function(){this.next(d.navSpeed)},this));for(c in this._overrides)this._core[c]=a.proxy(this[c],this)},b.prototype.destroy=function(){var a,b,c,d;for(a in this._handlers)this.$element.off(a,this._handlers[a]);for(b in this._controls)this._controls[b].remove();for(d in this.overides)this._core[d]=this._overrides[d];for(c in Object.getOwnPropertyNames(this))"function"!=typeof this[c]&&(this[c]=null)},b.prototype.update=function(){var a,b,c,d=this._core.settings,e=this._core.clones().length/2,f=e+this._core.items().length,g=d.center||d.autoWidth||d.dotData?1:d.dotsEach||d.items;if("page"!==d.slideBy&&(d.slideBy=Math.min(d.slideBy,d.items)),d.dots||"page"==d.slideBy)for(this._pages=[],a=e,b=0,c=0;f>a;a++)(b>=g||0===b)&&(this._pages.push({start:a-e,end:a-e+g-1}),b=0,++c),b+=this._core.mergers(this._core.relative(a))},b.prototype.draw=function(){var b,c,d="",e=this._core.settings,f=(this._core.$stage.children(),this._core.relative(this._core.current()));if(!e.nav||e.loop||e.navRewind||(this._controls.$previous.toggleClass("disabled",0>=f),this._controls.$next.toggleClass("disabled",f>=this._core.maximum())),this._controls.$previous.toggle(e.nav),this._controls.$next.toggle(e.nav),e.dots){if(b=this._pages.length-this._controls.$indicators.children().length,e.dotData&&0!==b){for(c=0;c<this._controls.$indicators.children().length;c++)d+=this._templates[this._core.relative(c)];this._controls.$indicators.html(d)}else b>0?(d=new Array(b+1).join(this._templates[0]),this._controls.$indicators.append(d)):0>b&&this._controls.$indicators.children().slice(b).remove();this._controls.$indicators.find(".active").removeClass("active"),this._controls.$indicators.children().eq(a.inArray(this.current(),this._pages)).addClass("active")}this._controls.$indicators.toggle(e.dots)},b.prototype.onTrigger=function(b){var c=this._core.settings;b.page={index:a.inArray(this.current(),this._pages),count:this._pages.length,size:c&&(c.center||c.autoWidth||c.dotData?1:c.dotsEach||c.items)}},b.prototype.current=function(){var b=this._core.relative(this._core.current());return a.grep(this._pages,function(a){return a.start<=b&&a.end>=b}).pop()},b.prototype.getPosition=function(b){var c,d,e=this._core.settings;return"page"==e.slideBy?(c=a.inArray(this.current(),this._pages),d=this._pages.length,b?++c:--c,c=this._pages[(c%d+d)%d].start):(c=this._core.relative(this._core.current()),d=this._core.items().length,b?c+=e.slideBy:c-=e.slideBy),c},b.prototype.next=function(b){a.proxy(this._overrides.to,this._core)(this.getPosition(!0),b)},b.prototype.prev=function(b){a.proxy(this._overrides.to,this._core)(this.getPosition(!1),b)},b.prototype.to=function(b,c,d){var e;d?a.proxy(this._overrides.to,this._core)(b,c):(e=this._pages.length,a.proxy(this._overrides.to,this._core)(this._pages[(b%e+e)%e].start,c))},a.fn.owlCarousel.Constructor.Plugins.Navigation=b}(window.Zepto||window.jQuery,window,document),function(a,b){"use strict";var c=function(d){this._core=d,this._hashes={},this.$element=this._core.$element,this._handlers={"initialized.owl.carousel":a.proxy(function(){"URLHash"==this._core.settings.startPosition&&a(b).trigger("hashchange.owl.navigation")},this),"prepared.owl.carousel":a.proxy(function(b){var c=a(b.content).find("[data-hash]").andSelf("[data-hash]").attr("data-hash");this._hashes[c]=b.content},this)},this._core.options=a.extend({},c.Defaults,this._core.options),this.$element.on(this._handlers),a(b).on("hashchange.owl.navigation",a.proxy(function(){var a=b.location.hash.substring(1),c=this._core.$stage.children(),d=this._hashes[a]&&c.index(this._hashes[a])||0;return a?void this._core.to(d,!1,!0):!1},this))};c.Defaults={URLhashListener:!1},c.prototype.destroy=function(){var c,d;a(b).off("hashchange.owl.navigation");for(c in this._handlers)this._core.$element.off(c,this._handlers[c]);for(d in Object.getOwnPropertyNames(this))"function"!=typeof this[d]&&(this[d]=null)},a.fn.owlCarousel.Constructor.Plugins.Hash=c}(window.Zepto||window.jQuery,window,document);  
-
-/*! Theia Sticky Sidebar | v1.7.0 - https://github.com/WeCodePixels/theia-sticky-sidebar */
-(function($){$.fn.theiaStickySidebar=function(options){var defaults={'containerSelector':'','additionalMarginTop':0,'additionalMarginBottom':0,'updateSidebarHeight':true,'minWidth':0,'disableOnResponsiveLayouts':true,'sidebarBehavior':'modern','defaultPosition':'relative','namespace':'TSS'};options=$.extend(defaults,options);options.additionalMarginTop=parseInt(options.additionalMarginTop)||0;options.additionalMarginBottom=parseInt(options.additionalMarginBottom)||0;tryInitOrHookIntoEvents(options,this);function tryInitOrHookIntoEvents(options,$that){var success=tryInit(options,$that);if(!success){console.log('TSS: Body width smaller than options.minWidth. Init is delayed.');$(document).on('scroll.'+options.namespace,function(options,$that){return function(evt){var success=tryInit(options,$that);if(success){$(this).unbind(evt)}}}(options,$that));$(window).on('resize.'+options.namespace,function(options,$that){return function(evt){var success=tryInit(options,$that);if(success){$(this).unbind(evt)}}}(options,$that))}}function tryInit(options,$that){if(options.initialized===true){return true}if($('body').width()<options.minWidth){return false}init(options,$that);return true}function init(options,$that){options.initialized=true;var existingStylesheet=$('#theia-sticky-sidebar-stylesheet-'+options.namespace);if(existingStylesheet.length===0){$('head').append($('<style id="theia-sticky-sidebar-stylesheet-'+options.namespace+'">.theiaStickySidebar:after {content: ""; display: table; clear: both;}</style>'))}$that.each(function(){var o={};o.sidebar=$(this);o.options=options||{};o.container=$(o.options.containerSelector);if(o.container.length==0){o.container=o.sidebar.parent()}o.sidebar.parents().css('-webkit-transform','none');o.sidebar.css({'position':o.options.defaultPosition,'overflow':'visible','-webkit-box-sizing':'border-box','-moz-box-sizing':'border-box','box-sizing':'border-box'});o.stickySidebar=o.sidebar.find('.theiaStickySidebar');if(o.stickySidebar.length==0){var javaScriptMIMETypes=/(?:text|application)\/(?:x-)?(?:javascript|ecmascript)/i;o.sidebar.find('script').filter(function(index,script){return script.type.length===0||script.type.match(javaScriptMIMETypes)}).remove();o.stickySidebar=$('<div>').addClass('theiaStickySidebar').append(o.sidebar.children());o.sidebar.append(o.stickySidebar)}o.marginBottom=parseInt(o.sidebar.css('margin-bottom'));o.paddingTop=parseInt(o.sidebar.css('padding-top'));o.paddingBottom=parseInt(o.sidebar.css('padding-bottom'));var collapsedTopHeight=o.stickySidebar.offset().top;var collapsedBottomHeight=o.stickySidebar.outerHeight();o.stickySidebar.css('padding-top',1);o.stickySidebar.css('padding-bottom',1);collapsedTopHeight-=o.stickySidebar.offset().top;collapsedBottomHeight=o.stickySidebar.outerHeight()-collapsedBottomHeight-collapsedTopHeight;if(collapsedTopHeight==0){o.stickySidebar.css('padding-top',0);o.stickySidebarPaddingTop=0}else{o.stickySidebarPaddingTop=1}if(collapsedBottomHeight==0){o.stickySidebar.css('padding-bottom',0);o.stickySidebarPaddingBottom=0}else{o.stickySidebarPaddingBottom=1}o.previousScrollTop=null;o.fixedScrollTop=0;resetSidebar();o.onScroll=function(o){if(!o.stickySidebar.is(":visible")){return}if($('body').width()<o.options.minWidth){resetSidebar();return}if(o.options.disableOnResponsiveLayouts){var sidebarWidth=o.sidebar.outerWidth(o.sidebar.css('float')=='none');if(sidebarWidth+50>o.container.width()){resetSidebar();return}}var scrollTop=$(document).scrollTop();var position='static';if(scrollTop>=o.sidebar.offset().top+(o.paddingTop-o.options.additionalMarginTop)){var offsetTop=o.paddingTop+options.additionalMarginTop;var offsetBottom=o.paddingBottom+o.marginBottom+options.additionalMarginBottom;var containerTop=o.sidebar.offset().top;var containerBottom=o.sidebar.offset().top+getClearedHeight(o.container);var windowOffsetTop=0+options.additionalMarginTop;var windowOffsetBottom;var sidebarSmallerThanWindow=(o.stickySidebar.outerHeight()+offsetTop+offsetBottom)<$(window).height();if(sidebarSmallerThanWindow){windowOffsetBottom=windowOffsetTop+o.stickySidebar.outerHeight()}else{windowOffsetBottom=$(window).height()-o.marginBottom-o.paddingBottom-options.additionalMarginBottom}var staticLimitTop=containerTop-scrollTop+o.paddingTop;var staticLimitBottom=containerBottom-scrollTop-o.paddingBottom-o.marginBottom;var top=o.stickySidebar.offset().top-scrollTop;var scrollTopDiff=o.previousScrollTop-scrollTop;if(o.stickySidebar.css('position')=='fixed'){if(o.options.sidebarBehavior=='modern'){top+=scrollTopDiff}}if(o.options.sidebarBehavior=='stick-to-top'){top=options.additionalMarginTop}if(o.options.sidebarBehavior=='stick-to-bottom'){top=windowOffsetBottom-o.stickySidebar.outerHeight()}if(scrollTopDiff>0){top=Math.min(top,windowOffsetTop)}else{top=Math.max(top,windowOffsetBottom-o.stickySidebar.outerHeight())}top=Math.max(top,staticLimitTop);top=Math.min(top,staticLimitBottom-o.stickySidebar.outerHeight());var sidebarSameHeightAsContainer=o.container.height()==o.stickySidebar.outerHeight();if(!sidebarSameHeightAsContainer&&top==windowOffsetTop){position='fixed'}else if(!sidebarSameHeightAsContainer&&top==windowOffsetBottom-o.stickySidebar.outerHeight()){position='fixed'}else if(scrollTop+top-o.sidebar.offset().top-o.paddingTop<=options.additionalMarginTop){position='static'}else{position='absolute'}}if(position=='fixed'){var scrollLeft=$(document).scrollLeft();o.stickySidebar.css({'position':'fixed','width':getWidthForObject(o.stickySidebar)+'px','transform':'translateY('+top+'px)','left':(o.sidebar.offset().left+parseInt(o.sidebar.css('padding-left'))-scrollLeft)+'px','top':'0px'})}else if(position=='absolute'){var css={};if(o.stickySidebar.css('position')!='absolute'){css.position='absolute';css.transform='translateY('+(scrollTop+top-o.sidebar.offset().top-o.stickySidebarPaddingTop-o.stickySidebarPaddingBottom)+'px)';css.top='0px'}css.width=getWidthForObject(o.stickySidebar)+'px';css.left='';o.stickySidebar.css(css)}else if(position=='static'){resetSidebar()}if(position!='static'){if(o.options.updateSidebarHeight==true){o.sidebar.css({'min-height':o.stickySidebar.outerHeight()+o.stickySidebar.offset().top-o.sidebar.offset().top+o.paddingBottom})}}o.previousScrollTop=scrollTop};o.onScroll(o);$(document).on('scroll.'+o.options.namespace,function(o){return function(){o.onScroll(o)}}(o));$(window).on('resize.'+o.options.namespace,function(o){return function(){o.stickySidebar.css({'position':'static'});o.onScroll(o)}}(o));if(typeof ResizeSensor!=='undefined'){new ResizeSensor(o.stickySidebar[0],function(o){return function(){o.onScroll(o)}}(o))}function resetSidebar(){o.fixedScrollTop=0;o.sidebar.css({'min-height':'1px'});o.stickySidebar.css({'position':'static','width':'','transform':'none'})}function getClearedHeight(e){var height=e.height();e.children().each(function(){height=Math.max(height,$(this).height())});return height}})}function getWidthForObject(object){var width;try{width=object[0].getBoundingClientRect().width}catch(err){}if(typeof width==="undefined"){width=object.width()}return width}return this}})(jQuery);
-
-/*! Table of Contents | v0.4.0 - https://github.com/ndabas/toc */
-!function(t){"use strict";var n=function(n){return this.each(function(){var e,i,a=t(this),o=a.data(),c=[a],r=this.tagName,d=0;e=t.extend({content:"body",headings:"h1,h2,h3"},{content:o.toc||void 0,headings:o.tocHeadings||void 0},n),i=e.headings.split(","),t(e.content).find(e.headings).attr("id",function(n,e){return e||function(t){0===t.length&&(t="?");for(var n=t.replace(/\s+/g,"_"),e="",i=1;null!==document.getElementById(n+e);)e="_"+i++;return n+e}(t(this).text())}).each(function(){var n=t(this),e=t.map(i,function(t,e){return n.is(t)?e:void 0})[0];if(e>d){var a=c[0].children("li:last")[0];a&&c.unshift(t("<"+r+"/>").appendTo(a))}else c.splice(0,Math.min(d-e,Math.max(c.length-1,0)));t("<li/>").appendTo(c[0]).append(t("<a/>").text(n.text()).attr("href","#"+n.attr("id"))),d=e})})},e=t.fn.toc;t.fn.toc=n,t.fn.toc.noConflict=function(){return t.fn.toc=e,this},t(function(){n.call(t("[data-toc]"))})}(window.jQuery);
-//]]>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div role="main" class="main-body" id="body-section-6478755">
+<div class="block-container block-divider page-block ca-background-Qg5Mog" id="block-container-xbdbvx">
+<div class="block-container__block">
+<div class="container-fluid max-w-1200">
+<div class="element-container clearfix element-divider" id="element-container-vvZkp3">
+<div class="element-container__element">
+<div class="row divider__column justify-content-center">
+<div class="divider__container col-8 col-md-4">
+<hr class="divider ca-divider-lgx3rN"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-single-photo page-block block-container--flushed-top-on-first-rank ca-background-MNeyNa" id="block-container-zKxKyl">
+<div class="block-container__block">
+<div class="single-photo">
+<div class="element-container clearfix element-photo" id="element-container-ewo6Mx">
+<div class="element-container__element">
+<div class="photo__container container--full-width">
+<div class="row justify-content-center">
+<div class="col-12">
+<img class="photo__photo ca-background-MNeyNa" src="//images-pw.pixieset.com/elementfield/899288673/Dawn_of_Deus-70a15efe-300.jpg" srcset="//images-pw.pixieset.com/elementfield/899288673/Dawn_of_Deus-70a15efe-300.jpg 300w, //images-pw.pixieset.com/elementfield/899288673/Dawn_of_Deus-8b54acd2-500.jpg 500w, //images-pw.pixieset.com/elementfield/899288673/Dawn_of_Deus-ea44b58f-1000.jpg 1000w, //images-pw.pixieset.com/elementfield/899288673/Dawn_of_Deus-dc190b16-1500.jpg 1500w, //images-pw.pixieset.com/elementfield/899288673/Dawn_of_Deus-ecb6ed9b-2500.jpg 2500w" sizes="(max-width: 300px) 300px, (max-width: 500px) 500px, (max-width: 1000px) 1500px, (max-width: 1500px) 1500px, (max-width: 2500px) 2500px, 2500px">
+</div>
+</div>
+</div>
+<div class="container-fluid max-w-1200">
+<div class="row justify-content-center">
+<div class="photo__caption-container col-12">
+<p class="photo__caption text-left caption ca-caption-Qg5kBy">Will be published soon</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-divider page-block ca-background-Qg5Mog" id="block-container-5WaWJ9">
+<div class="block-container__block">
+<div class="container-fluid max-w-1200">
+<div class="element-container clearfix element-divider" id="element-container-Wlazpa">
+<div class="element-container__element">
+<div class="row divider__column justify-content-center">
+<div class="divider__container col-8 col-md-4">
+<hr class="divider ca-divider-lgx3rN"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-single-text page-block ca-background-VNb82A" id="block-container-L4zxwX">
+<div class="block-container__block">
+<div class="container-fluid max-w-1200">
+<div class="row justify-content-center">
+<div class="single-text__text col-12">
+<div class="element-container clearfix element-text" id="element-container-5wGyVw">
+<div class="element-container__element">
+<div class="text__text text--single-line">
+<h2 class="ql-align-center ca-headings-VBpAN4 animatable animatable--large-title" style="--initial-opacity: 1; --initial-scale: 1; --initial-translateX: 0%; --initial-translateY: 0%;"><strong>Click here to see all my Projects and Works</strong></h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-feature-links-multiple-photos page-block ca-background-l2WG32" id="block-container-9mYoqA">
+<div class="block-container__block">
+<div class="element-container clearfix element-feature-links-multiple-photos-wrapper" id="element-container-RmaYDY">
+<div class="element-container__element">
+<div class="ca-background-l2WG32 container-fluid max-w-1200 feature-links-multiple-photos-wrapper__container feature-links-multiple-photos-wrapper__container--style_2">
+<div class="row">
+<div class="col-12">
+<div class="row d-flex feature-links-multiple-photos-wrapper__row">
+<div class="ca-card-w2v8WN feature-links-multiple-photos-wrapper__column col-12 feature-links-multiple-photos-wrapper__1-col">
+<div class="element-container clearfix element-feature-links-multiple-photos" id="element-container-5wGyLw">
+<div class="element-container__element">
+<a href="/portfolio/" class="feature-links-multiple-photos__photo--link">
+<div class="feature-links-multiple-photos__container">
+<div class="feature-links-multiple-photos__background-photo" data-url="//images-pw.pixieset.com/elementfield/841680673/Capturejhghgh-3ca3b093-2500.PNG" data-focal_x="50%" data-focal_y="50%" style="background-image: url(//images-pw.pixieset.com/elementfield/841680673/Capturejhghgh-3ca3b093-2500.PNG); background-position: 50% 50%;">
+<div class="feature-links-multiple-photos__tint absolute-fill"></div>
+</div>
+<div class="feature-links-multiple-photos__content-wrapper text-center ca-card-w2v8WN">
+<h2 class="ca-title-ZgP5o2 feature-links-multiple-photos__title">...</h2>
+<i class="ca-arrow-JNQG02 ps-arrow ps-arrow--right ps-arrow--md"></i>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-video-player-banner page-block block-container--flushed-top-on-first-rank ca-background-l2WdbB" id="block-container-WvyvOY">
+<div class="block-container__block">
+<div class="element-container clearfix element-video-player-banner" id="element-container-RmWL0O">
+<div class="element-container__element">
+<div class="video-player-banner">
+<div class="video-player-banner__container container--full-width ca-background-l2WdbB">
+<div class="row">
+<div class="col-12">
+<div class="row no-gutters video-player-banner--style_3">
+<div class="video-player-banner__background-video bg-video video-player-banner__background-media video-player-banner--size_sm col-12 col-md-6">
+<div class="bg-video absolute-fill overflow-hidden ">
+<div class="bg-video__fill-container pos-abs w-100 top-50 left-50 translate-50-50">
+<div class="bg-video__plyr" data-type="youtube" data-video-id="tMgvPZcpiTg"></div>
+</div>
+<div class="bg-video__fallback absolute-fill img-bg-cover "></div>
+<div class="absolute-fill"></div>
+</div> <div class="video-player-banner__tint absolute-fill js-tint"></div>
+<div class="video-player-banner__loading-bg banner__loading-bg absolute-fill"></div>
+<span class="video-player-banner__custom-thumbnail-play-btn js-video-player-banner__button">
+<i class="fal fa-play"></i>
+</span>
+</div>
+<div class="video-player-banner__content-wrapper col-12 col-md-6 text-center ca-card-w2v19g">
+<div class="row">
+<div class="col-12 col-md-10 offset-md-1">
+<h1 class="video-player-banner__title hero-text ca-title-JNQKW2">Visit my YouTube channel &amp; stay connected</h1>
+<hr class="video-player-banner__divider-line ca-divider-zglP0g">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-social-links page-block ca-background-VBpvXg" id="block-container-5WaWke">
+<div class="block-container__block">
+<div class="element-container clearfix element-social-links" id="element-container-wPGzaA">
+<div class="element-container__element">
+<div class="container-fluid max-w-1200">
+<div class="row">
+<div class="social-links__column col-12 social-links--colour_brand social-links--size_medium d-flex justify-content-center flex-wrap">
+<a class="social-links__link" href="https://www.facebook.com/profile.php?id=61553642603517" target="_blank">
+<i class="social-links__icon social-links__facebook fab fa-facebook-f fa-fw"></i>
+</a>
+<a class="social-links__link" href="https://www.youtube.com/@sapiensshaonn" target="_blank">
+<i class="social-links__icon social-links__youtube fab fa-youtube fa-fw"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-divider page-block ca-background-Qg5Mog" id="block-container-XPQPqZ">
+<div class="block-container__block">
+<div class="container-fluid max-w-1200">
+<div class="element-container clearfix element-divider" id="element-container-Q17l47">
+<div class="element-container__element">
+<div class="row divider__column justify-content-center">
+<div class="divider__container col-8 col-md-4">
+<hr class="divider ca-divider-lgx3rN"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container fb-block-outer-wrap js-fb-block-outer-wrap" id="block-container-gmWWQQ">
+<div class="block-container__block">
+<div class="fb-block-outer js-fb-block-outer">
+<div class="fb-block-padding-wrap fb-block-padding-wrap--boxed">
+<div class="fb-block-subpadding-wrap">
+<div class="fb-block-wrap">
+<div class="fb-block js-fb-block fb-block--gmWWQQ fb-block--gridWithGaps">
+<div class="fb-block__elements">
+<div class="fb-block__block-sizer"></div>
+<div class="fb-element fb-element--image fb-element--1395179 fb-element--mvaligned-center fb-element--el-lqubtdms fb-element--m-highest">
+<div class="fb-element__content">
+<div class="<?php echo e($b); ?>--anchor">
+<div class="fb-element-type-image fb-radius" style="
+		--border-width:1px;
+		--border-color: var(--accent-background);
+		--overlay-color: var(--primary-background);
+		--overlay-opacity: 0;
+		--border-radius: 59;
+	">
+<div class="valign-d-center valign-t-center valign-m-center halign-d-center halign-t-center halign-m-center fb-element-type-image__img-wrapper--fit fb-element-type-image__img-wrapper">
+<div class="fb-element-type-image__overlay fb-radius"></div>
+<img class="fb-element-type-image__img-wrapper__img fb-radius" src="//images-pw.pixieset.com/site/BpjWbq/Q7pqvY/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-c2014ab6-300.jfif" srcset="//images-pw.pixieset.com/site/BpjWbq/Q7pqvY/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-c2014ab6-300.jfif 300w, //images-pw.pixieset.com/site/BpjWbq/Q7pqvY/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-39f4b89a-500.jfif 500w, //images-pw.pixieset.com/site/BpjWbq/Q7pqvY/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-58e4a1c7-1000.jfif 1000w, //images-pw.pixieset.com/site/BpjWbq/Q7pqvY/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-6eb91f5e-1500.jfif 1500w, //images-pw.pixieset.com/site/BpjWbq/Q7pqvY/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-5e16f9d3-2500.jfif 2500w" sizes="(max-width: 300px) 300px, (max-width: 500px) 500px, (max-width: 1000px) 1000px, (max-width: 1500px) 1500px, (max-width: 2500px) 2500px, 2500px" alt style="
+				object-position:center center;
+				object-fit:;
+				opacity:1;
+		">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fb-element fb-element--text fb-element--1395180 fb-element--mvaligned-center fb-element--el-lqubtdmt fb-element--m-lowest">
+<div class="fb-element__content">
+<div class="fb-element-type-text element-text valign-d-center valign-t-center valign-m-center" style="--border-radius: 0;
+		border: none;
+		--background-color: inherit;
+		--opacity: 1;
+		;">
+<div class="text__text">
+<p class="mobile-empty-p">&nbsp</p><p class="mobile-empty-p">&nbsp</p><p class="mobile-empty-p">&nbsp</p>
+<h1 class="ql-banner-heading ql-align-mobile-center ql-align-tablet-left ql-align-desktop-center"><strong data-default-color="var(--primary-headings)" style="color: var(--primary-headings);">Shalva Studios</strong></h1><p class="ql-align-mobile-center ql-align-tablet-left ql-align-desktop-center ql-paragraph-2 animatable animatable--fade-on-scaleDown animatable--fade-on-scaleUp animatable--fade-on-revealRight animatable--animated animatable--finished" style="--initial-opacity: 1; --initial-scale: 1; --initial-translateX: 0%; --initial-translateY: 0%;"><br></p><h3 class="ql-align-mobile-center ql-align-tablet-left ql-align-desktop-center animatable animatable--large-title animatable--animated animatable--finished" style="--initial-opacity: 1; --initial-scale: 1; --initial-translateX: 0%; --initial-translateY: 0%;"><strong data-default-color="var(--primary-headings)" style="color: var(--primary-headings);">“</strong><em style="color: rgb(228, 230, 235);">A Solo Documentary Production owned by </em><strong style="color: rgb(228, 230, 235);">Shaon Ahmed Ronok</strong><strong data-default-color="var(--primary-headings)" style="color: var(--primary-headings);"><em>“</em></strong></h3><h3 class="ql-align-mobile-left ql-align-tablet-left ql-align-desktop-left animatable animatable--large-title animatable--animated animatable--finished" style="--initial-opacity: 1; --initial-scale: 1; --initial-translateX: 0%; --initial-translateY: 0%;"><br></h3>
+<p class="mobile-empty-p">&nbsp</p><p class="mobile-empty-p">&nbsp</p><p class="mobile-empty-p">&nbsp</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-info page-block block-container--flushed-top-on-first-rank ca-background-5N48eN" id="block-container-nProkY">
+<div class="block-container__block">
+<div class="element-container clearfix element-info" id="element-container-Ja6MDo">
+<div class="element-container__element">
+<div class="info info--style_2 container--full-width ca-background-5N48eN">
+<div class="row">
+<div class="col-12">
+<div class="info__color-full ca-card-W2qVoB">
+<div class="container-fluid max-w-1200">
+<div class="row info__content">
+<div class="col-12 col-md-9 info__color-inner-wrapper">
+<div class="info__color-inner ca-card-2-mgGv4N"></div>
+</div>
+<div class="col-12">
+<div class="row no-gutters justify-content-center align-items-center">
+<div class="col-10 col-md-6">
+<div class="info__photo" style="background-image: url( //images-pw.pixieset.com/elementfield/409580673/P.photo-52365eba-2500.jpg ); background-position: 50% 50%;"></div>
+</div>
+<div class="col-10 col-md-6 info__text">
+<h2 class="info__title ca-title-MNej0g">Wanna know about me?</h2>
+<p class="info__body ca-body-lgx1R2">Click on - &quot;Learn More&quot;</p>
+<a class="info__button button ca-button-0NRE7B ca-button-hover-egEoqB ca-button-text-hover-VgdjpB" href="/about/">
+<span class="button__text ca-button-text-kBXWY2">Learn More</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-button page-block ca-background-egEKeB" id="block-container-18MGqZ">
+<div class="block-container__block">
+<div class="element-container clearfix element-button" id="element-container-dVGMDD">
+<div class="element-container__element">
+<div class="container-fluid max-w-1200">
+<div class="row justify-content-center">
+<div class="button__column col-12 text-center">
+<a class="button button__button ca-button-VgdOwN ca-button-hover-yBDKL2 ca-button-text-hover-52ry6g" href="/portfolio/">
+<span class="button__text ca-button-text-rgok7g">See all my Projects</span>
+</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-spacer page-block ca-background-zNVeJB" id="block-container-mvem6D">
+<div class="block-container__block">
+<div class="spacer spacer--size_md"></div>
+</div>
+</div>
+<div class="block-container block-quote page-block ca-background-VBpyMN" id="block-container-O0ld9k">
+<div class="block-container__block">
+<div class="element-container clearfix element-quote" id="element-container-ol4n5w">
+<div class="element-container__element">
+<div class="quote quote__style-1">
+<div class="quote__container quote__padding container-fluid max-w-1200">
+<div class="quote__quote-row row justify-content-center">
+<div class="quote__quote-column col-12 col-md-10 col-lg-8">
+<h2 class="quote__quote pullquote ca-quote-W2qyJ2">“Enjoy the MYTH”</h2>
+</div>
+</div>
+<div class="row justify-content-center">
+<div class="col-12 col-md-10 col-lg-8">
+<hr class="quote__divider divider ca-divider-5N4y0g">
+</div>
+</div>
+<div class="quote__source-row row ">
+<div class="quote__source-column  col-12 offset-md-1 col-md-4 offset-lg-2">
+<label class="quote__source detail ca-source-mgGG6g"><span class="quote__source-dash">—</span>Shaon Ahmed Ronok</label>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-container block-spacer page-block ca-background-42nE0g" id="block-container-zK47L5">
+<div class="block-container__block">
+<div class="spacer spacer--size_sm"></div>
+</div>
+</div>
+<div class="block-container block-spacer page-block ca-background-42nE0g" id="block-container-7PQQZW">
+<div class="block-container__block">
+<div class="spacer spacer--size_sm"></div>
+</div>
+</div>
+</div>
+<div role="footer">
+<div class="block-container block-theme4-footer block-container--flushed-top block-container--flushed-bottom block-container--flushed-left block-container--flushed-right ca-background-wgapMN" id="block-container-ak94JY">
+<div class="block-container__block">
+<div class="theme-4-footer theme-4-footer_style-1 d-flex justify-content-center align-items-center ca-background-wgapMN">
+<div class="container-fluid max-w-1200">
+<div class="row">
+<div class="col-12">
+<div class="theme-4-footer__content-wrapper d-flex">
+<div class="theme-4-footer__social-copyright-wrapper d-flex mr-auto">
+<div class="theme-4-footer__icon-links">
+<div class="social-links__column d-flex">
+<a class="social-links__link" href="https://www.facebook.com/profile.php?id=61553642603517" target="_blank">
+<i class="social-links__icon social-links__facebook fab fa-facebook-f fa-fw ca-social-icons-zNVy1B ca-social-icons-hover-LBK0pN"></i>
+</a>
+<a class="social-links__link" href="https://www.youtube.com/@sapiensshaonn" target="_blank">
+<i class="social-links__icon social-links__youtube fab fa-youtube fa-fw ca-social-icons-zNVy1B ca-social-icons-hover-LBK0pN"></i>
+</a>
+</div>
+</div>
+<div class="theme-4-footer__copyright-wrapper mr-auto">
+<p class="theme-4-footer__copyright-text ca-footer-text-x2YYl2">All content Copyright © 2023 Shaon Ahmed Ronok</p>
+</div>
+</div>
+<a class="go-to-top__link" href="#">
+<i class="ps-arrow ps-arrow--lg ps-arrow--up ca-arrow-02wljB ca-arrow-hover-VBpoX2"></i>
+</a>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-12">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-section-pixieset-branding">
+Powered by <a target="_blank" rel="noopener noreferrer" href="https://gallery.pixieset.com/website/">Pixieset</a>
+</div>
+<script>
+	var sentryConfig = {
+		dsn: 'https://dab2873be32f4034ad111643c52c98c0@sentry.io/1215049',
+		environment: 'production',
+		release: 'portfolio-website@release-2209',
+		ignoreErrors: ['window.fd'],
+		ignoreUrls: ['/googleapis\.com/',
+			'/pagead2\.googlesyndication\.com',
+			'/jquery\/dist\/jquery\.js/',
+			'/tiny-cookie\/tiny-cookie\.js/',
+			'/slick-carousel\/slick\/slick\.js/',
+			'addthis'
+		],
+		denyUrls: [
+			// Chrome extensions
+			'/extensions\//i',
+			'/^chrome:\/\//i',
+		],
+		initialScope: {
+			
+			
+			tags: { theme: "theme_4" }			
+		},
+		beforeSend(event) {
+			try {
+				if (event.exception.values[0].value.startsWith('ResizeObserver loop')) return null;
+			} catch (e) {
+				// Silence is gold
+			}
+			return event;
+		},
+	};
 </script>
-<!-- Theme Functions JS -->
-<script type='text/javascript'>
-//<![CDATA[
-var _0x7b83=["\x36\x70\x28\x36\x68\x28\x70\x2C\x61\x2C\x63\x2C\x6B\x2C\x65\x2C\x72\x29\x7B\x65\x3D\x36\x68\x28\x63\x29\x7B\x36\x69\x28\x63\x3C\x61\x3F\x27\x27\x3A\x65\x28\x36\x6D\x28\x63\x2F\x61\x29\x29\x29\x2B\x28\x28\x63\x3D\x63\x25\x61\x29\x3E\x33\x35\x3F\x36\x6A\x2E\x36\x71\x28\x63\x2B\x32\x39\x29\x3A\x63\x2E\x36\x72\x28\x33\x36\x29\x29\x7D\x3B\x36\x6B\x28\x21\x27\x27\x2E\x36\x6E\x28\x2F\x5E\x2F\x2C\x36\x6A\x29\x29\x7B\x36\x6C\x28\x63\x2D\x2D\x29\x72\x5B\x65\x28\x63\x29\x5D\x3D\x6B\x5B\x63\x5D\x7C\x7C\x65\x28\x63\x29\x3B\x6B\x3D\x5B\x36\x68\x28\x65\x29\x7B\x36\x69\x20\x72\x5B\x65\x5D\x7D\x5D\x3B\x65\x3D\x36\x68\x28\x29\x7B\x36\x69\x27\x5C\x5C\x77\x2B\x27\x7D\x3B\x63\x3D\x31\x7D\x3B\x36\x6C\x28\x63\x2D\x2D\x29\x36\x6B\x28\x6B\x5B\x63\x5D\x29\x70\x3D\x70\x2E\x36\x6E\x28\x36\x6F\x20\x36\x73\x28\x27\x5C\x5C\x62\x27\x2B\x65\x28\x63\x29\x2B\x27\x5C\x5C\x62\x27\x2C\x27\x67\x27\x29\x2C\x6B\x5B\x63\x5D\x29\x3B\x36\x69\x20\x70\x7D\x28\x27\x4A\x20\x31\x62\x3D\x31\x7A\x3B\x55\x20\x31\x7A\x28\x64\x2C\x65\x29\x7B\x4A\x20\x66\x3D\x32\x34\x28\x29\x3B\x31\x35\x20\x31\x7A\x3D\x55\x28\x61\x2C\x62\x29\x7B\x61\x3D\x61\x2D\x34\x36\x3B\x4A\x20\x63\x3D\x66\x5B\x61\x5D\x3B\x31\x35\x20\x63\x7D\x2C\x31\x7A\x28\x64\x2C\x65\x29\x7D\x28\x55\x28\x61\x2C\x62\x29\x7B\x4A\x20\x63\x3D\x31\x7A\x2C\x32\x35\x3D\x61\x28\x29\x3B\x34\x37\x28\x21\x21\x5B\x5D\x29\x7B\x34\x38\x7B\x4A\x20\x64\x3D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x33\x5C\x27\x29\x29\x2F\x31\x63\x2A\x28\x2D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x75\x5C\x27\x29\x29\x2F\x34\x39\x29\x2B\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x36\x5C\x27\x29\x29\x2F\x32\x74\x2A\x28\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x35\x5C\x27\x29\x29\x2F\x32\x51\x29\x2B\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x4C\x5C\x27\x29\x29\x2F\x32\x52\x2A\x28\x2D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x7A\x5C\x27\x29\x29\x2F\x34\x61\x29\x2B\x2D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x31\x5C\x27\x29\x29\x2F\x32\x53\x2A\x28\x2D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x38\x5C\x27\x29\x29\x2F\x32\x54\x29\x2B\x2D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x4D\x5C\x27\x29\x29\x2F\x34\x62\x2A\x28\x2D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x29\x2F\x32\x36\x29\x2B\x2D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x33\x5C\x27\x29\x29\x2F\x34\x63\x2B\x2D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x49\x5C\x27\x29\x29\x2F\x34\x64\x2A\x28\x2D\x31\x6F\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x38\x5C\x27\x29\x29\x2F\x34\x65\x29\x3B\x54\x28\x64\x3D\x3D\x3D\x62\x29\x32\x55\x3B\x31\x30\x20\x32\x35\x5B\x5C\x27\x32\x56\x5C\x27\x5D\x28\x32\x35\x5B\x5C\x27\x32\x57\x5C\x27\x5D\x28\x29\x29\x7D\x34\x66\x28\x34\x67\x29\x7B\x32\x35\x5B\x5C\x27\x32\x56\x5C\x27\x5D\x28\x32\x35\x5B\x5C\x27\x32\x57\x5C\x27\x5D\x28\x29\x29\x7D\x7D\x7D\x28\x32\x34\x2C\x34\x68\x29\x2C\x21\x55\x28\x6B\x29\x7B\x4A\x20\x6C\x3D\x31\x7A\x2C\x32\x58\x3D\x28\x55\x28\x29\x7B\x4A\x20\x66\x3D\x31\x7A\x3B\x54\x28\x66\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x75\x5C\x27\x29\x3D\x3D\x3D\x66\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x75\x5C\x27\x29\x29\x7B\x4A\x20\x67\x3D\x21\x21\x5B\x5D\x3B\x31\x35\x20\x55\x28\x63\x2C\x64\x29\x7B\x4A\x20\x65\x3D\x67\x3F\x55\x28\x29\x7B\x4A\x20\x61\x3D\x31\x7A\x3B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x35\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x38\x5C\x27\x29\x29\x34\x69\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x49\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x33\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x34\x5C\x27\x29\x2B\x34\x6A\x2B\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x38\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x46\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x4D\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x29\x2B\x34\x6B\x3B\x31\x30\x7B\x54\x28\x64\x29\x7B\x4A\x20\x62\x3D\x64\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x56\x5C\x27\x5D\x28\x63\x2C\x32\x59\x29\x3B\x31\x35\x20\x64\x3D\x32\x63\x2C\x62\x7D\x7D\x7D\x3A\x55\x28\x29\x7B\x7D\x3B\x31\x35\x20\x67\x3D\x21\x5B\x5D\x2C\x65\x7D\x7D\x31\x30\x20\x34\x6C\x5B\x66\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x66\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x38\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x4B\x5C\x5C\x31\x64\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x41\x5C\x5C\x5A\x5C\x27\x2B\x66\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x75\x5C\x27\x29\x2B\x66\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x75\x5C\x27\x29\x2B\x66\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x7A\x5C\x27\x29\x2B\x66\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x4C\x5C\x27\x29\x2B\x66\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x75\x5C\x5C\x37\x5C\x5C\x31\x65\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x29\x7D\x28\x29\x29\x2C\x32\x64\x3D\x32\x58\x28\x31\x33\x2C\x55\x28\x29\x7B\x4A\x20\x61\x3D\x31\x7A\x3B\x31\x35\x20\x32\x64\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x74\x5C\x27\x29\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x32\x37\x5C\x5C\x31\x77\x5C\x27\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x74\x5C\x27\x29\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x31\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x76\x5C\x27\x5D\x28\x32\x64\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x32\x37\x5C\x5C\x31\x77\x5C\x27\x29\x7D\x29\x3B\x32\x64\x28\x29\x2C\x6B\x5B\x5C\x27\x5C\x5C\x75\x5C\x5C\x78\x5C\x27\x5D\x5B\x6C\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x31\x5C\x27\x29\x5D\x3D\x55\x28\x69\x29\x7B\x4A\x20\x6A\x3D\x6C\x2C\x32\x75\x3D\x7B\x7D\x3B\x31\x35\x20\x32\x75\x5B\x6A\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x75\x5C\x27\x29\x5D\x3D\x21\x31\x31\x2C\x28\x69\x3D\x6B\x5B\x6A\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x46\x5C\x27\x29\x5D\x28\x32\x75\x2C\x69\x29\x2C\x31\x33\x5B\x6A\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x65\x2C\x66\x2C\x67\x29\x7B\x4A\x20\x68\x3D\x6A\x2C\x31\x43\x3D\x6B\x28\x31\x33\x29\x2C\x31\x4C\x3D\x6B\x28\x32\x65\x29\x2C\x31\x67\x3D\x31\x43\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x31\x5C\x27\x29\x29\x2C\x32\x66\x3D\x5C\x27\x5C\x5C\x5A\x5C\x27\x2B\x32\x67\x5B\x5C\x27\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x47\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x5D\x28\x31\x43\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x29\x2B\x31\x43\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x29\x2F\x32\x36\x29\x2B\x5C\x27\x5C\x5C\x41\x5C\x5C\x48\x5C\x27\x2B\x32\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x74\x5C\x27\x29\x5D\x28\x31\x43\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x2B\x31\x43\x5B\x5C\x27\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x79\x5C\x5C\x4F\x5C\x5C\x48\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x2F\x32\x36\x29\x2B\x5C\x27\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x41\x5C\x5C\x31\x32\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x71\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x3B\x55\x20\x32\x76\x28\x29\x7B\x4A\x20\x63\x3D\x68\x3B\x54\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x36\x5C\x27\x29\x21\x3D\x3D\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x31\x5C\x27\x29\x29\x7B\x4A\x20\x64\x3D\x34\x6D\x20\x34\x6E\x28\x29\x3B\x64\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x33\x5C\x27\x29\x5D\x3D\x55\x28\x29\x7B\x4A\x20\x61\x3D\x63\x3B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x75\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x75\x5C\x27\x29\x29\x31\x43\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x31\x5C\x27\x29\x2C\x5C\x27\x5C\x27\x2B\x31\x33\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x31\x5C\x27\x29\x5D\x2B\x5C\x27\x5C\x27\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x74\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x31\x6C\x5C\x5C\x56\x5C\x5C\x41\x5C\x5C\x56\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x74\x5C\x27\x29\x3B\x31\x30\x7B\x4A\x20\x62\x3D\x34\x6F\x28\x31\x33\x29\x2C\x32\x5A\x3D\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x52\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x41\x5C\x5C\x37\x5C\x27\x2B\x5C\x27\x5C\x5C\x35\x5C\x5C\x4F\x5C\x27\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x33\x5C\x27\x29\x29\x3B\x34\x70\x28\x62\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x31\x5C\x27\x29\x2C\x32\x74\x2C\x32\x5A\x29\x7D\x7D\x2C\x64\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x31\x5C\x27\x29\x5D\x3D\x65\x7D\x31\x30\x20\x34\x71\x3D\x34\x72\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x35\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x52\x5C\x27\x2C\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x46\x5C\x27\x29\x29\x7D\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x4D\x5C\x27\x29\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x4D\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x29\x26\x26\x28\x31\x67\x3D\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x35\x5C\x27\x29\x21\x3D\x34\x73\x20\x32\x68\x3F\x32\x68\x3A\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x74\x5C\x27\x29\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x75\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x41\x5C\x5C\x76\x5C\x5C\x31\x37\x5C\x5C\x44\x5C\x5C\x31\x4D\x5C\x5C\x31\x36\x5C\x5C\x31\x37\x5C\x5C\x76\x5C\x5C\x5A\x5C\x5C\x31\x73\x5C\x27\x2B\x5C\x27\x5C\x5C\x31\x37\x5C\x5C\x44\x5C\x5C\x4E\x5C\x5C\x31\x78\x5C\x5C\x31\x44\x5C\x5C\x4D\x5C\x5C\x78\x5C\x5C\x31\x53\x5C\x5C\x31\x32\x5C\x5C\x75\x5C\x27\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x49\x5C\x27\x29\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x49\x5C\x27\x29\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x50\x5C\x27\x29\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x34\x5C\x27\x29\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x36\x5C\x27\x29\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x41\x5C\x5C\x38\x5C\x5C\x4E\x5C\x5C\x42\x5C\x5C\x37\x5C\x5C\x7A\x5C\x27\x2B\x5C\x27\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x78\x5C\x5C\x4F\x5C\x27\x29\x2C\x31\x67\x5B\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x34\x5C\x27\x29\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x74\x5C\x27\x29\x2B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x50\x5C\x27\x29\x29\x26\x26\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x57\x5C\x27\x29\x26\x26\x28\x67\x3D\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x57\x5C\x27\x29\x2C\x31\x67\x3D\x67\x5B\x31\x63\x5D\x26\x26\x5C\x27\x5C\x27\x21\x3D\x67\x5B\x31\x63\x5D\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x43\x5C\x27\x5D\x28\x29\x3F\x67\x5B\x31\x31\x5D\x2B\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x46\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x41\x5C\x5C\x31\x32\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x71\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x29\x3A\x31\x67\x29\x2C\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x47\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x38\x5C\x5C\x71\x5C\x27\x2B\x5C\x27\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x52\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x29\x26\x26\x21\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x57\x5C\x27\x29\x26\x26\x28\x31\x67\x2B\x3D\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x46\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x41\x5C\x5C\x31\x32\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x71\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x29\x2C\x65\x3D\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x31\x5C\x27\x29\x29\x3F\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x41\x5C\x5C\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x27\x2B\x32\x66\x29\x3A\x31\x67\x5B\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x31\x5C\x27\x29\x29\x3F\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x41\x5C\x5C\x31\x32\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x71\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x27\x2B\x32\x66\x29\x3A\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x33\x5C\x27\x29\x29\x3F\x31\x67\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x46\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x41\x5C\x5C\x31\x32\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x71\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x57\x5C\x27\x2B\x32\x66\x29\x3A\x31\x67\x2C\x31\x63\x3D\x3D\x69\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x75\x5C\x27\x29\x5D\x3F\x31\x4C\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x4B\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x31\x6C\x5C\x27\x2B\x5C\x27\x5C\x5C\x34\x5C\x5C\x4B\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x72\x5C\x27\x2C\x55\x20\x33\x30\x28\x29\x7B\x4A\x20\x61\x3D\x68\x3B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x34\x5C\x27\x29\x21\x3D\x3D\x5C\x27\x5C\x5C\x31\x68\x5C\x5C\x31\x6C\x5C\x5C\x31\x70\x5C\x5C\x43\x5C\x5C\x31\x44\x5C\x27\x29\x31\x4C\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x29\x2B\x31\x4C\x5B\x5C\x27\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x79\x5C\x5C\x4F\x5C\x5C\x48\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x3E\x3D\x31\x43\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x35\x5C\x27\x29\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x45\x5C\x27\x29\x5D\x26\x26\x28\x31\x4C\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x45\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x31\x5C\x27\x29\x2C\x33\x30\x29\x2C\x32\x76\x28\x29\x29\x3B\x31\x30\x7B\x4A\x20\x62\x3D\x34\x74\x28\x34\x75\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x52\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x4C\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x38\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x3B\x34\x76\x28\x5C\x27\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x62\x29\x7D\x7D\x29\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x72\x5C\x27\x29\x3A\x31\x4C\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x45\x5C\x27\x29\x2C\x55\x20\x33\x31\x28\x29\x7B\x4A\x20\x61\x3D\x68\x3B\x31\x4C\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x35\x5C\x5C\x74\x5C\x27\x2C\x33\x31\x29\x2C\x32\x76\x28\x29\x7D\x29\x5B\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x68\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x45\x5C\x27\x29\x29\x7D\x29\x29\x7D\x7D\x28\x34\x77\x29\x2C\x24\x28\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x33\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x37\x5C\x27\x29\x5B\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x31\x62\x2C\x33\x32\x3D\x24\x28\x31\x33\x29\x3B\x33\x32\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x75\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x5A\x5C\x5C\x52\x5C\x5C\x5A\x5C\x5C\x35\x5C\x5C\x56\x5C\x5C\x33\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x43\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x4C\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x27\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x7A\x5C\x27\x29\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x33\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x78\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x38\x5C\x27\x2B\x5C\x27\x5C\x5C\x31\x32\x5C\x5C\x31\x4E\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x78\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x74\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x46\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x44\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x75\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x7A\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x4D\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x45\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x75\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x74\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x46\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x31\x41\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x4C\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x37\x5C\x5C\x31\x41\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x74\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x4C\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x38\x5C\x27\x29\x29\x7D\x29\x2C\x34\x78\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x31\x62\x3B\x54\x28\x21\x24\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x33\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x37\x5C\x27\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x46\x5C\x27\x29\x5D\x29\x32\x65\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x33\x5C\x27\x29\x5D\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x5D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x75\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x44\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x4C\x5C\x27\x29\x3B\x54\x28\x21\x24\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x33\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x44\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x4F\x5C\x5C\x37\x5C\x5C\x48\x5C\x27\x5D\x29\x32\x65\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x33\x5C\x27\x29\x5D\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x5D\x3D\x5C\x27\x5C\x5C\x48\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x42\x5C\x5C\x70\x5C\x5C\x31\x38\x5C\x5C\x4E\x5C\x5C\x4E\x5C\x5C\x5A\x5C\x5C\x5A\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x44\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x4C\x5C\x27\x29\x7D\x2C\x34\x79\x29\x2C\x24\x28\x55\x28\x29\x7B\x4A\x20\x6F\x3D\x31\x62\x3B\x24\x28\x5C\x27\x5C\x5C\x52\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x38\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x45\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x38\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x31\x75\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x31\x54\x5C\x5C\x71\x5C\x5C\x42\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x76\x5C\x27\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x72\x5C\x5C\x79\x5C\x27\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x36\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x45\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x34\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x33\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x45\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x45\x5C\x27\x29\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x7A\x5C\x27\x29\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6F\x3B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x50\x5C\x27\x29\x21\x3D\x3D\x5C\x27\x5C\x5C\x31\x6C\x5C\x5C\x31\x37\x5C\x5C\x31\x4D\x5C\x5C\x31\x6B\x5C\x5C\x31\x71\x5C\x27\x29\x7B\x4A\x20\x62\x3D\x24\x28\x31\x33\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x33\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x50\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x35\x5C\x27\x29\x2C\x32\x77\x3D\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x46\x5C\x27\x29\x5D\x3B\x31\x55\x28\x4A\x20\x63\x3D\x31\x31\x3B\x63\x3C\x32\x77\x3B\x63\x2B\x2B\x29\x7B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x31\x5C\x27\x29\x21\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x31\x5C\x27\x29\x29\x7B\x4A\x20\x64\x3D\x34\x7A\x28\x31\x33\x29\x2C\x32\x78\x3D\x64\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x43\x5C\x27\x5D\x28\x29\x2C\x33\x33\x3D\x32\x78\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x29\x2C\x33\x34\x3D\x32\x78\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x4E\x5C\x27\x29\x2C\x33\x35\x3D\x33\x34\x5B\x31\x31\x5D\x3B\x33\x33\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x34\x5C\x27\x29\x29\x26\x26\x64\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x38\x5C\x5C\x48\x5C\x5C\x4E\x5C\x5C\x72\x5C\x5C\x35\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x46\x5C\x27\x29\x2B\x33\x35\x2B\x28\x5C\x27\x5C\x5C\x32\x38\x5C\x5C\x31\x45\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x32\x5C\x5C\x41\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x47\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x75\x5C\x27\x29\x29\x2B\x34\x41\x29\x7D\x31\x30\x7B\x4A\x20\x65\x3D\x62\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x31\x68\x5C\x27\x5D\x28\x63\x29\x2C\x32\x69\x3D\x65\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x3B\x54\x28\x32\x69\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x21\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x29\x7B\x4A\x20\x66\x3D\x62\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x31\x68\x5C\x27\x5D\x28\x63\x2B\x31\x63\x29\x2C\x33\x36\x3D\x66\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x3B\x54\x28\x33\x36\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x3D\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x29\x7B\x4A\x20\x67\x3D\x65\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x3B\x67\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x45\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x4C\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x75\x5C\x27\x29\x29\x7D\x7D\x32\x69\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x3D\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x26\x26\x28\x65\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x32\x69\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x2C\x5C\x27\x5C\x27\x29\x29\x2C\x65\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x49\x5C\x27\x29\x5D\x28\x67\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x36\x5C\x27\x29\x29\x29\x29\x7D\x7D\x31\x55\x28\x4A\x20\x63\x3D\x31\x31\x3B\x63\x3C\x32\x77\x3B\x63\x2B\x2B\x29\x7B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x31\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x75\x5C\x27\x29\x29\x7B\x4A\x20\x68\x3D\x7B\x7D\x3B\x68\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x38\x5C\x27\x29\x5D\x3D\x32\x6A\x2C\x68\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x5D\x3D\x32\x6A\x2C\x34\x42\x28\x31\x33\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x4C\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x68\x29\x7D\x31\x30\x7B\x4A\x20\x69\x3D\x62\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x31\x68\x5C\x27\x5D\x28\x63\x29\x2C\x32\x6B\x3D\x69\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x3B\x54\x28\x32\x6B\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x21\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x29\x7B\x4A\x20\x6A\x3D\x62\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x31\x68\x5C\x27\x5D\x28\x63\x2B\x31\x63\x29\x2C\x33\x37\x3D\x6A\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x3B\x54\x28\x33\x37\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x3D\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x29\x7B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x49\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x4C\x5C\x27\x29\x29\x4A\x20\x6B\x3D\x34\x43\x5B\x34\x44\x5D\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x31\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x7A\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x79\x5C\x5C\x72\x5C\x27\x5D\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x49\x5C\x27\x29\x5D\x3B\x31\x30\x7B\x4A\x20\x6C\x3D\x69\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x3B\x6C\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x45\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4B\x5C\x5C\x43\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x51\x5C\x5C\x4E\x5C\x5C\x53\x5C\x27\x29\x7D\x7D\x7D\x54\x28\x32\x6B\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x3D\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x29\x7B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x35\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x35\x5C\x27\x29\x29\x69\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x32\x6B\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x2C\x5C\x27\x5C\x27\x29\x29\x2C\x69\x5B\x5C\x27\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x49\x5C\x27\x29\x5D\x28\x6C\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x36\x5C\x27\x29\x29\x29\x3B\x31\x30\x20\x4A\x20\x6D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x45\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x33\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x7D\x7D\x7D\x24\x28\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x45\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x72\x5C\x5C\x79\x5C\x27\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x74\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x7A\x5C\x27\x29\x29\x2C\x24\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x7A\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x44\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x74\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x31\x5C\x27\x29\x29\x7D\x31\x30\x20\x31\x35\x20\x34\x45\x28\x5C\x27\x5C\x5C\x48\x5C\x5C\x37\x5C\x5C\x43\x5C\x5C\x72\x5C\x5C\x31\x75\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x7B\x5C\x27\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x72\x5C\x5C\x31\x61\x5C\x5C\x71\x5C\x5C\x42\x5C\x27\x3A\x34\x46\x28\x34\x47\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x48\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x75\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x35\x5C\x27\x29\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x45\x5C\x27\x29\x5D\x2D\x33\x38\x7D\x2C\x32\x79\x29\x2C\x21\x31\x63\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x7A\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x44\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x34\x5C\x27\x5D\x28\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x31\x61\x5C\x5C\x71\x5C\x27\x5D\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x78\x5C\x5C\x47\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x48\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x47\x5C\x27\x2B\x5C\x27\x5C\x5C\x7A\x5C\x27\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x5C\x41\x5C\x27\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x7A\x5C\x27\x29\x29\x2C\x24\x28\x5C\x27\x5C\x5C\x52\x5C\x5C\x43\x5C\x5C\x71\x5C\x5C\x7A\x5C\x5C\x79\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x38\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4B\x5C\x5C\x35\x5C\x27\x29\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6F\x3B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x7A\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x74\x5C\x27\x29\x29\x34\x48\x28\x31\x33\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x31\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x34\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x31\x56\x29\x3B\x31\x30\x7B\x4A\x20\x62\x3D\x24\x28\x31\x33\x29\x2C\x32\x7A\x3D\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x29\x2C\x33\x39\x3D\x32\x7A\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x29\x2C\x33\x61\x3D\x32\x7A\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x4E\x5C\x27\x29\x2C\x33\x62\x3D\x33\x61\x5B\x31\x31\x5D\x3B\x33\x39\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x34\x5C\x27\x29\x29\x26\x26\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x38\x5C\x5C\x48\x5C\x5C\x4E\x5C\x5C\x72\x5C\x5C\x35\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x46\x5C\x27\x29\x2B\x33\x62\x2B\x28\x5C\x27\x5C\x5C\x32\x38\x5C\x5C\x31\x45\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x32\x5C\x5C\x41\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x47\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x75\x5C\x27\x29\x29\x2B\x33\x63\x29\x7D\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x7A\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x49\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x38\x5C\x5C\x31\x32\x5C\x27\x2C\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6F\x3B\x24\x28\x5C\x27\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x59\x5C\x5C\x41\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x34\x5C\x27\x29\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x35\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x4D\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x49\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x29\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x5D\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x50\x5C\x27\x29\x2C\x55\x28\x61\x29\x7B\x4A\x20\x62\x3D\x6F\x3B\x54\x28\x24\x28\x31\x33\x29\x5B\x5C\x27\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x74\x5C\x27\x29\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x7A\x5C\x27\x29\x29\x29\x7B\x54\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x46\x5C\x27\x29\x21\x3D\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x33\x5C\x27\x29\x29\x7B\x61\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x36\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x49\x5C\x27\x29\x5D\x28\x29\x3B\x54\x28\x21\x24\x28\x31\x33\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x5B\x5C\x27\x5C\x5C\x48\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x31\x5C\x27\x29\x29\x29\x24\x28\x31\x33\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x31\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x38\x5C\x5C\x48\x5C\x5C\x79\x5C\x5C\x72\x5C\x5C\x74\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x78\x5C\x27\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x74\x5C\x27\x29\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x31\x56\x29\x3B\x31\x30\x7B\x54\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x3D\x3D\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x29\x24\x28\x31\x33\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x27\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x31\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x75\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x34\x5C\x27\x29\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x31\x56\x29\x3B\x31\x30\x7B\x4A\x20\x63\x3D\x34\x49\x5B\x34\x4A\x5D\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x7A\x5C\x27\x29\x5D\x5B\x5C\x27\x5C\x5C\x31\x77\x5C\x5C\x37\x5C\x27\x5D\x2C\x33\x64\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x44\x5C\x27\x29\x2B\x34\x4B\x2B\x5C\x27\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2B\x63\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x38\x5C\x27\x29\x3B\x31\x35\x20\x33\x64\x7D\x7D\x7D\x31\x30\x7B\x31\x55\x28\x4A\x20\x64\x3D\x31\x31\x2C\x31\x46\x3D\x34\x4C\x3B\x64\x3C\x31\x46\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x46\x5C\x27\x29\x5D\x3B\x64\x2B\x2B\x29\x7B\x4A\x20\x65\x3D\x34\x4D\x28\x31\x46\x2C\x64\x29\x2C\x33\x65\x3D\x34\x4E\x28\x31\x46\x2C\x64\x2C\x65\x29\x2C\x33\x66\x3D\x34\x4F\x28\x31\x46\x2C\x64\x2C\x65\x29\x2C\x33\x67\x3D\x34\x50\x28\x31\x46\x2C\x64\x29\x2C\x34\x51\x3D\x34\x52\x28\x31\x46\x2C\x64\x29\x2C\x33\x68\x3D\x34\x53\x28\x31\x46\x2C\x64\x29\x2C\x32\x41\x3D\x5C\x27\x5C\x27\x3B\x34\x54\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x31\x5C\x27\x29\x29\x26\x26\x28\x32\x41\x2B\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x36\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x46\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x33\x5C\x27\x29\x2B\x64\x2B\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x49\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x7A\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x44\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x4F\x5C\x27\x2B\x5C\x27\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x48\x5C\x5C\x76\x5C\x27\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x31\x5C\x27\x29\x29\x2B\x65\x2B\x5C\x27\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2B\x33\x66\x2B\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x35\x5C\x5C\x53\x5C\x27\x2B\x33\x67\x2B\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x7A\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x4C\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x36\x5C\x27\x29\x29\x2B\x33\x65\x2B\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x33\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x4C\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x33\x5C\x27\x29\x29\x2B\x33\x68\x2B\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x44\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x29\x29\x2C\x34\x55\x2B\x3D\x32\x41\x7D\x34\x56\x2B\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x50\x5C\x27\x29\x7D\x7D\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x33\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x29\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x5D\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x50\x5C\x27\x29\x2C\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6F\x3B\x24\x28\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x59\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x38\x5C\x27\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x31\x4F\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x42\x5C\x5C\x47\x5C\x5C\x37\x5C\x27\x29\x5B\x5C\x27\x5C\x5C\x75\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x47\x5C\x5C\x70\x5C\x27\x5D\x28\x29\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x29\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x5D\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x50\x5C\x27\x29\x2C\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6F\x3B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x45\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x45\x5C\x27\x29\x3F\x24\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x31\x4F\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x29\x3A\x34\x57\x28\x31\x33\x29\x5B\x5C\x27\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x31\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x74\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x31\x56\x29\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x4D\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x33\x5C\x27\x29\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x2C\x55\x28\x61\x2C\x62\x29\x7B\x4A\x20\x63\x3D\x6F\x3B\x31\x35\x20\x62\x5B\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x34\x5C\x27\x5D\x28\x62\x2C\x62\x2B\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x50\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x75\x5C\x27\x29\x29\x2B\x33\x63\x29\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x49\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x36\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x36\x5C\x27\x29\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x31\x5C\x27\x29\x2C\x55\x28\x61\x2C\x62\x29\x7B\x4A\x20\x63\x3D\x6F\x3B\x31\x35\x20\x62\x3D\x62\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x4D\x5C\x5C\x46\x5C\x5C\x41\x5C\x5C\x38\x5C\x5C\x4E\x5C\x27\x2C\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x4D\x5C\x27\x29\x29\x2C\x62\x3D\x62\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x4E\x5C\x5C\x4E\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x4F\x5C\x5C\x36\x5C\x5C\x52\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x27\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x31\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x4F\x5C\x5C\x4E\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x5C\x52\x5C\x27\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x7A\x5C\x27\x29\x2C\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x44\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x75\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x49\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x46\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x47\x5C\x5C\x31\x4D\x5C\x5C\x70\x5C\x5C\x4E\x5C\x5C\x31\x50\x5C\x5C\x38\x5C\x5C\x47\x5C\x27\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x46\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x75\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x7A\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x74\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x36\x5C\x27\x29\x29\x2C\x62\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x38\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x31\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x35\x5C\x27\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6F\x3B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x3F\x24\x28\x31\x33\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x75\x5C\x27\x29\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x44\x5C\x27\x29\x29\x3A\x34\x58\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x38\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x75\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x31\x39\x5C\x5C\x5A\x5C\x5C\x79\x5C\x5C\x74\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x50\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x46\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x44\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x46\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x5C\x53\x5C\x27\x29\x7D\x29\x2C\x24\x28\x5C\x27\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x59\x5C\x27\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x67\x3D\x6F\x2C\x33\x69\x3D\x24\x28\x67\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x2B\x67\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x74\x5C\x27\x29\x29\x5B\x67\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x67\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x29\x2C\x33\x6A\x3D\x24\x28\x5C\x27\x5C\x5C\x35\x5C\x5C\x52\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2B\x67\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x74\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x76\x5C\x27\x5D\x28\x67\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x29\x3B\x24\x5B\x67\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x35\x5C\x27\x29\x5D\x28\x7B\x5C\x27\x5C\x5C\x47\x5C\x5C\x76\x5C\x5C\x72\x5C\x27\x3A\x33\x69\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x42\x5C\x5C\x34\x5C\x27\x3A\x5C\x27\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x38\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x3A\x55\x28\x63\x29\x7B\x4A\x20\x64\x3D\x67\x3B\x54\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x44\x5C\x27\x29\x21\x3D\x3D\x5C\x27\x5C\x5C\x72\x5C\x5C\x42\x5C\x5C\x75\x5C\x5C\x56\x5C\x5C\x31\x51\x5C\x27\x29\x7B\x4A\x20\x65\x3D\x34\x59\x28\x5C\x27\x5C\x5C\x35\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x59\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x74\x5C\x27\x29\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x29\x2C\x33\x6B\x3D\x34\x5A\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x4C\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x74\x5C\x27\x29\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x29\x3B\x35\x30\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x35\x5C\x27\x29\x5D\x28\x7B\x5C\x27\x5C\x5C\x47\x5C\x5C\x76\x5C\x5C\x72\x5C\x27\x3A\x65\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x42\x5C\x5C\x34\x5C\x27\x3A\x5C\x27\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x38\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x3A\x55\x28\x61\x29\x7B\x4A\x20\x62\x3D\x64\x2C\x33\x6C\x3D\x35\x31\x28\x61\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4B\x5C\x5C\x48\x5C\x5C\x36\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x27\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x38\x5C\x27\x29\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x3B\x35\x32\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x7A\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x33\x6C\x29\x7D\x7D\x29\x2C\x35\x33\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x35\x5C\x27\x29\x5D\x28\x7B\x5C\x27\x5C\x5C\x47\x5C\x5C\x76\x5C\x5C\x72\x5C\x27\x3A\x33\x6B\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x42\x5C\x5C\x34\x5C\x27\x3A\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x31\x5C\x27\x29\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x38\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x3A\x55\x28\x61\x29\x7B\x4A\x20\x62\x3D\x64\x2C\x33\x6D\x3D\x35\x34\x28\x61\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4B\x5C\x5C\x48\x5C\x5C\x36\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x27\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x38\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x3B\x35\x35\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x45\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x33\x6D\x29\x7D\x7D\x29\x7D\x31\x30\x7B\x4A\x20\x66\x3D\x24\x28\x63\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x74\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x4C\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x38\x5C\x27\x29\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x3B\x24\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x7A\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x35\x5C\x5C\x59\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x4B\x5C\x5C\x42\x5C\x27\x29\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x5D\x28\x66\x29\x7D\x7D\x7D\x29\x2C\x24\x5B\x67\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x35\x5C\x27\x29\x5D\x28\x7B\x5C\x27\x5C\x5C\x47\x5C\x5C\x76\x5C\x5C\x72\x5C\x27\x3A\x33\x6A\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x42\x5C\x5C\x34\x5C\x27\x3A\x5C\x27\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x38\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x3A\x55\x28\x61\x29\x7B\x4A\x20\x62\x3D\x67\x2C\x33\x6E\x3D\x24\x28\x61\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x74\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x4C\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x38\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x3B\x24\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x45\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x33\x6E\x29\x7D\x7D\x29\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x38\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x4C\x5C\x27\x29\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6F\x3B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x35\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x7A\x5C\x27\x29\x29\x7B\x4A\x20\x62\x3D\x35\x36\x5B\x35\x37\x5D\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x34\x5C\x27\x29\x5D\x5B\x31\x31\x5D\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x36\x5C\x27\x29\x5D\x5B\x5C\x27\x5C\x5C\x31\x77\x5C\x5C\x37\x5C\x27\x5D\x2C\x33\x6F\x3D\x5C\x27\x5C\x5C\x58\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x27\x2B\x5C\x27\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x35\x5C\x5C\x47\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x44\x5C\x27\x29\x2B\x62\x2B\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x50\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x29\x3B\x31\x35\x20\x33\x6F\x7D\x31\x30\x7B\x4A\x20\x63\x3D\x24\x28\x31\x33\x29\x2C\x32\x6C\x3D\x63\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x3B\x54\x28\x32\x6C\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x35\x5C\x5C\x76\x5C\x27\x29\x29\x7B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x49\x5C\x27\x29\x21\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x49\x5C\x27\x29\x29\x7B\x31\x57\x20\x33\x70\x3D\x35\x38\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x31\x70\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x78\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x50\x5C\x27\x29\x2C\x5C\x27\x5C\x27\x29\x3B\x35\x39\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x44\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x75\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x2B\x33\x70\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x33\x5C\x27\x29\x29\x7D\x31\x30\x20\x63\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x38\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x75\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x75\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x75\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x7A\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x4C\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x75\x5C\x5C\x37\x5C\x5C\x31\x65\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x29\x7D\x32\x6C\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x7A\x5C\x5C\x35\x5C\x5C\x76\x5C\x27\x29\x26\x26\x63\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x38\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x75\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x31\x39\x5C\x5C\x75\x5C\x5C\x72\x5C\x5C\x71\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x49\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x46\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x44\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x38\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x31\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x29\x2C\x32\x6C\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x75\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x72\x5C\x5C\x41\x5C\x5C\x5A\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x37\x5C\x5C\x48\x5C\x27\x29\x26\x26\x63\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x38\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x75\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x31\x39\x5C\x5C\x5A\x5C\x5C\x79\x5C\x5C\x74\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x50\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x46\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x44\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x56\x5C\x5C\x31\x38\x5C\x5C\x78\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x5C\x53\x5C\x27\x29\x7D\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x31\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x4C\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x76\x5C\x27\x29\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6F\x3B\x54\x28\x35\x61\x3D\x3D\x21\x21\x5B\x5D\x29\x7B\x4A\x20\x62\x3D\x7B\x7D\x3B\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x38\x5C\x27\x29\x5D\x3D\x32\x6A\x2C\x62\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x72\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x5D\x3D\x32\x6A\x2C\x24\x28\x31\x33\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x4C\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x62\x29\x7D\x7D\x29\x2C\x24\x28\x5C\x27\x5C\x5C\x52\x5C\x5C\x7A\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x31\x32\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x42\x5C\x27\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x65\x3D\x6F\x3B\x54\x28\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x45\x5C\x27\x29\x21\x3D\x3D\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x7A\x5C\x27\x29\x29\x7B\x4A\x20\x66\x3D\x24\x28\x31\x33\x29\x3B\x24\x28\x32\x65\x29\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x5D\x28\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x46\x5C\x27\x29\x2C\x55\x28\x29\x7B\x4A\x20\x61\x3D\x65\x3B\x54\x28\x5C\x27\x5C\x5C\x31\x37\x5C\x5C\x31\x37\x5C\x5C\x31\x48\x5C\x5C\x31\x73\x5C\x5C\x31\x70\x5C\x27\x3D\x3D\x3D\x5C\x27\x5C\x5C\x31\x68\x5C\x5C\x7A\x5C\x5C\x31\x6A\x5C\x5C\x31\x6C\x5C\x5C\x31\x69\x5C\x27\x29\x7B\x4A\x20\x62\x3D\x35\x62\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x31\x68\x5C\x27\x5D\x28\x35\x63\x29\x2C\x32\x6D\x3D\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x3B\x54\x28\x32\x6D\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x21\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x29\x7B\x4A\x20\x63\x3D\x35\x64\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x31\x68\x5C\x27\x5D\x28\x35\x65\x2B\x31\x63\x29\x2C\x33\x71\x3D\x63\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x3B\x54\x28\x33\x71\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x3D\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x29\x7B\x4A\x20\x64\x3D\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x3B\x64\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x45\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x4C\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x75\x5C\x27\x29\x29\x7D\x7D\x32\x6D\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x3D\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x26\x26\x28\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x32\x6D\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x2C\x5C\x27\x5C\x27\x29\x29\x2C\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x31\x61\x5C\x5C\x71\x5C\x27\x5D\x28\x64\x5B\x5C\x27\x5C\x5C\x38\x5C\x5C\x48\x5C\x5C\x79\x5C\x5C\x72\x5C\x5C\x74\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x78\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x36\x5C\x27\x29\x29\x29\x29\x7D\x31\x30\x20\x24\x28\x31\x33\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x29\x3E\x3D\x33\x72\x3F\x66\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x31\x4F\x29\x3A\x66\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x31\x4F\x29\x7D\x29\x2C\x66\x5B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x50\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x65\x2C\x32\x42\x3D\x7B\x7D\x3B\x32\x42\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x75\x5C\x27\x29\x5D\x3D\x31\x31\x2C\x24\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x49\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x27\x5D\x28\x32\x42\x2C\x32\x79\x29\x7D\x29\x7D\x31\x30\x20\x35\x66\x2B\x3D\x5C\x27\x5C\x5C\x58\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x46\x5C\x27\x29\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x33\x5C\x27\x29\x2B\x35\x67\x2B\x28\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x49\x5C\x27\x29\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x5A\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x51\x5C\x27\x2B\x5C\x27\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x35\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x44\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x48\x5C\x5C\x76\x5C\x27\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x31\x5C\x27\x29\x29\x2B\x35\x68\x2B\x5C\x27\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2B\x35\x69\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x38\x5C\x27\x29\x2B\x35\x6A\x2B\x28\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x7A\x5C\x27\x29\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x4C\x5C\x27\x29\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x36\x5C\x27\x29\x29\x2B\x35\x6B\x2B\x28\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x33\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x33\x5C\x27\x29\x29\x2B\x35\x6C\x2B\x28\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x44\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x29\x7D\x29\x2C\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x36\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x50\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6F\x2C\x32\x43\x3D\x24\x28\x31\x33\x29\x2C\x33\x73\x3D\x32\x43\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x52\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x41\x5C\x5C\x37\x5C\x27\x2B\x5C\x27\x5C\x5C\x35\x5C\x5C\x4F\x5C\x27\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x33\x5C\x27\x29\x29\x3B\x33\x74\x28\x32\x43\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x31\x5C\x27\x29\x2C\x32\x74\x2C\x33\x73\x29\x7D\x29\x3B\x55\x20\x33\x75\x28\x63\x2C\x64\x29\x7B\x4A\x20\x65\x3D\x6F\x3B\x54\x28\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x44\x5C\x27\x29\x3D\x3D\x3D\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x44\x5C\x27\x29\x29\x7B\x31\x55\x28\x4A\x20\x66\x3D\x31\x31\x3B\x66\x3C\x63\x5B\x64\x5D\x5B\x5C\x27\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x27\x5D\x5B\x5C\x27\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x4F\x5C\x5C\x37\x5C\x5C\x48\x5C\x27\x5D\x3B\x66\x2B\x2B\x29\x54\x28\x63\x5B\x64\x5D\x5B\x5C\x27\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x27\x5D\x5B\x66\x5D\x5B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x31\x5C\x27\x29\x5D\x3D\x3D\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x4D\x5C\x27\x29\x29\x7B\x54\x28\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x34\x5C\x27\x29\x21\x3D\x3D\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x49\x5C\x27\x29\x29\x7B\x4A\x20\x67\x3D\x63\x5B\x64\x5D\x5B\x5C\x27\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x27\x5D\x5B\x66\x5D\x5B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x5D\x3B\x32\x55\x7D\x31\x30\x7B\x4A\x20\x68\x3D\x35\x6D\x3F\x55\x28\x29\x7B\x4A\x20\x61\x3D\x65\x3B\x54\x28\x35\x6E\x29\x7B\x4A\x20\x62\x3D\x35\x6F\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x35\x70\x2C\x32\x59\x29\x3B\x31\x35\x20\x35\x71\x3D\x32\x63\x2C\x62\x7D\x7D\x3A\x55\x28\x29\x7B\x7D\x3B\x31\x35\x20\x35\x72\x3D\x21\x5B\x5D\x2C\x68\x7D\x7D\x31\x35\x20\x67\x7D\x31\x30\x20\x35\x73\x3D\x5C\x27\x5C\x5C\x4E\x5C\x5C\x75\x5C\x5C\x34\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x70\x5C\x5C\x4E\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x33\x5C\x27\x29\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x38\x5C\x27\x29\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x46\x5C\x27\x29\x2B\x65\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x4D\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2B\x35\x74\x7D\x55\x20\x33\x76\x28\x61\x2C\x62\x2C\x63\x29\x7B\x4A\x20\x64\x3D\x6F\x3B\x54\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x4D\x5C\x27\x29\x21\x3D\x3D\x5C\x27\x5C\x5C\x31\x37\x5C\x5C\x31\x6A\x5C\x5C\x32\x5C\x5C\x70\x5C\x5C\x31\x72\x5C\x27\x29\x7B\x4A\x20\x65\x3D\x35\x75\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x31\x68\x5C\x27\x5D\x28\x35\x76\x29\x2C\x32\x6E\x3D\x65\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x3B\x54\x28\x32\x6E\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x21\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x29\x7B\x4A\x20\x66\x3D\x35\x77\x5B\x5C\x27\x5C\x5C\x34\x5C\x5C\x31\x68\x5C\x27\x5D\x28\x35\x78\x2B\x31\x63\x29\x2C\x33\x77\x3D\x66\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x3B\x54\x28\x33\x77\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x31\x31\x29\x3D\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x29\x7B\x4A\x20\x67\x3D\x65\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x3B\x67\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x45\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x35\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x50\x5C\x27\x29\x29\x7D\x7D\x32\x6E\x5B\x5C\x27\x5C\x5C\x38\x5C\x5C\x48\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x31\x34\x5C\x5C\x37\x5C\x27\x5D\x28\x31\x31\x29\x3D\x3D\x3D\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x26\x26\x28\x65\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x32\x6E\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x31\x66\x5C\x27\x2C\x5C\x27\x5C\x27\x29\x29\x2C\x65\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x49\x5C\x27\x29\x5D\x28\x67\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x46\x5C\x27\x29\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x36\x5C\x27\x29\x29\x29\x29\x7D\x31\x30\x7B\x4A\x20\x68\x3D\x61\x5B\x62\x5D\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x7A\x5C\x27\x29\x5D\x5B\x5C\x27\x5C\x5C\x31\x77\x5C\x5C\x37\x5C\x27\x5D\x2C\x33\x78\x3D\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x44\x5C\x27\x29\x2B\x63\x2B\x5C\x27\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2B\x68\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x38\x5C\x27\x29\x3B\x31\x35\x20\x33\x78\x7D\x7D\x55\x20\x33\x79\x28\x61\x2C\x62\x29\x7B\x4A\x20\x63\x3D\x6F\x2C\x33\x7A\x3D\x61\x5B\x62\x5D\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x47\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x71\x5C\x5C\x76\x5C\x27\x5D\x5B\x31\x31\x5D\x5B\x5C\x27\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x5D\x5B\x5C\x27\x5C\x5C\x31\x77\x5C\x5C\x37\x5C\x27\x5D\x2C\x33\x41\x3D\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x35\x5C\x5C\x47\x5C\x27\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x44\x5C\x27\x29\x2B\x33\x7A\x2B\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x50\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x29\x3B\x31\x35\x20\x33\x41\x7D\x55\x20\x33\x42\x28\x61\x2C\x62\x29\x7B\x4A\x20\x63\x3D\x6F\x3B\x54\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x4D\x5C\x27\x29\x21\x3D\x3D\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x74\x5C\x27\x29\x29\x7B\x4A\x20\x64\x3D\x61\x5B\x62\x5D\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x34\x5C\x27\x29\x5D\x5B\x5C\x27\x5C\x5C\x31\x77\x5C\x5C\x37\x5C\x27\x5D\x2C\x33\x43\x3D\x64\x5B\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x4F\x5C\x27\x5D\x28\x31\x31\x2C\x32\x51\x29\x2C\x33\x44\x3D\x64\x5B\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x4F\x5C\x27\x5D\x28\x32\x52\x2C\x32\x53\x29\x2C\x33\x45\x3D\x64\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x32\x54\x2C\x32\x36\x29\x2C\x33\x46\x3D\x35\x79\x5B\x31\x6F\x28\x33\x44\x2C\x32\x36\x29\x2D\x31\x63\x5D\x2B\x5C\x27\x5C\x5C\x4B\x5C\x27\x2B\x33\x45\x2B\x5C\x27\x5C\x5C\x31\x75\x5C\x5C\x4B\x5C\x27\x2B\x33\x43\x2C\x33\x47\x3D\x5C\x27\x5C\x5C\x58\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x27\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x50\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x45\x5C\x27\x29\x2B\x33\x46\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x45\x5C\x27\x29\x3B\x31\x35\x20\x33\x47\x7D\x31\x30\x20\x35\x7A\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x29\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x31\x4F\x29\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x74\x5C\x27\x29\x5D\x28\x29\x7D\x55\x20\x32\x44\x28\x61\x2C\x62\x29\x7B\x4A\x20\x63\x3D\x6F\x2C\x33\x48\x3D\x24\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x45\x5C\x27\x29\x29\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x7A\x5C\x27\x29\x5D\x28\x61\x29\x2C\x31\x58\x3D\x33\x48\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x74\x5C\x27\x29\x29\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x70\x5C\x5C\x76\x5C\x5C\x38\x5C\x27\x29\x2C\x32\x6F\x3D\x31\x58\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x75\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x4E\x5C\x27\x29\x7C\x7C\x31\x31\x2C\x32\x45\x3D\x31\x58\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x75\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x4E\x5C\x27\x2C\x32\x6F\x2D\x31\x63\x29\x7C\x7C\x31\x31\x2C\x33\x49\x3D\x31\x58\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x31\x31\x2C\x32\x45\x29\x2C\x31\x59\x3D\x31\x58\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x32\x45\x2C\x32\x6F\x29\x2C\x33\x4A\x3D\x31\x58\x5B\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x4F\x5C\x27\x5D\x28\x32\x6F\x29\x3B\x31\x35\x28\x31\x59\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x2F\x5C\x5C\x2F\x73\x5B\x30\x2D\x39\x5D\x2B\x2F\x67\x29\x7C\x7C\x31\x59\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x2F\x5C\x5C\x2F\x77\x5B\x30\x2D\x39\x5D\x2B\x2F\x67\x29\x7C\x7C\x31\x59\x3D\x3D\x5C\x27\x5C\x5C\x4E\x5C\x5C\x74\x5C\x27\x29\x26\x26\x28\x31\x59\x3D\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x36\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x34\x5C\x27\x29\x29\x2C\x62\x3D\x33\x49\x2B\x31\x59\x2B\x33\x4A\x2C\x62\x7D\x55\x20\x33\x4B\x28\x61\x2C\x62\x2C\x63\x29\x7B\x4A\x20\x64\x3D\x6F\x2C\x31\x79\x3D\x61\x5B\x62\x5D\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x7A\x5C\x27\x29\x5D\x5B\x5C\x27\x5C\x5C\x31\x77\x5C\x5C\x37\x5C\x27\x5D\x3B\x54\x28\x61\x5B\x62\x5D\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x31\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x7A\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x79\x5C\x5C\x72\x5C\x27\x5D\x29\x7B\x54\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x33\x5C\x27\x29\x3D\x3D\x3D\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x33\x5C\x27\x29\x29\x4A\x20\x65\x3D\x61\x5B\x62\x5D\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x31\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x7A\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x79\x5C\x5C\x72\x5C\x27\x5D\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x49\x5C\x27\x29\x5D\x3B\x31\x30\x7B\x4A\x20\x66\x3D\x35\x41\x5B\x35\x42\x5D\x5B\x5C\x27\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x37\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x57\x5C\x27\x29\x3B\x54\x28\x66\x5B\x31\x31\x5D\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x29\x3D\x3D\x35\x43\x29\x31\x35\x20\x32\x63\x21\x3D\x28\x35\x44\x3D\x66\x5B\x31\x63\x5D\x29\x5B\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x35\x45\x29\x26\x26\x35\x46\x28\x35\x47\x5B\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x35\x48\x29\x29\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x43\x5C\x27\x5D\x28\x29\x7D\x7D\x31\x30\x20\x65\x3D\x32\x68\x3B\x54\x28\x31\x79\x5B\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x31\x6A\x5C\x5C\x75\x5C\x27\x5D\x28\x31\x79\x5B\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x2F\x3C\x33\x4C\x28\x3F\x3A\x2E\x2B\x29\x3F\x33\x4D\x3D\x28\x3F\x3A\x2E\x2B\x29\x3F\x28\x3F\x3A\x33\x4E\x2E\x33\x4F\x2E\x33\x50\x29\x2F\x67\x29\x29\x3E\x2D\x31\x63\x29\x31\x79\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x58\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x4F\x5C\x27\x29\x3E\x2D\x31\x63\x3F\x31\x79\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x31\x79\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x2F\x3C\x33\x4C\x28\x3F\x3A\x2E\x2B\x29\x3F\x33\x4D\x3D\x28\x3F\x3A\x2E\x2B\x29\x3F\x28\x3F\x3A\x33\x4E\x2E\x33\x4F\x2E\x33\x50\x29\x2F\x67\x29\x29\x3C\x31\x79\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x4D\x5C\x27\x29\x29\x3F\x63\x3D\x65\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x4D\x5C\x27\x29\x2C\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x46\x5C\x27\x29\x29\x3A\x63\x3D\x32\x44\x28\x31\x79\x29\x3A\x63\x3D\x65\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x35\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x52\x5C\x27\x2C\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x46\x5C\x27\x29\x29\x3B\x31\x30\x20\x31\x79\x5B\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x31\x6A\x5C\x5C\x75\x5C\x27\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x4D\x5C\x27\x29\x29\x3E\x2D\x31\x63\x3F\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x46\x5C\x27\x29\x3D\x3D\x3D\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x46\x5C\x27\x29\x3F\x63\x3D\x32\x44\x28\x31\x79\x29\x3A\x28\x35\x49\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x75\x5C\x5C\x75\x5C\x27\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x45\x5C\x27\x29\x2C\x35\x4A\x29\x2C\x35\x4B\x28\x29\x29\x3A\x63\x3D\x32\x68\x3B\x4A\x20\x67\x3D\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x45\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x4D\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x36\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x4C\x5C\x27\x29\x2B\x63\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x4D\x5C\x27\x29\x3B\x31\x35\x20\x67\x7D\x55\x20\x33\x51\x28\x61\x2C\x62\x29\x7B\x4A\x20\x63\x3D\x6F\x3B\x54\x28\x61\x5B\x62\x5D\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x44\x5C\x27\x29\x5D\x21\x3D\x33\x52\x29\x4A\x20\x64\x3D\x61\x5B\x62\x5D\x5B\x5C\x27\x5C\x5C\x38\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x4F\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x56\x5C\x27\x5D\x5B\x31\x31\x5D\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x75\x5C\x27\x29\x5D\x2C\x32\x46\x3D\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x4C\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x50\x5C\x27\x29\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x45\x5C\x27\x29\x2B\x64\x2B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x45\x5C\x27\x29\x3B\x31\x30\x20\x32\x46\x3D\x5C\x27\x5C\x27\x3B\x31\x35\x20\x32\x46\x7D\x55\x20\x33\x74\x28\x67\x2C\x68\x2C\x69\x2C\x6A\x29\x7B\x4A\x20\x6B\x3D\x6F\x3B\x54\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x44\x5C\x27\x29\x21\x3D\x3D\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x49\x5C\x27\x29\x29\x7B\x54\x28\x68\x5B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x31\x5C\x27\x29\x29\x29\x7B\x4A\x20\x6C\x3D\x5C\x27\x5C\x27\x3B\x54\x28\x6A\x3D\x3D\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x74\x5C\x27\x29\x29\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x45\x5C\x27\x29\x21\x3D\x3D\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x50\x5C\x27\x29\x3F\x6C\x3D\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x49\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x33\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x38\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x46\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x4D\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2B\x69\x3A\x28\x35\x4C\x3D\x35\x4D\x28\x31\x33\x29\x29\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x5D\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x50\x5C\x27\x29\x2C\x55\x28\x29\x7B\x4A\x20\x61\x3D\x6B\x3B\x35\x4E\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x27\x2B\x5C\x27\x5C\x5C\x70\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x74\x5C\x27\x29\x2C\x35\x4F\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x44\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x31\x56\x29\x7D\x29\x3B\x31\x30\x7B\x54\x28\x6A\x3D\x3D\x5C\x27\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x29\x7B\x54\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x46\x5C\x27\x29\x3D\x3D\x3D\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x33\x5C\x27\x29\x29\x35\x50\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x76\x5C\x27\x5D\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x2C\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x75\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x46\x5C\x27\x29\x2B\x35\x51\x2B\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x50\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x75\x5C\x27\x29\x29\x2B\x35\x52\x29\x3B\x31\x30\x7B\x4A\x20\x6D\x3D\x32\x67\x5B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x32\x67\x5B\x5C\x27\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x5D\x28\x29\x2A\x69\x29\x2B\x31\x63\x3B\x6C\x3D\x5C\x27\x5C\x5C\x4E\x5C\x5C\x75\x5C\x5C\x34\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x70\x5C\x5C\x4E\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x33\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2B\x69\x2B\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x35\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x49\x5C\x27\x29\x29\x2B\x6D\x2B\x28\x5C\x27\x5C\x5C\x31\x45\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x57\x5C\x5C\x31\x69\x5C\x5C\x70\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x41\x5C\x27\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x31\x5C\x27\x29\x29\x7D\x7D\x31\x30\x7B\x54\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x50\x5C\x27\x29\x3D\x3D\x3D\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x35\x5C\x27\x29\x29\x7B\x4A\x20\x6E\x3D\x35\x53\x5B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x35\x54\x5B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x50\x5C\x27\x29\x5D\x28\x29\x2A\x35\x55\x29\x2B\x31\x63\x3B\x35\x56\x3D\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x49\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x33\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2B\x35\x57\x2B\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x35\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x49\x5C\x27\x29\x29\x2B\x6E\x2B\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x7A\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x31\x5C\x27\x29\x29\x7D\x31\x30\x20\x6C\x3D\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x49\x5C\x27\x29\x2B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x33\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4E\x5C\x5C\x41\x5C\x5C\x4E\x5C\x27\x2B\x6A\x2B\x28\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x38\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x42\x5C\x5C\x37\x5C\x5C\x31\x45\x5C\x27\x2B\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x32\x5C\x5C\x41\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x37\x5C\x27\x2B\x5C\x27\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x29\x2B\x69\x7D\x7D\x24\x5B\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x35\x5C\x27\x29\x5D\x28\x7B\x5C\x27\x5C\x5C\x47\x5C\x5C\x76\x5C\x5C\x72\x5C\x27\x3A\x6C\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x42\x5C\x5C\x34\x5C\x27\x3A\x5C\x27\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x74\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x31\x61\x5C\x5C\x56\x5C\x5C\x42\x5C\x5C\x34\x5C\x27\x3A\x6B\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x36\x5C\x27\x29\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x38\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x3A\x55\x28\x61\x29\x7B\x4A\x20\x62\x3D\x6B\x3B\x54\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x46\x5C\x27\x29\x3D\x3D\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x44\x5C\x27\x29\x29\x35\x58\x3D\x35\x59\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x4D\x5C\x27\x29\x2C\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x46\x5C\x27\x29\x29\x3B\x31\x30\x7B\x54\x28\x68\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x74\x5C\x27\x29\x29\x4A\x20\x63\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x45\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x33\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x3B\x4A\x20\x64\x3D\x61\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x49\x5C\x27\x29\x5D\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x74\x5C\x27\x29\x5D\x3B\x54\x28\x64\x21\x3D\x33\x52\x29\x7B\x31\x55\x28\x4A\x20\x65\x3D\x31\x31\x2C\x31\x49\x3D\x64\x3B\x65\x3C\x31\x49\x5B\x5C\x27\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x4F\x5C\x5C\x37\x5C\x5C\x48\x5C\x27\x5D\x3B\x65\x2B\x2B\x29\x7B\x4A\x20\x66\x3D\x33\x75\x28\x31\x49\x2C\x65\x29\x2C\x33\x53\x3D\x33\x76\x28\x31\x49\x2C\x65\x2C\x66\x29\x2C\x33\x54\x3D\x33\x4B\x28\x31\x49\x2C\x65\x2C\x66\x29\x2C\x33\x55\x3D\x33\x51\x28\x31\x49\x2C\x65\x29\x2C\x35\x5A\x3D\x33\x79\x28\x31\x49\x2C\x65\x29\x2C\x33\x56\x3D\x33\x42\x28\x31\x49\x2C\x65\x29\x2C\x32\x47\x3D\x5C\x27\x5C\x27\x3B\x68\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x31\x5C\x27\x29\x29\x26\x26\x28\x32\x47\x2B\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x36\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x46\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x33\x5C\x27\x29\x2B\x65\x2B\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x49\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x79\x5C\x27\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x44\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x44\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x57\x5C\x5C\x51\x5C\x27\x29\x2B\x66\x2B\x5C\x27\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2B\x33\x54\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x38\x5C\x27\x29\x2B\x33\x55\x2B\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x7A\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x4C\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x36\x5C\x27\x29\x29\x2B\x33\x53\x2B\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x33\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x4C\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x33\x5C\x27\x29\x29\x2B\x33\x56\x2B\x28\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x72\x5C\x5C\x79\x5C\x27\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x29\x29\x2C\x63\x2B\x3D\x32\x47\x7D\x63\x2B\x3D\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x53\x5C\x27\x7D\x31\x30\x20\x63\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x45\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x49\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x50\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4B\x5C\x5C\x31\x54\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x4B\x5C\x5C\x31\x72\x5C\x5C\x71\x5C\x5C\x47\x5C\x27\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x4C\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x49\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x45\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x72\x5C\x5C\x53\x5C\x27\x3B\x67\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x7A\x5C\x27\x29\x5D\x28\x63\x29\x2C\x67\x5B\x5C\x27\x5C\x5C\x75\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x7A\x5C\x27\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x29\x7D\x7D\x7D\x29\x7D\x7D\x31\x30\x20\x36\x30\x3D\x36\x31\x7D\x24\x28\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x74\x5C\x27\x29\x2B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x38\x5C\x27\x29\x29\x5B\x6F\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x62\x3D\x6F\x2C\x31\x5A\x3D\x36\x32\x2C\x36\x33\x3D\x36\x34\x2C\x33\x57\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x45\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x36\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x50\x5C\x27\x29\x2C\x33\x58\x3D\x24\x28\x36\x35\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x76\x5C\x27\x5D\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x29\x2C\x33\x59\x3D\x5C\x27\x5C\x5C\x58\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x46\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x5A\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x36\x5C\x5C\x31\x5C\x5C\x31\x5C\x27\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x4C\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x31\x5C\x27\x29\x2B\x33\x58\x2B\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x49\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x4D\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x33\x5C\x27\x29\x29\x2C\x32\x70\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x4D\x5C\x5C\x31\x5C\x5C\x46\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x50\x5C\x27\x29\x2B\x31\x5A\x3B\x54\x28\x31\x5A\x3D\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x35\x5C\x27\x29\x29\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x46\x5C\x27\x29\x3D\x3D\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x75\x5C\x27\x29\x3F\x36\x36\x28\x31\x33\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x29\x3E\x3D\x33\x72\x3F\x36\x37\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x31\x4F\x29\x3A\x36\x38\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x31\x4F\x29\x3A\x24\x28\x31\x33\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x32\x70\x29\x5B\x5C\x27\x5C\x5C\x70\x5C\x5C\x48\x5C\x5C\x71\x5C\x5C\x5A\x5C\x27\x5D\x28\x29\x3B\x31\x30\x7B\x54\x28\x31\x5A\x3D\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x4D\x5C\x27\x29\x29\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x62\x2C\x32\x39\x3D\x32\x48\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x4D\x5C\x27\x29\x29\x3B\x32\x39\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x38\x5C\x27\x29\x5D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x46\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x31\x5C\x27\x29\x2C\x32\x39\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x56\x5C\x5C\x78\x5C\x5C\x38\x5C\x27\x5D\x3D\x21\x21\x5B\x5D\x2C\x32\x39\x5B\x5C\x27\x5C\x5C\x70\x5C\x5C\x76\x5C\x5C\x38\x5C\x27\x5D\x3D\x5C\x27\x5C\x5C\x4E\x5C\x5C\x4E\x5C\x27\x2B\x36\x39\x2B\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x31\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x75\x5C\x27\x29\x29\x2C\x28\x32\x48\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x75\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x7A\x5C\x27\x29\x29\x5B\x31\x31\x5D\x7C\x7C\x32\x48\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x75\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x36\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x29\x5B\x31\x31\x5D\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x31\x36\x5C\x5C\x48\x5C\x5C\x79\x5C\x5C\x72\x5C\x27\x2B\x5C\x27\x5C\x5C\x74\x5C\x27\x5D\x28\x32\x39\x29\x7D\x28\x29\x29\x2C\x24\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x70\x5C\x27\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x29\x2C\x24\x28\x31\x33\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x5D\x28\x33\x57\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x32\x70\x29\x5B\x5C\x27\x5C\x5C\x70\x5C\x5C\x48\x5C\x5C\x71\x5C\x5C\x5A\x5C\x27\x5D\x28\x29\x3B\x31\x30\x7B\x54\x28\x31\x5A\x3D\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x4D\x5C\x27\x29\x29\x5C\x27\x5C\x5C\x37\x5C\x5C\x31\x6D\x5C\x5C\x31\x34\x5C\x5C\x74\x5C\x5C\x31\x32\x5C\x27\x21\x3D\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x4D\x5C\x27\x29\x3F\x36\x61\x3D\x36\x62\x3A\x28\x24\x28\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x36\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x7A\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x29\x2C\x24\x28\x31\x33\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x5D\x28\x33\x59\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x32\x70\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x29\x29\x3B\x31\x30\x20\x31\x5A\x3D\x3D\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x75\x5C\x27\x29\x3F\x24\x28\x31\x33\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x29\x3A\x24\x28\x31\x33\x29\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x74\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x41\x5C\x5C\x70\x5C\x27\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x7A\x5C\x27\x29\x2B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x50\x5C\x27\x29\x29\x5B\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x29\x7D\x7D\x7D\x29\x7D\x29\x29\x3B\x55\x20\x32\x30\x28\x61\x2C\x62\x2C\x63\x29\x7B\x4A\x20\x64\x3D\x31\x62\x3B\x31\x55\x28\x4A\x20\x65\x3D\x61\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x31\x77\x5C\x27\x29\x2C\x32\x49\x3D\x2F\x5B\x5E\x7B\x5C\x5C\x7D\x5D\x2B\x28\x3F\x3D\x7D\x29\x2F\x67\x2C\x32\x71\x3D\x31\x31\x3B\x32\x71\x3C\x65\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x46\x5C\x27\x29\x5D\x3B\x32\x71\x2B\x2B\x29\x7B\x54\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x75\x5C\x27\x29\x21\x3D\x3D\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x75\x5C\x27\x29\x29\x36\x63\x3D\x36\x64\x28\x36\x65\x29\x3B\x31\x30\x7B\x4A\x20\x66\x3D\x65\x5B\x32\x71\x5D\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x75\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x57\x5C\x27\x29\x3B\x54\x28\x66\x5B\x31\x31\x5D\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x29\x3D\x3D\x62\x29\x31\x35\x20\x32\x63\x21\x3D\x28\x63\x3D\x66\x5B\x31\x63\x5D\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x32\x49\x29\x26\x26\x36\x66\x28\x63\x5B\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x32\x49\x29\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x29\x7D\x7D\x31\x35\x21\x31\x63\x7D\x55\x20\x32\x34\x28\x29\x7B\x4A\x20\x61\x3D\x5B\x5C\x27\x5C\x5C\x31\x69\x5C\x5C\x48\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x4E\x5C\x5C\x36\x5C\x5C\x52\x5C\x5C\x7A\x5C\x5C\x42\x5C\x5C\x52\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x59\x5C\x5C\x31\x6A\x5C\x5C\x38\x5C\x5C\x31\x69\x5C\x5C\x32\x31\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6A\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x31\x76\x5C\x5C\x31\x36\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x48\x5C\x5C\x71\x5C\x5C\x5A\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x35\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x31\x37\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x42\x5C\x5C\x75\x5C\x5C\x56\x5C\x5C\x31\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x31\x4A\x5C\x5C\x70\x5C\x5C\x31\x34\x5C\x5C\x31\x44\x5C\x27\x2C\x5C\x27\x5C\x5C\x41\x5C\x5C\x47\x5C\x5C\x31\x36\x5C\x5C\x31\x69\x5C\x5C\x31\x78\x5C\x5C\x4F\x5C\x5C\x31\x74\x5C\x5C\x31\x72\x5C\x5C\x31\x37\x5C\x5C\x48\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x4B\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x31\x6C\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x35\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x48\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x31\x76\x5C\x5C\x43\x5C\x5C\x31\x37\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x4B\x5C\x5C\x31\x64\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x71\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x4F\x5C\x5C\x48\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x4B\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x31\x71\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x69\x5C\x5C\x70\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x4F\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x44\x5C\x5C\x46\x5C\x5C\x41\x5C\x5C\x38\x5C\x5C\x4E\x5C\x27\x2C\x5C\x27\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x59\x5C\x27\x2C\x5C\x27\x5C\x5C\x45\x5C\x5C\x31\x5C\x5C\x4E\x5C\x5C\x31\x74\x5C\x5C\x47\x5C\x5C\x31\x6A\x5C\x5C\x31\x6E\x5C\x5C\x78\x5C\x5C\x41\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x32\x5C\x5C\x31\x65\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6A\x5C\x5C\x31\x37\x5C\x5C\x31\x48\x5C\x5C\x38\x5C\x5C\x31\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x5A\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x70\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x79\x5C\x5C\x75\x5C\x5C\x56\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6B\x5C\x5C\x31\x74\x5C\x5C\x32\x5C\x5C\x42\x5C\x5C\x31\x6C\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x41\x5C\x5C\x5A\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x51\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x35\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x51\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x31\x37\x5C\x5C\x31\x6D\x5C\x27\x2C\x5C\x27\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x37\x5C\x5C\x7A\x5C\x5C\x47\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x46\x5C\x5C\x31\x68\x5C\x5C\x72\x5C\x5C\x31\x51\x5C\x5C\x31\x42\x5C\x5C\x31\x6D\x5C\x5C\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x71\x5C\x5C\x75\x5C\x5C\x75\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x49\x5C\x5C\x31\x5C\x5C\x4C\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x31\x47\x5C\x5C\x31\x74\x5C\x5C\x35\x5C\x5C\x31\x34\x5C\x5C\x47\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x31\x42\x5C\x5C\x71\x5C\x5C\x32\x5C\x5C\x31\x65\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x41\x5C\x5C\x4E\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x31\x41\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x31\x38\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x32\x31\x5C\x5C\x31\x36\x5C\x5C\x31\x69\x5C\x5C\x78\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x57\x5C\x5C\x5A\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x41\x5C\x5C\x48\x5C\x27\x2C\x5C\x27\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x46\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x42\x5C\x5C\x48\x5C\x5C\x31\x74\x5C\x5C\x56\x5C\x5C\x31\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x4B\x5C\x5C\x31\x64\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x35\x5C\x5C\x59\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x38\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x32\x5C\x5C\x4F\x5C\x5C\x31\x72\x5C\x5C\x31\x71\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x32\x4A\x5C\x5C\x32\x4A\x5C\x5C\x32\x4A\x5C\x5C\x52\x5C\x5C\x32\x37\x5C\x5C\x32\x4B\x5C\x5C\x32\x37\x5C\x5C\x32\x4B\x5C\x5C\x32\x37\x5C\x5C\x32\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x74\x5C\x5C\x71\x5C\x5C\x75\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x5A\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x31\x70\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x47\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x51\x5C\x5C\x4E\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x5A\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x41\x5C\x5C\x48\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x31\x61\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x56\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x59\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x59\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x71\x5C\x5C\x41\x5C\x5C\x5A\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x75\x5C\x5C\x35\x5C\x5C\x4B\x5C\x5C\x75\x5C\x5C\x35\x5C\x5C\x41\x5C\x5C\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x47\x5C\x5C\x31\x48\x5C\x5C\x31\x6A\x5C\x5C\x31\x6A\x5C\x5C\x48\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x38\x5C\x5C\x31\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x74\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x35\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x31\x36\x5C\x5C\x48\x5C\x5C\x47\x5C\x5C\x35\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6B\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x4F\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x61\x5C\x5C\x71\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x4F\x5C\x5C\x31\x38\x5C\x5C\x75\x5C\x5C\x79\x5C\x5C\x76\x5C\x5C\x70\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x42\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x78\x5C\x5C\x4F\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x34\x5C\x5C\x5A\x5C\x5C\x79\x5C\x5C\x31\x6A\x5C\x5C\x59\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x31\x6E\x5C\x5C\x35\x5C\x5C\x7A\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x4B\x5C\x5C\x35\x5C\x5C\x31\x75\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x31\x71\x5C\x5C\x47\x5C\x5C\x38\x5C\x5C\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x75\x5C\x5C\x71\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x49\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x46\x5C\x5C\x49\x5C\x5C\x37\x5C\x5C\x31\x6D\x5C\x5C\x42\x5C\x5C\x59\x5C\x5C\x37\x5C\x5C\x31\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x7A\x5C\x5C\x79\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x31\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x78\x5C\x5C\x31\x48\x5C\x5C\x31\x6C\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x36\x5C\x5C\x31\x6E\x5C\x5C\x38\x5C\x5C\x31\x42\x5C\x5C\x31\x53\x5C\x5C\x31\x34\x5C\x5C\x70\x5C\x5C\x31\x78\x5C\x5C\x31\x51\x5C\x5C\x31\x4A\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x31\x76\x5C\x5C\x31\x51\x5C\x5C\x72\x5C\x5C\x32\x5C\x5C\x31\x6D\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x47\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6B\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x4F\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x42\x5C\x5C\x71\x5C\x5C\x37\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x37\x5C\x5C\x31\x73\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x35\x5C\x5C\x31\x77\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x47\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x4F\x5C\x5C\x36\x5C\x5C\x31\x6B\x5C\x5C\x70\x5C\x5C\x31\x70\x5C\x5C\x31\x4D\x5C\x5C\x75\x5C\x5C\x33\x5C\x5C\x31\x53\x5C\x5C\x31\x4A\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x48\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x31\x34\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x66\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x56\x5C\x5C\x31\x38\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x43\x5C\x5C\x31\x65\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x47\x5C\x5C\x43\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x35\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x70\x5C\x5C\x76\x5C\x5C\x38\x5C\x5C\x57\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x31\x6D\x5C\x5C\x31\x54\x5C\x5C\x31\x37\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x31\x5C\x5C\x7A\x5C\x5C\x34\x5C\x5C\x49\x5C\x5C\x35\x5C\x5C\x75\x5C\x5C\x31\x4E\x5C\x5C\x79\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x35\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x38\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x34\x5C\x5C\x31\x4E\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x4E\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x7A\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x52\x5C\x5C\x31\x69\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x79\x5C\x5C\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x36\x5C\x5C\x33\x5C\x5C\x59\x5C\x5C\x7A\x5C\x5C\x31\x6C\x5C\x5C\x31\x72\x5C\x5C\x31\x6E\x5C\x5C\x31\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x70\x5C\x5C\x35\x5C\x5C\x56\x5C\x5C\x33\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x79\x5C\x5C\x4F\x5C\x5C\x48\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x4C\x5C\x5C\x5A\x5C\x5C\x32\x31\x5C\x5C\x7A\x5C\x5C\x59\x5C\x5C\x45\x5C\x5C\x4C\x5C\x5C\x31\x5C\x5C\x48\x5C\x5C\x31\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x35\x5C\x27\x2C\x5C\x27\x5C\x5C\x41\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x31\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x74\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x41\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x51\x5C\x5C\x4E\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x61\x5C\x5C\x31\x74\x5C\x5C\x31\x6E\x5C\x5C\x31\x76\x5C\x5C\x31\x36\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x53\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x43\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x4F\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x37\x5C\x5C\x52\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x5C\x4E\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x37\x5C\x5C\x31\x65\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x41\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x43\x5C\x5C\x36\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x71\x5C\x5C\x47\x5C\x5C\x76\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x52\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x4F\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x4E\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x74\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x47\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x4F\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x52\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x33\x5A\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x74\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x41\x5C\x5C\x48\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x31\x32\x5C\x5C\x31\x68\x5C\x5C\x47\x5C\x5C\x71\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x53\x5C\x5C\x52\x5C\x5C\x79\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x61\x5C\x5C\x35\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x4B\x5C\x5C\x71\x5C\x5C\x75\x5C\x5C\x4B\x5C\x5C\x31\x36\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x47\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x31\x54\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x44\x5C\x5C\x49\x5C\x5C\x31\x53\x5C\x5C\x4F\x5C\x5C\x31\x36\x5C\x5C\x47\x5C\x5C\x32\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x31\x70\x5C\x5C\x37\x5C\x5C\x43\x5C\x5C\x31\x50\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x31\x6E\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x5C\x31\x6E\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x31\x68\x5C\x5C\x47\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x79\x5C\x5C\x75\x5C\x5C\x56\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x31\x38\x5C\x5C\x4C\x5C\x5C\x4C\x5C\x5C\x31\x4E\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x5C\x5C\x78\x5C\x5C\x31\x36\x5C\x5C\x31\x37\x5C\x5C\x4E\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x7A\x5C\x5C\x47\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x31\x70\x5C\x5C\x45\x5C\x5C\x34\x5C\x5C\x31\x36\x5C\x5C\x42\x5C\x5C\x70\x5C\x5C\x50\x5C\x5C\x31\x44\x5C\x5C\x31\x6E\x5C\x27\x2C\x5C\x27\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x31\x75\x5C\x5C\x4B\x5C\x5C\x31\x64\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x31\x65\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x47\x5C\x5C\x43\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x46\x5C\x5C\x46\x5C\x5C\x41\x5C\x5C\x76\x5C\x5C\x4E\x5C\x5C\x35\x5C\x5C\x59\x5C\x5C\x35\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x31\x6A\x5C\x5C\x47\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x31\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x31\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x42\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x31\x68\x5C\x5C\x31\x6B\x5C\x5C\x32\x5C\x5C\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x41\x5C\x5C\x7A\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x71\x5C\x5C\x59\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x31\x37\x5C\x5C\x78\x5C\x5C\x75\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x34\x5C\x5C\x34\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2C\x5C\x27\x5C\x5C\x5A\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x79\x5C\x5C\x35\x5C\x5C\x31\x71\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x38\x5C\x5C\x31\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x5C\x33\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x32\x38\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x57\x5C\x5C\x31\x69\x5C\x5C\x70\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x41\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x31\x41\x5C\x5C\x4B\x5C\x5C\x75\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x71\x5C\x5C\x50\x5C\x5C\x4D\x5C\x5C\x76\x5C\x5C\x31\x37\x5C\x5C\x31\x66\x5C\x5C\x70\x5C\x5C\x45\x5C\x5C\x72\x5C\x5C\x31\x6E\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x31\x68\x5C\x5C\x47\x5C\x5C\x70\x5C\x5C\x52\x5C\x5C\x38\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x7A\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x31\x64\x5C\x5C\x43\x5C\x5C\x56\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x71\x5C\x5C\x31\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x4F\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x56\x5C\x27\x2C\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x31\x61\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x4B\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x4B\x5C\x5C\x47\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x31\x38\x5C\x5C\x36\x5C\x5C\x31\x5C\x5C\x31\x5C\x5C\x33\x5A\x5C\x5C\x31\x65\x5C\x5C\x52\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x31\x41\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x59\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x4B\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x4F\x5C\x5C\x79\x5C\x5C\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x31\x6B\x5C\x5C\x31\x6D\x5C\x5C\x31\x36\x5C\x5C\x71\x5C\x5C\x31\x69\x5C\x5C\x32\x31\x5C\x27\x2C\x5C\x27\x5C\x5C\x36\x5C\x5C\x31\x4E\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x42\x5C\x5C\x70\x5C\x5C\x31\x38\x5C\x5C\x4E\x5C\x5C\x4E\x5C\x5C\x5A\x5C\x5C\x5A\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x31\x6C\x5C\x5C\x56\x5C\x5C\x56\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x42\x5C\x5C\x38\x5C\x5C\x31\x6B\x5C\x5C\x31\x48\x5C\x5C\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x41\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x35\x5C\x5C\x4B\x5C\x5C\x48\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x57\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x5A\x5C\x5C\x52\x5C\x5C\x5A\x5C\x5C\x35\x5C\x5C\x56\x5C\x5C\x33\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x48\x5C\x5C\x79\x5C\x5C\x72\x5C\x5C\x74\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x79\x5C\x5C\x31\x76\x5C\x5C\x31\x73\x5C\x5C\x31\x6D\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x79\x5C\x5C\x75\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x74\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x42\x5C\x5C\x47\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x31\x32\x5C\x5C\x4F\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x47\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x71\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x31\x32\x5C\x5C\x31\x69\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x47\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x71\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x4B\x5C\x5C\x31\x64\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x41\x5C\x5C\x5A\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x48\x5C\x5C\x71\x5C\x5C\x5A\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x31\x65\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x47\x5C\x5C\x4B\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x4B\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x4B\x5C\x5C\x52\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x41\x5C\x5C\x5A\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x75\x5C\x5C\x7A\x5C\x5C\x41\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x78\x5C\x5C\x71\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x47\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x4F\x5C\x5C\x31\x65\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6B\x5C\x5C\x32\x5C\x5C\x59\x5C\x5C\x31\x74\x5C\x5C\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x59\x5C\x27\x2C\x5C\x27\x5C\x5C\x59\x5C\x5C\x31\x53\x5C\x5C\x31\x34\x5C\x5C\x4F\x5C\x5C\x31\x68\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x4F\x5C\x5C\x35\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x52\x5C\x5C\x7A\x5C\x5C\x41\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x7A\x5C\x5C\x34\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x4E\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x5A\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x33\x5C\x5C\x31\x75\x5C\x5C\x48\x5C\x5C\x4D\x5C\x5C\x31\x75\x5C\x5C\x48\x5C\x5C\x44\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x32\x38\x5C\x5C\x31\x45\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x32\x5C\x5C\x41\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x31\x73\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x31\x70\x5C\x5C\x79\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x45\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x57\x5C\x5C\x31\x69\x5C\x5C\x70\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x41\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x42\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x4F\x5C\x27\x2C\x5C\x27\x5C\x5C\x59\x5C\x5C\x31\x50\x5C\x5C\x31\x74\x5C\x5C\x31\x32\x5C\x5C\x31\x4A\x5C\x27\x2C\x5C\x27\x5C\x5C\x32\x38\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x32\x5C\x5C\x41\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x31\x69\x5C\x5C\x31\x4A\x5C\x5C\x42\x5C\x5C\x31\x4D\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x42\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x79\x5C\x5C\x75\x5C\x5C\x56\x5C\x5C\x41\x5C\x5C\x5A\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x48\x5C\x5C\x33\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x32\x5C\x5C\x37\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x31\x4E\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x41\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x31\x38\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x37\x5C\x5C\x31\x65\x5C\x5C\x52\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x41\x5C\x5C\x5A\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x57\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x48\x5C\x5C\x33\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x75\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x31\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x4F\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x76\x5C\x5C\x31\x6B\x5C\x5C\x42\x5C\x5C\x31\x6E\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x4F\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x52\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x5C\x4E\x5C\x27\x2C\x5C\x27\x5C\x5C\x42\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x59\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x31\x47\x5C\x5C\x34\x5C\x5C\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x31\x6D\x5C\x5C\x31\x34\x5C\x5C\x74\x5C\x5C\x31\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6A\x5C\x5C\x42\x5C\x5C\x31\x61\x5C\x5C\x31\x61\x5C\x5C\x31\x68\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x75\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x78\x5C\x5C\x31\x71\x5C\x5C\x72\x5C\x5C\x31\x32\x5C\x5C\x31\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x38\x5C\x5C\x31\x41\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x4D\x5C\x5C\x46\x5C\x5C\x31\x5C\x5C\x44\x5C\x5C\x44\x5C\x5C\x31\x5C\x5C\x75\x5C\x5C\x7A\x5C\x5C\x48\x5C\x5C\x76\x5C\x5C\x31\x72\x5C\x5C\x31\x6B\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x78\x5C\x5C\x31\x71\x5C\x5C\x31\x4A\x5C\x5C\x34\x5C\x5C\x31\x6D\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x42\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x47\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x38\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x79\x5C\x5C\x75\x5C\x5C\x56\x5C\x5C\x31\x65\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x72\x5C\x5C\x31\x61\x5C\x5C\x71\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x42\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x31\x42\x5C\x5C\x56\x5C\x5C\x31\x61\x5C\x5C\x35\x5C\x5C\x4F\x5C\x5C\x31\x44\x5C\x5C\x35\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x4F\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x72\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x31\x76\x5C\x5C\x42\x5C\x5C\x31\x72\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x47\x5C\x5C\x76\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x31\x6A\x5C\x5C\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x4B\x5C\x5C\x53\x5C\x5C\x4B\x5C\x5C\x72\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x48\x5C\x5C\x36\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x48\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6E\x5C\x5C\x45\x5C\x5C\x31\x54\x5C\x5C\x31\x37\x5C\x5C\x4E\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x47\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x56\x5C\x5C\x31\x71\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x7A\x5C\x5C\x35\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x31\x39\x5C\x5C\x75\x5C\x5C\x72\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x57\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x5C\x33\x5C\x27\x2C\x5C\x27\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x56\x5C\x5C\x31\x38\x5C\x5C\x4B\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x42\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x79\x5C\x5C\x75\x5C\x5C\x56\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x4F\x5C\x5C\x37\x5C\x5C\x48\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x57\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x52\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x5C\x4E\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x31\x69\x5C\x5C\x35\x5C\x5C\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x78\x5C\x5C\x31\x73\x5C\x5C\x31\x48\x5C\x5C\x31\x34\x5C\x5C\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x75\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x43\x5C\x5C\x51\x5C\x5C\x4E\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x59\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x31\x4E\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x4F\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x4B\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x41\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x32\x5C\x5C\x41\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x5A\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x57\x5C\x5C\x5A\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x41\x5C\x5C\x48\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x41\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x75\x5C\x5C\x34\x5C\x5C\x34\x5C\x5C\x74\x5C\x5C\x70\x5C\x5C\x4E\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x37\x5C\x5C\x43\x5C\x5C\x72\x5C\x5C\x31\x75\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x70\x5C\x5C\x4D\x5C\x5C\x31\x6C\x5C\x5C\x31\x32\x5C\x5C\x31\x6E\x5C\x5C\x31\x78\x5C\x5C\x31\x5C\x5C\x36\x5C\x5C\x31\x73\x5C\x5C\x31\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x47\x5C\x5C\x4B\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x4B\x5C\x5C\x53\x5C\x5C\x4B\x5C\x5C\x72\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x43\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x75\x5C\x5C\x56\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x31\x68\x5C\x5C\x47\x5C\x5C\x70\x5C\x5C\x31\x66\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x76\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x7A\x5C\x5C\x34\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x46\x5C\x5C\x4D\x5C\x5C\x49\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x31\x5C\x5C\x31\x6D\x5C\x5C\x31\x61\x5C\x5C\x34\x5C\x5C\x31\x50\x5C\x5C\x31\x48\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x35\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x5C\x4E\x5C\x5C\x31\x69\x5C\x5C\x35\x5C\x5C\x59\x5C\x5C\x35\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6E\x5C\x5C\x31\x6B\x5C\x5C\x31\x48\x5C\x5C\x31\x76\x5C\x5C\x32\x31\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x61\x5C\x5C\x56\x5C\x5C\x42\x5C\x5C\x75\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x47\x5C\x5C\x37\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x4B\x5C\x5C\x7A\x5C\x5C\x37\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x54\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x31\x37\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x31\x6A\x5C\x27\x2C\x5C\x27\x5C\x5C\x41\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x38\x5C\x5C\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x52\x5C\x5C\x4F\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x4B\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x35\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x32\x5C\x5C\x32\x5C\x5C\x31\x34\x5C\x5C\x72\x5C\x5C\x31\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x31\x38\x5C\x5C\x59\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x79\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x42\x5C\x5C\x37\x5C\x5C\x31\x45\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x51\x5C\x5C\x7A\x5C\x5C\x31\x6B\x5C\x5C\x31\x6C\x5C\x5C\x31\x73\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x5A\x5C\x5C\x78\x5C\x5C\x51\x5C\x5C\x4E\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x51\x5C\x5C\x4B\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x57\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x43\x5C\x5C\x71\x5C\x5C\x7A\x5C\x5C\x79\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x37\x5C\x5C\x43\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x51\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x31\x39\x5C\x5C\x75\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x31\x38\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x31\x6E\x5C\x5C\x71\x5C\x5C\x5A\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x31\x36\x5C\x5C\x35\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x31\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x4F\x5C\x5C\x48\x5C\x5C\x37\x5C\x5C\x31\x65\x5C\x5C\x52\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x76\x5C\x5C\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x71\x5C\x5C\x59\x5C\x5C\x34\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x32\x31\x5C\x5C\x31\x78\x5C\x5C\x31\x6B\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x31\x41\x5C\x5C\x4B\x5C\x5C\x59\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x4E\x5C\x5C\x44\x5C\x5C\x52\x5C\x5C\x7A\x5C\x5C\x42\x5C\x5C\x52\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6D\x5C\x5C\x31\x44\x5C\x5C\x78\x5C\x5C\x31\x6C\x5C\x5C\x31\x61\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x42\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x35\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x42\x5C\x5C\x31\x69\x5C\x5C\x7A\x5C\x5C\x31\x4D\x5C\x5C\x31\x6A\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x47\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x72\x5C\x5C\x70\x5C\x5C\x31\x61\x5C\x5C\x31\x6D\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x35\x5C\x5C\x47\x5C\x5C\x37\x5C\x5C\x48\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x41\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x31\x41\x5C\x5C\x31\x6C\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x59\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x5A\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x78\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x4F\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x47\x5C\x5C\x38\x5C\x5C\x37\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x37\x5C\x5C\x31\x6A\x5C\x5C\x32\x5C\x5C\x70\x5C\x5C\x31\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x35\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x4B\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x31\x5C\x5C\x52\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x34\x5C\x5C\x31\x47\x5C\x5C\x31\x5C\x5C\x4E\x5C\x5C\x31\x47\x5C\x5C\x31\x4A\x5C\x5C\x49\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x43\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x51\x5C\x5C\x4E\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x4B\x5C\x5C\x58\x5C\x5C\x79\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x79\x5C\x5C\x70\x5C\x5C\x41\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x78\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x56\x5C\x27\x2C\x5C\x27\x5C\x5C\x45\x5C\x5C\x31\x71\x5C\x5C\x31\x5C\x5C\x71\x5C\x5C\x48\x5C\x5C\x4D\x5C\x5C\x45\x5C\x5C\x44\x5C\x5C\x31\x50\x5C\x5C\x31\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x71\x5C\x5C\x75\x5C\x5C\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x44\x5C\x5C\x31\x34\x5C\x5C\x4F\x5C\x5C\x37\x5C\x5C\x31\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x5A\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x41\x5C\x5C\x48\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x41\x5C\x5C\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x4C\x5C\x5C\x50\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x4C\x5C\x5C\x46\x5C\x5C\x31\x76\x5C\x5C\x37\x5C\x5C\x42\x5C\x5C\x31\x37\x5C\x5C\x59\x5C\x5C\x31\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x35\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x37\x5C\x5C\x52\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x78\x5C\x5C\x31\x71\x5C\x5C\x31\x50\x5C\x5C\x31\x6D\x5C\x5C\x31\x32\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x41\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x47\x5C\x5C\x72\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x35\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x78\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x76\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x4B\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x74\x5C\x5C\x35\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x71\x5C\x5C\x42\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x56\x5C\x5C\x31\x38\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x45\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x74\x5C\x27\x2C\x5C\x27\x5C\x5C\x56\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x72\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x4E\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x51\x5C\x5C\x4E\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x38\x5C\x5C\x48\x5C\x5C\x4E\x5C\x5C\x72\x5C\x5C\x35\x5C\x27\x2C\x5C\x27\x5C\x5C\x46\x5C\x5C\x49\x5C\x5C\x50\x5C\x5C\x4D\x5C\x5C\x4D\x5C\x5C\x45\x5C\x5C\x31\x4D\x5C\x5C\x31\x47\x5C\x5C\x7A\x5C\x5C\x31\x6B\x5C\x5C\x47\x5C\x5C\x31\x42\x5C\x27\x2C\x5C\x27\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x70\x5C\x5C\x48\x5C\x5C\x71\x5C\x5C\x5A\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x7A\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x52\x5C\x5C\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x69\x5C\x5C\x35\x5C\x5C\x59\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x42\x5C\x5C\x37\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x50\x5C\x5C\x31\x6E\x5C\x5C\x31\x6B\x5C\x5C\x31\x74\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x37\x5C\x5C\x43\x5C\x5C\x72\x5C\x5C\x31\x75\x5C\x5C\x4B\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x2C\x5C\x27\x5C\x5C\x4F\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x51\x5C\x5C\x4E\x5C\x5C\x53\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x52\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x42\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x31\x64\x5C\x5C\x4F\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x47\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x31\x36\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x37\x5C\x5C\x31\x72\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x79\x5C\x5C\x75\x5C\x5C\x56\x5C\x5C\x4B\x5C\x5C\x72\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x41\x5C\x5C\x31\x32\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x71\x5C\x5C\x41\x5C\x5C\x78\x5C\x5C\x47\x5C\x27\x2C\x5C\x27\x5C\x5C\x43\x5C\x5C\x5A\x5C\x5C\x31\x78\x5C\x5C\x7A\x5C\x5C\x72\x5C\x27\x2C\x5C\x27\x5C\x5C\x4E\x5C\x5C\x70\x5C\x5C\x45\x5C\x5C\x33\x5C\x5C\x41\x5C\x5C\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x70\x5C\x5C\x31\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6D\x5C\x5C\x31\x73\x5C\x5C\x31\x71\x5C\x5C\x31\x76\x5C\x5C\x31\x61\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x4F\x5C\x27\x2C\x5C\x27\x5C\x5C\x58\x5C\x5C\x35\x5C\x5C\x4B\x5C\x5C\x48\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x57\x5C\x5C\x51\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x6C\x5C\x5C\x34\x5C\x5C\x31\x38\x5C\x5C\x4B\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x48\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x47\x5C\x5C\x41\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x35\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x41\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x31\x32\x5C\x5C\x4B\x5C\x5C\x52\x5C\x27\x2C\x5C\x27\x5C\x5C\x53\x5C\x5C\x31\x73\x5C\x5C\x76\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x31\x38\x5C\x5C\x4B\x5C\x5C\x31\x44\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x51\x5C\x5C\x70\x5C\x5C\x47\x5C\x5C\x7A\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x5C\x78\x5C\x5C\x47\x5C\x5C\x4B\x5C\x27\x2C\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x70\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x70\x5C\x5C\x79\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x78\x5C\x5C\x35\x5C\x5C\x59\x5C\x5C\x41\x5C\x5C\x70\x5C\x5C\x34\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x79\x5C\x5C\x43\x5C\x27\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x31\x71\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x4F\x5C\x27\x2C\x5C\x27\x5C\x5C\x5A\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x37\x5C\x5C\x48\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x5A\x5C\x5C\x5A\x5C\x5C\x5A\x5C\x5C\x52\x5C\x5C\x56\x5C\x5C\x71\x5C\x5C\x47\x5C\x5C\x37\x5C\x5C\x47\x5C\x5C\x7A\x5C\x27\x2C\x5C\x27\x5C\x5C\x78\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x4B\x5C\x5C\x79\x5C\x5C\x43\x5C\x5C\x4F\x5C\x27\x2C\x5C\x27\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x44\x5C\x5C\x33\x5C\x5C\x31\x70\x5C\x5C\x74\x5C\x5C\x47\x5C\x5C\x31\x69\x5C\x5C\x31\x53\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x4C\x5C\x5C\x31\x61\x5C\x5C\x31\x4A\x5C\x5C\x31\x42\x5C\x5C\x31\x71\x5C\x5C\x31\x34\x5C\x5C\x31\x76\x5C\x27\x2C\x5C\x27\x5C\x5C\x52\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x75\x5C\x27\x2C\x5C\x27\x5C\x5C\x7A\x5C\x5C\x31\x73\x5C\x5C\x32\x5C\x5C\x5A\x5C\x5C\x70\x5C\x27\x2C\x5C\x27\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x37\x5C\x5C\x71\x5C\x5C\x38\x5C\x27\x2C\x5C\x27\x5C\x5C\x48\x5C\x5C\x47\x5C\x5C\x43\x5C\x5C\x7A\x5C\x5C\x31\x75\x5C\x5C\x4B\x5C\x5C\x52\x5C\x5C\x31\x72\x5C\x5C\x34\x5C\x5C\x35\x5C\x27\x2C\x5C\x27\x5C\x5C\x56\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x41\x5C\x27\x2C\x5C\x27\x5C\x5C\x4B\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x31\x32\x5C\x5C\x34\x5C\x27\x2C\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x31\x73\x5C\x5C\x76\x5C\x5C\x76\x5C\x5C\x71\x5C\x27\x2C\x5C\x27\x5C\x5C\x56\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x43\x5C\x5C\x41\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x5D\x3B\x32\x34\x3D\x55\x28\x29\x7B\x31\x35\x20\x61\x7D\x3B\x31\x35\x20\x32\x34\x28\x29\x7D\x24\x28\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x38\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4B\x5C\x5C\x35\x5C\x27\x29\x5B\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x31\x62\x2C\x32\x61\x3D\x24\x28\x31\x33\x29\x2C\x32\x62\x3D\x32\x61\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x7A\x5C\x27\x29\x5D\x28\x29\x2C\x34\x30\x3D\x32\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x29\x2C\x32\x4C\x3D\x32\x30\x28\x32\x62\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x29\x2C\x32\x4D\x3D\x32\x30\x28\x32\x62\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x4C\x5C\x27\x29\x29\x2C\x32\x4E\x3D\x32\x30\x28\x32\x62\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x74\x5C\x27\x29\x29\x3B\x34\x30\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x50\x5C\x27\x29\x29\x26\x26\x31\x31\x21\x3D\x32\x4C\x26\x26\x28\x32\x61\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x50\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x32\x4C\x29\x2C\x31\x31\x21\x3D\x32\x4D\x26\x26\x32\x61\x5B\x5C\x27\x5C\x5C\x35\x5C\x5C\x74\x5C\x5C\x74\x5C\x5C\x31\x36\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x5D\x28\x32\x4D\x29\x2C\x31\x31\x21\x3D\x32\x4E\x26\x26\x32\x61\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x4D\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x34\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x4D\x5C\x27\x29\x2C\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x38\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x50\x5C\x27\x29\x2B\x32\x4E\x2B\x5C\x27\x5C\x5C\x31\x41\x5C\x27\x29\x29\x7D\x29\x2C\x24\x28\x5C\x27\x5C\x5C\x52\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x2B\x5C\x27\x5C\x5C\x4B\x5C\x5C\x7A\x5C\x27\x29\x5B\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x64\x3D\x31\x62\x2C\x32\x72\x3D\x24\x28\x31\x33\x29\x2C\x31\x52\x3D\x32\x72\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x4D\x5C\x27\x29\x5D\x28\x29\x2C\x32\x4F\x3D\x31\x52\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x29\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x43\x5C\x27\x5D\x28\x29\x2C\x32\x73\x3D\x7B\x7D\x3B\x32\x73\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x7A\x5C\x27\x29\x5D\x3D\x5C\x27\x5C\x5C\x31\x64\x5C\x5C\x42\x5C\x5C\x71\x5C\x5C\x70\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x7A\x5C\x5C\x71\x5C\x5C\x74\x5C\x5C\x56\x5C\x27\x2C\x32\x73\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x33\x5C\x27\x29\x5D\x3D\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x49\x5C\x27\x29\x2C\x28\x32\x4F\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x34\x5C\x27\x29\x29\x26\x26\x28\x31\x52\x3D\x31\x31\x21\x3D\x32\x30\x28\x31\x52\x2C\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x7A\x5C\x27\x29\x29\x3F\x32\x30\x28\x31\x52\x2C\x5C\x27\x5C\x5C\x37\x5C\x5C\x79\x5C\x5C\x37\x5C\x5C\x72\x5C\x5C\x34\x5C\x27\x29\x3A\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x74\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x46\x5C\x27\x29\x2C\x32\x72\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x74\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x36\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x38\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x49\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x75\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x4D\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x44\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x50\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x74\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x50\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x45\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x35\x5C\x27\x29\x2B\x31\x52\x2B\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x74\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x31\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x7A\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x4D\x5C\x27\x29\x29\x2B\x31\x52\x2B\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x45\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x50\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x71\x5C\x5C\x38\x5C\x5C\x79\x5C\x5C\x75\x5C\x5C\x56\x5C\x5C\x51\x5C\x5C\x53\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x71\x5C\x27\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x38\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x75\x5C\x5C\x44\x5C\x27\x29\x29\x29\x2C\x24\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x36\x5C\x5C\x44\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x35\x5C\x27\x29\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x62\x29\x7B\x4A\x20\x63\x3D\x64\x3B\x28\x62\x3D\x24\x28\x31\x33\x29\x29\x5B\x5C\x27\x5C\x5C\x71\x5C\x5C\x78\x5C\x27\x5D\x28\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x50\x5C\x27\x29\x2C\x55\x28\x29\x7B\x4A\x20\x61\x3D\x63\x3B\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x74\x5C\x27\x29\x2C\x24\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x44\x5C\x27\x29\x29\x5B\x5C\x27\x5C\x5C\x70\x5C\x5C\x72\x5C\x5C\x79\x5C\x5C\x74\x5C\x5C\x34\x5C\x5C\x31\x61\x5C\x5C\x71\x5C\x5C\x4F\x5C\x5C\x4F\x5C\x5C\x72\x5C\x27\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x31\x56\x29\x7D\x29\x7D\x29\x2C\x24\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x44\x5C\x27\x29\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x32\x73\x29\x2C\x24\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x4B\x5C\x5C\x35\x5C\x27\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x62\x29\x7B\x4A\x20\x63\x3D\x64\x3B\x28\x62\x3D\x24\x28\x31\x33\x29\x29\x5B\x63\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x50\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x63\x3B\x31\x35\x20\x24\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x7A\x5C\x5C\x45\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x4C\x5C\x27\x29\x5D\x28\x7B\x5C\x27\x5C\x5C\x70\x5C\x5C\x38\x5C\x5C\x76\x5C\x5C\x71\x5C\x5C\x72\x5C\x5C\x72\x5C\x5C\x31\x61\x5C\x5C\x71\x5C\x5C\x42\x5C\x27\x3A\x24\x28\x62\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x35\x5C\x27\x29\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x35\x5C\x27\x29\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x45\x5C\x27\x29\x5D\x2D\x33\x38\x7D\x2C\x32\x79\x29\x2C\x21\x31\x63\x7D\x29\x7D\x29\x29\x2C\x32\x4F\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x37\x5C\x5C\x75\x5C\x5C\x71\x5C\x27\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x49\x5C\x27\x29\x29\x26\x26\x28\x32\x72\x5B\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x31\x70\x5C\x5C\x79\x5C\x5C\x37\x5C\x27\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x78\x5C\x5C\x37\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x37\x5C\x5C\x41\x5C\x27\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x35\x5C\x5C\x38\x5C\x27\x29\x29\x2C\x24\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x44\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x71\x5C\x5C\x76\x5C\x5C\x43\x5C\x27\x29\x5B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x45\x5C\x27\x29\x5D\x28\x24\x28\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x38\x5C\x27\x29\x2B\x64\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x33\x5C\x27\x29\x29\x29\x29\x29\x7D\x29\x2C\x24\x28\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x38\x5C\x27\x29\x2B\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x7A\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x29\x5B\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x31\x62\x2C\x31\x4B\x3D\x24\x28\x31\x33\x29\x2C\x32\x32\x3D\x31\x4B\x5B\x5C\x27\x5C\x5C\x37\x5C\x5C\x34\x5C\x5C\x32\x5C\x5C\x37\x5C\x27\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x34\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x27\x5D\x28\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x31\x5C\x27\x29\x5D\x28\x29\x2C\x32\x33\x3D\x31\x4B\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x74\x5C\x5C\x7A\x5C\x27\x29\x5D\x28\x29\x3B\x54\x28\x32\x32\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x38\x5C\x5C\x74\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x36\x5C\x27\x29\x29\x29\x7B\x31\x57\x20\x34\x31\x3D\x32\x33\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x44\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x36\x5C\x27\x29\x2C\x5C\x27\x5C\x27\x29\x3B\x31\x4B\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x58\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x2B\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2B\x5C\x27\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x35\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x4B\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x45\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x2B\x34\x31\x2B\x5C\x27\x5C\x5C\x58\x5C\x5C\x4E\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x53\x5C\x27\x29\x7D\x54\x28\x32\x32\x5B\x5C\x27\x5C\x5C\x43\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x38\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x50\x5C\x5C\x46\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x31\x65\x5C\x27\x29\x29\x7B\x31\x57\x20\x34\x32\x3D\x32\x33\x5B\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x34\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x46\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x31\x65\x5C\x27\x2C\x5C\x27\x5C\x27\x29\x3B\x31\x4B\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x74\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x44\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x74\x5C\x5C\x46\x5C\x27\x29\x2B\x34\x32\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x33\x5C\x27\x29\x29\x7D\x54\x28\x32\x32\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x4C\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x79\x5C\x5C\x78\x5C\x5C\x4F\x5C\x5C\x31\x65\x5C\x27\x29\x29\x7B\x31\x57\x20\x34\x33\x3D\x32\x33\x5B\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x34\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x38\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x50\x5C\x27\x29\x2C\x5C\x27\x5C\x27\x29\x3B\x31\x4B\x5B\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x34\x5C\x5C\x31\x70\x5C\x5C\x79\x5C\x5C\x37\x5C\x27\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x5C\x27\x5C\x5C\x58\x5C\x5C\x74\x5C\x5C\x79\x5C\x5C\x59\x5C\x5C\x4B\x5C\x5C\x38\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x70\x5C\x5C\x70\x5C\x27\x2B\x5C\x27\x5C\x5C\x57\x5C\x5C\x51\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x5C\x37\x5C\x5C\x41\x5C\x5C\x43\x5C\x5C\x34\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x44\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x75\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x2B\x34\x33\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x33\x5C\x27\x29\x29\x7D\x54\x28\x32\x32\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x49\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x76\x5C\x5C\x31\x65\x5C\x27\x29\x29\x7B\x31\x57\x20\x34\x34\x3D\x32\x33\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x44\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x76\x5C\x5C\x31\x65\x5C\x27\x2C\x5C\x27\x5C\x27\x29\x3B\x31\x4B\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x74\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x36\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x70\x5C\x5C\x70\x5C\x5C\x35\x5C\x5C\x4F\x5C\x5C\x34\x5C\x5C\x4B\x5C\x5C\x35\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x76\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x34\x5C\x27\x29\x2B\x34\x34\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x46\x5C\x5C\x33\x5C\x27\x29\x29\x7D\x54\x28\x32\x32\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x49\x5C\x27\x29\x29\x29\x7B\x54\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x38\x5C\x27\x29\x3D\x3D\x3D\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x38\x5C\x27\x29\x29\x7B\x31\x57\x20\x34\x35\x3D\x32\x33\x5B\x5C\x27\x5C\x5C\x76\x5C\x5C\x34\x5C\x5C\x42\x5C\x5C\x72\x5C\x5C\x35\x5C\x5C\x38\x5C\x5C\x34\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x35\x5C\x5C\x38\x5C\x27\x29\x2C\x5C\x27\x5C\x27\x29\x3B\x31\x4B\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x46\x5C\x5C\x35\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x4C\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x51\x5C\x5C\x53\x5C\x27\x2B\x34\x35\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x49\x5C\x27\x29\x29\x7D\x31\x30\x20\x36\x67\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x48\x5C\x27\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x38\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x75\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4C\x5C\x5C\x75\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x31\x38\x5C\x5C\x72\x5C\x5C\x34\x5C\x5C\x75\x5C\x5C\x37\x5C\x5C\x31\x65\x5C\x5C\x52\x5C\x5C\x79\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x7A\x5C\x5C\x46\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x35\x5C\x5C\x76\x5C\x5C\x41\x5C\x5C\x5A\x5C\x5C\x76\x5C\x5C\x35\x5C\x5C\x42\x5C\x5C\x42\x5C\x5C\x34\x5C\x5C\x76\x5C\x27\x2B\x5C\x27\x5C\x5C\x31\x39\x5C\x5C\x75\x5C\x5C\x72\x5C\x5C\x71\x5C\x5C\x35\x5C\x5C\x37\x5C\x5C\x31\x38\x5C\x5C\x76\x5C\x5C\x79\x5C\x5C\x4F\x5C\x27\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x31\x5C\x5C\x31\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x53\x5C\x27\x29\x7D\x7D\x29\x2C\x24\x28\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x4D\x5C\x5C\x34\x5C\x27\x29\x2B\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x44\x5C\x5C\x50\x5C\x27\x29\x29\x5B\x31\x62\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x33\x5C\x27\x29\x5D\x28\x55\x28\x29\x7B\x4A\x20\x61\x3D\x31\x62\x2C\x32\x50\x3D\x24\x28\x31\x33\x29\x3B\x32\x50\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x34\x5C\x5C\x34\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x34\x5C\x5C\x31\x5C\x27\x29\x29\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x75\x5C\x5C\x38\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x45\x5C\x5C\x31\x5C\x27\x29\x2B\x5C\x27\x5C\x5C\x34\x5C\x5C\x52\x5C\x5C\x38\x5C\x5C\x71\x5C\x5C\x43\x5C\x27\x29\x26\x26\x32\x50\x5B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x33\x5C\x5C\x50\x5C\x27\x29\x5D\x28\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x33\x5C\x5C\x45\x5C\x5C\x74\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x49\x5C\x5C\x35\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x38\x5C\x5C\x46\x5C\x27\x29\x2B\x61\x28\x5C\x27\x5C\x5C\x31\x5C\x5C\x32\x5C\x5C\x36\x5C\x5C\x44\x5C\x5C\x34\x5C\x27\x29\x29\x7D\x29\x3B\x27\x2C\x36\x32\x2C\x36\x74\x2C\x27\x7C\x36\x75\x7C\x36\x76\x7C\x36\x77\x7C\x36\x78\x7C\x36\x79\x7C\x36\x7A\x7C\x36\x41\x7C\x36\x42\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x36\x43\x7C\x36\x44\x7C\x36\x45\x7C\x7C\x36\x46\x7C\x36\x47\x7C\x36\x48\x7C\x7C\x36\x49\x7C\x36\x4A\x7C\x36\x4B\x7C\x36\x4C\x7C\x36\x4D\x7C\x36\x4E\x7C\x36\x4F\x7C\x36\x50\x7C\x36\x51\x7C\x36\x52\x7C\x36\x53\x7C\x36\x54\x7C\x36\x55\x7C\x36\x56\x7C\x36\x57\x7C\x36\x58\x7C\x36\x59\x7C\x36\x5A\x7C\x37\x30\x7C\x37\x31\x7C\x37\x32\x7C\x37\x33\x7C\x36\x6B\x7C\x36\x68\x7C\x37\x34\x7C\x37\x35\x7C\x37\x36\x7C\x37\x37\x7C\x37\x38\x7C\x37\x39\x7C\x37\x61\x7C\x37\x62\x7C\x37\x63\x7C\x37\x64\x7C\x36\x69\x7C\x37\x65\x7C\x37\x66\x7C\x37\x67\x7C\x37\x68\x7C\x37\x69\x7C\x37\x6A\x7C\x37\x6B\x7C\x37\x6C\x7C\x37\x6D\x7C\x37\x6E\x7C\x37\x6F\x7C\x37\x70\x7C\x37\x71\x7C\x37\x72\x7C\x37\x73\x7C\x37\x74\x7C\x37\x75\x7C\x37\x76\x7C\x36\x6D\x7C\x37\x77\x7C\x37\x78\x7C\x37\x79\x7C\x37\x7A\x7C\x37\x41\x7C\x37\x42\x7C\x37\x43\x7C\x37\x44\x7C\x37\x45\x7C\x37\x46\x7C\x37\x47\x7C\x37\x48\x7C\x37\x49\x7C\x37\x4A\x7C\x37\x4B\x7C\x37\x4C\x7C\x37\x4D\x7C\x37\x4E\x7C\x37\x4F\x7C\x37\x50\x7C\x37\x51\x7C\x37\x52\x7C\x37\x53\x7C\x37\x54\x7C\x37\x55\x7C\x37\x56\x7C\x37\x57\x7C\x37\x58\x7C\x37\x59\x7C\x37\x5A\x7C\x38\x30\x7C\x38\x31\x7C\x38\x32\x7C\x38\x33\x7C\x38\x34\x7C\x38\x35\x7C\x38\x36\x7C\x38\x37\x7C\x38\x38\x7C\x38\x39\x7C\x38\x61\x7C\x38\x62\x7C\x38\x63\x7C\x38\x64\x7C\x38\x65\x7C\x38\x66\x7C\x38\x67\x7C\x38\x68\x7C\x38\x69\x7C\x38\x6A\x7C\x38\x6B\x7C\x38\x6C\x7C\x38\x6D\x7C\x38\x6E\x7C\x38\x6F\x7C\x38\x70\x7C\x38\x71\x7C\x38\x72\x7C\x38\x73\x7C\x38\x74\x7C\x38\x75\x7C\x38\x76\x7C\x38\x77\x7C\x38\x78\x7C\x38\x79\x7C\x38\x7A\x7C\x38\x41\x7C\x38\x42\x7C\x38\x43\x7C\x38\x44\x7C\x38\x45\x7C\x38\x46\x7C\x38\x47\x7C\x38\x48\x7C\x38\x49\x7C\x38\x4A\x7C\x38\x4B\x7C\x38\x4C\x7C\x38\x4D\x7C\x38\x4E\x7C\x38\x4F\x7C\x38\x50\x7C\x38\x51\x7C\x38\x52\x7C\x38\x53\x7C\x38\x54\x7C\x38\x55\x7C\x38\x56\x7C\x38\x57\x7C\x38\x58\x7C\x38\x59\x7C\x38\x5A\x7C\x39\x30\x7C\x39\x31\x7C\x39\x32\x7C\x39\x33\x7C\x39\x34\x7C\x39\x35\x7C\x39\x36\x7C\x39\x37\x7C\x39\x38\x7C\x39\x39\x7C\x39\x61\x7C\x39\x62\x7C\x39\x63\x7C\x39\x64\x7C\x39\x65\x7C\x39\x66\x7C\x39\x67\x7C\x39\x68\x7C\x39\x69\x7C\x39\x6A\x7C\x39\x6B\x7C\x39\x6C\x7C\x39\x6D\x7C\x39\x6E\x7C\x39\x6F\x7C\x39\x70\x7C\x39\x71\x7C\x39\x72\x7C\x39\x73\x7C\x39\x74\x7C\x39\x75\x7C\x39\x76\x7C\x39\x77\x7C\x39\x78\x7C\x39\x79\x7C\x39\x7A\x7C\x39\x41\x7C\x39\x42\x7C\x39\x43\x7C\x39\x44\x7C\x39\x45\x7C\x39\x46\x7C\x39\x47\x7C\x39\x48\x7C\x39\x49\x7C\x39\x4A\x7C\x39\x4B\x7C\x39\x4C\x7C\x39\x4D\x7C\x39\x4E\x7C\x39\x4F\x7C\x39\x50\x7C\x39\x51\x7C\x39\x52\x7C\x39\x53\x7C\x39\x54\x7C\x39\x55\x7C\x39\x56\x7C\x39\x57\x7C\x39\x58\x7C\x39\x59\x7C\x39\x5A\x7C\x61\x30\x7C\x61\x31\x7C\x61\x32\x7C\x61\x33\x7C\x61\x34\x7C\x61\x35\x7C\x61\x36\x7C\x61\x37\x7C\x61\x38\x7C\x61\x39\x7C\x61\x61\x7C\x61\x62\x7C\x61\x63\x7C\x61\x64\x7C\x36\x6C\x7C\x61\x65\x7C\x61\x66\x7C\x61\x67\x7C\x61\x68\x7C\x61\x69\x7C\x61\x6A\x7C\x61\x6B\x7C\x61\x6C\x7C\x61\x6D\x7C\x61\x6E\x7C\x61\x6F\x7C\x61\x70\x7C\x61\x71\x7C\x61\x72\x7C\x36\x6F\x7C\x61\x73\x7C\x61\x74\x7C\x61\x75\x7C\x61\x76\x7C\x61\x77\x7C\x61\x78\x7C\x61\x79\x7C\x61\x7A\x7C\x61\x41\x7C\x61\x42\x7C\x61\x43\x7C\x61\x44\x7C\x61\x45\x7C\x61\x46\x7C\x61\x47\x7C\x61\x48\x7C\x61\x49\x7C\x61\x4A\x7C\x61\x4B\x7C\x61\x4C\x7C\x61\x4D\x7C\x61\x4E\x7C\x61\x4F\x7C\x61\x50\x7C\x61\x51\x7C\x61\x52\x7C\x61\x53\x7C\x61\x54\x7C\x61\x55\x7C\x61\x56\x7C\x61\x57\x7C\x61\x58\x7C\x61\x59\x7C\x61\x5A\x7C\x62\x30\x7C\x62\x31\x7C\x62\x32\x7C\x62\x33\x7C\x62\x34\x7C\x62\x35\x7C\x62\x36\x7C\x62\x37\x7C\x62\x38\x7C\x62\x39\x7C\x62\x61\x7C\x62\x62\x7C\x62\x63\x7C\x62\x64\x7C\x62\x65\x7C\x62\x66\x7C\x62\x67\x7C\x62\x68\x7C\x62\x69\x7C\x62\x6A\x7C\x62\x6B\x7C\x62\x6C\x7C\x62\x6D\x7C\x62\x6E\x7C\x62\x6F\x7C\x62\x70\x7C\x62\x71\x7C\x62\x72\x7C\x62\x73\x7C\x62\x74\x7C\x62\x75\x7C\x62\x76\x7C\x62\x77\x7C\x62\x78\x7C\x62\x79\x7C\x62\x7A\x7C\x62\x41\x7C\x62\x42\x7C\x62\x43\x7C\x62\x44\x7C\x62\x45\x7C\x62\x46\x7C\x62\x47\x7C\x62\x48\x7C\x62\x49\x7C\x62\x4A\x7C\x62\x4B\x7C\x62\x4C\x7C\x62\x4D\x7C\x62\x4E\x7C\x62\x4F\x7C\x62\x50\x7C\x62\x51\x7C\x62\x52\x7C\x62\x53\x7C\x62\x54\x7C\x62\x55\x7C\x62\x56\x7C\x62\x57\x7C\x62\x58\x7C\x62\x59\x7C\x62\x5A\x7C\x63\x30\x7C\x63\x31\x7C\x63\x32\x7C\x63\x33\x7C\x63\x34\x7C\x63\x35\x7C\x63\x36\x7C\x63\x37\x7C\x63\x38\x7C\x63\x39\x7C\x63\x61\x7C\x63\x62\x7C\x63\x63\x7C\x63\x64\x7C\x63\x65\x7C\x63\x66\x7C\x63\x67\x7C\x63\x68\x7C\x63\x69\x7C\x63\x6A\x7C\x36\x6A\x7C\x63\x6B\x27\x2E\x63\x6C\x28\x27\x7C\x27\x29\x2C\x30\x2C\x7B\x7D\x29\x29","\x7C","\x73\x70\x6C\x69\x74","\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x66\x75\x6E\x63\x74\x69\x6F\x6E\x7C\x72\x65\x74\x75\x72\x6E\x7C\x53\x74\x72\x69\x6E\x67\x7C\x69\x66\x7C\x77\x68\x69\x6C\x65\x7C\x70\x61\x72\x73\x65\x49\x6E\x74\x7C\x72\x65\x70\x6C\x61\x63\x65\x7C\x6E\x65\x77\x7C\x65\x76\x61\x6C\x7C\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x7C\x74\x6F\x53\x74\x72\x69\x6E\x67\x7C\x52\x65\x67\x45\x78\x70\x7C\x33\x38\x39\x7C\x78\x33\x30\x7C\x78\x37\x38\x7C\x78\x33\x32\x7C\x78\x36\x35\x7C\x78\x36\x31\x7C\x78\x33\x31\x7C\x78\x37\x34\x7C\x78\x36\x33\x7C\x78\x37\x33\x7C\x78\x36\x66\x7C\x78\x36\x63\x7C\x78\x36\x34\x7C\x78\x36\x36\x7C\x78\x37\x32\x7C\x78\x36\x65\x7C\x78\x36\x39\x7C\x78\x36\x32\x7C\x78\x32\x64\x7C\x78\x37\x30\x7C\x78\x36\x64\x7C\x78\x33\x34\x7C\x78\x33\x37\x7C\x78\x33\x35\x7C\x78\x37\x35\x7C\x78\x36\x38\x7C\x78\x33\x36\x7C\x76\x61\x72\x7C\x78\x32\x30\x7C\x78\x33\x39\x7C\x78\x33\x33\x7C\x78\x32\x66\x7C\x78\x36\x37\x7C\x78\x33\x38\x7C\x78\x32\x32\x7C\x78\x32\x65\x7C\x78\x33\x65\x7C\x78\x37\x39\x7C\x78\x33\x64\x7C\x78\x33\x63\x7C\x78\x37\x36\x7C\x78\x37\x37\x7C\x65\x6C\x73\x65\x7C\x30\x78\x30\x7C\x78\x36\x62\x7C\x74\x68\x69\x73\x7C\x78\x34\x31\x7C\x78\x34\x33\x7C\x78\x34\x39\x7C\x78\x33\x61\x7C\x78\x37\x62\x7C\x78\x35\x34\x7C\x5F\x30\x78\x35\x62\x62\x33\x31\x36\x7C\x30\x78\x31\x7C\x78\x32\x33\x7C\x78\x37\x64\x7C\x78\x35\x66\x7C\x5F\x30\x78\x32\x32\x64\x38\x38\x66\x7C\x78\x37\x31\x7C\x78\x36\x61\x7C\x78\x34\x66\x7C\x78\x34\x64\x7C\x78\x37\x61\x7C\x78\x35\x61\x7C\x78\x34\x63\x7C\x78\x35\x37\x7C\x78\x35\x33\x7C\x78\x34\x36\x7C\x78\x34\x35\x7C\x78\x35\x36\x7C\x78\x32\x63\x7C\x78\x35\x32\x7C\x78\x32\x34\x7C\x78\x35\x39\x7C\x5F\x30\x78\x37\x39\x35\x31\x39\x36\x7C\x5F\x30\x78\x33\x64\x63\x64\x7C\x78\x33\x62\x7C\x78\x34\x32\x7C\x5F\x30\x78\x63\x36\x39\x62\x39\x7C\x78\x34\x65\x7C\x78\x32\x36\x7C\x5F\x30\x78\x31\x36\x66\x66\x66\x33\x7C\x78\x34\x34\x7C\x78\x35\x38\x7C\x5F\x30\x78\x34\x36\x62\x36\x30\x33\x7C\x78\x35\x31\x7C\x5F\x30\x78\x36\x39\x61\x39\x32\x31\x7C\x5F\x30\x78\x34\x35\x35\x39\x30\x37\x7C\x78\x35\x35\x7C\x78\x32\x31\x7C\x30\x78\x66\x61\x7C\x78\x34\x62\x7C\x78\x34\x38\x7C\x5F\x30\x78\x32\x61\x62\x32\x66\x39\x7C\x78\x34\x37\x7C\x78\x35\x30\x7C\x66\x6F\x72\x7C\x30\x78\x61\x61\x7C\x63\x6F\x6E\x73\x74\x7C\x5F\x30\x78\x31\x39\x31\x61\x34\x66\x7C\x5F\x30\x78\x34\x62\x34\x32\x39\x62\x7C\x5F\x30\x78\x33\x62\x39\x37\x31\x30\x7C\x5F\x30\x78\x34\x35\x62\x37\x61\x65\x7C\x78\x34\x61\x7C\x5F\x30\x78\x34\x39\x65\x64\x39\x30\x7C\x5F\x30\x78\x33\x63\x62\x64\x39\x33\x7C\x5F\x30\x78\x62\x31\x33\x39\x7C\x5F\x30\x78\x64\x38\x32\x37\x35\x65\x7C\x30\x78\x61\x7C\x78\x32\x62\x7C\x78\x33\x66\x7C\x5F\x30\x78\x35\x34\x31\x62\x30\x63\x7C\x5F\x30\x78\x32\x31\x66\x33\x32\x61\x7C\x5F\x30\x78\x35\x63\x35\x30\x63\x37\x7C\x6E\x75\x6C\x6C\x7C\x5F\x30\x78\x31\x33\x37\x33\x32\x66\x7C\x77\x69\x6E\x64\x6F\x77\x7C\x5F\x30\x78\x31\x39\x31\x65\x65\x64\x7C\x4D\x61\x74\x68\x7C\x6E\x6F\x54\x68\x75\x6D\x62\x6E\x61\x69\x6C\x7C\x5F\x30\x78\x34\x39\x63\x36\x64\x7C\x30\x78\x31\x65\x7C\x5F\x30\x78\x32\x39\x64\x37\x32\x33\x7C\x5F\x30\x78\x31\x37\x65\x32\x63\x65\x7C\x5F\x30\x78\x33\x64\x34\x30\x35\x39\x7C\x5F\x30\x78\x35\x62\x38\x36\x36\x31\x7C\x5F\x30\x78\x31\x33\x63\x31\x35\x63\x7C\x5F\x30\x78\x32\x37\x65\x62\x36\x36\x7C\x5F\x30\x78\x33\x30\x30\x66\x62\x62\x7C\x5F\x30\x78\x31\x36\x37\x64\x66\x30\x7C\x5F\x30\x78\x35\x63\x33\x34\x31\x61\x7C\x30\x78\x33\x7C\x5F\x30\x78\x32\x38\x31\x63\x37\x62\x7C\x5F\x30\x78\x34\x66\x64\x36\x62\x30\x7C\x5F\x30\x78\x32\x35\x32\x37\x39\x62\x7C\x5F\x30\x78\x35\x32\x33\x61\x39\x33\x7C\x30\x78\x31\x66\x34\x7C\x5F\x30\x78\x33\x35\x61\x32\x36\x37\x7C\x5F\x30\x78\x33\x65\x30\x63\x63\x36\x7C\x5F\x30\x78\x34\x66\x34\x30\x66\x39\x7C\x5F\x30\x78\x35\x39\x63\x63\x31\x34\x7C\x5F\x30\x78\x34\x62\x30\x33\x63\x34\x7C\x5F\x30\x78\x33\x33\x63\x37\x33\x33\x7C\x5F\x30\x78\x34\x36\x38\x32\x34\x31\x7C\x5F\x30\x78\x64\x39\x36\x63\x37\x63\x7C\x64\x6F\x63\x75\x6D\x65\x6E\x74\x7C\x5F\x30\x78\x32\x31\x30\x65\x62\x35\x7C\x78\x32\x38\x7C\x78\x32\x39\x7C\x5F\x30\x78\x35\x64\x36\x38\x38\x38\x7C\x5F\x30\x78\x36\x37\x66\x36\x65\x33\x7C\x5F\x30\x78\x32\x35\x32\x35\x32\x64\x7C\x5F\x30\x78\x33\x31\x64\x61\x34\x38\x7C\x5F\x30\x78\x35\x61\x36\x64\x30\x37\x7C\x30\x78\x34\x7C\x30\x78\x35\x7C\x30\x78\x37\x7C\x30\x78\x38\x7C\x62\x72\x65\x61\x6B\x7C\x70\x75\x73\x68\x7C\x73\x68\x69\x66\x74\x7C\x5F\x30\x78\x35\x62\x62\x36\x35\x65\x7C\x61\x72\x67\x75\x6D\x65\x6E\x74\x73\x7C\x5F\x30\x78\x32\x63\x35\x35\x34\x65\x7C\x5F\x30\x78\x31\x66\x62\x33\x31\x66\x7C\x5F\x30\x78\x33\x61\x61\x32\x34\x38\x7C\x5F\x30\x78\x33\x30\x32\x65\x66\x65\x7C\x5F\x30\x78\x31\x33\x64\x61\x36\x38\x7C\x5F\x30\x78\x34\x38\x39\x63\x65\x34\x7C\x5F\x30\x78\x33\x33\x39\x36\x38\x39\x7C\x5F\x30\x78\x65\x32\x33\x61\x39\x32\x7C\x5F\x30\x78\x34\x63\x64\x37\x38\x64\x7C\x30\x78\x31\x34\x7C\x5F\x30\x78\x31\x32\x37\x38\x35\x65\x7C\x5F\x30\x78\x35\x34\x30\x64\x62\x32\x7C\x5F\x30\x78\x31\x34\x64\x37\x39\x66\x7C\x70\x6F\x73\x74\x50\x65\x72\x50\x61\x67\x65\x7C\x5F\x30\x78\x34\x62\x39\x31\x65\x30\x7C\x5F\x30\x78\x34\x30\x32\x65\x63\x66\x7C\x5F\x30\x78\x35\x34\x37\x62\x66\x31\x7C\x5F\x30\x78\x31\x37\x65\x30\x33\x61\x7C\x5F\x30\x78\x34\x63\x64\x64\x65\x33\x7C\x5F\x30\x78\x32\x61\x65\x34\x30\x62\x7C\x5F\x30\x78\x64\x35\x35\x34\x39\x66\x7C\x5F\x30\x78\x34\x38\x65\x30\x36\x30\x7C\x5F\x30\x78\x31\x66\x36\x35\x39\x61\x7C\x5F\x30\x78\x33\x33\x35\x30\x63\x30\x7C\x5F\x30\x78\x33\x30\x36\x37\x33\x39\x7C\x5F\x30\x78\x34\x63\x35\x37\x65\x34\x7C\x5F\x30\x78\x31\x33\x30\x39\x37\x39\x7C\x5F\x30\x78\x35\x36\x63\x38\x35\x30\x7C\x30\x78\x36\x34\x7C\x5F\x30\x78\x32\x38\x37\x35\x34\x31\x7C\x5F\x30\x78\x31\x37\x66\x36\x30\x38\x7C\x5F\x30\x78\x31\x33\x33\x62\x66\x65\x7C\x5F\x30\x78\x34\x39\x63\x34\x39\x63\x7C\x5F\x30\x78\x34\x30\x38\x38\x63\x65\x7C\x5F\x30\x78\x32\x66\x66\x31\x65\x66\x7C\x5F\x30\x78\x34\x37\x39\x65\x37\x64\x7C\x5F\x30\x78\x35\x30\x61\x32\x62\x63\x7C\x5F\x30\x78\x31\x63\x64\x36\x30\x66\x7C\x5F\x30\x78\x33\x35\x61\x34\x34\x61\x7C\x5F\x30\x78\x32\x32\x38\x35\x61\x66\x7C\x5F\x30\x78\x31\x38\x33\x66\x30\x36\x7C\x5F\x30\x78\x64\x63\x38\x35\x62\x37\x7C\x5F\x30\x78\x34\x63\x38\x64\x30\x38\x7C\x5F\x30\x78\x32\x33\x35\x39\x37\x65\x7C\x5F\x30\x78\x33\x37\x30\x63\x62\x39\x7C\x5F\x30\x78\x31\x34\x38\x63\x30\x39\x7C\x5F\x30\x78\x32\x33\x39\x65\x62\x31\x7C\x5F\x30\x78\x31\x38\x33\x34\x35\x63\x7C\x69\x66\x72\x61\x6D\x65\x7C\x73\x72\x63\x7C\x77\x77\x77\x7C\x79\x6F\x75\x74\x75\x62\x65\x7C\x63\x6F\x6D\x7C\x5F\x30\x78\x34\x64\x33\x35\x39\x38\x7C\x75\x6E\x64\x65\x66\x69\x6E\x65\x64\x7C\x5F\x30\x78\x31\x65\x61\x36\x31\x31\x7C\x5F\x30\x78\x31\x33\x61\x64\x32\x36\x7C\x5F\x30\x78\x35\x31\x34\x64\x34\x65\x7C\x5F\x30\x78\x34\x39\x64\x34\x37\x31\x7C\x5F\x30\x78\x36\x38\x62\x64\x38\x39\x7C\x5F\x30\x78\x31\x31\x35\x39\x39\x36\x7C\x5F\x30\x78\x34\x39\x38\x62\x37\x39\x7C\x78\x32\x35\x7C\x5F\x30\x78\x31\x62\x61\x62\x39\x39\x7C\x5F\x30\x78\x33\x38\x62\x34\x34\x39\x7C\x5F\x30\x78\x31\x32\x66\x62\x66\x65\x7C\x5F\x30\x78\x34\x30\x63\x38\x32\x34\x7C\x5F\x30\x78\x31\x39\x62\x39\x31\x61\x7C\x5F\x30\x78\x33\x63\x62\x61\x34\x39\x7C\x30\x78\x31\x34\x35\x7C\x74\x72\x79\x7C\x30\x78\x32\x7C\x30\x78\x36\x7C\x30\x78\x39\x7C\x30\x78\x62\x7C\x30\x78\x63\x7C\x30\x78\x64\x7C\x63\x61\x74\x63\x68\x7C\x5F\x30\x78\x31\x31\x30\x62\x34\x64\x7C\x30\x78\x34\x39\x61\x32\x38\x7C\x5F\x30\x78\x32\x34\x62\x37\x61\x38\x7C\x5F\x30\x78\x31\x31\x36\x32\x36\x35\x7C\x5F\x30\x78\x62\x36\x32\x66\x32\x39\x7C\x5F\x30\x78\x32\x61\x36\x61\x38\x37\x7C\x49\x6D\x61\x67\x65\x7C\x5F\x30\x78\x31\x36\x36\x63\x61\x62\x7C\x5F\x30\x78\x32\x38\x37\x62\x32\x38\x7C\x5F\x30\x78\x33\x65\x38\x32\x31\x39\x7C\x5F\x30\x78\x33\x32\x30\x30\x65\x35\x7C\x74\x79\x70\x65\x6F\x66\x7C\x5F\x30\x78\x34\x33\x39\x34\x63\x32\x7C\x5F\x30\x78\x35\x32\x66\x34\x35\x38\x7C\x5F\x30\x78\x32\x37\x36\x38\x39\x34\x7C\x6A\x51\x75\x65\x72\x79\x7C\x73\x65\x74\x49\x6E\x74\x65\x72\x76\x61\x6C\x7C\x30\x78\x33\x65\x38\x7C\x5F\x30\x78\x34\x66\x63\x33\x65\x62\x7C\x5F\x30\x78\x33\x34\x66\x31\x36\x66\x7C\x5F\x30\x78\x32\x62\x61\x33\x63\x30\x7C\x5F\x30\x78\x33\x63\x35\x30\x33\x62\x7C\x5F\x30\x78\x31\x38\x30\x61\x39\x32\x7C\x5F\x30\x78\x31\x62\x37\x61\x32\x61\x7C\x5F\x30\x78\x34\x35\x65\x66\x65\x66\x7C\x5F\x30\x78\x32\x64\x61\x64\x65\x35\x7C\x5F\x30\x78\x31\x38\x65\x37\x64\x63\x7C\x5F\x30\x78\x31\x66\x34\x62\x34\x65\x7C\x5F\x30\x78\x34\x35\x38\x31\x36\x64\x7C\x5F\x30\x78\x33\x65\x33\x65\x66\x34\x7C\x5F\x30\x78\x31\x38\x35\x64\x64\x31\x7C\x5F\x30\x78\x33\x62\x35\x36\x37\x36\x7C\x5F\x30\x78\x31\x35\x30\x35\x30\x39\x7C\x5F\x30\x78\x33\x32\x38\x66\x39\x37\x7C\x5F\x30\x78\x34\x61\x62\x36\x39\x39\x7C\x5F\x30\x78\x31\x30\x33\x64\x36\x34\x7C\x5F\x30\x78\x32\x34\x36\x30\x38\x30\x7C\x5F\x30\x78\x32\x64\x39\x63\x31\x34\x7C\x5F\x30\x78\x31\x64\x33\x37\x63\x31\x7C\x5F\x30\x78\x34\x65\x33\x31\x62\x38\x7C\x5F\x30\x78\x31\x33\x66\x64\x61\x63\x7C\x5F\x30\x78\x35\x62\x30\x64\x65\x30\x7C\x5F\x30\x78\x32\x30\x63\x64\x64\x64\x7C\x5F\x30\x78\x62\x32\x39\x61\x39\x39\x7C\x5F\x30\x78\x36\x62\x65\x62\x36\x62\x7C\x5F\x30\x78\x32\x62\x31\x39\x32\x35\x7C\x5F\x30\x78\x32\x37\x63\x65\x37\x66\x7C\x5F\x30\x78\x34\x30\x38\x37\x32\x66\x7C\x5F\x30\x78\x35\x36\x38\x62\x33\x61\x7C\x5F\x30\x78\x34\x64\x35\x37\x36\x64\x7C\x5F\x30\x78\x35\x30\x34\x39\x31\x63\x7C\x5F\x30\x78\x32\x35\x33\x39\x38\x34\x7C\x5F\x30\x78\x31\x36\x66\x36\x62\x32\x7C\x5F\x30\x78\x62\x39\x39\x65\x30\x62\x7C\x5F\x30\x78\x31\x61\x66\x30\x36\x30\x7C\x66\x69\x78\x65\x64\x53\x69\x64\x65\x62\x61\x72\x7C\x5F\x30\x78\x34\x39\x35\x64\x33\x31\x7C\x5F\x30\x78\x37\x37\x32\x61\x30\x63\x7C\x5F\x30\x78\x61\x32\x65\x62\x36\x7C\x5F\x30\x78\x33\x65\x38\x34\x31\x33\x7C\x5F\x30\x78\x33\x35\x64\x63\x32\x34\x7C\x5F\x30\x78\x32\x61\x36\x65\x62\x65\x7C\x5F\x30\x78\x35\x30\x65\x66\x66\x30\x7C\x5F\x30\x78\x32\x32\x38\x32\x38\x61\x7C\x5F\x30\x78\x35\x30\x38\x36\x32\x30\x7C\x5F\x30\x78\x34\x65\x30\x36\x36\x62\x7C\x5F\x30\x78\x33\x66\x30\x32\x65\x31\x7C\x5F\x30\x78\x33\x36\x33\x61\x30\x64\x7C\x5F\x30\x78\x33\x66\x33\x31\x64\x66\x7C\x5F\x30\x78\x35\x66\x30\x33\x39\x34\x7C\x5F\x30\x78\x61\x38\x64\x39\x62\x34\x7C\x5F\x30\x78\x33\x38\x33\x30\x35\x32\x7C\x5F\x30\x78\x37\x31\x31\x30\x36\x63\x7C\x5F\x30\x78\x34\x61\x66\x65\x32\x64\x7C\x5F\x30\x78\x32\x34\x38\x34\x31\x35\x7C\x5F\x30\x78\x33\x64\x36\x63\x33\x30\x7C\x5F\x30\x78\x34\x38\x64\x63\x31\x36\x7C\x5F\x30\x78\x31\x31\x37\x31\x33\x61\x7C\x5F\x30\x78\x33\x37\x32\x30\x61\x65\x7C\x6D\x6F\x6E\x74\x68\x46\x6F\x72\x6D\x61\x74\x7C\x5F\x30\x78\x35\x61\x39\x61\x35\x65\x7C\x5F\x30\x78\x34\x34\x38\x30\x37\x62\x7C\x5F\x30\x78\x32\x66\x61\x62\x64\x35\x7C\x5F\x30\x78\x33\x37\x38\x31\x35\x62\x7C\x5F\x30\x78\x34\x30\x32\x37\x63\x36\x7C\x5F\x30\x78\x35\x65\x63\x32\x64\x37\x7C\x5F\x30\x78\x33\x38\x35\x64\x37\x63\x7C\x5F\x30\x78\x32\x36\x36\x63\x64\x38\x7C\x5F\x30\x78\x32\x62\x66\x34\x65\x33\x7C\x5F\x30\x78\x35\x37\x32\x61\x35\x35\x7C\x5F\x30\x78\x34\x34\x62\x64\x61\x30\x7C\x5F\x30\x78\x65\x35\x36\x65\x39\x38\x7C\x5F\x30\x78\x36\x36\x39\x35\x66\x7C\x5F\x30\x78\x33\x34\x62\x37\x64\x31\x7C\x5F\x30\x78\x32\x30\x61\x35\x62\x37\x7C\x5F\x30\x78\x31\x34\x30\x66\x35\x37\x7C\x5F\x30\x78\x35\x31\x30\x32\x64\x62\x7C\x5F\x30\x78\x33\x65\x39\x31\x63\x33\x7C\x5F\x30\x78\x35\x30\x37\x62\x39\x35\x7C\x5F\x30\x78\x32\x66\x39\x31\x62\x7C\x5F\x30\x78\x64\x61\x37\x31\x34\x39\x7C\x5F\x30\x78\x33\x62\x34\x63\x38\x30\x7C\x5F\x30\x78\x31\x35\x39\x33\x32\x33\x7C\x5F\x30\x78\x32\x31\x61\x37\x64\x35\x7C\x5F\x30\x78\x34\x33\x32\x33\x62\x36\x7C\x5F\x30\x78\x34\x61\x37\x32\x65\x65\x7C\x5F\x30\x78\x33\x61\x30\x31\x31\x31\x7C\x5F\x30\x78\x31\x36\x62\x38\x34\x33\x7C\x5F\x30\x78\x39\x61\x33\x34\x30\x7C\x63\x6F\x6D\x6D\x65\x6E\x74\x73\x53\x79\x73\x74\x65\x6D\x7C\x5F\x30\x78\x37\x30\x64\x35\x66\x63\x7C\x64\x69\x73\x71\x75\x73\x5F\x62\x6C\x6F\x67\x67\x65\x72\x5F\x63\x75\x72\x72\x65\x6E\x74\x5F\x75\x72\x6C\x7C\x6C\x6F\x63\x61\x74\x69\x6F\x6E\x7C\x5F\x30\x78\x33\x39\x39\x37\x39\x65\x7C\x5F\x30\x78\x34\x34\x32\x63\x38\x33\x7C\x5F\x30\x78\x35\x31\x39\x38\x64\x30\x7C\x64\x69\x73\x71\x75\x73\x53\x68\x6F\x72\x74\x6E\x61\x6D\x65\x7C\x5F\x30\x78\x33\x33\x61\x65\x35\x66\x7C\x5F\x30\x78\x32\x66\x31\x30\x37\x30\x7C\x5F\x30\x78\x34\x32\x61\x66\x66\x38\x7C\x5F\x30\x78\x33\x35\x34\x66\x61\x33\x7C\x5F\x30\x78\x32\x35\x34\x31\x34\x37\x7C\x5F\x30\x78\x34\x31\x38\x66\x34\x31\x7C\x73\x70\x6C\x69\x74","","\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65","\x72\x65\x70\x6C\x61\x63\x65","\x5C\x77\x2B","\x5C\x62","\x67"];eval(function(_0x2332x1,_0x2332x2,_0x2332x3,_0x2332x4,_0x2332x5,_0x2332x6){_0x2332x5= function(_0x2332x3){return (_0x2332x3< _0x2332x2?_0x7b83[4]:_0x2332x5(parseInt(_0x2332x3/ _0x2332x2)))+ ((_0x2332x3= _0x2332x3% _0x2332x2)> 35?String[_0x7b83[5]](_0x2332x3+ 29):_0x2332x3.toString(36))};if(!_0x7b83[4][_0x7b83[6]](/^/,String)){while(_0x2332x3--){_0x2332x6[_0x2332x5(_0x2332x3)]= _0x2332x4[_0x2332x3]|| _0x2332x5(_0x2332x3)};_0x2332x4= [function(_0x2332x5){return _0x2332x6[_0x2332x5]}];_0x2332x5= function(){return _0x7b83[7]};_0x2332x3= 1};while(_0x2332x3--){if(_0x2332x4[_0x2332x3]){_0x2332x1= _0x2332x1[_0x7b83[6]]( new RegExp(_0x7b83[8]+ _0x2332x5(_0x2332x3)+ _0x7b83[8],_0x7b83[9]),_0x2332x4[_0x2332x3])}};return _0x2332x1}(_0x7b83[0],62,766,_0x7b83[3][_0x7b83[2]](_0x7b83[1]),0,{}))
-//]]>
+<script>
+	var cookieBannerOptions = {
+		enable: false,
+		message: "We use cookies to analyze site usage and ensure a smooth browsing experience. By using this website, you agree to our use of cookies.",
+		linkText: "Learn more",
+		linkUrl: '',
+		ctaType: 0,
+		ctaMessage: "Accept",
+	};
 </script>
-<!-- Pagination Scripts -->
-<script type='text/javascript'>
-//<![CDATA[
-var postResults=postPerPage;
-var numOfPages=2;
-var pageOf=["Page", "of"];
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5 K;5 m;5 l;5 w;5 s=1p.9;5 y="/";1d();G 1b(a){5 b=\'\';J=M(W/2);4(J==W-J){W=J*2+1}D=l-J;4(D<1)D=1;j=M(a/n)+1;4(j-1==a/n)j=j-1;E=D+W-1;4(E>j)E=j;b+=\'<C 6="3-1u">\'+17[0]+\' \'+l+\' \'+17[1]+\' \'+j+\'</C>\';5 c=M(l)-1;4(l>1){4(l==2){4(m==\'3\'){b+=\'<a 6="3-7 3-U" 9="\'+y+\'"></a>\'}h{b+=\'<a 6="3-7 3-U" 9="/v/u/\'+w+\'?&i-o=\'+n+\'"></a>\'}}h{4(m==\'3\'){b+=\'<a 6="3-7 3-U" 9="#" z="L(\'+c+\');B x"></a>\'}h{b+=\'<a 6="3-7 3-U" 9="#" z="I(\'+c+\');B x"></a>\'}}}4(D>1){4(m=="3"){b+=\'<a 6="3-7" 9="\'+y+\'">1</a>\'}h{b+=\'<a 6="3-7" 9="/v/u/\'+w+\'?&i-o=\'+n+\'">1</a>\'}}4(D>2){b+=\'<C 6="3-7 3-16">...</C>\'}1a(5 d=D;d<=E;d++){4(l==d){b+=\'<C 6="3-7 3-1v">\'+d+\'</C>\'}h 4(d==1){4(m==\'3\'){b+=\'<a 6="3-7" 9="\'+y+\'">1</a>\'}h{b+=\'<a 6="3-7" 9="/v/u/\'+w+\'?&i-o=\'+n+\'">1</a>\'}}h{4(m==\'3\'){b+=\'<a 6="3-7" 9="#" z="L(\'+d+\');B x">\'+d+\'</a>\'}h{b+=\'<a 6="3-7" 9="#" z="I(\'+d+\');B x">\'+d+\'</a>\'}}}4(E<j-1){b+=\'<C 6="3-7 3-16">...</C>\'}4(E<j){4(m=="3"){b+=\'<a 6="3-7" 9="#" z="L(\'+j+\');B x">\'+j+\'</a>\'}h{b+=\'<a 6="3-7" 9="#" z="I(\'+j+\');B x">\'+j+\'</a>\'}}5 e=M(l)+1;4(l<j){4(m==\'3\'){b+=\'<a 6="3-7 3-15" 9="#" z="L(\'+e+\');B x"></a>\'}h{b+=\'<a 6="3-7 3-15" 9="#" z="I(\'+e+\');B x"></a>\'}}b+=\'\';5 f=A.1s(\'1t\');5 g=A.1r(\'1A-1D\');1a(5 p=0;p<f.O;p++){f[p].1c=b}4(f&&f.O>0){b=\'\'}4(g){g.1c=b}}G 12(a){5 b=a.1f;5 c=M(b.1E$1B.$t,10);1b(c)}G 1d(){5 a=s;4(a.k(\'/v/u/\')!=-1){4(a.k(\'?T-i\')!=-1){w=a.H(a.k(\'/v/u/\')+14,a.k(\'?T-i\'))}h{w=a.H(a.k(\'/v/u/\')+14,a.k(\'?&i\'))}}4(a.k(\'?q=\')==-1&&a.k(\'.1C\')==-1){4(a.k(\'/v/u/\')==-1){m=\'3\';4(s.k(\'#F=\')!=-1){l=s.H(s.k(\'#F=\')+8,s.O)}h{l=1}A.18(\'<r Q=\\\'\'+y+\'P/R/N?i-o=1&X=Y-S-r&V=12\\\'><\\/r>\')}h{m=\'u\';4(a.k(\'&i-o=\')==-1){n=1F}4(s.k(\'#F=\')!=-1){l=s.H(s.k(\'#F=\')+8,s.O)}h{l=1}A.18(\'<r Q="\'+y+\'P/R/N/-/\'+w+\'?X=Y-S-r&V=12&i-o=1" ><\\/r>\')}}}G L(a){Z=(a-1)*n;K=a;5 b=A.1h(\'1q\')[0];5 c=A.1o(\'r\');c.1e=\'1m/1n\';c.1i(\'Q\',y+\'P/R/N?1j-1k=\'+Z+\'&i-o=1&X=Y-S-r&V=13\');b.1l(c)}G I(a){Z=(a-1)*n;K=a;5 b=A.1h(\'1q\')[0];5 c=A.1o(\'r\');c.1e=\'1m/1n\';c.1i(\'Q\',y+\'P/R/N/-/\'+w+\'?1j-1k=\'+Z+\'&i-o=1&X=Y-S-r&V=13\');b.1l(c)}G 13(a){11=a.1f.1x[0];5 b=11.1g.$t.H(0,19)+11.1g.$t.H(1z,1w);5 c=1y(b);4(m==\'3\'){5 d=\'/v?T-i=\'+c+\'&i-o=\'+n+\'#F=\'+K}h{5 d=\'/v/u/\'+w+\'?T-i=\'+c+\'&i-o=\'+n+\'#F=\'+K}1p.9=d}',62,104,'|||page|if|var|class|num||href||||||||else|max|lastPageNo|indexOf|currentPageNo|currentPage|postResults|results|||script|locationUrl||label|search|postLabel|false|home_page|onclick|document|return|span|pageStart|pageEnd|PageNo|function|substring|getLabelPage|pageNumber|noPage|getPage|parseInt|summary|length|feeds|src|posts|in|updated|prev|callback|numOfPages|alt|json|jsonstart||post|dataFeed|findPostDate||next|dots|pageOf|write||for|startPagination|innerHTML|pageCurrentBlogger|type|feed|published|getElementsByTagName|setAttribute|start|index|appendChild|text|javascript|createElement|location|head|getElementById|getElementsByName|pageArea|of|active|29|entry|encodeURIComponent|23|blog|totalResults|html|pager|openSearch|20'.split('|'),0,{}))
-//]]>
-</script>
-<!-- Facebook SDK -->
-<script type='text/javascript'>
-//<![CDATA[
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-//]]>
-</script>
-<!-- Overlay and Back To Top -->
-<div class='back-top' title='Back to Top'></div>
-
-<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/325989852-widgets.js"></script>
-<script type='text/javascript'>
-window['__wavt'] = 'AOuZoY6uElBhyt35eojlea-00vls85s3oQ:1701437952160';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d3184045490204690839','//sapiensshaon.blogspot.com/','3184045490204690839');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '3184045490204690839', 'title': 'Sapiens Shaon', 'url': 'https://sapiensshaon.blogspot.com/', 'canonicalUrl': 'https://sapiensshaon.blogspot.com/', 'homepageUrl': 'https://sapiensshaon.blogspot.com/', 'searchUrl': 'https://sapiensshaon.blogspot.com/search', 'canonicalHomepageUrl': 'https://sapiensshaon.blogspot.com/', 'blogspotFaviconUrl': 'https://sapiensshaon.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': true, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Sapiens Shaon - Atom\x22 href\x3d\x22https://sapiensshaon.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Sapiens Shaon - RSS\x22 href\x3d\x22https://sapiensshaon.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Sapiens Shaon - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/3184045490204690839/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/18052574788818552359\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/20dab6d510b63eb9', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': true, 'jumpLinkMessage': 'Continue Reading \xbb', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Sapiens Shaon', 'metaDescription': 'sapiensshaon, sapiens, science, technology, IT, Biology, evolution, evolutionary biology, theory, thesis, research, writings, blog, documentary, AI'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Sapiens Shaon', 'description': 'sapiensshaon, sapiens, science, technology, IT, Biology, evolution, evolutionary biology, theory, thesis, research, writings, blog, documentary, AI', 'url': 'https://sapiensshaon.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}, {'name': 'widgets', 'data': [{'title': 'Boxed Version', 'type': 'LinkList', 'sectionId': 'sora-panel', 'id': 'LinkList70'}, {'title': 'Default Variables', 'type': 'LinkList', 'sectionId': 'sora-panel', 'id': 'LinkList71'}, {'title': 'Link List', 'type': 'LinkList', 'sectionId': 'top-bar-nav', 'id': 'LinkList72'}, {'title': 'Top Social Widget', 'type': 'LinkList', 'sectionId': 'top-bar-social', 'id': 'LinkList73'}, {'title': 'Sapiens Shaon (Header)', 'type': 'Header', 'sectionId': 'header-logo', 'id': 'Header1'}, {'title': 'Link List', 'type': 'LinkList', 'sectionId': 'main-menu', 'id': 'LinkList74'}, {'title': 'Blog Posts', 'type': 'Blog', 'sectionId': 'main', 'id': 'Blog1', 'posts': [{'id': '1693164576846868420', 'title': 'What is Humanity\u2753', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc7VAV2MC-x8mlxZAF8pZFNlED610Y4fwEvoSgvysLy0sUjdla38kfLbxl252_sTbS7Ii8EWx_17883N8WjAI5T6OoFJGQeP-a6uKTsJ0bmLAETaHlXwoXADAtvVMA6gB4V76u63xVGL0-I76ZZApwKJDo5x_XUD8TeIVn32CoEsCf_iWRW-UW6CO26rM/s16000/Humanity,%20Humanity%20above%20everything.jpg', 'showInlineAds': false}, {'id': '4003993623691626659', 'title': 'Documentary: Dawn of Deus', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjntkehTugmq0knfjTI0f-pUKY3chhqtGZE46NKWZgMhKnwHpcogYBufsmbnKr-cMjBD9xjvMayNv0cte7Ga-QulllMQmM8zVj9uGwM21j06arxvP4oDgFEc52ML-B8pmVEbGlMEbh_Me-sYzhhi1xBO9f2er-uQhsZsSjJGdkYBkwWkUlCi3X4YJou64s/s16000/20231130_210905.jpg', 'showInlineAds': false}, {'id': '2556734033304643608', 'title': 'Splendid Resources', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7z3b0q0fVXqidWo8_MgkY95KQ5Xjw-L6gKx6e6oRvvjouWzvHNkOAnQwJxBmIitzM98TrbRUbKXLVEy8Q8_Xdgq7UhlIgMJeOMDrO_a-skBVA1upCngnAW2FnHO428C0hp4MGGnsAJhRyY8smdBGeTm5V1V3Byjf5cGTZkRceQ-cqQuUSw_c80FZeo/s16000/Resources.jpg', 'showInlineAds': false}, {'id': '6699412393942378835', 'title': '\x22Incest\x22~ a Curse', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLiNnrX_XwmWMLVgArhjdBMRy1cPd9iJHsqhfwtxiyZCWwvELQGgG1qOIi0luqSxEhBfC42OGZK4q2RvzJmLviVWDrhKXK1X3kuqI6EOoBdwojxjza2X7qr47lkN8KWN5xXKuEFiScduEIYpfGiPTEdOw0QRcdrb86dzKrxjyWgLAFmEV-SDN51nnVnr0/s16000/Incest,%20a%20Curse.jpg', 'showInlineAds': false}, {'id': '582407970762513719', 'title': 'Travel to Theory ', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7JaU3cDaaTOStOJpBtflY26FCtI2zpicSxi48OzlZyTrPf6YC8Xgp8w_V7ajppWt97OT6aWRPGoIlr8nohqxccX5UviSw4KsQ1CKVUrXeC005IKmXN_XjZnYZ6S-HvcnSTqQSuEGpfBSUaiAJp1Rz_4AVtivdEvg4mM0kRqsmcFQglbs5PI_qJQbd6p0/s16000/20231126_222214.jpg', 'showInlineAds': false}, {'id': '6707509148889304753', 'title': 'My Thoughts~1', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWGCHh9hy7A3w9nprJpI9hyL93UYcpd7mW84_DGtnxQTSHKMGOXMbs-ElBzTnNzhghSt6k7PynyEo9eGGHdUpO8J3-6lSMEC_hUmlhyphenhyphenkw2dOVMQNjawjGod_C6vMtvmXAD7M0HagIHSkI7_-bHKsQnHD41eILhohRnE4IWbyqSqkzheYuhuOSDdGxyikA/s16000/Thoughts.jpg', 'showInlineAds': false}, {'id': '6200222224036608932', 'title': 'Untold AI', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjKTgGjGbWPS5bEoL7DJHsRaPvmRGyag8bFlxmqn3c7xfnNZhxeLzZQi3MDdXamEq0bQdUqmF6NXQKk-jCLDZD5NUG67qXmz5jymlUzDCtFQy6FDnQ1uP1AHmRBh7LmU-jpQ1ubQ8DeKkCPLw5cYnpq_d52Zdc7hXx12xfK1OUgzt3671jbRKww2QSHw/s16000/AI,%20Artificial%20Intelligence.jpg', 'showInlineAds': false}], 'headerByline': {'regionName': 'header1', 'items': [{'name': 'share', 'label': ''}, {'name': 'author', 'label': 'by'}, {'name': 'timestamp', 'label': ''}]}, 'footerBylines': [{'regionName': 'footer1', 'items': [{'name': 'comments', 'label': 'Comments'}]}, {'regionName': 'footer2', 'items': [{'name': 'labels', 'label': 'Tags'}]}], 'allBylineItems': [{'name': 'share', 'label': ''}, {'name': 'author', 'label': 'by'}, {'name': 'timestamp', 'label': ''}, {'name': 'comments', 'label': 'Comments'}, {'name': 'labels', 'label': 'Tags'}]}, {'title': '', 'type': 'HTML', 'sectionId': 'sidebar1', 'id': 'HTML2'}, {'title': '', 'type': 'LinkList', 'sectionId': 'sidebar1', 'id': 'LinkList200'}, {'title': '', 'type': 'LinkList', 'sectionId': 'sidebar1', 'id': 'LinkList204'}, {'type': 'Attribution', 'sectionId': 'sidebar1', 'id': 'Attribution1'}, {'title': 'Follow Us', 'type': 'LinkList', 'sectionId': 'sidebar1', 'id': 'LinkList203'}, {'title': 'Follow Us', 'type': 'LinkList', 'sectionId': 'sidebar1', 'id': 'LinkList1'}, {'title': '', 'type': 'ReportAbuse', 'sectionId': 'sidebar1', 'id': 'ReportAbuse1'}, {'title': 'Contributors', 'type': 'Profile', 'sectionId': 'sidebar1', 'id': 'Profile1'}, {'title': 'Evolutionary Biology', 'type': 'FeaturedPost', 'sectionId': 'sidebar1', 'id': 'FeaturedPost1', 'postId': '1693164576846868420'}, {'title': 'Search This Blog', 'type': 'BlogSearch', 'sectionId': 'sidebar1', 'id': 'BlogSearch1'}, {'title': 'You might like', 'type': 'HTML', 'sectionId': 'sidebar1', 'id': 'HTML51'}, {'title': '', 'type': 'BlogArchive', 'sectionId': 'sidebar1', 'id': 'BlogArchive1'}, {'title': 'Main Tags', 'type': 'Label', 'sectionId': 'sidebar1', 'id': 'Label1'}, {'title': '', 'type': 'Image', 'sectionId': 'sidebar1', 'id': 'Image50'}, {'title': 'About Us', 'type': 'Image', 'sectionId': 'sidebar1', 'id': 'Image51'}, {'title': 'Social Plugin', 'type': 'LinkList', 'sectionId': 'social-widget', 'id': 'LinkList75'}, {'title': 'Popular Posts', 'type': 'PopularPosts', 'sectionId': 'sidebar2', 'id': 'PopularPosts1', 'posts': [{'title': 'Travel to Theory ', 'id': 582407970762513719}, {'title': 'Documentary: Dawn of Deus', 'id': 4003993623691626659}, {'title': '\x22Incest\x22~ a Curse', 'id': 6699412393942378835}]}, {'title': '\ud83d\udc47Support me by Subscribing\ud83d\udc47', 'type': 'HTML', 'sectionId': 'sidebar2', 'id': 'HTML1'}, {'title': 'Facebook', 'type': 'HTML', 'sectionId': 'sidebar2', 'id': 'HTML6'}, {'title': 'Tags', 'type': 'Label', 'sectionId': 'sidebar2', 'id': 'Label4'}, {'title': 'Menu Footer Widget', 'type': 'LinkList', 'sectionId': 'menu-footer', 'id': 'LinkList76'}, {'title': 'Contact form', 'type': 'ContactForm', 'sectionId': 'hidden-widgets', 'id': 'ContactForm1'}]}]);
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList70', 'sora-panel', document.getElementById('LinkList70'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList71', 'sora-panel', document.getElementById('LinkList71'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList72', 'top-bar-nav', document.getElementById('LinkList72'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList73', 'top-bar-social', document.getElementById('LinkList73'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header-logo', document.getElementById('Header1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList74', 'main-menu', document.getElementById('LinkList74'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2258190084-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/3268905543-lightbox_bundle.css'}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar1', document.getElementById('HTML2'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList200', 'sidebar1', document.getElementById('LinkList200'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList204', 'sidebar1', document.getElementById('LinkList204'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'sidebar1', document.getElementById('Attribution1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList203', 'sidebar1', document.getElementById('LinkList203'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar1', document.getElementById('LinkList1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_ReportAbuseView', new _WidgetInfo('ReportAbuse1', 'sidebar1', document.getElementById('ReportAbuse1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar1', document.getElementById('Profile1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FeaturedPostView', new _WidgetInfo('FeaturedPost1', 'sidebar1', document.getElementById('FeaturedPost1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'sidebar1', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML51', 'sidebar1', document.getElementById('HTML51'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar1', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar1', document.getElementById('Label1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image50', 'sidebar1', document.getElementById('Image50'), {'resize': false}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image51', 'sidebar1', document.getElementById('Image51'), {'resize': false}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList75', 'social-widget', document.getElementById('LinkList75'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar2', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar2', document.getElementById('HTML1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar2', document.getElementById('HTML6'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label4', 'sidebar2', document.getElementById('Label4'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList76', 'menu-footer', document.getElementById('LinkList76'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'hidden-widgets', document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Sending...', 'contactFormMessageSentMsg': 'Your message has been sent.', 'contactFormMessageNotSentMsg': 'Message could not be sent. Please try again later.', 'contactFormInvalidEmailMsg': 'A valid email address is required.', 'contactFormEmptyMessageMsg': 'Message field cannot be empty.', 'title': 'Contact form', 'blogId': '3184045490204690839', 'contactFormNameMsg': 'Name', 'contactFormEmailMsg': 'Email', 'contactFormMessageMsg': 'Message', 'contactFormSendMsg': 'Send', 'contactFormToken': 'AOuZoY6eVPSsh-fe5sBAR-ADVOXKzSuXTw:1701437952162', 'submitUrl': 'https://www.blogger.com/contact-form.do'}, 'displayModeFull'));
-</script>
+<script src="https://assets-pw.pixieset.com/assets/client/js/manifest.v-07f2ecbd.js"></script>
+<script src="https://assets-pw.pixieset.com/assets/client/js/vendor.v-86dd7af9.js"></script>
+<script src="https://assets-pw.pixieset.com/assets/client/js/index.v-7029b0d8.js"></script>
+<script src="https://assets-pw.pixieset.com/assets/client/js/themes/theme_4.v-f31e3b21.js"></script>
+<script>
+		var flexAssetPath = `https://assets-pw.pixieset.com/assets/flex-client/flex-main-client.v-607cb642.min.js`.split('/');
+		flexAssetPath.pop();
+		flexAssetPath = flexAssetPath.join('/') + '/';
+	</script>
+<script defer src="https://assets-pw.pixieset.com/assets/flex-client/flex-main-client.v-607cb642.min.js"></script>
+<script id="js-payload-pw" class="js-dom-cleanup" type="application/json">
+		{"s":{"t":{"tk":"theme_4"},"blks":{"theme_4_footer":{"tk":"theme_4_footer","uuid":"ak94JY","footer_style":"0","instagram_graph":{"tk":"instagram_graph","uuid":"D7QJad","title":{"val":null,"child_elements":[]},"style":{"val":"0","child_elements":[],"valueConfig":[{"container":"container--full-width instagram-graph__container--style_1 d-flex flex-column justify-content-center"},{"container":"instagram-graph__container--style_2 container--full-width--sm container-fluid max-w-1200"},{"container":"instagram-graph__container--style_3 container-fluid max-w-1200"}]},"on_click":{"val":"0","child_elements":[]},"photoswipablePhotos":null},"footer_text":"All content Copyright \u00a9 {year} {businessName}","show_social_links":"1"},"theme_4_header":{"tk":"theme_4_header","uuid":"VWv4Jm","theme_4_header_wrapper_element":{"tk":"theme_4_header_wrapper","uuid":"lzGYK0","child_elements":{"val":"{\"count\":3,\"defaultValues\":[{\"photo_source\":[{\"XS\":\"sample_photos\\\/sample-273_XS.jpg\",\"SM\":\"sample_photos\\\/sample-273_SM.jpg\",\"MD\":\"sample_photos\\\/sample-273_MD.jpg\",\"LG\":\"sample_photos\\\/sample-273_LG.jpg\",\"XL\":\"sample_photos\\\/sample-273_XL.jpg\",\"OR\":\"sample_photos\\\/sample-273_OR.jpg\"}],\"title\":\"Capturing Love\",\"subtitle\":\"Creating timeless photos\",\"button_text\":null,\"button_url\":null,\"open_link_in_new_window\":\"0\",\"background_tint\":\"1\"},{\"photo_source\":[{\"XS\":\"sample_photos\\\/sample-270_XS.jpg\",\"SM\":\"sample_photos\\\/sample-270_SM.jpg\",\"MD\":\"sample_photos\\\/sample-270_MD.jpg\",\"LG\":\"sample_photos\\\/sample-270_LG.jpg\",\"XL\":\"sample_photos\\\/sample-270_XL.jpg\",\"OR\":\"sample_photos\\\/sample-270_OR.jpg\"}],\"title\":\"Capturing Love\",\"subtitle\":\"Creating timeless photos\",\"button_text\":null,\"button_url\":null,\"open_link_in_new_window\":\"0\",\"background_tint\":\"1\"},{\"photo_source\":[{\"XS\":\"sample_photos\\\/sample-211_XS.jpg\",\"SM\":\"sample_photos\\\/sample-211_SM.jpg\",\"MD\":\"sample_photos\\\/sample-211_MD.jpg\",\"LG\":\"sample_photos\\\/sample-211_LG.jpg\",\"XL\":\"sample_photos\\\/sample-211_XL.jpg\",\"OR\":\"sample_photos\\\/sample-211_OR.jpg\"}],\"title\":\"Capturing Love\",\"subtitle\":\"Creating timeless photos\",\"button_text\":null,\"button_url\":null,\"open_link_in_new_window\":\"0\",\"background_tint\":\"1\"}]}","child_elements":[{"tk":"theme_4_header","uuid":"Z6qODy","photo_source":{"child_elements":[]},"title":{"val":"\ud83e\uddec","child_elements":[]},"subtitle":{"val":"","child_elements":[]},"button_text":{"val":null,"child_elements":[]},"button_url":{"val":null,"child_elements":[]},"open_link_in_new_window":{"val":"0","child_elements":[]},"background_tint":{"val":"1","child_elements":[]}}],"customData":{"minNumberChildElements":1,"maxNumberChildElements":false}},"auto_play_slides":{"val":"0","child_elements":[]}},"logo":"0","header_menu":{"tk":"header_menu","uuid":"0keMmk","sticky":false,"isDesktop":true,"menuStyle":"2","menuPartial":"client.elements.header_menu.style_three","overlayMenuPartial":"client.elements.header_menu._overlay-menu","stickyMenuPartial":"client.elements.header_menu.style_three","styleClass":"header-menu__style-three"},"banner_size":"2"},"theme_4_post_footer":{"tk":"theme_4_post_footer","uuid":"YyQ4JD"}}},"p":{"type":0,"blks":[{"tk":"divider","uuid":"xbdbvx","size":"2","divider":{"tk":"divider","uuid":"vvZkp3","size":{"val":"2","child_elements":[],"valueConfig":["col-12","col-12 col-md-8","col-8 col-md-4"]},"alignment":{"val":"1","child_elements":[],"valueConfig":["justify-content-start","justify-content-center","justify-content-end"]}}},{"tk":"single_photo","uuid":"zKxKyl","photo_size":"3","photo":{"tk":"photo","uuid":"ewo6Mx","photo_source":{"child_elements":[],"customData":{"photoswipablePhotos":[{"src":"\/\/images-pw.pixieset.com\/elementfield\/899288673\/Dawn_of_Deus-dc190b16-1500.jpg","w":1500,"h":554}]}},"photo_size":{"val":"3","child_elements":[],"valueConfig":[{"container":"container-fluid max-w-1200","row":"justify-content-center","column":"col-12","captionWrapper":"container-fluid max-w-1200","caption":"col-12"},{"container":"container-fluid max-w-1200","row":"justify-content-center","column":"col-12 col-md-10 col-lg-8","captionWrapper":"container-fluid max-w-1200","caption":"col-12 col-md-10 col-lg-8"},{"container":"container-fluid max-w-1200","row":"justify-content-center","column":"col-12 col-md-8 col-lg-6","captionWrapper":"container-fluid max-w-1200","caption":"col-12 col-md-8 col-lg-6"},{"container":"container--full-width","row":"justify-content-center","column":"col-12","captionWrapper":"container-fluid max-w-1200","caption":"col-12"}]},"caption":{"val":"1","child_elements":[]},"caption_text":{"val":"Will be published soon","child_elements":[]},"on_click":{"val":"0","child_elements":[]},"link_url":{"val":null,"child_elements":[]},"open_link_in_new_window":{"val":"0","child_elements":[]},"crop_ratio":{"val":"0","child_elements":[]}}},{"tk":"divider","uuid":"5WaWJ9","size":"2","divider":{"tk":"divider","uuid":"Wlazpa","size":{"val":"2","child_elements":[],"valueConfig":["col-12","col-12 col-md-8","col-8 col-md-4"]},"alignment":{"val":"1","child_elements":[],"valueConfig":["justify-content-start","justify-content-center","justify-content-end"]}}},{"tk":"single_text","uuid":"L4zxwX","text_with_title":{"tk":"text","uuid":"5wGyVw","single_line":{"val":"1","child_elements":[]},"content":{"val":"<h2 class=\"ql-align-center ca-headings-VBpAN4 animatable animatable--large-title\" style=\"--initial-opacity: 1; --initial-scale: 1; --initial-translateX: 0%; --initial-translateY: 0%;\"><strong>Click here to see all my Projects and Works<\/strong><\/h2>","child_elements":[]}},"layout":"0"},{"tk":"feature_links_multiple_photos","uuid":"9mYoqA","style":"1","feature_links_multiple_photos_wrapper":{"tk":"feature_links_multiple_photos_wrapper","uuid":"RmaYDY","child_elements":{"val":"{\"count\":3,\"defaultValues\":[{\"title\":\"Wedding\",\"subtitle\":\"The Big Day\",\"button_text\":\"\",\"url\":\"\\\/wedding\\\/\",\"photo_source\":[{\"XS\":\"sample_photos\\\/sample-263_XS.jpg\",\"SM\":\"sample_photos\\\/sample-263_SM.jpg\",\"MD\":\"sample_photos\\\/sample-263_MD.jpg\",\"LG\":\"sample_photos\\\/sample-263_LG.jpg\",\"XL\":\"sample_photos\\\/sample-263_XL.jpg\",\"OR\":\"sample_photos\\\/sample-263_OR.jpg\"}]},{\"title\":\"Engagement\",\"subtitle\":\"Beginning of a Journey\",\"button_text\":\"\",\"url\":\"\\\/engagement\\\/\",\"photo_source\":[{\"XS\":\"sample_photos\\\/sample-210_XS.jpg\",\"SM\":\"sample_photos\\\/sample-210_SM.jpg\",\"MD\":\"sample_photos\\\/sample-210_MD.jpg\",\"LG\":\"sample_photos\\\/sample-210_LG.jpg\",\"XL\":\"sample_photos\\\/sample-210_XL.jpg\",\"OR\":\"sample_photos\\\/sample-210_OR.jpg\"}]},{\"title\":\"Fashion\",\"subtitle\":\"Express Yourself\",\"button_text\":\"\",\"url\":\"\\\/fashion\\\/\",\"photo_source\":[{\"XS\":\"sample_photos\\\/sample-272_XS.jpg\",\"SM\":\"sample_photos\\\/sample-272_SM.jpg\",\"MD\":\"sample_photos\\\/sample-272_MD.jpg\",\"LG\":\"sample_photos\\\/sample-272_LG.jpg\",\"XL\":\"sample_photos\\\/sample-272_XL.jpg\",\"OR\":\"sample_photos\\\/sample-272_OR.jpg\"}]}]}","child_elements":[{"tk":"feature_links_multiple_photos","uuid":"5wGyLw","photo_source":{"child_elements":[]},"title":{"val":"...","child_elements":[]},"subtitle":{"val":"","child_elements":[]},"url":{"val":"\/portfolio\/","child_elements":[]},"open_link_in_new_window":{"val":"0","child_elements":[]}}],"customData":{"minNumberChildElements":1,"maxNumberChildElements":3}},"style":{"val":"1","child_elements":[],"valueConfig":[{"container":"container--full-width feature-links-multiple-photos-wrapper__container feature-links-multiple-photos-wrapper__container--style_1"},{"container":"container-fluid max-w-1200 feature-links-multiple-photos-wrapper__container feature-links-multiple-photos-wrapper__container--style_2"},{"container":"container--full-width feature-links-multiple-photos-wrapper__container feature-links-multiple-photos-wrapper__container--style_3"}]}}},{"tk":"video_player_banner","uuid":"WvyvOY","video_player_banner_element":{"tk":"video_player_banner","uuid":"RmWL0O","button_oembed_data":{"val":"{\"type\":\"video\",\"version\":\"1.0\",\"provider_name\":\"Vimeo\",\"provider_url\":\"https:\\\/\\\/vimeo.com\\\/\",\"title\":\"Sample Video\",\"author_name\":\"Pixieset\",\"author_url\":\"https:\\\/\\\/vimeo.com\\\/pixieset\",\"is_plus\":\"1\",\"account_type\":\"plus\",\"html\":\"<iframe src=\\\"https:\\\/\\\/player.vimeo.com\\\/video\\\/253702905?app_id=122963\\\" width=\\\"640\\\" height=\\\"360\\\" frameborder=\\\"0\\\" allow=\\\"autoplay; fullscreen; picture-in-picture\\\" title=\\\"Sample Video\\\"><\\\/iframe>\",\"width\":640,\"height\":360,\"duration\":32,\"description\":\"Sample video.\",\"thumbnail_url\":\"https:\\\/\\\/i.vimeocdn.com\\\/video\\\/680661029-61269860029740c25eff3b9f6fb90a7d7a2cf58817b8d9663327df4dabd6c9dd-d_640\",\"thumbnail_width\":640,\"thumbnail_height\":360,\"thumbnail_url_with_play_button\":\"https:\\\/\\\/i.vimeocdn.com\\\/filter\\\/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F680661029-61269860029740c25eff3b9f6fb90a7d7a2cf58817b8d9663327df4dabd6c9dd-d_640&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png\",\"upload_date\":\"2018-01-31 17:57:39\",\"video_id\":253702905,\"uri\":\"\\\/videos\\\/253702905\"}","child_elements":[]},"mobile_fallback_photo":{"child_elements":[]},"oembed_data":{"val":"{\"title\":\"Biometric Sensor #reels #biometric #ai\",\"author_name\":\"Sapiens Shaon\",\"author_url\":\"https:\\\/\\\/www.youtube.com\\\/@sapiensshaonn\",\"type\":\"video\",\"height\":113,\"width\":200,\"version\":\"1.0\",\"provider_name\":\"YouTube\",\"provider_url\":\"https:\\\/\\\/www.youtube.com\\\/\",\"thumbnail_height\":360,\"thumbnail_width\":480,\"thumbnail_url\":\"https:\\\/\\\/i.ytimg.com\\\/vi\\\/tMgvPZcpiTg\\\/hqdefault.jpg\",\"html\":\"<iframe width=\\\"200\\\" height=\\\"113\\\" src=\\\"https:\\\/\\\/www.youtube.com\\\/embed\\\/tMgvPZcpiTg?feature=oembed\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\\\" allowfullscreen title=\\\"Biometric Sensor #reels #biometric #ai\\\"><\\\/iframe>\"}","child_elements":[]},"style":{"val":"2","child_elements":[],"valueConfig":["video-player-banner--style_1","video-player-banner--style_2","video-player-banner--style_3"]},"background_type":{"val":"1","child_elements":[]},"banner_size":{"val":"2","child_elements":[],"valueConfig":[{"sizeClass":"video-player-banner--size_lg"},{"sizeClass":"video-player-banner--size_md"},{"sizeClass":"video-player-banner--size_sm"}]},"video_url":{"val":"https:\/\/youtube.com\/shorts\/tMgvPZcpiTg?si=cQgOhdCiErt1oFrQ","child_elements":[],"customData":{"fallbackUrl":"\/\/assets-pw.pixieset.com\/images\/default-cover-xlarge.jpg","thumbnailUrl":{"standard":"https:\/\/i.ytimg.com\/vi\/tMgvPZcpiTg\/maxresdefault.jpg","large":"https:\/\/i.ytimg.com\/vi\/tMgvPZcpiTg\/maxresdefault.jpg"},"mobileFallbackUrl":"\/\/images-pw.pixieset.com\/sample_photos\/sample-32_XL.jpg","videoType":"youtube","videoId":"tMgvPZcpiTg","videoWidth":200,"videoHeight":113}},"background_tint":{"val":"1","child_elements":[]},"photo_source":{"child_elements":[]},"title":{"val":"Visit my YouTube channel & stay connected","child_elements":[]},"subtitle":{"val":"","child_elements":[]},"button_video_url":{"val":null,"child_elements":[],"customData":{"videoType":"vimeo","videoId":"253702905","videoWidth":640,"videoHeight":360}}},"style":"2"},{"tk":"social_links","uuid":"5WaWke","social_links":{"tk":"social_links","uuid":"wPGzaA","style":{"val":"0","child_elements":[],"valueConfig":[{"facebook":"fab fa-facebook-f fa-fw","twitter":"fab fa-twitter fa-fw","instagram":"fab fa-instagram fa-fw","tiktok":"fab fa-tiktok fa-fw","pinterest":"fab fa-pinterest fa-fw","youtube":"fab fa-youtube fa-fw","vimeo":"fab fa-vimeo-v fa-fw","linkedin":"fab fa-linkedin-in fa-fw"},{"facebook":"fab fa-facebook-square fa-fw","twitter":"fab fa-twitter-square fa-fw","instagram":"fab fa-instagram-square fa-fw","tiktok":"fab fa-tiktok fa-fw","pinterest":"fab fa-pinterest-square fa-fw","youtube":"fab fa-youtube-square fa-fw","vimeo":"fab fa-vimeo-square fa-fw","linkedin":"fab fa-linkedin fa-fw"}]},"color":{"val":"0","child_elements":[],"valueConfig":["social-links--colour_brand","social-links--colour_neutral","social-links--colour_accent"]},"size":{"val":"1","child_elements":[],"valueConfig":["social-links--size_large","social-links--size_medium","social-links--size_small"]},"alignment":{"val":"1","child_elements":[],"valueConfig":["d-flex justify-content-start flex-wrap","d-flex justify-content-center flex-wrap","d-flex justify-content-end flex-wrap"]}}},{"tk":"divider","uuid":"XPQPqZ","size":"2","divider":{"tk":"divider","uuid":"Q17l47","size":{"val":"2","child_elements":[],"valueConfig":["col-12","col-12 col-md-8","col-8 col-md-4"]},"alignment":{"val":"1","child_elements":[],"valueConfig":["justify-content-start","justify-content-center","justify-content-end"]}}},{"id":174420,"user_id":1902955,"site_id":469327,"page_id":6478755,"rank":9,"template_key":"flex--partner_details-block","id_hash":"bl-lqubtdm5","data_props":{"backgroundColor":"var(--primary-background)","backgroundColor__default":"var(--primary-background)","backgroundImage":{"alt":null,"imageId":null,"focalPoint":{"value":"50% 50%","precisePosition":{"x":0,"y":0}},"placeholderKey":"none","placeholderSizes":{"LG":null}},"backgroundImageOpacity":100,"overlayColor":"#000000","overlayOpacity":20,"rows":8,"rows_mobile":16,"rows_tablet":12,"correctionHeight":0,"correctionHeight_mobile":0,"correctionHeight_tablet":0,"paddingTop":100,"paddingBottom":100,"colorSchemeRankOverride":null,"clipContent":true,"siteMargins":0,"gridType":"gridWithGaps","gridEnabled":true,"sizeType":"boxed","showBackgroundImage":false,"disableDesignMode":false,"sizeType_mobile":"boxed","overlayColor__default":"#000000","backgroundImage_mobile":{"alt":null,"imageId":null,"focalPoint":{"value":"50% 50%","precisePosition":{"x":0,"y":0}}},"showBackgroundImage_mobile":true,"backgroundImageOpacity_mobile":100},"type":0,"uuid":"gmWWQQ","elements":[{"id":1395179,"id_hash":"el-lqubtdms","block_id":174420,"type":"image","data_props":{"top":1,"left":9,"width":10,"height":3,"widthMin":1,"heightMin":1,"correctionTop":0,"correctionLeft":0,"correctionWidth":0,"correctionHeight":0,"zIndex":1,"rotation":0,"visible":true,"locked":false,"lockRatio":false,"ratio":3.3333333333333335,"top_mobile":1,"left_mobile":3,"width_mobile":6,"height_mobile":3,"correctionTop_mobile":0,"correctionLeft_mobile":0,"correctionWidth_mobile":0,"correctionHeight_mobile":0,"image":{"placeholderKey":"none","imageId":57917811,"focalPoint":{"value":"50% 50%"},"alt":null,"photoData":{"id":57917811,"id_hash":"ph-lqubtp4p","user_id":1902955,"photoable_id":469327,"photoable_type":"Site","element_id":0,"block_id":0,"page_id":0,"site_id":469327,"status":2,"name":"_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66.jfif","alt_text":null,"upload_path":"BpjWbq\/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66.jfif","mime_type":"image\/jpeg","ext":".jfif","size":105970,"width":1024,"height":1024,"sizes":"{\"OR\":\"BpjWbq\/Q7pqvY\/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-3a9877bd-orig.jfif\",\"XS\":\"BpjWbq\/Q7pqvY\/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-c2014ab6-300.jfif\",\"SM\":\"BpjWbq\/Q7pqvY\/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-39f4b89a-500.jfif\",\"MD\":\"BpjWbq\/Q7pqvY\/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-58e4a1c7-1000.jfif\",\"LG\":\"BpjWbq\/Q7pqvY\/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-6eb91f5e-1500.jfif\",\"XL\":\"BpjWbq\/Q7pqvY\/_b4e26d66-8082-4fcb-b3ae-b9ed2bdddd66-5e16f9d3-2500.jfif\"}","rank":0,"focal_x":0,"focal_y":0,"crop_offset_x":0,"crop_offset_y":0,"changed":0,"post_photo":0,"created_at":"2023-12-31 12:54:15","updated_at":"2023-12-31 12:54:15","srcUrls":null,"uuid":"Q7pqvY","photo_data":{"id":14251267,"photo_id":57917811,"data_props":"{\"source\": 0, \"source_photo_id\": 0}","exif_data":null,"source_photo_id":0,"source":0,"created_at":"2023-12-31T12:54:15.000000Z","updated_at":null}}},"url":null,"cropRatio":"fit","clickEvent":"none","linkUrl":{"url":"#","target":"_self"},"opacity":100,"overlayColor":"var(--primary-background)","overlayColor__default":"var(--primary-background)","overlayOpacity":0,"useBorder":false,"borderWidth":1,"borderColor":"var(--accent-background)","borderColor__default":"var(--accent-background)","borderRadius":59,"verticalAlignment":"center","horizontalAlignment":"center","name":"Image","top_tablet":1,"useOverlay":false,"left_tablet":10,"ratio_mobile":2,"ratio_tablet":1.75,"width_tablet":7,"height_tablet":4,"locked_mobile":false,"locked_tablet":false,"zIndex_mobile":1,"zIndex_tablet":1,"visible_mobile":true,"visible_tablet":true,"rotation_mobile":0,"rotation_tablet":0,"lockRatio_mobile":false,"lockRatio_tablet":false,"correctionTop_tablet":0,"correctionLeft_tablet":0,"correctionWidth_tablet":0,"correctionHeight_tablet":0,"horizontalAlignment_tablet":"center"}},{"id":1395180,"id_hash":"el-lqubtdmt","block_id":174420,"type":"text","data_props":{"top":5,"left":4,"width":20,"height":5,"widthMin":1,"heightMin":1,"correctionTop":0,"correctionLeft":0,"correctionWidth":0,"correctionHeight":0,"zIndex":2,"rotation":0,"visible":true,"locked":false,"lockRatio":false,"ratio":6.666666666666667,"top_mobile":4,"left_mobile":2,"width_mobile":8,"height_mobile":13,"correctionTop_mobile":0,"correctionLeft_mobile":0,"correctionWidth_mobile":0,"correctionHeight_mobile":0,"content":"<h1 class=\"ql-banner-heading ql-align-mobile-center ql-align-tablet-left ql-align-desktop-center\"><strong data-default-color=\"var(--primary-headings)\" style=\"color: var(--primary-headings);\">Shalva Studios<\/strong><\/h1><p class=\"ql-align-mobile-center ql-align-tablet-left ql-align-desktop-center ql-paragraph-2 animatable animatable--fade-on-scaleDown animatable--fade-on-scaleUp animatable--fade-on-revealRight animatable--animated animatable--finished\" style=\"--initial-opacity: 1; --initial-scale: 1; --initial-translateX: 0%; --initial-translateY: 0%;\"><br><\/p><h3 class=\"ql-align-mobile-center ql-align-tablet-left ql-align-desktop-center animatable animatable--large-title animatable--animated animatable--finished\" style=\"--initial-opacity: 1; --initial-scale: 1; --initial-translateX: 0%; --initial-translateY: 0%;\"><strong data-default-color=\"var(--primary-headings)\" style=\"color: var(--primary-headings);\">\u201c<\/strong><em style=\"color: rgb(228, 230, 235);\">A Solo Documentary Production owned by <\/em><strong style=\"color: rgb(228, 230, 235);\">Shaon Ahmed Ronok<\/strong><strong data-default-color=\"var(--primary-headings)\" style=\"color: var(--primary-headings);\"><em>\u201c<\/em><\/strong><\/h3><h3 class=\"ql-align-mobile-left ql-align-tablet-left ql-align-desktop-left animatable animatable--large-title animatable--animated animatable--finished\" style=\"--initial-opacity: 1; --initial-scale: 1; --initial-translateX: 0%; --initial-translateY: 0%;\"><br><\/h3>","content__emptyParagraphsMobile":6,"color__default":"var(--primary-headings)","verticalAlignment":"center","useBackgroundColor":false,"backgroundColor":"var(--accent-background)","backgroundColor__default":"var(--accent-background)","opacity":100,"useBorder":false,"borderWidth":1,"borderColor":"var(--primary-details)","borderColor__default":"var(--primary-details)","horizontalPaddings":0,"verticalPaddings":0,"horizontalPaddings_tablet":0,"verticalPaddings_tablet":0,"horizontalPaddings_mobile":0,"verticalPaddings_mobile":0,"borderRadius":0,"name":null,"top_tablet":6,"left_tablet":3,"ratio_mobile":0.61538461538461542,"ratio_tablet":3.6666666666666665,"width_tablet":22,"height_tablet":7,"locked_mobile":false,"locked_tablet":false,"zIndex_mobile":2,"zIndex_tablet":2,"visible_mobile":true,"visible_tablet":true,"rotation_mobile":0,"rotation_tablet":0,"lockRatio_mobile":false,"lockRatio_tablet":false,"correctionTop_tablet":0,"correctionLeft_tablet":0,"correctionWidth_tablet":0,"correctionHeight_tablet":0}}]},{"tk":"info","uuid":"nProkY","info_element":{"tk":"info","uuid":"Ja6MDo","photo_source":{"child_elements":[]},"style":{"val":"1","child_elements":[],"valueConfig":[{"container":"info--style_1 container--full-width"},{"container":"info--style_2 container--full-width"},{"container":"info--style_3 container--full-width"}]},"title":{"val":"Wanna know about me?","child_elements":[]},"subtitle":{"val":"","child_elements":[]},"body":{"val":"Click on - \"Learn More\"","child_elements":[]},"button_label":{"val":"Learn More","child_elements":[]},"button_url":{"val":"\/about\/","child_elements":[]},"open_link_in_new_window":{"val":"0","child_elements":[]}},"style":"1"},{"tk":"button","uuid":"18MGqZ","button":{"tk":"button","uuid":"dVGMDD","button_text":{"val":"See all my Projects","child_elements":[]},"button_url":{"val":"\/portfolio\/","child_elements":[]},"open_link_in_new_window":{"val":"0","child_elements":[]},"size":{"val":"1","child_elements":[]},"alignment":{"val":"1","child_elements":[],"valueConfig":["text-left","text-center","text-right"]}}},{"tk":"spacer","uuid":"mvem6D","size":"1"},{"tk":"quote","uuid":"O0ld9k","quote_style":"0","quote":{"tk":"quote","uuid":"ol4n5w","source":{"val":"Shaon Ahmed Ronok","child_elements":[]},"quote_style":{"val":"0","child_elements":[],"valueConfig":[{"contentWrapper":"","styleClass":"quote__style-1","container":"container-fluid max-w-1200","quoteRow":"justify-content-center","quoteColumn":"col-12 col-md-10 col-lg-8","quote":"pullquote","dividerRow":"justify-content-center","dividerColumn":"col-12 col-md-10 col-lg-8","divider":"","sourceRow":"","sourceColumn":" col-12 offset-md-1 col-md-4 offset-lg-2","sourceDash":""},{"contentWrapper":"","styleClass":"quote__style-2","container":"container-fluid max-w-1200","quoteRow":"justify-content-center","quoteColumn":"col-12 col-md-8 text-center","quote":"pullquote","dividerRow":"","dividerColumn":"col-12 d-flex justify-content-center","divider":"vertical-line vertical-line--sm","sourceRow":"justify-content-center align-items-center","sourceColumn":"col-12 col-md-4 text-center","sourceDash":"hidden"},{"contentWrapper":"container--full-width","styleClass":"quote__style-3 container--full-width","container":"container-fluid max-w-1200","quoteRow":"max-w-1200 justify-content-center","quoteColumn":"col-12 col-md-8 text-center","quote":"pullquote","dividerRow":"","dividerColumn":"col-12","divider":"hidden","sourceRow":"justify-content-center","sourceColumn":"col-12 col-md-8 text-center","sourceDash":""}]},"quote":{"val":"Enjoy the MYTH","child_elements":[]}}},{"tk":"spacer","uuid":"zK47L5","size":"2"},{"tk":"spacer","uuid":"7PQQZW","size":"2"}],"postTags":[],"navUrl":"\/","previewUrl":"\/preview\/home\/"}}
+	</script>
+<script src="https://assets-pw.pixieset.com/assets/client/js/init-pw.v-b7494d2d.js"></script>
 </body>
 </html>
